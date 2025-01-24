@@ -1,5 +1,8 @@
 import fetch from "node-fetch"
 
+//Example fetch function
+//Fetches from https://www.itftennis.com/en/tournament-calendar/mens-world-tennis-tour-calendar/?categories=All&startdate=2025-01
+
 async function fetchTournamentData() {
     try {
       const response = await fetch("https://www.itftennis.com/tennis/api/TournamentApi/GetCalendar?circuitCode=MT&searchString=&skip=0&take=100&nationCodes=&zoneCodes=&dateFrom=2025-01-01&dateTo=2025-01-31&indoorOutdoor=&categories=&isOrderAscending=true&orderField=startDate&surfaceCodes=", {
