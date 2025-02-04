@@ -1,4 +1,6 @@
 import fetch from "node-fetch";
+import fs from 'fs';
+import { parse } from 'json2csv';
 
 async function fetchRedditJobs(){
     try{
@@ -41,5 +43,38 @@ async function fetchRedditJobs(){
 
 }
 
+async function saveJobsToCSV(jobs){
+    // Map the jobs to extract relevant fields
+  const jobData = jobs.postings.map(job => ({
+    ID: job.id,
+    Title: job.link_text,
+    Link: job.link_href,
+    Company: job.company?.name || 'N/A',
+    Location: job.city || 'N/A',
+    Remote: job.is_remote ? 'Yes' : 'No',
+    Experience: job.years_of_experience || 'Not specified',
+    EmploymentType: job.employment_type || 'N/A',
+    DatePosted: job.created_at,
+  }));
+
+  try {
+    // Convert JSON to CSV
+    const csv = parse(jobData);
+    
+    // Write CSV to a file
+    fs.writeFile('reddit_jobs.csv', csv, (err) => {
+      if (err) {
+        console.error('Error writing to file:', err);
+      } else {
+        console.log('Jobs successfully written to reddit_jobs.csv');
+      }
+    });
+  } catch (err) {
+    console.error('Error parsing JSON to CSV:', err);
+  }
+}
+
 let jobs = await fetchRedditJobs();
 console.log(jobs);
+
+saveJobsToCSV(jobs)

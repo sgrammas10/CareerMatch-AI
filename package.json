@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
     "node-fetch": "^3.3.2"
   }
 }
