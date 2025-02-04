@@ -2,6 +2,22 @@ import fetch from "node-fetch";
 import fs from 'fs';
 import { parse } from 'json2csv';
 
+// Function to clean up encoding issues by replacing non-UTF8 characters
+const cleanEncoding = (text) => {
+    // Replace problematic characters and ensure UTF-8 compatibility
+    return text
+      .replace(/â€™/g, "'")   // Replace weird apostrophes
+      .replace(/â€“/g, "-")   // Replace en-dash
+      .replace(/[^\x00-\x7F]/g, ""); // Remove non-ASCII characters
+  };
+  
+// Extract the first paragraph and clean encoding
+const extractFirstParagraph = (htmlContent) => {
+    const match = htmlContent.match(/<div.*?>(.*?)<\/div>/);
+    let cleanText = match ? match[1].replace(/<[^>]*>/g, '').trim() : 'No description available';
+    return cleanEncoding(cleanText);
+  };
+
 async function fetchRedditJobs(){
     try{
         const response = await fetch("https://api.zensearch.jobs/api/postings", {
@@ -44,6 +60,7 @@ async function fetchRedditJobs(){
 }
 
 async function saveJobsToCSV(jobs){
+
     // Map the jobs to extract relevant fields
   const jobData = jobs.postings.map(job => ({
     ID: job.id,
@@ -55,6 +72,7 @@ async function saveJobsToCSV(jobs){
     Experience: job.years_of_experience || 'Not specified',
     EmploymentType: job.employment_type || 'N/A',
     DatePosted: job.created_at,
+    CompanyDescription: extractFirstParagraph(job.content__html)
   }));
 
   try {
