@@ -11,12 +11,20 @@ const cleanEncoding = (text) => {
       .replace(/[^\x00-\x7F]/g, ""); // Remove non-ASCII characters
   };
   
-// Extract the first paragraph and clean encoding
-const extractFirstParagraph = (htmlContent) => {
-    const match = htmlContent.match(/<div.*?>(.*?)<\/div>/);
-    let cleanText = match ? match[1].replace(/<[^>]*>/g, '').trim() : 'No description available';
-    return cleanEncoding(cleanText);
-  };
+
+// Function to clean and extract text without HTML tags
+const extractTextFromHtml = (htmlContent) => {
+    // Remove HTML tags
+    let textContent = htmlContent.replace(/<[^>]+>/g, ''); // Strip all HTML tags
+
+    // Replace multiple consecutive spaces or line breaks with a single newline
+    textContent = textContent.replace(/\s+/g, ' ').trim(); // Replace extra spaces with a single space
+
+    // Add a newline between paragraphs based on the presence of "strong" or section breaks
+    textContent = textContent.replace(/(?:\r\n|\r|\n){2,}/g, '\n\n'); // Ensure double newlines between paragraphs
+
+    return cleanEncoding(textContent);
+};
 
 async function fetchRedditJobs(){
     try{
@@ -72,7 +80,7 @@ async function saveJobsToCSV(jobs){
     Experience: job.years_of_experience || 'Not specified',
     EmploymentType: job.employment_type || 'N/A',
     DatePosted: job.created_at,
-    CompanyDescription: extractFirstParagraph(job.content__html)
+    RoleDescription: extractTextFromHtml(job.content__html)
   }));
 
   try {
