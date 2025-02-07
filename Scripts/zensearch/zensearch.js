@@ -53,36 +53,49 @@ async function fetchJobs(company, authorization, slug) {
     }
 }
 
-function cleanText(text) {
-    if (typeof text !== 'string') {
-        text = String(text);
-    }
+const cleanText = (text) => {
+    if (typeof text !== "string") return "";
 
     return text
-        .normalize("NFKD")
-        .replace(/â€™/g, "'")
-        .replace(/â€“/g, "-")
-        .replace(/[^a-zA-Z0-9.,!?()'"%-\s]/g, '')
-        .trim();
-}
+        .replace(/â€™/g, "'")   // Replace weird apostrophes
+        .replace(/â€“/g, "-")   // Replace en-dash
+        .replace(/[^\x00-\x7F]/g, ""); // Remove non-ASCII characters
+};
 
-function parseHtmlContent(htmlContent) {
+const extractTextFromHtml = (htmlContent) => {
+    if (typeof htmlContent !== "string") return "";
+
+    // Remove HTML tags
+    let textContent = htmlContent.replace(/<[^>]+>/g, ''); // Strip all HTML tags
+
+    // Replace multiple consecutive spaces or line breaks with a single space
+    textContent = textContent.replace(/\s+/g, ' ').trim();
+
+    // Add a newline between paragraphs for section breaks
+    textContent = textContent.replace(/(?:\r\n|\r|\n){2,}/g, '\n\n'); 
+
+    return cleanText(textContent);
+};
+
+const parseHtmlContent = (htmlContent) => {
+    if (typeof htmlContent !== "string") return {};
+
     const $ = cheerio.load(htmlContent);
     let sections = {};
 
     $("p, ul").each((index, element) => {
-        let text = cleanText($(element).text().trim());
+        let text = extractTextFromHtml($(element).text().trim());
         if (!text) return;
 
         if (/^(Your Expertise:|Your Location:|Job Type:|Required Skills:)/i.test(text)) {
-            sections[text] = cleanText($(element).next().text().trim()) || "N/A";
+            sections[text] = extractTextFromHtml($(element).next().text().trim()) || "N/A";
         } else {
             sections[`Section_${index}`] = text;
         }
     });
 
     return sections;
-}
+};
 
 async function saveJobsToCSV(jobs, company) {
     const jobData = jobs.postings.map(job => {
