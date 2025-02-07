@@ -3,6 +3,13 @@ import fs from 'fs';
 import { parse } from 'json2csv';
 import * as cheerio from 'cheerio';
 
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+
 async function fetchAirbnbJobs() {
     try {
         const response = await fetch("https://api.zensearch.jobs/api/postings", {
@@ -81,11 +88,10 @@ async function saveJobsToCSV(jobs) {
     const jobData = jobs.postings.map(job => {
         let parsedContent = parseHtmlContent(job.content__html || {});
 
-        // Sort the sections by their keys (i.e., labels like "Your Expertise")
-        const sortedSections = {};
-        Object.keys(parsedContent).sort().forEach((key) => {
-            sortedSections[key] = parsedContent[key];
-        });
+        // Combine all parsed sections into a single text block
+        const jobDescription = Object.entries(parsedContent)
+            .map(([key, value]) => `${key}: ${value}`)
+            .join("\n"); // Joins everything into one text block
 
         return {
             ID: job.id,
@@ -97,18 +103,25 @@ async function saveJobsToCSV(jobs) {
             Experience: cleanText(job.years_of_experience || 'Not specified'),
             EmploymentType: cleanText(job.employment_type || 'N/A'),
             DatePosted: job.created_at,
-            ...sortedSections
+            Description: jobDescription // Single column for all job details
         };
     });
 
     try {
+        const directoryPath = path.resolve(__dirname, '../../zensearchData'); // Ensure correct path
+        if (!fs.existsSync(directoryPath)) {
+            fs.mkdirSync(directoryPath, { recursive: true });
+        }
+
+        const filePath = path.join(directoryPath, 'airbnb_jobs.csv');
         const csv = parse(jobData);
-        fs.writeFileSync('airbnb_jobs.csv', csv);
-        console.log('Jobs successfully written to airbnb_jobs.csv');
+        fs.writeFileSync(filePath, csv);
+        console.log(`Jobs successfully written to ${filePath}`);
     } catch (err) {
         console.error('Error writing CSV:', err);
     }
 }
+
 
 
 (async () => {
