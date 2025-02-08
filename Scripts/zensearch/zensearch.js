@@ -4,6 +4,13 @@ import { parse } from 'json2csv';
 import * as cheerio from 'cheerio';
 import readline from 'readline';
 
+import path from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const SAVE_DIRECTORY = "C:\\Users\\agabr\\CareerMatch-AI\\zensearchData"; // Target directory
+
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
@@ -53,82 +60,61 @@ async function fetchJobs(company, authorization, slug) {
     }
 }
 
-const cleanText = (text) => {
-    if (typeof text !== "string") return "";
-
+const cleanEncoding = (text) => {
+    // Replace problematic characters and ensure UTF-8 compatibility
     return text
-        .replace(/â€™/g, "'")   // Replace weird apostrophes
-        .replace(/â€“/g, "-")   // Replace en-dash
-        .replace(/[^\x00-\x7F]/g, ""); // Remove non-ASCII characters
-};
+      .replace(/â€™/g, "'")   // Replace weird apostrophes
+      .replace(/â€“/g, "-")   // Replace en-dash
+      .replace(/[^\x00-\x7F]/g, ""); // Remove non-ASCII characters
+  };
+  
 
+// Function to clean and extract text without HTML tags
 const extractTextFromHtml = (htmlContent) => {
-    if (typeof htmlContent !== "string") return "";
-
     // Remove HTML tags
     let textContent = htmlContent.replace(/<[^>]+>/g, ''); // Strip all HTML tags
 
-    // Replace multiple consecutive spaces or line breaks with a single space
-    textContent = textContent.replace(/\s+/g, ' ').trim();
+    // Replace multiple consecutive spaces or line breaks with a single newline
+    textContent = textContent.replace(/\s+/g, ' ').trim(); // Replace extra spaces with a single space
 
-    // Add a newline between paragraphs for section breaks
-    textContent = textContent.replace(/(?:\r\n|\r|\n){2,}/g, '\n\n'); 
+    // Add a newline between paragraphs based on the presence of "strong" or section breaks
+    textContent = textContent.replace(/(?:\r\n|\r|\n){2,}/g, '\n\n'); // Ensure double newlines between paragraphs
 
-    return cleanText(textContent);
+    return cleanEncoding(textContent);
 };
 
-const parseHtmlContent = (htmlContent) => {
-    if (typeof htmlContent !== "string") return {};
-
-    const $ = cheerio.load(htmlContent);
-    let sections = {};
-
-    $("p, ul").each((index, element) => {
-        let text = extractTextFromHtml($(element).text().trim());
-        if (!text) return;
-
-        if (/^(Your Expertise:|Your Location:|Job Type:|Required Skills:)/i.test(text)) {
-            sections[text] = extractTextFromHtml($(element).next().text().trim()) || "N/A";
-        } else {
-            sections[`Section_${index}`] = text;
-        }
-    });
-
-    return sections;
-};
-
+//function to save to the specified directory in csv format 
 async function saveJobsToCSV(jobs, company) {
-    const jobData = jobs.postings.map(job => {
-        let parsedContent = parseHtmlContent(job.content__html || {});
-        const sortedSections = {};
-        Object.keys(parsedContent).sort().forEach((key) => {
-            sortedSections[key] = parsedContent[key];
-        });
+    if (!fs.existsSync(SAVE_DIRECTORY)) {
+        fs.mkdirSync(SAVE_DIRECTORY, { recursive: true }); // Ensure directory exists
+    }
 
-        return {
-            ID: job.id,
-            Title: cleanText(job.link_text),
-            Link: job.link_href,
-            Company: cleanText(job.company?.name || 'N/A'),
-            Location: cleanText(job.city || 'N/A'),
-            Remote: job.is_remote ? 'Yes' : 'No',
-            Experience: cleanText(job.years_of_experience || 'Not specified'),
-            EmploymentType: cleanText(job.employment_type || 'N/A'),
-            DatePosted: job.created_at,
-            ...sortedSections
-        };
-    });
+    const jobData = jobs.postings.map(job => ({
+        ID: job.id,
+        Title: job.link_text,
+        Link: job.link_href,
+        Company: job.company?.name || 'N/A',
+        Location: job.city || 'N/A',
+        Remote: job.is_remote ? 'Yes' : 'No',
+        Experience: job.years_of_experience || 'Not specified',
+        EmploymentType: job.employment_type || 'N/A',
+        DatePosted: job.created_at,
+        RoleDescription: extractTextFromHtml(job.content__html)
+      }));
 
     try {
         const csv = parse(jobData);
         const fileName = `${company}_jobs.csv`.replace(/\s+/g, '_').toLowerCase();
-        fs.writeFileSync(fileName, csv);
-        console.log(`Jobs successfully written to ${fileName}`);
+        const filePath = path.join(SAVE_DIRECTORY, fileName);
+
+        await fs.promises.writeFile(filePath, csv);
+        console.log(`Jobs successfully written to: ${filePath}`);
     } catch (err) {
         console.error('Error writing CSV:', err);
     }
 }
-
+ 
+// main 
 (async () => {
     const company = await askQuestion("Enter company name: ");
     const authorization = await askQuestion("Enter authorization token: ");
