@@ -10,7 +10,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Define paths
-const DATA_DIRECTORY = "C:\\Users\\agabr\\CareerMatch-AI\\zensearchData";
+const DATA_DIRECTORY = "C:\\Users\\...\\CareerMatch-AI\\zensearchData";// add directory name
 const CSV_FILE_PATH = path.join(DATA_DIRECTORY, "company_data.csv");
 const SAVE_DIRECTORY = DATA_DIRECTORY;
 
