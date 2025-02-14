@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
     "careermatch-ai": "file:",
     "cheerio": "^1.0.0",
     "iconv-lite": "^0.6.3",
