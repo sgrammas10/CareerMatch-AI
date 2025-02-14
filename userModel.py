@@ -1,4 +1,7 @@
 import torch.nn as nn
+import torch
+
+# use dataset class as a wrapper for inputted data and then use DataLoader function to train homework
 
 # basic pytorch model
 # class Net(nn.Module):
