@@ -4,6 +4,7 @@ import { parse } from "json2csv";
 import path from "path";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
+import translate from "@vitalets/google-translate-api";
 
 // Get script directory
 const __filename = fileURLToPath(import.meta.url);
@@ -17,6 +18,26 @@ if (!fs.existsSync(DATA_DIRECTORY)) {
 
 const CSV_FILE_PATH = path.join(DATA_DIRECTORY, 'company_data.csv');
 const SAVE_DIRECTORY = DATA_DIRECTORY;
+
+async function translateToEnglish(text, retries = 3) {
+    for (let i = 0; i < retries; i++) {
+        try {
+            if (!text.trim()) return text;
+
+            const detected = await translate(text, { to: "en", autoCorrect: true });
+
+            if (detected.from.language.iso === "en") {
+                return text;
+            }
+
+            return detected.text;
+        } catch (error) {
+            console.warn(`⚠️ Translation failed (attempt ${i + 1}):`, error);
+            await new Promise(res => setTimeout(res, 1000)); // Wait 1 sec before retrying
+        }
+    }
+    return text;
+}
 
 // Function to read company data from CSV safely
 function readCompanyData() {
@@ -90,7 +111,7 @@ async function saveJobsToCSV(jobs, company) {
         return;
     }
 
-    const jobData = jobs.postings.map(job => ({
+    const jobData = await Promise.all(jobs.postings.map(async job => ({
         ID: job.id,
         Title: job.link_text,
         Link: job.link_href,
@@ -100,8 +121,14 @@ async function saveJobsToCSV(jobs, company) {
         Experience: job.years_of_experience || "Not specified",
         EmploymentType: job.employment_type || "N/A",
         DatePosted: job.created_at,
-        RoleDescription: job.content__html.replace(/<[^>]+>/g, "").trim(), // Remove HTML tags
-    }));
+        RoleDescription: await translateToEnglish(
+            job.content__html
+                .replace(/<[^>]+>/g, "") // Remove HTML
+                .normalize("NFKC") // Normalize Unicode
+                .trim()
+                .replace(/[^\x00-\x7F]/g, "") // Remove extra characters
+        ),
+    })));
 
     try {
         const csv = parse(jobData);
