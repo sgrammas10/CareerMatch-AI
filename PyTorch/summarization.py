@@ -37,8 +37,6 @@ for filename in os.listdir(directory):
                 #print("Summary:", summary)
 
 
-
-
                 tool = LanguageTool('en-US')
                 corrected_summary = tool.correct(summary)
 
