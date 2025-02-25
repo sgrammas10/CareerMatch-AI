@@ -3,7 +3,7 @@ const path = require('path');
 const prompt = require('prompt-sync')();
 
 // Define CSV file path
-const filePath = "C:\\Users\\Pablo\\CareerMatch-AI\\zensearchData\\company_data.csv";
+const filePath = "C:\\Users\\agabr\\CareerMatch-AI\\zensearchData\\company_data.csv";
 
 // Function to prompt user for company data
 function getCompanyData() {
