@@ -32,7 +32,7 @@ async function translateToEnglish(text, retries = 3) {
 
             return detected.text;
         } catch (error) {
-            console.warn(`⚠️ Translation failed (attempt ${i + 1}):`, error);
+            console.warn(`Translation failed (attempt ${i + 1}):`, error);
             await new Promise(res => setTimeout(res, 1000)); // Wait 1 sec before retrying
         }
     }
@@ -42,7 +42,7 @@ async function translateToEnglish(text, retries = 3) {
 // Function to read company data from CSV safely
 function readCompanyData() {
     if (!fs.existsSync(CSV_FILE_PATH)) {
-        console.error(`❌ CSV file not found: ${CSV_FILE_PATH}`);
+        console.error(`CSV file not found: ${CSV_FILE_PATH}`);
         process.exit(1);
     }
 
@@ -55,7 +55,7 @@ function readCompanyData() {
             ?.map(value => value.replace(/^"|"$/g, "").trim()); // Remove quotes
 
         if (!values || values.length !== 3) {
-            console.warn(`⚠️ Skipping malformed row: ${line}`);
+            console.warn(`Skipping malformed row: ${line}`);
             return null;
         }
 
@@ -70,7 +70,7 @@ function readCompanyData() {
 // Function to fetch job postings
 async function fetchJobs(company, authorization, slug) {
     try {
-        console.log(`🔍 Fetching jobs for: ${company} (${slug})`);
+        console.log(`Fetching jobs for: ${company} (${slug})`);
         const response = await fetch("https://api.zensearch.jobs/api/postings", {
             method: "POST",
             headers: {
@@ -95,7 +95,7 @@ async function fetchJobs(company, authorization, slug) {
         const data = await response.json();
         return data;
     } catch (error) {
-        console.error(`❌ Failed to fetch jobs for ${company}:`, error);
+        console.error(`Failed to fetch jobs for ${company}:`, error);
         return null; // Prevent the entire script from crashing
     }
 }
@@ -107,7 +107,7 @@ async function saveJobsToCSV(jobs, company) {
     }
 
     if (!jobs || !jobs.postings || jobs.postings.length === 0) {
-        console.warn(`⚠️ No jobs found for ${company}. Skipping CSV creation.`);
+        console.warn(`No jobs found for ${company}. Skipping CSV creation.`);
         return;
     }
 
@@ -136,9 +136,9 @@ async function saveJobsToCSV(jobs, company) {
         const filePath = path.join(SAVE_DIRECTORY, fileName);
 
         await fs.promises.writeFile(filePath, csv);
-        console.log(`✅ Jobs successfully saved: ${filePath}`);
+        console.log(`Jobs successfully saved: ${filePath}`);
     } catch (err) {
-        console.error("❌ Error writing CSV:", err);
+        console.error("Error writing CSV:", err);
     }
 }
 
@@ -147,11 +147,11 @@ async function saveJobsToCSV(jobs, company) {
     const companyDataList = readCompanyData();
 
     if (companyDataList.length === 0) {
-        console.error("❌ No valid company data found.");
+        console.error("No valid company data found.");
         process.exit(1);
     }
 
-    console.log(`📋 Processing ${companyDataList.length} companies...`);
+    console.log(`Processing ${companyDataList.length} companies...`);
 
     await Promise.all(
         companyDataList.map(async ({ company, slug, authToken }) => {
@@ -160,5 +160,5 @@ async function saveJobsToCSV(jobs, company) {
         })
     );
 
-    console.log("🎉 All companies processed!");
+    console.log("All companies processed!");
 })();
