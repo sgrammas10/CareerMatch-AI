@@ -1,9 +1,34 @@
 const fs = require('fs');
 const path = require('path');
-const prompt = require('prompt-sync')();
+const os = require('os');
 
 /**
- * Recursively searches for a file in a directory and its subdirectories.
+ * Recursively searches for a directory in a given start directory.
+ * @param {string} startPath - The directory to start searching from.
+ * @param {string} targetDir - The name of the directory to search for.
+ * @returns {string|null} - The full path to the directory if found, otherwise null.
+ */
+function findDirectory(startPath, targetDir) {
+    if (!fs.existsSync(startPath)) return null;
+
+    const files = fs.readdirSync(startPath);
+    for (const file of files) {
+        const filePath = path.join(startPath, file);
+        const stat = fs.statSync(filePath);
+
+        if (stat.isDirectory()) {
+            if (file === targetDir) {
+                return filePath;
+            }
+            const found = findDirectory(filePath, targetDir);
+            if (found) return found;
+        }
+    }
+    return null;
+}
+
+/**
+ * Searches for a file in a given directory and its subdirectories.
  * @param {string} startPath - The directory to start searching from.
  * @param {string} fileName - The name of the file to search for.
  * @returns {string|null} - The full path to the file if found, otherwise null.
@@ -26,15 +51,19 @@ function findFile(startPath, fileName) {
     return null;
 }
 
-// Find company_data.csv dynamically
-const scriptDir = __dirname; // Get the directory where the script is located
+// Get the home directory to start searching from
+const homeDir = os.homedir();
+const targetDirName = "CareerMatchAI";
+const subDirName = "zensearchdata";
 const csvFileName = "company_data.csv";
-let filePath = findFile(scriptDir, csvFileName);
 
-// If not found, default to script directory
-if (!filePath) {
-    filePath = path.join(scriptDir, csvFileName);
-    console.log(`📁 File not found, creating it in: ${filePath}`);
+// Locate the CareerMatchAI directory
+const careerMatchPath = findDirectory(homeDir, targetDirName);
+
+let filePath = null;
+if (careerMatchPath) {
+    const searchPath = path.join(careerMatchPath, subDirName);
+    filePath = findFile(searchPath, csvFileName);
 }
 
 // Function to prompt user for company data
