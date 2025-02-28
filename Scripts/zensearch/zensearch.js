@@ -1,3 +1,29 @@
+/*
+
+    The most recent and best job scraping tool
+
+    This tool takes a CSV file, currently named zensearchData,
+    and uses the listed jobs and their fetch nodes to pull their current job data.
+    
+    This tool takes the:
+        - Title
+        - Pay
+        - Location
+        - Description
+        - Remote Status
+        - Full, Part, Internship, etc. status
+        - Experience
+        - Date Posted
+        - Link
+    
+    of everyjob posted at those websites. It also translates the job data to english using google
+    translates API.
+
+    This data is exported to a CSV under the company name.
+
+*/
+
+
 import fetch from "node-fetch";
 import fs from "fs";
 import { parse } from "json2csv";
