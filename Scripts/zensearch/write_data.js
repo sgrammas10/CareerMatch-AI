@@ -8,21 +8,42 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 // Define paths
-const DIRECTORY = path.resolve(__dirname, "../../zensearchData"); // Ensure correct path
+const DIRECTORY = path.resolve(__dirname, "../../zensearchData");
 if (!fs.existsSync(DIRECTORY)) {
     fs.mkdirSync(DIRECTORY, { recursive: true });
 }
 
 const filePath = path.join(DIRECTORY, "company_data.csv");
 
-// Function to prompt user for company data (using dynamic import)
+// Function to check if the company already exists
+function companyExists(companyName) {
+    if (!fs.existsSync(filePath)) return false; // If file doesn't exist, company can't exist
+
+    const fileContent = fs.readFileSync(filePath, "utf8");
+    const lines = fileContent.split("\n").map(line => line.trim());
+
+    return lines.some(line => {
+        const columns = line.split(",");
+        return columns[0]?.toLowerCase() === companyName.toLowerCase(); // Case-insensitive match
+    });
+}
+
+// Function to prompt user for company data
 async function getCompanyData() {
     const { default: promptSync } = await import("prompt-sync");
     const prompt = promptSync();
     
-    const companyName = prompt("Enter Company Name: ");
-    const slug = prompt("Enter Slug: ");
-    const authToken = prompt("Enter Authorization Token: ");
+    let companyName;
+    do {
+        companyName = prompt("Enter Company Name: ").trim();
+        if (companyExists(companyName)) {
+            console.log(`❌ Company "${companyName}" already exists. Please enter a different name.`);
+        }
+    } while (companyExists(companyName)); // Keep asking if company already exists
+
+    const slug = prompt("Enter Slug: ").trim();
+    const authToken = prompt("Enter Authorization Token: ").trim();
+    
     return { companyName, slug, authToken };
 }
 
