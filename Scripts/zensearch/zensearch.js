@@ -1,36 +1,10 @@
-/*
-
-    The most recent and best job scraping tool
-
-    This tool takes a CSV file, currently named zensearchData,
-    and uses the listed jobs and their fetch nodes to pull their current job data.
-    
-    This tool takes the:
-        - Title
-        - Pay
-        - Location
-        - Description
-        - Remote Status
-        - Full, Part, Internship, etc. status
-        - Experience
-        - Date Posted
-        - Link
-    
-    of everyjob posted at those websites. It also translates the job data to english using google
-    translates API.
-
-    This data is exported to a CSV under the company name.
-
-*/
-
-
 import fetch from "node-fetch";
 import fs from "fs";
 import { parse } from "json2csv";
 import path from "path";
 import { fileURLToPath } from "url";
 import { dirname } from "path";
-import translate from "google-translate-api-x";
+import translate from "@vitalets/google-translate-api";
 
 // Get script directory
 const __filename = fileURLToPath(import.meta.url);
@@ -46,55 +20,23 @@ const CSV_FILE_PATH = path.join(DATA_DIRECTORY, 'company_data.csv');
 const SAVE_DIRECTORY = DATA_DIRECTORY;
 
 async function translateToEnglish(text, retries = 3) {
-    let chunks = [];
-    let translatedChunks = [];
-    let start = 0;
-    let maxLength = 5000;
+    for (let i = 0; i < retries; i++) {
+        try {
+            if (!text.trim()) return text;
 
-    while (start < text.length) {
-        let end = start + maxLength;
+            const detected = await translate(text, { to: "en", autoCorrect: true });
 
-        if (end < text.length) {
-            // Find the last sentence-ending punctuation within the limit
-            let lastPunctuation = Math.max(
-                text.lastIndexOf(".", end),
-                text.lastIndexOf("!", end),
-                text.lastIndexOf("?", end)
-            );
-
-            if (lastPunctuation > start) {
-                end = lastPunctuation + 1; // Include punctuation
-            } else {
-                let lastSpace = text.lastIndexOf(" ", end);
-                if (lastSpace > start) {
-                    end = lastSpace;
-                }
+            if (detected.from.language.iso === "en") {
+                return text;
             }
+
+            return detected.text;
+        } catch (error) {
+            console.warn(`Translation failed (attempt ${i + 1}):`, error);
+            await new Promise(res => setTimeout(res, 1000)); // Wait 1 sec before retrying
         }
-
-        chunks.push(text.substring(start, end).trim());
-        start = end + 1;
     }
-
-    // Translate each chunk
-    for (let chunk of chunks) {
-        let translatedText = "";
-        for (let attempt = 0; attempt < retries; attempt++) {
-            try {
-                const result = await translate(chunk, { to: "en" });
-                translatedText = result.text;
-                break; // Exit retry loop on success
-            } catch (error) {
-                console.error(`Translation error (attempt ${attempt + 1}):`, error);
-                if (attempt === retries - 1) {
-                    translatedText = "[Translation failed]";
-                }
-            }
-        }
-        translatedChunks.push(translatedText);
-    }
-
-    return translatedChunks.join(" "); // Return the full translated text
+    return text;
 }
 
 // Function to read company data from CSV safely
@@ -171,7 +113,7 @@ async function saveJobsToCSV(jobs, company) {
 
     const jobData = await Promise.all(jobs.postings.map(async job => ({
         ID: job.id,
-        Title: await translateToEnglish(job.link_text),
+        Title: job.link_text,
         Link: job.link_href,
         Company: job.company?.name || "N/A",
         Location: job.city || "N/A",

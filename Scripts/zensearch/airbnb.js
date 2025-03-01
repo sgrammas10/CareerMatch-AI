@@ -1,15 +1,3 @@
-/*
-    Largely serves as the template for scraping job data from a website
-    This includes
-        - Job title
-        - Location
-        - Pay range
-        - All relevant and non relevant job description data
-
-*/
-
-
-
 import fetch from "node-fetch";
 import fs from 'fs';
 import { parse } from 'json2csv';
