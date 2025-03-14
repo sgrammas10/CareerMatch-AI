@@ -15,7 +15,7 @@ jobs:
           persist-credentials: true  # Ensures we can commit back to the repo
 
       - name: Run Scraper
-        run: node scripts/zensearch/zensearch.js run  # Runs your scraper directly
+        run: node zensearch.js run  # Runs your scraper directly
 
       - name: Commit Results
         run: |
