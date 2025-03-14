@@ -3,36 +3,271 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Our Website</title>
+    <link rel="icon" type="image/png" sizes="32x32" href="pngs/backdrop.jpeg">
+    <link rel="icon" type="image/png" sizes="16x16" href="pngs/backdrop.jpeg">
+    <title>Welcome to Career Match - AI</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
         body {
             font-family: Arial, sans-serif;
+        }
+
+        /* Navbar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: black;
+            padding: 15px 20px;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        .navbar .logo {
+            color: #fff;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .navbar .nav-links {
+            list-style: none;
+            display: flex;
+        }
+        .navbar .nav-links li {
+            margin-left: 20px;
+        }
+        .navbar .nav-links a {
+            text-decoration: none;
+            color: #fff;
+            font-size: 1rem;
+            transition: color 0.3s ease;
+        }
+        .navbar .nav-links a:hover {
+            color: #3498db;
+        }
+
+        /* Welcome Overlay */
+        .overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.8);
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
             text-align: center;
+            padding: 20px;
+            transition: opacity 0.5s ease-out, transform 0.5s ease-out;
         }
-        .container {
-            margin-top: 20%;
+        .overlay h1 {
+            font-size: 3.6rem;
+            margin-bottom: 20px;
+            transition: transform 0.5s ease-out, opacity 0.5s ease-out;
         }
-        h1 {
-            font-size: 2.5rem;
+        .overlay p {
+            font-size: 1.6rem;
+            margin-bottom: 30px;
+            transition: transform 0.5s ease-out, opacity 0.5s ease-out;
         }
         .enter-btn {
             display: inline-block;
-            padding: 10px 20px;
+            padding: 16px 32px;
             background-color: #3498db;
-            color: #fff;
+            color: white;
             text-decoration: none;
+            font-size: 1.5rem;
             border-radius: 5px;
             transition: background-color 0.3s ease;
         }
         .enter-btn:hover {
             background-color: #2980b9;
         }
+
+        /* Feature Sections */
+        .feature-container {
+            margin-top: 100vh;
+        }
+        .feature-section {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 40px 3%;
+            opacity: 0;
+            transform: translateX(-75%);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+            min-height: 30vh;
+            width: 80%;
+            margin: 60px auto;
+            border-radius: 10px;
+        }
+        .feature-section:nth-child(even) {
+            flex-direction: row-reverse;
+            transform: translateX(75%);
+        }
+        .feature-section.visible {
+            opacity: 1;
+            transform: translateX(-10%);
+        }
+        .feature-section:nth-child(even).visible {
+            transform: translateX(10%);
+        }
+        .feature-section.hidden {
+            opacity: 0;
+            transform: translateX(0);
+        }
+
+        /* Alternating Backdrop Colors  -- for the fetured tabs devided in alternating even and odds starting at 1*/
+        .feature-section:nth-child(odd) {
+            background-color: #4646463b;
+        }
+        .feature-section:nth-child(even) {
+            background-color: #333;
+            color: white;
+        }
+
+        .feature-text {
+            flex: 1;
+            padding: 10px;
+            max-width: 40%;
+            text-align: center;
+            position: relative;
+        }
+        .feature-text h2 {
+            font-size: 1.8rem;
+            margin-bottom: 10px;
+            transition: transform 0.5s ease-out, opacity 0.5s ease-out;
+        }
+        .feature-text p {
+            font-size: 1.2rem;
+        }
+        .feature-image {
+            flex: 1;
+            max-width: 40%;
+            text-align: center;
+        }
+        .feature-image img {
+            width: 70%;
+            max-width: 300px;
+            opacity: 0;
+            transform: translateX(60px);
+            transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+        }
+        .feature-section:nth-child(even) .feature-image img {
+            transform: translateX(-60px);
+        }
+        .feature-section.visible .feature-image img {
+            opacity: 1;
+            transform: translateX(0);
+        }
+        .feature-section.visible .feature-text h2 {
+            opacity: 1;
+            transform: translateY(0);
+        }
+
+        /* Bottom Section */
+        .bottom-section {
+            background-color: #222;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        /* Disappearing Animation for Overlay */
+        .scrolled .overlay {
+            opacity: 0;
+            transform: translateY(-50px);
+        }
+        .scrolled .overlay h1,
+        .scrolled .overlay p,
+        .scrolled .enter-btn {
+            opacity: 0;
+            transform: translateY(-50px);
+        }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Welcome to Our Website</h1>
-        <a href="personal_info.html" class="enter-btn">Enter</a>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">Career Match - AI</div>
+        <ul class="nav-links">
+            <li><a href="personal_info.html">Data Submission</a></li>
+            <li><a href="about_us.html">About Us</a></li>
+            <li><a href="#">Collaborators</a></li>
+            <li><a href="https://github.com/sgrammas10/CareerMatch-AI" target="_blank">GitHub Repository</a></li>
+            <li><a href="https://new.rcos.io/" target="_blank">RCOS-Website</a></li>
+        </ul>
+    </nav>
+
+    <!-- Welcome Overlay -->
+    <div class="overlay">
+        <h1>Welcome to Career Match - AI</h1>
+        <p>Your future starts here! Let AI guide you to the perfect career path.</p>
+        <a href="personal_info.html" class="enter-btn">Get Started</a>
     </div>
+
+    <!-- Feature Sections -->
+    <div class="feature-container">
+        <div class="feature-section">
+            <div class="feature-text">
+                <h2>Your Career, Your Story</h2>
+                <p>Create a dynamic, personalized profile that goes beyond your resume.</p>
+            </div>
+            <div class="feature-image">
+                <img src="pngs/your_career.jpeg" alt="Career Profile">
+            </div>
+        </div>
+
+        <div class="feature-section">
+            <div class="feature-text">
+                <h2>Swipe Your Way to Success</h2>
+                <p>Experience a fun and intuitive job search with our gamified swiping feature.</p>
+            </div>
+            <div class="feature-image">
+                <img src="pngs/sipe_succes.jpeg" alt="Gamified Job Matching">
+            </div>
+        </div>
+
+        <div class="feature-section">
+            <div class="feature-text">
+                <h2>Smart Matches, Better Opportunities</h2>
+                <p>Our AI finds the best jobs based on your skills and values.</p>
+            </div>
+            <div class="feature-image">
+                <img src="pngs/smart_match.jpeg" alt="AI Matching">
+            </div>
+        </div>
+    </div>
+
+    <!-- Bottom Section -->
+    <div class="bottom-section">
+        <p>© 2025 Career Match - AI. All Rights Reserved.</p>
+    </div>
+
+    <!-- JavaScript -->
+    <script>
+        window.addEventListener("scroll", function () {
+            document.body.classList.toggle("scrolled", window.scrollY > 100);
+
+            document.querySelectorAll('.feature-section').forEach(section => {
+                let position = section.getBoundingClientRect().top;
+                if (position < window.innerHeight * 0.9) {
+                    section.classList.add("visible");
+                } else {
+                    section.classList.remove("visible");
+                }
+            });
+        });
+    </script>
+
 </body>
 </html>

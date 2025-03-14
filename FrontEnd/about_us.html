@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" sizes="32x32" href="pngs/backdrop.jpeg">
+    <link rel="icon" type="image/png" sizes="16x16" href="pngs/backdrop.jpeg">
+    <title>About Us - CareerMatch AI</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* Navigation Bar */
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: black;
+            padding: 15px 20px;
+            position: fixed;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        .navbar .logo {
+            color: #fff;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .navbar .nav-links {
+            list-style: none;
+            display: flex;
+        }
+        .navbar .nav-links li {
+            margin-left: 20px;
+        }
+        .navbar .nav-links a {
+            text-decoration: none;
+            color: #fff;
+            font-size: 1rem;
+            transition: color 0.3s ease;
+        }
+        .navbar .nav-links a:hover {
+            color: #3498db;
+        }
+
+        /* Main Content */
+        .container {
+            max-width: 900px;
+            background: white;
+            margin: 100px auto 20px;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .about-text {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            color: #555;
+            text-align: justify;
+            margin-bottom: 30px;
+        }
+
+        /* Team Section */
+        .team-section {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .team-member {
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .team-member img {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            object-fit: cover;
+            background-color: #ddd;
+        }
+        .team-member-info {
+            flex: 1;
+        }
+        .team-member h3 {
+            margin-bottom: 5px;
+            color: #333;
+        }
+        .team-member p {
+            color: #555;
+            font-size: 0.95rem;
+        }
+
+        /* Bottom Section */
+        .bottom-section {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: auto;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">Career Match - AI</div>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="#">Collaborators</a></li>
+            <li><a href="https://github.com/sgrammas10/CareerMatch-AI" target="_blank">GitHub Repository</a></li>
+            <li><a href="https://new.rcos.io/" target="_blank">RCOS-Website</a></li>
+
+        </ul>
+    </nav>
+
+    <!-- About Us Section -->
+    <div class="container">
+        <h1>About CareerMatch AI</h1>
+        <p class="about-text">
+            CareerMatch AI will be a cutting-edge career development platform designed to help job seekers find the perfect fit—both in terms of job roles and company culture. 
+            By combining resumes, performance reviews, psychometric assessments (such as DISC, MBTI, and StrengthsFinder), and proprietary tools, CareerMatch AI will create 
+            dynamic, personalized profiles for job seekers. These profiles will go beyond just skills to capture a candidate’s values, career aspirations, and personality, 
+            enabling a comprehensive match with potential employers.
+        </p>
+        <p class="about-text">
+            The platform will feature a gamified swiping experience, similar to a dating app, where job seekers can swipe through job opportunities and companies aligned 
+            with their profiles. When candidates express interest by swiping right, the company will be notified, creating an engaging and interactive process for both parties. 
+            This intuitive system will ensure that job seekers are presented with positions that truly resonate with their skills, values, and long-term goals.
+        </p>
+        <p class="about-text">
+            CareerMatch AI will also include a virtual or live intake session, allowing job seekers to engage with a career coach or AI-powered assistant to refine their profiles. 
+            These sessions will dive deeper into their professional history, goals, and preferences, further personalizing their job search.
+        </p>
+        <p class="about-text">
+            At the heart of CareerMatch AI will be a powerful AI and machine learning algorithm that continuously analyzes job seeker profiles and compares them with company 
+            culture and job requirements. By leveraging this technology, CareerMatch AI will identify the best job opportunities, enhancing the likelihood that candidates will 
+            find roles where they can thrive and grow.
+        </p>
+    </div>
+
+    <!-- Team Section -->
+    <div class="container">
+        <h2>Meet the Team</h2>
+        <div class="team-section">
+            <!-- Sebastian Grammas -->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Sebastian Grammas">
+                <div class="team-member-info">
+                    <h3>Sebastian Grammas</h3>
+                    <p>Enter info here MR Seb Grammas </p>
+                </div>
+            </div>
+            <!-- Will Gaca -->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Will Gaca">
+                <div class="team-member-info">
+                    <h3>Will Gaca</h3>
+                    <p>Pls no funny bussiness people</p>
+                </div>
+            </div>
+            <!-- Adityaa Suratkal-->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Adityaa Suratkal">
+                <div class="team-member-info">
+                    <h3>Adityaa Suratkal</h3>
+                    <p>Pls no funny bussiness people</p>
+                </div>
+            </div>
+            <!-- Sebastian Landaeta-->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Sebastian Landaeta">
+                <div class="team-member-info">
+                    <h3>Sebastian Landaeta</h3>
+                    <p>Pls no funny bussiness people</p>
+                </div>
+            </div>
+            <!-- Adrian Corujo-->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Adrian Corujo">
+                <div class="team-member-info">
+                    <h3>Adrian Corujo</h3>
+                    <p>Pls no funny bussiness people</p>
+                </div>
+            </div>
+            <!-- Ryo Yoshida-->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Ryo Yoshida">
+                <div class="team-member-info">
+                    <h3>Ryo Yoshida</h3>
+                    <p>Pls no funny bussiness people</p>
+                </div>
+            </div>
+            <!-- Pablo Semidey-->
+            <div class="team-member">
+                <img src="pngs/temp_headshot.jpg" alt="Pablo Semidey">
+                <div class="team-member-info">
+                    <h3>Pablo Semidey</h3>
+                    <p>Pls no funny bussiness people</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Bottom Section -->
+    <div class="bottom-section">
+        <p>© 2025 Career Match - AI. All Rights Reserved.</p>
+    </div>
+
+</body>
+</html>
