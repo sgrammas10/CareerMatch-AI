@@ -24,7 +24,7 @@ jobs:
         run: npm install  # Installs required Node.js dependencies
 
       - name: Run Scraper
-        run: node scripts/zensearch/zensearch.js run  # Runs your scraper directly
+        run: node Scripts/zensearch/zensearch.js run  # Runs scraper directly
 
       - name: Commit Results
         run: |
