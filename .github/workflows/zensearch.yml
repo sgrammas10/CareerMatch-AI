@@ -2,7 +2,7 @@ name: Run ZenSearch Scraper
 
 on:
   schedule:
-    - cron: "0 */48 * * *"  # Runs every 48 hours
+    - cron: "0 0 */2 * *"  # Runs at midnight every 2nd day
   workflow_dispatch:        # Manual trigger for testing
 
 jobs:
