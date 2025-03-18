@@ -18,3 +18,41 @@ continuously analyzes job seeker profiles and compares them with company culture
 requirements. By leveraging this technology, CareerMatch AI identifies the best job
 opportunities, enhancing the likelihood that candidates will find roles where they can thrive and
 grow.
+
+
+File descriptions -
+
+    *All work in progress*
+
+    Scripts -
+    - JavaScript scripts to pull data from companies about their currently listed job descriptions
+    - All scripts other than zensearch.js are not currently being used or updated
+    - zensearch.js accesses the companies listed in zensearchData.csv through their nodefetch to pull
+      the data about their jobs
+    - all data is saved in company specific csvs in zensearchDAta
+
+    zensearchData -
+    - All jobs are filed with the following data
+        - Title
+        - Pay
+        - Location
+        - Description
+        - Remote Status
+        - Full, Part, Internship, etc. status
+        - Experience
+        - Date Posted
+        - Link
+    
+    RecsysFiles -
+    - The barebones start of our recommender system to be used in with our website to recommend jobs to based
+      on provided information
+
+    PyTorch -
+    - The start of using PyTorch to summarize data collected in zensearchData so that it can be fed in the
+      recommender system in a usable format
+    
+    FrontEnd -
+    - The landing page and general layout of our website for users to input their data and get their recommendations from us
+
+    BackEnd -
+    - The start of our implementation of the recommender system into our website
