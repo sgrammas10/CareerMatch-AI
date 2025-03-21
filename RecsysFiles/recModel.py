@@ -1,6 +1,7 @@
 import torch.nn as nn
 import torch
 import sentencepiece as spm
+from sentence_transformers import CrossEncoder 
 
 # Train initial model, uncomment if m.model and m.vocab get deleted
 # spm.SentencePieceTrainer.train('--input=initText.txt --model_prefix=m --vocab_size=5000')
@@ -186,15 +187,22 @@ class JobEncoder(nn.Module):
 #     rating = model(user_vec_test, job_vec_test)
 # print(f"Predicted alignment rating: {rating.item()}")
 
+# # Initialize a pretrained cross-encoder (e.g., "cross-encoder/ms-marco-MiniLM-L-6-v2")
+# teacher_model = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+
+# def generate_pseudo_ratings(job_descriptions, resumes):
+#     ratings = []
+#     for job, resume in zip(job_descriptions, resumes):
+#         # The CrossEncoder takes a list of (text_pair,) and returns similarity scores
+#         score = teacher_model.predict([(job, resume)])
+#         ratings.append(score)
+#     return torch.tensor(ratings)  # Shape: (n_samples,)
+
 # use dataset class as a wrapper for inputted data and then use DataLoader function to train model
 
 # input the text, covert to numbers using sentencepiece, generate a 1x100 encoding and pair with some job postings they are interested with
 
 # generate encodings for the text using Transformers, train based on the distance to the existing encodings provided as similar
-
-# Figure out how to make initial encodings
-
-# Then implement collaborative filtering based on these models
 
 # still implement the random epsilon technique, but the ranking will be based on the distance from the current encoding
 
