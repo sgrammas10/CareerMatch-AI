@@ -1,29 +1,3 @@
-/*
-
-    The most recent and best job scraping tool
-
-    This tool takes a CSV file, currently named zensearchData,
-    and uses the listed jobs and their fetch nodes to pull their current job data.
-    
-    This tool takes the:
-        - Title
-        - Pay
-        - Location
-        - Description
-        - Remote Status
-        - Full, Part, Internship, etc. status
-        - Experience
-        - Date Posted
-        - Link
-    
-    of everyjob posted at those websites. It also translates the job data to english using google
-    translates API.
-
-    This data is exported to a CSV under the company name.
-
-*/
-
-
 import fetch from "node-fetch";
 import fs from "fs";
 import { parse } from "json2csv";
@@ -42,8 +16,14 @@ if (!fs.existsSync(DATA_DIRECTORY)) {
     fs.mkdirSync(DATA_DIRECTORY, { recursive: true });
 }
 
+const INDIVIDUAL_CSV_DIRECTORY = path.join(DATA_DIRECTORY, 'individual_csvs');
+// Create the individual_csvs directory if it doesn't exist
+if (!fs.existsSync(INDIVIDUAL_CSV_DIRECTORY)) {
+    fs.mkdirSync(INDIVIDUAL_CSV_DIRECTORY, { recursive: true });
+}
+
 const CSV_FILE_PATH = path.join(DATA_DIRECTORY, 'company_data.csv');
-const SAVE_DIRECTORY = DATA_DIRECTORY;
+const ALL_JOBS_CSV_PATH = path.join(DATA_DIRECTORY, 'job_postings.csv');
 
 async function translateToEnglish(text, retries = 3) {
     let chunks = [];
@@ -51,6 +31,10 @@ async function translateToEnglish(text, retries = 3) {
     let start = 0;
     let maxLength = 5000;
 
+    // Helper function to delay execution
+    const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
+    // Split text into manageable chunks
     while (start < text.length) {
         let end = start + maxLength;
 
@@ -76,22 +60,50 @@ async function translateToEnglish(text, retries = 3) {
         start = end + 1;
     }
 
-    // Translate each chunk
-    for (let chunk of chunks) {
+    // Translate each chunk with rate limiting
+    for (let i = 0; i < chunks.length; i++) {
+        const chunk = chunks[i];
         let translatedText = "";
+        
         for (let attempt = 0; attempt < retries; attempt++) {
             try {
+                // Add a progressively longer delay between requests
+                if (attempt > 0) {
+                    // Exponential backoff: 2^attempt * 1000 ms (1s, 2s, 4s, etc.)
+                    const backoffDelay = Math.pow(2, attempt) * 1000;
+                    await delay(backoffDelay);
+                    console.log(`Retrying after ${backoffDelay}ms delay...`);
+                }
+                
                 const result = await translate(chunk, { to: "en" });
                 translatedText = result.text;
                 break; // Exit retry loop on success
             } catch (error) {
                 console.error(`Translation error (attempt ${attempt + 1}):`, error);
+                
+                if (error.message && (
+                    error.message.includes("too many requests") ||
+                    error.message.includes("rate limit") ||
+                    error.message.includes("429")
+                )) {
+                    // If rate limited, always wait before retrying
+                    const rateLimit = (attempt + 1) * 2000; // Increasing delay: 2s, 4s, 6s
+                    console.log(`Rate limit detected, waiting ${rateLimit}ms before retry...`);
+                    await delay(rateLimit);
+                }
+                
                 if (attempt === retries - 1) {
                     translatedText = "[Translation failed]";
                 }
             }
         }
+        
         translatedChunks.push(translatedText);
+        
+        // Add delay between chunk translations (500ms)
+        if (i < chunks.length - 1) {
+            await delay(500);
+        }
     }
 
     return translatedChunks.join(" "); // Return the full translated text
@@ -158,51 +170,72 @@ async function fetchJobs(company, authorization, slug) {
     }
 }
 
-// Function to save jobs to CSV
-async function saveJobsToCSV(jobs, company) {
-    if (!fs.existsSync(SAVE_DIRECTORY)) {
-        fs.mkdirSync(SAVE_DIRECTORY, { recursive: true });
-    }
-
+// Function to process job data
+async function processJobData(jobs, company) {
     if (!jobs || !jobs.postings || jobs.postings.length === 0) {
-        console.warn(`No jobs found for ${company}. Skipping CSV creation.`);
-        return;
+        console.warn(`No jobs found for ${company}. Skipping.`);
+        return [];
     }
 
-    const jobData = await Promise.all(jobs.postings.map(async job => ({
+    return await Promise.all(jobs.postings.map(async job => ({
         ID: job.id,
-        Title: await translateToEnglish(job.link_text),
+        Title: await job.link_text,
         Link: job.link_href,
-        Company: job.company?.name || "N/A",
+        Company: company || job.company?.name || "N/A",
         Location: job.city || "N/A",
         Remote: job.is_remote ? "Yes" : "No",
         Experience: job.years_of_experience || "Not specified",
         EmploymentType: job.employment_type || "N/A",
         DatePosted: job.created_at,
-        RoleDescription: await translateToEnglish(
+        RoleDescription: await 
             job.content__html
                 .replace(/<[^>]+>/g, "") // Remove HTML
                 .normalize("NFKC") // Normalize Unicode
                 .trim()
                 .replace(/[^\x00-\x7F]/g, "") // Remove extra characters
-        ),
+        ,
     })));
+}
+
+// Function to save jobs to company-specific CSV
+async function saveJobsToCSV(jobData, company) {
+    if (!jobData || jobData.length === 0) {
+        console.warn(`No job data to save for ${company}.`);
+        return;
+    }
 
     try {
         const csv = parse(jobData);
         const fileName = `${company}_jobs.csv`.replace(/\s+/g, "_").toLowerCase();
-        const filePath = path.join(SAVE_DIRECTORY, fileName);
+        const filePath = path.join(INDIVIDUAL_CSV_DIRECTORY, fileName);
 
         await fs.promises.writeFile(filePath, csv);
         console.log(`Jobs successfully saved: ${filePath}`);
     } catch (err) {
-        console.error("Error writing CSV:", err);
+        console.error(`Error writing CSV for ${company}:`, err);
     }
 }
 
-// Main function: Process all companies in parallel
+// Function to save all jobs to a single CSV
+async function saveAllJobsToCSV(allJobData) {
+    if (!allJobData || allJobData.length === 0) {
+        console.error("No job data to save to combined CSV.");
+        return;
+    }
+
+    try {
+        const csv = parse(allJobData);
+        await fs.promises.writeFile(ALL_JOBS_CSV_PATH, csv);
+        console.log(`All jobs successfully saved to: ${ALL_JOBS_CSV_PATH}`);
+    } catch (err) {
+        console.error("Error writing combined CSV:", err);
+    }
+}
+
+// Main function: Process all companies and collect all job data
 (async () => {
     const companyDataList = readCompanyData();
+    let allJobData = [];
 
     if (companyDataList.length === 0) {
         console.error("No valid company data found.");
@@ -211,12 +244,22 @@ async function saveJobsToCSV(jobs, company) {
 
     console.log(`Processing ${companyDataList.length} companies...`);
 
-    await Promise.all(
-        companyDataList.map(async ({ company, slug, authToken }) => {
-            const jobs = await fetchJobs(company, authToken, slug);
-            if (jobs) await saveJobsToCSV(jobs, company);
-        })
-    );
+    // Process each company sequentially to better manage API rate limits
+    for (const { company, slug, authToken } of companyDataList) {
+        const jobs = await fetchJobs(company, authToken, slug);
+        if (jobs) {
+            const jobData = await processJobData(jobs, company);
+            
+            // Save company-specific CSV to individual_csvs directory
+            await saveJobsToCSV(jobData, company);
+            
+            // Add to combined job data
+            allJobData = allJobData.concat(jobData);
+        }
+    }
+
+    // Save all jobs to combined CSV
+    await saveAllJobsToCSV(allJobData);
 
     console.log("All companies processed!");
 })();
