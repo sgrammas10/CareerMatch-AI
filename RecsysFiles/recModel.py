@@ -130,83 +130,67 @@ class JobEncoder(nn.Module):
         # Project to preference vector
         return self.projection(pooled) 
 
-# class CollaborativeFiltering(nn.Module):
-#     def __init__(self, use_mlp=False):
-#         super().__init__()
-#         self.use_mlp = use_mlp
-#         if self.use_mlp:
-#             self.mlp = nn.Sequential(
-#                 nn.Linear(256 * 2, 128),
-#                 nn.ReLU(),
-#                 nn.Linear(128, 1)
-#             )
+class CollaborativeFiltering(nn.Module):
+    def __init__(self, use_mlp=False):
+        super().__init__()
+        self.use_mlp = use_mlp
+        if self.use_mlp:
+            self.mlp = nn.Sequential(
+                nn.Linear(256 * 2, 128),
+                nn.ReLU(),
+                nn.Linear(128, 1)
+            )
     
-#     def forward(self, user_pref, job_pref):
-#         if self.use_mlp:
-#             combined = torch.cat([user_pref, job_pref], dim=1)
-#             return self.mlp(combined).squeeze()
-#         else:
-#             # Dot product similarity
-#             return (user_pref * job_pref).sum(dim=1)
+    def forward(self, user_pref, job_pref):
+        if self.use_mlp:
+            combined = torch.cat([user_pref, job_pref], dim=1)
+            return self.mlp(combined).squeeze()
+        else:
+            # Dot product similarity
+            return (user_pref * job_pref).sum(dim=1)
 
-# class FullModel(nn.Module):
-#     def __init__(self, use_mlp=False):
-#         super().__init__()
-#         self.user_encoder = UserEncoder()
-#         self.job_encoder = JobEncoder()
-#         self.cf = CollaborativeFiltering(use_mlp=use_mlp)
+class FullModel(nn.Module):
+    def __init__(self, use_mlp=False):
+        super().__init__()
+        self.user_encoder = UserEncoder()
+        self.job_encoder = JobEncoder()
+        self.cf = CollaborativeFiltering(use_mlp=use_mlp)
     
-#     def forward(self, user_vec, job_vec):
-#         user_pref = self.user_encoder(user_vec)
-#         job_pref = self.job_encoder(job_vec)
-#         rating = self.cf(user_pref, job_pref)
-#         return rating
+    def forward(self, user_vec, job_vec):
+        user_pref = self.user_encoder(user_vec)
+        job_pref = self.job_encoder(job_vec)
+        rating = self.cf(user_pref, job_pref)
+        return rating
 
-# model = FullModel(use_mlp=USE_MLP)
-# criterion = nn.MSELoss()  # For regression tasks
-# optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+model = FullModel(use_mlp=USE_MLP)
+criterion = nn.MSELoss()  # For regression tasks
+optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
 
-# # Example training loop
-# def train(model, dataloader, epochs):
-#     model.train()
-#     for epoch in range(epochs):
-#         total_loss = 0
-#         for user_vec, job_vec, target_rating in dataloader:
-#             optimizer.zero_grad()
-#             pred_rating = model(user_vec, job_vec)
-#             loss = criterion(pred_rating, target_rating)
-#             loss.backward()
-#             optimizer.step()
-#             total_loss += loss.item()
-#         print(f"Epoch {epoch+1}, Loss: {total_loss / len(dataloader)}")
+# Initialize a pretrained cross-encoder (e.g., "cross-encoder/ms-marco-MiniLM-L-6-v2")
+teacher_model = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
 
-# user_vec_test = torch.randn(1, USER_EMBEDDING_SIZE)  # Simulated resume vector
-# job_vec_test = torch.randn(1, JOB_EMBEDDING_SIZE)    # Simulated job vector
-# model.eval()
-# with torch.no_grad():
-#     rating = model(user_vec_test, job_vec_test)
-# print(f"Predicted alignment rating: {rating.item()}")
+def generate_pseudo_rating(job, resume):
+    # The CrossEncoder takes a list of (text_pair,) and returns similarity scores
+    score = teacher_model.predict([(job, resume)])
+    return score
 
-# # Initialize a pretrained cross-encoder (e.g., "cross-encoder/ms-marco-MiniLM-L-6-v2")
-# teacher_model = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+# Example training loop
+def train(model, dataloader, epochs):
+    model.train()
+    for epoch in range(epochs):
+        total_loss = 0
+        for user_vec, job_vec, target_rating in dataloader:
+            optimizer.zero_grad()
+            pred_rating = model(user_vec, job_vec)
+            loss = criterion(pred_rating, target_rating)
+            loss.backward()
+            optimizer.step()
+            total_loss += loss.item()
+        print(f"Epoch {epoch+1}, Loss: {total_loss / len(dataloader)}")
 
-# def generate_pseudo_ratings(job_descriptions, resumes):
-#     ratings = []
-#     for job, resume in zip(job_descriptions, resumes):
-#         # The CrossEncoder takes a list of (text_pair,) and returns similarity scores
-#         score = teacher_model.predict([(job, resume)])
-#         ratings.append(score)
-#     return torch.tensor(ratings)  # Shape: (n_samples,)
-
-# use dataset class as a wrapper for inputted data and then use DataLoader function to train model
-
-# input the text, covert to numbers using sentencepiece, generate a 1x100 encoding and pair with some job postings they are interested with
-
-# generate encodings for the text using Transformers, train based on the distance to the existing encodings provided as similar
-
-# still implement the random epsilon technique, but the ranking will be based on the distance from the current encoding
-
-
-#input: resume
-#output: preference matrix
-
+user_vec_test = torch.randn(1, USER_EMBEDDING_SIZE)  # Simulated resume vector
+job_vec_test = torch.randn(1, JOB_EMBEDDING_SIZE)    # Simulated job vector
+model.eval()
+with torch.no_grad():
+    rating = model(user_vec_test, job_vec_test)
+print(f"Predicted alignment rating: {rating.item()}")
