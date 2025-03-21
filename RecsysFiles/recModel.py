@@ -4,7 +4,7 @@ import sentencepiece as spm
 from sentence_transformers import CrossEncoder 
 
 # Train initial model, uncomment if m.model and m.vocab get deleted
-# spm.SentencePieceTrainer.train('--input=initText.txt --model_prefix=m --vocab_size=5000')
+spm.SentencePieceTrainer.train('--input=combined_csvs.txt --model_prefix=m --vocab_size=5000')
 
 # makes segmenter instance and loads the model file (m.model)
 sp = spm.SentencePieceProcessor()
