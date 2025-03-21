@@ -13,12 +13,18 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true  # Ensures we can commit back to the repo
-      
+
+      - name: Use Node.js 
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+
       - name: Install Dependencies
         run: npm install  # Installs required Node.js dependencies
 
       - name: Run Scraper
-        run: node scripts/zensearch/zensearch.js run  # Runs your scraper directly
+        run: node Scripts/zensearch/zensearch.js run  # Runs scraper directly
 
       - name: Commit Results
         run: |
