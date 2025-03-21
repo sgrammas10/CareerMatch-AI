@@ -108,7 +108,7 @@ def process_resumes(resume_files):
 
 # List of resume PDF files to process
 resume_files = [
-    '5002894.pdf'
+    'BackEnd/5002894.pdf'
 ]
 
 # Process the resumes
