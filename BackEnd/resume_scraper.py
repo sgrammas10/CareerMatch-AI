@@ -70,7 +70,7 @@ def save_to_csv(info, filename='resumes.csv'):
     try:
         # Check if the file exists
         file_exists = os.path.isfile(filename)
-        
+         
         # Open the file in append mode if it exists, or write mode if it doesn't
         with open(filename, mode='a' if file_exists else 'w', newline='', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames=FIELDS)
