@@ -13,16 +13,39 @@ def extract_text_from_pdf(pdf_file):
         text = ""
         for page in reader.pages:
             text += page.extract_text()
+        #print(text)
         return text
     except Exception as e:
         print(f"Error extracting text from {pdf_file}: {e}")
         return ""
+    
+def info_print(info):
+    for field in info:
+        print(field + ": " + info[field] + "\n\n")
+
+def find_field(resume_text, field_target, info):
+    temp_text = ""
+    resume_text_lower = resume_text.lower()
+
+    for field in info:
+        if field.lower() == field_target.lower():
+            continue
+
+        split_field_lower = field.lower()
+        split_text = resume_text_lower.split(split_field_lower)[0]
+
+        if len(temp_text) == 0 or (0 < len(split_text) < len(temp_text)):
+            temp_text = resume_text[:len(split_text)]
+
+    return temp_text
+
+        
 
 # Function to extract information from a resume text
 def extract_info(resume_text):
     info = {field: '' for field in FIELDS}
-    
     # Extract Name
+
     name_match = re.search(r'#\s*([A-Za-z\s]+)', resume_text)
     if name_match:
         info['Name'] = name_match.group(1).strip()
@@ -36,33 +59,15 @@ def extract_info(resume_text):
     phone_match = re.search(r'\(?\d{3}\)?[-.\s]?\d{3}[-.\s]?\d{4}', resume_text)
     if phone_match:
         info['Phone'] = phone_match.group(0).strip()
-    
-    # Extract Education
-    education_match = re.search(r'EDUCATION(.*?)(?=SKILLS|EXPERIENCE|LEADERSHIP|$)', resume_text, re.DOTALL)
-    if education_match:
-        info['Education'] = education_match.group(1).strip()
-    
-    # Extract Skills
-    skills_match = re.search(r'SKILLS(.*?)(?=EXPERIENCE|LEADERSHIP|$)', resume_text, re.DOTALL)
-    if skills_match:
-        info['Skills'] = skills_match.group(1).strip()
-    
-    # Extract Experience
-    experience_match = re.search(r'EXPERIENCE(.*?)(?=LEADERSHIP|$)', resume_text, re.DOTALL)
-    if experience_match:
-        experience_text = experience_match.group(1).strip()
-        info['Experience'] = experience_text
-        
-        # Extract Job Positions and Company Names from Experience section
-        job_positions = re.findall(r'([A-Za-z\s]+)\s*,\s*([A-Za-z\s]+)', experience_text)
-        if job_positions:
-            info['Job Positions'] = "; ".join([f"{pos[0].strip()} at {pos[1].strip()}" for pos in job_positions])
-    
-    # Extract Leadership
-    leadership_match = re.search(r'LEADERSHIP(.*?)(?=$)', resume_text, re.DOTALL)
-    if leadership_match:
-        info['Leadership'] = leadership_match.group(1).strip()
-    
+
+
+    for field in FIELDS[3:]:
+        split_text = resume_text.split(field.upper())  # split only once for efficiency
+        if len(split_text) > 1:
+            info[field] = find_field(split_text[1], field, info).strip()
+        else:
+            info[field] = ''  # safely handles missing fields
+    info_print(info)
     return info
 
 # Function to save extracted information to a CSV file
