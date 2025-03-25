@@ -1,16 +1,6 @@
 import torch.nn as nn
 import torch
 import sentencepiece as spm
-from sentence_transformers import CrossEncoder 
-
-# Train initial model, uncomment if m.model and m.vocab get deleted
-spm.SentencePieceTrainer.train('--input=combined_csvs.txt --model_prefix=m --vocab_size=5000')
-
-# makes segmenter instance and loads the model file (m.model)
-sp = spm.SentencePieceProcessor()
-sp.load('m.model')
-# #encoding = sp.EncodeAsIds("The quick sly fox jumped over the lazy rabbit")
-# #print(encoding)
 
 USER_VOCAB_SIZE = 5000
 USER_EMBEDDING_SIZE = 256
@@ -131,30 +121,25 @@ class JobEncoder(nn.Module):
         return self.projection(pooled) 
 
 class CollaborativeFiltering(nn.Module):
-    def __init__(self, use_mlp=False):
+    def __init__(self):
         super().__init__()
-        self.use_mlp = use_mlp
-        if self.use_mlp:
-            self.mlp = nn.Sequential(
-                nn.Linear(256 * 2, 128),
-                nn.ReLU(),
-                nn.Linear(128, 1)
-            )
+        
+        self.mlp = nn.Sequential(
+            nn.Linear(256 * 2, 128),
+            nn.ReLU(),
+            nn.Linear(128, 1)
+        )
     
     def forward(self, user_pref, job_pref):
-        if self.use_mlp:
-            combined = torch.cat([user_pref, job_pref], dim=1)
-            return self.mlp(combined).squeeze()
-        else:
-            # Dot product similarity
-            return (user_pref * job_pref).sum(dim=1)
+        combined = torch.cat([user_pref, job_pref], dim=1)
+        return self.mlp(combined).squeeze()
 
 class FullModel(nn.Module):
-    def __init__(self, use_mlp=False):
+    def __init__(self):
         super().__init__()
         self.user_encoder = UserEncoder()
         self.job_encoder = JobEncoder()
-        self.cf = CollaborativeFiltering(use_mlp=use_mlp)
+        self.cf = CollaborativeFiltering()
     
     def forward(self, user_vec, job_vec):
         user_pref = self.user_encoder(user_vec)
@@ -162,35 +147,108 @@ class FullModel(nn.Module):
         rating = self.cf(user_pref, job_pref)
         return rating
 
-model = FullModel(use_mlp=USE_MLP)
-criterion = nn.MSELoss()  # For regression tasks
-optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+model = FullModel()
 
-# Initialize a pretrained cross-encoder (e.g., "cross-encoder/ms-marco-MiniLM-L-6-v2")
-teacher_model = CrossEncoder("cross-encoder/ms-marco-MiniLM-L-6-v2")
+def load_user_encoder(weight_path, device="cpu"):
+    encoder = UserEncoder(USER_VOCAB_SIZE).to(device)
+    encoder.load_state_dict(torch.load(weight_path, map_location=device))
+    encoder.eval()
+    return encoder
 
-def generate_pseudo_rating(job, resume):
-    # The CrossEncoder takes a list of (text_pair,) and returns similarity scores
-    score = teacher_model.predict([(job, resume)])
-    return score
+def load_job_encoder(weight_path, device="cpu"):
+    encoder = JobEncoder(JOB_VOCAB_SIZE).to(device)
+    encoder.load_state_dict(torch.load(weight_path, map_location=device))
+    encoder.eval()
+    return encoder
 
-# Example training loop
-def train(model, dataloader, epochs):
-    model.train()
-    for epoch in range(epochs):
-        total_loss = 0
-        for user_vec, job_vec, target_rating in dataloader:
-            optimizer.zero_grad()
-            pred_rating = model(user_vec, job_vec)
-            loss = criterion(pred_rating, target_rating)
-            loss.backward()
-            optimizer.step()
-            total_loss += loss.item()
-        print(f"Epoch {epoch+1}, Loss: {total_loss / len(dataloader)}")
+def load_cf_model(weight_path, device="cpu"):
+    cf = CollaborativeFiltering().to(device)
+    cf.load_state_dict(torch.load(weight_path, map_location=device))
+    cf.eval()
+    return cf
 
-user_vec_test = torch.randn(1, USER_EMBEDDING_SIZE)  # Simulated resume vector
-job_vec_test = torch.randn(1, JOB_EMBEDDING_SIZE)    # Simulated job vector
-model.eval()
-with torch.no_grad():
-    rating = model(user_vec_test, job_vec_test)
-print(f"Predicted alignment rating: {rating.item()}")
+# Initialize components
+user_encoder = load_user_encoder(
+    weight_path="models/user_encoder_final.pth",
+    device="cuda"
+)
+
+job_encoder = load_job_encoder(
+    weight_path="models/job_encoder_final.pth",
+    device="cuda"
+)
+
+cf_model = load_cf_model(
+    weight_path="models/cf_final.pth",
+    device="cuda"
+)
+
+# # Inference pipeline (one by one)
+# def predict_rating(job_tokens, resume_tokens):
+#     with torch.no_grad():
+#         job_pref = job_encoder(job_tokens)
+#         user_pref = user_encoder(resume_tokens)
+#         return cf_model(user_pref, job_pref)
+
+# # Example usage with new data
+# def process_new_input(text, max_seq_len=512):
+#     sp = spm.SentencePieceProcessor()
+#     sp.load('m.model')
+#     tokens = sp.EncodeAsIds(text)
+#     tokens += [0] * (max_seq_len - len(tokens))
+#     return torch.tensor(tokens).unsqueeze(0).to("cuda")
+
+# # Process new job and resume
+# new_job = process_new_input("Senior Python Developer")
+# new_resume = process_new_input("5 years Python experience...")
+
+# # Get rating
+# rating = predict_rating(new_job, new_resume)
+# print(f"Predicted alignment score: {rating.item():.4f}")
+
+# def batch_process_texts(texts, device='cpu', max_seq_len=512):
+#     """Process a list of texts into batched tokens"""
+#     sp = spm.SentencePieceProcessor()
+#     sp.Load('m.model')
+#     # tokens = sp.EncodeAsIds(text)
+#     batch_tokens = []
+#     for text in texts:
+#         tokens = sp.EncodeAsIds(text)
+#         tokens += [sp.pad_id()] * (max_seq_len - len(tokens))
+#         batch_tokens.append(tokens)
+#     return torch.tensor(batch_tokens, dtype=torch.long, device=device)
+
+# def batch_predict(job_texts, resume_texts, models, device='cpu'):
+#     """
+#     Args:
+#         job_texts: List[str] - Batch of job descriptions
+#         resume_texts: List[str] - Batch of resumes
+#         models: Dict - {'user_encoder', 'job_encoder', 'cf'}
+    
+#     Returns:
+#         ratings: Tensor - (batch_size,) similarity scores
+#     """
+#     # Process texts to tokens
+#     job_tokens = batch_process_texts(job_texts, device)
+#     resume_tokens = batch_process_texts(resume_texts, device)
+    
+#     # Get preferences
+#     with torch.no_grad():
+#         job_prefs = models['job_encoder'](job_tokens)
+#         user_prefs = models['user_encoder'](resume_tokens)
+#         ratings = models['cf'](user_prefs, job_prefs)
+    
+#     return ratings
+
+# # Example usage
+# models = {
+#     'user_encoder': load_user_encoder(...),
+#     'job_encoder': load_job_encoder(...),
+#     'cf': load_cf_model(...)
+# }
+
+# job_batch = ["Senior Python Developer", "ML Engineer"]
+# resume_batch = ["5+ years Python...", "TensorFlow experience..."]
+
+# ratings = batch_predict(job_batch, resume_batch, models, device='cuda')
+# print(f"Batch ratings: {ratings.cpu().numpy().tolist()}")

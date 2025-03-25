@@ -1,0 +1,19 @@
+https://paperswithcode.com/paper/deep-learning-based-recommender-system-a 
+This was the main paper I focused most of my effort on. This paper was a survey of current State Of The Art (SOTA) Recommender Systems (Rec Sys) active today. I ended up learning about how the modern Rec Sys models are built using Collaborative Filtering. This also exposed me to newer models that use newer Neural Network, Attention, and even Transformer architectures. 
+
+Even though this paper gave me an idea of the types of models I can use, it didn’t go in depth on the certain benefits, costs, specific architectures, or training implementation. In essence, this paper served more or less as a menu for the types of SOTA Rec Sys models that exist today
+
+https://paperswithcode.com/paper/session-based-recommendations-with-recurrent 
+This paper used an RNN in order to find a rating for the user at each time step. In theory this would work well, since the RNN will consider the actions taken by the user (like, dislike, save) and then update its respective action accordingly. However I ended up abandoning this too since we didn’t have any sequential data and getting the data would be very time consuming. As a result, this was one of the models that just sounded cool but instead couldn’t be used in a practical way for this application.
+
+https://paperswithcode.com/paper/neural-graph-collaborative-filtering 
+https://paperswithcode.com/paper/graph-neural-networks-for-social 
+These papers considered a graph structure to represent the users and the items (for amazon type application). As a result, the graphical relationship between the nodes were used to figure out whether the user would pick the item or not. However this is very similar to Collaborative Filtering, so I decided to stick to a simpler approach and use normal Collaborative Filtering.
+
+https://paperswithcode.com/paper/hybrid-recommender-system-based-on 
+This was one paper that I considered that used a combination of neural networks and autoencoders to find a recommendation for the user. In essence, the autoencoder creates an initial preference matrix for the user, then the neural network would take the preference matrix and find a rating. This ended up working well in the paper, however I had a hard time understanding the point of the autoencoder and I didn’t feel it would transfer well into the project I was currently doing. As a result, this was one of the architectures I considered but abandoned.
+
+https://paperswithcode.com/paper/wide-deep-learning-for-recommender-systems
+https://paperswithcode.com/paper/190600091 
+
+These 2 papers focused on the usage of Neural Networks to recommend different things to the user. In the first paper, they used linear models in conjunction with neural networks in order to find ratings in the Google Play app store. The second paper used an end to end deep learning approach (the entire system is a combination of neural networks). I found these papers the most intriguing and the most applicable for our use case, as this was easy to implement in Pytorch and easy to understand (for me at least). I ended up picking an end to end deep learning system that takes in the user’s resume and the job’s posting information and then uses the 2 to create an initial encoding.
