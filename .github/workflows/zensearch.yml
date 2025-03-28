@@ -12,7 +12,10 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # Ensures we can commit back to the repo
+          persist-credentials: true
+          token: ${{ secrets.GITHUB_TOKEN }}
+        
+
 
       - name: Use Node.js 
         uses: actions/setup-node@v4
@@ -32,5 +35,5 @@ jobs:
           git config --global user.email 'action@github.com'
           git add .
           git commit -m "Auto-scraped job data [$(date)]" || echo "No changes to commit"
-          # Only push if there were changes
-          git diff --quiet || git push
+          git push origin main  # Explicitly push changes
+
