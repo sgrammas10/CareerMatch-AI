@@ -2,7 +2,7 @@ from flask import Flask, request, jsonify
 import os
 from resume_scraper import process_resumes
 
-from auth import auth
+from auth import auth, init_db
 
 app = Flask(__name__)
 app.register_blueprint(auth)
@@ -26,4 +26,5 @@ def upload_resume():
 
 
 if __name__ == "__main__":
+    init_db()
     app.run(debug=True)
