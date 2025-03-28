@@ -7,10 +7,27 @@ from email.mime.text import MIMEText
 
 auth = Blueprint("auth", __name__)
 
+
+def init_db():
+    conn = sqlite3.connect("users.db")  # This creates the database file if it doesn't exist
+    cursor = conn.cursor()
+    # Create the users table if it doesn't exist
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS users (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            username TEXT NOT NULL,
+            email TEXT NOT NULL UNIQUE,
+            password TEXT NOT NULL
+        )
+    """)
+    conn.commit()
+    conn.close()
+
+    
 # Helper function to send a welcome email
 def send_welcome_email(email, username):
     sender_email = "careermatchainoreply@gmail.com"
-    sender_password = "your-email-password"  # Replace with your email password or app-specific password
+    sender_password = "CareerMatchAI2025!"
     subject = "Welcome to CareerMatch AI fucker"
     body = f"Hi {username},\n\nWelcome to CareerMatch AI! We're excited to have you on board.\n\nBest regards,\nThe CareerMatch AI Team"
 
