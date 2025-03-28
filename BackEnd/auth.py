@@ -11,7 +11,7 @@ auth = Blueprint("auth", __name__)
 def send_welcome_email(email, username):
     sender_email = "careermatchainoreply@gmail.com"
     sender_password = "your-email-password"  # Replace with your email password or app-specific password
-    subject = "Welcome to CareerMatch AI"
+    subject = "Welcome to CareerMatch AI fucker"
     body = f"Hi {username},\n\nWelcome to CareerMatch AI! We're excited to have you on board.\n\nBest regards,\nThe CareerMatch AI Team"
 
     msg = MIMEText(body)
