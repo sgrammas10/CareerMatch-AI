@@ -207,3 +207,27 @@
 
 </body>
 </html>
+
+
+
+<form id="resumeUploadForm" action="/upload" method="post" enctype="multipart/form-data">
+    <h2>Submit Your Resume</h2>
+    <input type="file" id="resume" name="resume" accept="application/pdf" required onchange="previewResume(event)">
+    <input type="submit" value="Upload Resume">
+</form>
+<div id="resumePreview" class="resume-preview">Submit your resume</div>
+
+<script>
+    document.getElementById("resumeUploadForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+        const formData = new FormData(this);
+
+        fetch("/upload", {
+            method: "POST",
+            body: formData
+        })
+        .then(response => response.json())
+        .then(data => console.log("Resume processed:", data))
+        .catch(error => console.error("Error:", error));
+    });
+</script>
