@@ -111,9 +111,15 @@ resume_files = [
     'BackEnd/5002894.pdf'
 ]
 
-# Process the resumes
-process_resumes(resume_files)
 
-#pdf_file = input("Enter the path to the file: ")
+if __name__ == '__main__':
+    # List of resume PDF files to process
+    resume_files = [
+        'BackEnd/5002894.pdf'
+    ]
+    # Process the resumes
+    process_resumes(resume_files)
 
-print("Resume scraping and storage completed.")
+    #pdf_file = input("Enter the path to the file: ")
+
+    print("Resume scraping and storage completed.")

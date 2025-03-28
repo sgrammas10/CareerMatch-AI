@@ -168,7 +168,30 @@
             <li><a href="https://github.com/sgrammas10/CareerMatch-AI" target="_blank">GitHub Repository</a></li>
             <li><a href="https://new.rcos.io/" target="_blank">RCOS-Website</a></li>
         </ul>
+        <div class="auth-buttons">
+        <a href="signup.html" class="btn">Sign Up</a>
+        <a href="login.html" class="btn">Log In</a>
+        </div>
     </nav>
+
+    <style>
+        .auth-buttons {
+            display: flex;
+            gap: 10px;
+        }
+        .auth-buttons .btn {
+            text-decoration: none;
+            color: white;
+            background-color: #3498db;
+            padding: 8px 15px;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: background 0.3s ease;
+        }
+        .auth-buttons .btn:hover {
+            background-color: #2980b9;
+        }
+    </style>
 
     <!-- Form Wrapper -->
     <div class="form-wrapper">
@@ -195,7 +218,10 @@
         <!-- Resume Submission Form -->
         <div class="container">
             <h2>Submit Your Resume</h2>
-            <input type="file" id="resume" accept="application/pdf" onchange="previewResume(event)">
+            <form id="resumeUploadForm" action="/upload" method="post" enctype="multipart/form-data">
+                <input type="file" id="resume" name="resume" accept="application/pdf" required onchange="previewResume(event)">
+                <input type="submit" value="Upload Resume">
+            </form>
             <div id="resumePreview" class="resume-preview">Submit your resume</div>
         </div>
     </div>
@@ -204,6 +230,32 @@
     <div class="bottom-section">
         <p>© 2025 Career Match - AI. All Rights Reserved.</p>
     </div>
+    <script>
+        function previewResume(event) {
+            const file = event.target.files[0];
+            const previewBox = document.getElementById('resumePreview');
+            if (file && file.type === 'application/pdf') {
+                const objectURL = URL.createObjectURL(file);
+                previewBox.innerHTML = `<iframe src="${objectURL}"></iframe>`;
+            } else {
+                previewBox.innerHTML = "Submit your resume";
+            }
+        }
 
+        document.getElementById("resumeUploadForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            const formData = new FormData(this);
+            fetch("/upload", {
+                method: "POST",
+                body: formData
+            })
+            .then(response => response.json())
+            .then(data => console.log("Resume processed:", data))
+            .catch(error => console.error("Error:", error));
+        });
+    </script>
 </body>
 </html>
+
+
+
