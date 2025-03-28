@@ -106,17 +106,15 @@ def process_resumes(resume_files):
         except Exception as e:
             print(f"Error processing {resume_file}: {e}")
 
-# List of resume PDF files to process
-resume_files = [
-    'BackEnd/5002894.pdf'
-]
+# # List of resume PDF files to process
+# resume_files = [
+#     'BackEnd/5002894.pdf'
+# ]
 
 
 if __name__ == '__main__':
     # List of resume PDF files to process
-    resume_files = [
-        'BackEnd/5002894.pdf'
-    ]
+
     # Process the resumes
     process_resumes(resume_files)
 
