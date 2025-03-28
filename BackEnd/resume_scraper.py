@@ -87,36 +87,31 @@ def save_to_csv(info, filename='BackEnd/resumes.csv'):
         print(f"Error saving to CSV: {e}")
 
 # Main function to process resumes
-def process_resumes(resume_files):
-    for resume_file in resume_files:
-        try:
-            # Extract text from the PDF
-            resume_text = extract_text_from_pdf(resume_file)
-            
-            if resume_text:  # Only proceed if text extraction was successful
-                # Extract information from the text
-                info = extract_info(resume_text)
+def process_resumes(resume_file):
+    try:
+    # Extract text from the PDF
+        resume_text = extract_text_from_pdf(resume_file)  
+        if resume_text:  # Only proceed if text extraction was successful
+        # Extract information from the text
+            info = extract_info(resume_text)
                 
-                # Save the extracted information to the CSV file
-                save_to_csv(info)
+             # Save the extracted information to the CSV file
+            save_to_csv(info)
                 
-                print(f"Processed: {resume_file}")
-            else:
-                print(f"Skipping {resume_file} due to text extraction error")
-        except Exception as e:
-            print(f"Error processing {resume_file}: {e}")
+            print(f"Processed: {resume_file}")
+        else:
+            print(f"Skipping {resume_file} due to text extraction error")
+    except Exception as e:
+        print(f"Error processing {resume_file}: {e}")
 
-# # List of resume PDF files to process
-# resume_files = [
-#     'BackEnd/5002894.pdf'
-# ]
+
 
 
 if __name__ == '__main__':
-    # List of resume PDF files to process
+
 
     # Process the resumes
-    process_resumes(resume_files)
+    #process_resumes(resume_file)
 
     #pdf_file = input("Enter the path to the file: ")
 

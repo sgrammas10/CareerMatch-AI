@@ -17,16 +17,13 @@ def upload_resume():
     if resume.filename == "":
         return jsonify({"error": "No selected file"}), 400
 
-    # Save the resume temporarily
-    resume_path = os.path.join("uploads", resume.filename)
-    resume.save(resume_path)
-
-    # Process the resume and get results
     try:
-        results = process_resumes(resume_path)
+        # Directly pass the file stream to the processing function
+        results = process_resumes(resume)
         return jsonify({"message": "Resume processed successfully", "results": results}), 200
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+
 
 if __name__ == "__main__":
     app.run(debug=True)
