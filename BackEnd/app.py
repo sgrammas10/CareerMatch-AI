@@ -6,7 +6,10 @@ from summarization import summarize_jobs
 #from recommender import recommend_jobs
 import sqlite3
 
+from auth import auth
+
 app = Flask(__name__)
+app.register_blueprint(auth)
 
 @app.route("/")
 def index():
