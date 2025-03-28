@@ -13,7 +13,6 @@ def extract_text_from_pdf(pdf_file):
         text = ""
         for page in reader.pages:
             text += page.extract_text()
-        print(text)
         return text
     except Exception as e:
         print(f"Error extracting text from {pdf_file}: {e}")
@@ -25,7 +24,6 @@ def extract_info(resume_text):
     
     # Extract Name
     name_match = re.search(r'#\s*([A-Za-z\s]+)', resume_text)
-
     if name_match:
         info['Name'] = name_match.group(1).strip()
     
@@ -72,7 +70,7 @@ def save_to_csv(info, filename='BackEnd/resumes.csv'):
     try:
         # Check if the file exists
         file_exists = os.path.isfile(filename)
-        
+         
         # Open the file in append mode if it exists, or write mode if it doesn't
         with open(filename, mode='a' if file_exists else 'w', newline='', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames=FIELDS)

@@ -1,12 +1,10 @@
 import torch.nn as nn
 import torch
-import sentencepiece as spm
 
 USER_VOCAB_SIZE = 5000
 USER_EMBEDDING_SIZE = 256
 JOB_VOCAB_SIZE = 5000
 JOB_EMBEDDING_SIZE = 256
-USE_MLP = True
 
 class UserEncoder(nn.Module):
     """Encodes resume token sequences using Transformers."""
@@ -147,41 +145,41 @@ class FullModel(nn.Module):
         rating = self.cf(user_pref, job_pref)
         return rating
 
-model = FullModel()
+# model = FullModel()
 
-def load_user_encoder(weight_path, device="cpu"):
-    encoder = UserEncoder(USER_VOCAB_SIZE).to(device)
-    encoder.load_state_dict(torch.load(weight_path, map_location=device))
-    encoder.eval()
-    return encoder
+# def load_user_encoder(weight_path, device="cpu"):
+#     encoder = UserEncoder().to(device)
+#     encoder.load_state_dict(torch.load(weight_path, map_location=device))
+#     encoder.eval()
+#     return encoder
 
-def load_job_encoder(weight_path, device="cpu"):
-    encoder = JobEncoder(JOB_VOCAB_SIZE).to(device)
-    encoder.load_state_dict(torch.load(weight_path, map_location=device))
-    encoder.eval()
-    return encoder
+# def load_job_encoder(weight_path, device="cpu"):
+#     encoder = JobEncoder().to(device)
+#     encoder.load_state_dict(torch.load(weight_path, map_location=device))
+#     encoder.eval()
+#     return encoder
 
-def load_cf_model(weight_path, device="cpu"):
-    cf = CollaborativeFiltering().to(device)
-    cf.load_state_dict(torch.load(weight_path, map_location=device))
-    cf.eval()
-    return cf
+# def load_cf_model(weight_path, device="cpu"):
+#     cf = CollaborativeFiltering().to(device)
+#     cf.load_state_dict(torch.load(weight_path, map_location=device))
+#     cf.eval()
+#     return cf
 
-# Initialize components
-user_encoder = load_user_encoder(
-    weight_path="models/user_encoder_final.pth",
-    device="cuda"
-)
+# # Initialize components
+# user_encoder = load_user_encoder(
+#     weight_path="models/user_encoder_final.pth",
+#     device="cuda"
+# )
 
-job_encoder = load_job_encoder(
-    weight_path="models/job_encoder_final.pth",
-    device="cuda"
-)
+# job_encoder = load_job_encoder(
+#     weight_path="models/job_encoder_final.pth",
+#     device="cuda"
+# )
 
-cf_model = load_cf_model(
-    weight_path="models/cf_final.pth",
-    device="cuda"
-)
+# cf_model = load_cf_model(
+#     weight_path="models/cf_final.pth",
+#     device="cuda"
+# )
 
 # # Inference pipeline (one by one)
 # def predict_rating(job_tokens, resume_tokens):

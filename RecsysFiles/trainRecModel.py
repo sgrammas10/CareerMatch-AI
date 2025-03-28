@@ -11,15 +11,14 @@ import sentencepiece as spm
 
 # makes segmenter instance and loads the model file (m.model)
 sp = spm.SentencePieceProcessor()
-sp.load('m.model')
+sp.Load('m.model')
 # #encoding = sp.EncodeAsIds("The quick sly fox jumped over the lazy rabbit")
 # #print(encoding)
 
 # 1. Load the CSV
 class JobResumeDataset(Dataset):
-    def __init__(self, csv_path, tokenizer, max_seq_len=10000):
+    def __init__(self, csv_path, max_seq_len=100000):
         self.df = pd.read_csv(csv_path)
-        self.tokenizer = tokenizer
         self.max_seq_len = max_seq_len
 
     def __len__(self):
@@ -30,9 +29,9 @@ class JobResumeDataset(Dataset):
         resume_text = self.df.iloc[idx]['Resume']
         
         # Tokenize using SentencePiece (pad/truncate to max_seq_len)
-        job_tokens = self.tokenizer.encode(job_text)[:self.max_seq_len] + \
+        job_tokens = sp.EncodeAsIds(job_text) + \
                     [0] * (self.max_seq_len - len(self.tokenizer.encode(job_text)))
-        resume_tokens = self.tokenizer.encode(resume_text)[:self.max_seq_len] + \
+        resume_tokens = sp.EncodeAsIds(resume_text) + \
                        [0] * (self.max_seq_len - len(self.tokenizer.encode(resume_text)))
         
         return {
@@ -109,4 +108,4 @@ def train(csv_path, save_dir, epochs=10, batch_size=32):
         print(f"Epoch {epoch+1}, Loss: {total_loss / len(dataloader):.4f}")
 
 # 5. Run training
-train('your_data.csv', './', epochs=10)
+#train('your_data.csv', './', epochs=10)
