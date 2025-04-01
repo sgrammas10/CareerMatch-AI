@@ -245,13 +245,27 @@
         document.getElementById("resumeUploadForm").addEventListener("submit", function(event) {
             event.preventDefault();
             const formData = new FormData(this);
-            fetch("/upload", {
-                method: "POST",
-                body: formData
+            const previewBox = document.getElementById('resumePreview');
+
+            fetch("/upload", { method: "POST", body: formData })
+
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                return response.json().catch(() => ({ error: "Invalid JSON response" }));
             })
-            .then(response => response.json())
-            .then(data => console.log("Resume processed:", data))
-            .catch(error => console.error("Error:", error));
+            .then(data => {
+                if (data.message) {
+                    previewBox.innerHTML = `<p style="color: green;">${data.message}</p>`;
+                } else if (data.error) {
+                    previewBox.innerHTML = `<p style="color: red;">Error: ${data.error}</p>`;
+                }
+            })
+            .catch(error => {
+                previewBox.innerHTML = `<p style="color: red;">Error: ${error.message}</p>`;
+                console.error("Error:", error);
+            });
         });
     </script>
 </body>
