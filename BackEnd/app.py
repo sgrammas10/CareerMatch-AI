@@ -16,7 +16,8 @@ def get_data():
 #change index.html to whatever html file you want to test
 @app.route('/')
 def home():
-    return send_from_directory('/Users/Sebastian Grammas/Desktop/CareerMatchAI/CareerMatch-AI/frontend', 'index.html')
+    frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
+    return send_from_directory(frontend_path, 'index.html')
 
 @app.route("/upload", methods=["POST"])
 @app.route("/upload/", methods=["POST"])
