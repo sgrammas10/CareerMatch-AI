@@ -13,7 +13,7 @@ class UserEncoder(nn.Module):
         d_model=256,
         nhead=8,
         num_layers=3,
-        max_seq_len=5000,
+        max_seq_len=900,
         dim_feedforward=512,
         dropout=0.1
     ):
@@ -69,7 +69,7 @@ class JobEncoder(nn.Module):
         d_model=256,
         nhead=8,
         num_layers=3,
-        max_seq_len=5000,
+        max_seq_len=900,
         dim_feedforward=512,
         dropout=0.1
     ):

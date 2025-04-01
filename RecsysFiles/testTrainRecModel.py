@@ -5,7 +5,6 @@ from recModel import UserEncoder, JobEncoder, CollaborativeFiltering
 from sentence_transformers import SentenceTransformer
 
 device = torch.device('mps' if torch.backends.mps.is_available() else 'cpu')
-
 torch.set_flush_denormal(True)
 
 jobDesc = """SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.PAINT TECHNICIAN (FALCON 9) - WEEKEND SHIFT
@@ -97,9 +96,11 @@ Undergraduate Researcher            Sept; Synthesized organic ligands and inorga
 
 sp = spm.SentencePieceProcessor()
 sp.Load('m.model')
+tokens = sp.EncodeAsIds(jobDesc)
+print(f"Token count: {len(tokens)}")
 
 # 2. Convert to tokenized format (mock SentencePiece-like tokenization)
-def process_text(text, max_len=512):
+def process_text(text, max_len=900):
     tokens = sp.EncodeAsIds(text)[:max_len]
     if len(tokens) < max_len:
         tokens += [0] * (max_len - len(tokens))
