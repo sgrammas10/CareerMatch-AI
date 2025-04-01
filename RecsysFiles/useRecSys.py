@@ -2,124 +2,127 @@ import torch
 from recModel import UserEncoder, JobEncoder, CollaborativeFiltering
 import sentencepiece as spm
 
-# # user_encoder = load_user_encoder(
-# #     weight_path="models/user_encoder_final.pth",
-# #     device="cuda"
-# # )
+def load_user_encoder(weight_path, device="cpu"):
+    encoder = UserEncoder().to(device)
+    encoder.load_state_dict(torch.load(weight_path, map_location=device))
+    encoder.eval()
+    return encoder
 
-# def load_user_encoder(weight_path, device="cpu"):
-#     encoder = UserEncoder().to(device)
-#     encoder.load_state_dict(torch.load(weight_path, map_location=device))
-#     encoder.eval()
-#     return encoder
+# user_encoder = load_user_encoder(
+#     weight_path="models/user_encoder_final.pth",
+#     device="cuda"
+# )
 
-# # job_encoder = load_job_encoder(
-# #     weight_path="models/job_encoder_final.pth",
-# #     device="cuda"
-# # )
+def load_job_encoder(weight_path, device="cpu"):
+    encoder = JobEncoder().to(device)
+    encoder.load_state_dict(torch.load(weight_path, map_location=device))
+    encoder.eval()
+    return encoder
 
-# def load_job_encoder(weight_path, device="cpu"):
-#     encoder = JobEncoder().to(device)
-#     encoder.load_state_dict(torch.load(weight_path, map_location=device))
-#     encoder.eval()
-#     return encoder
+# job_encoder = load_job_encoder(
+#     weight_path="models/job_encoder_final.pth",
+#     device="cuda"
+# )
 
-# # cf_model = load_cf_model(
-# #     weight_path="models/cf_final.pth",
-# #     device="cuda"
-# # )
+def load_cf_model(weight_path, device="cpu"):
+    cf = CollaborativeFiltering().to(device)
+    cf.load_state_dict(torch.load(weight_path, map_location=device))
+    cf.eval()
+    return cf
 
-# def load_cf_model(weight_path, device="cpu"):
-#     cf = CollaborativeFiltering().to(device)
-#     cf.load_state_dict(torch.load(weight_path, map_location=device))
-#     cf.eval()
-#     return cf
+# cf_model = load_cf_model(
+#     weight_path="models/cf_final.pth",
+#     device="cuda"
+# )
 
-# # Initialize components
-# user_encoder = UserEncoder().to("cpu")
+# Initialize components
+sp = spm.SentencePieceProcessor()
+sp.Load('m.model')
+user_encoder = UserEncoder().to("cpu")
+job_encoder = JobEncoder().to("cpu")
+cf_model = CollaborativeFiltering().to("cpu")
 
-# job_encoder = JobEncoder().to("cpu")
+# Inference pipeline (one by one)
+def predict_rating(job_pref, user_pref):
+    with torch.no_grad():
+        return cf_model(user_pref, job_pref)
 
-# cf_model = CollaborativeFiltering().to("cpu")
+# Example usage with new data
+def process_new_job(text, max_seq_len=5000):
+    tokens = sp.EncodeAsIds(text)
+    tokens = [min(t, 30000-1) for t in tokens]  # Clamp tokens
+    tokens += [0] * (max_seq_len - len(tokens))
+    tokens = torch.tensor(tokens).unsqueeze(0).to("cpu")
+    return job_encoder(tokens)
 
+def process_new_user(text, max_seq_len=5000):
+    tokens = sp.EncodeAsIds(text)
+    tokens = [min(t, 30000-1) for t in tokens]  # Clamp tokens
+    tokens += [0] * (max_seq_len - len(tokens))
+    tokens = torch.tensor(tokens).unsqueeze(0).to("cpu")
+    return user_encoder(tokens)
 
+# Process new job and resume
+new_job = process_new_job("Senior Python Developer")
 
+new_resume = process_new_user("5 years Python experience...")
 
-
-
-# # Inference pipeline (one by one)
-# def predict_rating(job_pref, user_pref):
-#     with torch.no_grad():
-#         return cf_model(user_pref, job_pref)
-
-# # Example usage with new data
-# def process_new_input(text, max_seq_len=100000):
-#     sp = spm.SentencePieceProcessor()
-#     sp.Load('m.model')
-#     tokens = sp.EncodeAsIds(text)
-#     tokens += [0] * (max_seq_len - len(tokens))
-#     return torch.tensor(tokens).unsqueeze(0).to("cpu")
-
-# # Process new job and resume
-# new_job = process_new_input("Senior Python Developer")
-# job = job_encoder(new_job)
-
-# new_resume = process_new_input("5 years Python experience...")
-# user = user_encoder(new_resume)
-
-# # Get rating
-# rating = predict_rating(job, user)
+# Get rating
+rating = predict_rating(new_job, new_resume)
 # print(f"Predicted alignment score: {rating.item():.4f}")
 
 
-# models = {
-#     'user_encoder': UserEncoder().to("cpu"),
-#     'job_encoder': JobEncoder().to("cpu"),
-#     'cf': CollaborativeFiltering().to("cpu")
-# }
-
-# def batch_process_texts(texts, device='cpu', max_seq_len=100000):
-#     """Process a list of texts into batched tokens"""
-#     sp = spm.SentencePieceProcessor()
-#     sp.Load('m.model')
-#     # tokens = sp.EncodeAsIds(text)
-#     batch_tokens = []
-#     for text in texts:
-#         tokens = sp.EncodeAsIds(text)
-#         tokens += [sp.pad_id()] * (max_seq_len - len(tokens))
-#         batch_tokens.append(tokens)
-#     return torch.tensor(batch_tokens, dtype=torch.long, device=device)
-
-# def batch_predict(job_texts, resume_texts, models, device='cpu'):
-#     """
-#     Args:
-#         job_texts: List[str] - Batch of job descriptions
-#         resume_texts: List[str] - Batch of resumes
-#         models: Dict - {'user_encoder', 'job_encoder', 'cf'}
+def batch_process_jobs(texts, device='cpu', max_seq_len=5000):
+    """Process batch of job texts to preference vectors"""
+    batch_tokens = []
+    for text in texts:
+        tokens = sp.EncodeAsIds(text)[:max_seq_len]
+        tokens = [min(t, 30000-1) for t in tokens]  # Use actual vocab size
+        tokens += [0] * (max_seq_len - len(tokens))
+        batch_tokens.append(tokens)
     
-#     Returns:
-#         ratings: Tensor - (batch_size,) similarity scores
-#     """
-#     # Process texts to tokens
-#     job_tokens = batch_process_texts(job_texts, device)
-#     resume_tokens = batch_process_texts(resume_texts, device)
+    # Convert to tensor and encode
+    token_tensor = torch.tensor(batch_tokens, device=device)
+    with torch.no_grad():
+        return job_encoder(token_tensor)  # Returns (batch_size, 256)
+
+def batch_process_users(texts, device='cpu', max_seq_len=5000):
+    """Process batch of user texts to preference vectors"""
+    batch_tokens = []
+    for text in texts:
+        tokens = sp.EncodeAsIds(text)[:max_seq_len]
+        tokens = [min(t, 30000-1) for t in tokens]  # Use actual vocab size
+        tokens += [0] * (max_seq_len - len(tokens))
+        batch_tokens.append(tokens)
     
-#     # Get preferences
-#     with torch.no_grad():
-#         job_prefs = models['job_encoder'](job_tokens)
-#         user_prefs = models['user_encoder'](resume_tokens)
-#         ratings = models['cf'](user_prefs, job_prefs)
+    # Convert to tensor and encode
+    token_tensor = torch.tensor(batch_tokens, device=device)
+    with torch.no_grad():
+        return user_encoder(token_tensor)
+
+def batch_predict(job_prefs, user_prefs):
+    """
+    Args:
+        job_prefs: List[Tensor] - Batch of job preferences
+        user_prefs: List[Tensor] - Batch of user preferences
     
-#     return ratings
+    Returns:
+        ratings: Tensor - (batch_size,) similarity scores
+    """
+    # Get preferences
+    with torch.no_grad():
+        return cf_model(user_prefs, job_prefs)
+    
 
-# # Example usage
+# Example usage
+job_batch = ["Senior Python Developer", "ML Engineer"]
+resume_batch = ["5+ years Python...", "TensorFlow experience..."]
 
-# job_batch = ["Senior Python Developer", "ML Engineer"]
-# resume_batch = ["5+ years Python...", "TensorFlow experience..."]
+jobs_pref = batch_process_jobs(job_batch)
+users_pref = batch_process_users(resume_batch)
 
-# ratings = batch_predict(job_batch, resume_batch, models, device='cuda')
+ratings = batch_predict(jobs_pref, users_pref)
 # print(f"Batch ratings: {ratings.cpu().numpy().tolist()}")
-
 
 
 def calculate_adjustment(current_vec: torch.Tensor, 
@@ -177,32 +180,32 @@ def company_accept(company_pref: torch.Tensor, user_pref: torch.Tensor) -> torch
 
 def company_resume_viewed(company_pref: torch.Tensor, user_pref: torch.Tensor) -> torch.Tensor:
     multiplier: float = 0.05 # Move 5% of distance closer
-    
+
     return calculate_adjustment(company_pref, user_pref, multiplier)
 
 # ========================
 # USAGE EXAMPLE
 # ========================
 
-if __name__ == "__main__":
-    # Initialize sample vectors
-    user_pref = torch.randn(256)  # User preference vector
-    company_pref = torch.randn(256)  # Company preference vector
+# if __name__ == "__main__":
+#     # Initialize sample vectors
+#     user_pref = torch.randn(256)  # User preference vector
+#     company_pref = torch.randn(256)  # Company preference vector
     
-    print("Original cosine similarity:", torch.cosine_similarity(user_pref, company_pref, dim=0).item())
+#     print("Original cosine similarity:", torch.cosine_similarity(user_pref, company_pref, dim=0).item())
     
-    # User saves for later
-    updated_user = user_save_for_later(user_pref, company_pref)
-    print("After save_for_later similarity:", torch.cosine_similarity(updated_user, company_pref, dim=0).item())
+#     # User saves for later
+#     updated_user = user_save_for_later(user_pref, company_pref)
+#     print("After save_for_later similarity:", torch.cosine_similarity(updated_user, company_pref, dim=0).item())
     
-    # Company views resume
-    updated_company = company_resume_viewed(company_pref, user_pref)
-    print("After resume_viewed similarity:", torch.cosine_similarity(user_pref, updated_company, dim=0).item())
+#     # Company views resume
+#     updated_company = company_resume_viewed(company_pref, user_pref)
+#     print("After resume_viewed similarity:", torch.cosine_similarity(user_pref, updated_company, dim=0).item())
     
-    # User applies
-    updated_user = user_apply(updated_user, updated_company)
-    print("After apply similarity:", torch.cosine_similarity(updated_user, updated_company, dim=0).item())
+#     # User applies
+#     updated_user = user_apply(updated_user, updated_company)
+#     print("After apply similarity:", torch.cosine_similarity(updated_user, updated_company, dim=0).item())
     
-    # Company rejects
-    updated_company = company_reject(updated_company, updated_user)
-    print("After rejection similarity:", torch.cosine_similarity(updated_user, updated_company, dim=0).item())
+#     # Company rejects
+#     updated_company = company_reject(updated_company, updated_user)
+#     print("After rejection similarity:", torch.cosine_similarity(updated_user, updated_company, dim=0).item())

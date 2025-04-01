@@ -1,9 +1,9 @@
 import torch.nn as nn
 import torch
 
-USER_VOCAB_SIZE = 5000
+USER_VOCAB_SIZE = 30000
 USER_EMBEDDING_SIZE = 256
-JOB_VOCAB_SIZE = 5000
+JOB_VOCAB_SIZE = 30000
 JOB_EMBEDDING_SIZE = 256
 
 class UserEncoder(nn.Module):
@@ -13,7 +13,7 @@ class UserEncoder(nn.Module):
         d_model=256,
         nhead=8,
         num_layers=3,
-        max_seq_len=512,
+        max_seq_len=5000,
         dim_feedforward=512,
         dropout=0.1
     ):
@@ -69,7 +69,7 @@ class JobEncoder(nn.Module):
         d_model=256,
         nhead=8,
         num_layers=3,
-        max_seq_len=512,
+        max_seq_len=5000,
         dim_feedforward=512,
         dropout=0.1
     ):
@@ -77,7 +77,7 @@ class JobEncoder(nn.Module):
         self.d_model = d_model
         
         # Token and positional embeddings
-        self.token_embedding = nn.Embedding(JOB_EMBEDDING_SIZE, d_model)
+        self.token_embedding = nn.Embedding(JOB_VOCAB_SIZE, d_model)
         self.positional_embedding = nn.Embedding(max_seq_len, d_model)
         
         # Transformer encoder
