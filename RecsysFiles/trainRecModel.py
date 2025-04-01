@@ -58,6 +58,9 @@ class JobResumeDataset(Dataset):
         }
 
 def train():
+    # Precompute data
+    precompute_targets('raw.csv', 'preprocessed_data.csv')
+
     # Load data
     dataset = JobResumeDataset('preprocessed_data.csv')
     dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
