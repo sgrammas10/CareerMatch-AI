@@ -48,14 +48,14 @@ def predict_rating(job_pref, user_pref):
         return cf_model(user_pref, job_pref)
 
 # Example usage with new data
-def process_new_job(text, max_seq_len=5000):
+def process_new_job(text, max_seq_len=900):
     tokens = sp.EncodeAsIds(text)
     tokens = [min(t, 30000-1) for t in tokens]  # Clamp tokens
     tokens += [0] * (max_seq_len - len(tokens))
     tokens = torch.tensor(tokens).unsqueeze(0).to("cpu")
     return job_encoder(tokens)
 
-def process_new_user(text, max_seq_len=5000):
+def process_new_user(text, max_seq_len=900):
     tokens = sp.EncodeAsIds(text)
     tokens = [min(t, 30000-1) for t in tokens]  # Clamp tokens
     tokens += [0] * (max_seq_len - len(tokens))
@@ -72,7 +72,7 @@ rating = predict_rating(new_job, new_resume)
 # print(f"Predicted alignment score: {rating.item():.4f}")
 
 
-def batch_process_jobs(texts, device='cpu', max_seq_len=5000):
+def batch_process_jobs(texts, device='cpu', max_seq_len=900):
     """Process batch of job texts to preference vectors"""
     batch_tokens = []
     for text in texts:
@@ -86,7 +86,7 @@ def batch_process_jobs(texts, device='cpu', max_seq_len=5000):
     with torch.no_grad():
         return job_encoder(token_tensor)  # Returns (batch_size, 256)
 
-def batch_process_users(texts, device='cpu', max_seq_len=5000):
+def batch_process_users(texts, device='cpu', max_seq_len=900):
     """Process batch of user texts to preference vectors"""
     batch_tokens = []
     for text in texts:
