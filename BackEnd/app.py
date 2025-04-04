@@ -19,6 +19,16 @@ def home():
     frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
     return send_from_directory(frontend_path, 'index.html')
 
+@app.route('/<path:filename>')
+def serve_static_files(filename):
+    frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
+    return send_from_directory(frontend_path, filename)
+
+@app.route('/personal_info')
+def personal_info():
+    frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
+    return send_from_directory(frontend_path, 'personal_info.html')
+
 @app.route("/upload", methods=["POST"])
 @app.route("/upload/", methods=["POST"])
 def upload_resume():
