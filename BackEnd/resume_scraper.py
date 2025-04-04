@@ -66,11 +66,11 @@ def extract_info(resume_text):
     return info
 
 # Function to save extracted information to a CSV file
-def save_to_csv(info, filename='resumes.csv'):
+def save_to_csv(info, filename='BackEnd/resumes.csv'):
     try:
         # Check if the file exists
         file_exists = os.path.isfile(filename)
-        
+         
         # Open the file in append mode if it exists, or write mode if it doesn't
         with open(filename, mode='a' if file_exists else 'w', newline='', encoding='utf-8') as file:
             writer = csv.DictWriter(file, fieldnames=FIELDS)
@@ -87,33 +87,32 @@ def save_to_csv(info, filename='resumes.csv'):
         print(f"Error saving to CSV: {e}")
 
 # Main function to process resumes
-def process_resumes(resume_files):
-    for resume_file in resume_files:
-        try:
-            # Extract text from the PDF
-            resume_text = extract_text_from_pdf(resume_file)
-            
-            if resume_text:  # Only proceed if text extraction was successful
-                # Extract information from the text
-                info = extract_info(resume_text)
+def process_resumes(resume_file):
+    try:
+    # Extract text from the PDF
+        resume_text = extract_text_from_pdf(resume_file)  
+        if resume_text:  # Only proceed if text extraction was successful
+        # Extract information from the text
+            info = extract_info(resume_text)
                 
-                # Save the extracted information to the CSV file
-                save_to_csv(info)
+             # Save the extracted information to the CSV file
+            save_to_csv(info)
                 
-                print(f"Processed: {resume_file}")
-            else:
-                print(f"Skipping {resume_file} due to text extraction error")
-        except Exception as e:
-            print(f"Error processing {resume_file}: {e}")
+            print(f"Processed: {resume_file}")
+        else:
+            print(f"Skipping {resume_file} due to text extraction error")
+    except Exception as e:
+        print(f"Error processing {resume_file}: {e}")
 
-# List of resume PDF files to process
-resume_files = [
-    '5002894.pdf'
-]
 
-# Process the resumes
-process_resumes(resume_files)
 
-#pdf_file = input("Enter the path to the file: ")
 
-print("Resume scraping and storage completed.")
+if __name__ == '__main__':
+
+
+    # Process the resumes
+    #process_resumes(resume_file)
+
+    #pdf_file = input("Enter the path to the file: ")
+
+    print("Resume scraping and storage completed.")
