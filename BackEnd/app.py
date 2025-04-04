@@ -1,36 +1,30 @@
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, request, jsonify, render_template, url_for
 from flask_cors import CORS
 import os
 from resume_scraper import process_resumes
-
 from auth import auth, init_db
 
 app = Flask(__name__)
 app.register_blueprint(auth)
-CORS(app)  
+CORS(app)
 
+# Home route
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+# API route for testing CORS
 @app.route('/api/data')
 def get_data():
     return jsonify({"message": "CORS is working!"})
 
-#change index.html to whatever html file you want to test
-@app.route('/')
-def home():
-    frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
-    return send_from_directory(frontend_path, 'index.html')
-
-@app.route('/<path:filename>')
-def serve_static_files(filename):
-    frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
-    return send_from_directory(frontend_path, filename)
-
+# Route for personal_info.html
 @app.route('/personal_info')
 def personal_info():
-    frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
-    return send_from_directory(frontend_path, 'personal_info.html')
+    return render_template('personal_info.html')
 
+# Upload route
 @app.route("/upload", methods=["POST"])
-@app.route("/upload/", methods=["POST"])
 def upload_resume():
     if "resume" not in request.files:
         return jsonify({"error": "No resume uploaded"}), 400
