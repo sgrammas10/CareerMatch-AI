@@ -17,7 +17,7 @@ def get_data():
 @app.route('/')
 def home():
     frontend_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '../FrontEnd')
-    return send_from_directory(frontend_path, 'index.html')
+    return send_from_directory(frontend_path, 'personal_info.html')
 
 @app.route("/upload", methods=["POST"])
 @app.route("/upload/", methods=["POST"])
