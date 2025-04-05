@@ -1,5 +1,404 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-2720578,"Senior Engineering Manager, Content Platform ","https://job-boards.greenhouse.io/reddit/jobs/6770396","Reddit","New York","Yes",7,"Full time","2025-04-03T01:53:07.821963Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2733873,"Staff Machine Learning Engineer, Ads Targeting","https://job-boards.greenhouse.io/reddit/jobs/6778794","Reddit","Remote","Yes",5,"Full time","2025-04-05T01:51:40.250362Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+Were evolving and continuing our mission to bring community, belonging, and empowerment to everyone in the world. Providing a delightful and relevant experience to our users applies to our Ads like all of our offerings, and were excited to build a product that is best-in-class for our users and advertisers. The year ahead is a busy one - join us! 
+Ads Targeting ML engineers are focused on designing and implementing ML systems and solutions for improving targeting products. The teams projects involve building large-scale offline &amp; online retrieval systems across several dimensions to improve contextual &amp; behavioral targeting for targeting products.
+As a staff machine learning engineer in the ads targeting quality team, you will own and execute our mission to automate targeting and deliver the most relevant audiences to advertisers under the right context with ML-driven solutions. 
+Your Responsibilities:
+
+Own end-to-end design and execution of ML-based targeting products like auto targeting, user lookalikes etc. 
+Drive research direction and technical roadmap for complex projects, lead day to day project execution, and contribute meaningfully to team vision and strategy
+Be a thought leader for the team and collaborate closely with product managers and cross-functional partners to develop and prioritize the roadmap based on data analysis, industry research and product research 
+Research, implement, test, and launch new model architectures for retrieval using deep learning (GNNs, transformers, two tower models, LLMs) with a focus on improving advertiser outcomes
+Provide mentorship to junior MLEs
+Own offline &amp; online experimentation of ML models for improving targeting products 
+Work on large scale data systems, and product integration
+Collaborate closely with multiple stakeholders cross product, engineering, research and marketing 
+
+Required Qualifications
+
+Tech lead experience in a product ML team driving the research and technical direction to improve business outcomes using applied ML
+Experience with ads retrieval modeling, ranking or recommendation systems 
+Experience with deep learning models for retrieval (two tower, GNNs, transformers, LLMs)
+5+ years of end-to-end experience of training, evaluating, testing, and deploying machine learning models
+2+ years of experience building machine learning models with Tensorflow/Pytorch 
+Experience with large scale data processing &amp; pipeline orchestration tools like Spark, Dataflow, Kubeflow, Airflow, BigQuery
+Experience working with nearest-neighbor search systems is a big plus
+Experience working with cross functional stakeholders across research, product &amp; infrastructure to productize ML research 
+Experience with deep learning, representation learning or transfer learning is preferred
+Tech lead experience in a product team is strongly preferred
+
+Benefits:
+
+Comprehensive Healthcare Benefits and Income Replacement Programs
+401k Match
+Family Planning Support
+Gender-Affirming Care
+Mental Health &amp; Coaching Benefits
+Flexible Vacation &amp; Reddit Global Days off
+Generous paid Parental Leave  
+Paid Volunteer time off
+
+ 
+#LI-AK1 #LI-REMOTE
+ Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$230,000$322,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2733872,"AI and Creative Operations Strategist","https://job-boards.greenhouse.io/reddit/jobs/6763220","Reddit","New York","No",4,"Full time","2025-04-05T01:51:40.250473Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+Location: Los Angeles, New York, or Chicago
+TL;DR  Were looking for a system-savvy, AI-curious operator to help scale Reddits creative strategy function.
+So...what is KarmaLab again?
+KarmaLab is Reddits in-house creative strategy team. We sit at the intersection of brand needs and Reddit culture, helping advertisers show up in ways that resonate with real communities. Were equal parts creative thinkers, strategic storytellers, and cultural translators. And now, were building for scale.
+Thats where you come in.
+Were looking for someone who loves solving the how behind creative impactsomeone who can streamline processes, build tools, and champion automation to unlock Reddits full creative potential. This is a behind-the-scenes but high-impact role, perfect for someone who geeks out over AI workflows, cross-functional coordination, and removing blockers for creative teams and sales partners alike.
+What Youll Do
+
+Build AI-powered tools and self-serve systems that scale creative strategy across Reddits sales org.
+Partner with Product, Marketing, and Sales to drive AI adoption and automate the delivery of creative guidance.
+Stay plugged into the latest AI trends, tools, and techand translate them into practical solutions for real business needs.
+Own vendor and legal operations: from onboarding to approvals to procurement, youll keep creative projects moving and prevent unnecessary delays.
+Jump in on creative strategy work when neededsupporting high-impact RFPs and building strategic materials that drive results.
+
+Who You Are
+
+Youve scaled creative or strategic programs beforewhether through AI, process design, or automation.
+You love a good system. You find joy in creating tools, frameworks, and workflows that make life easier for others.
+Youre curious about AI and excited to apply it meaningfully in a creative context.
+Youre a cross-functional wizardcomfortable working with legal, finance, product, and sales to get things done.
+You get the creative side, tooand youre comfortable contributing to pitches, playbooks, and creative strategy moments that matter.
+
+Minimum Qualifications
+
+4+ years of experience in creative strategy, marketing operations, AI enablement, or a related field.
+Hands-on experience streamlining workflows or scaling programs across a business.
+Strong communication skills, especially in cross-functional or highly collaborative environments.
+Familiarity with AI tools and how they can be applied to content or creative processes.
+Proficiency in Google Slides and collaborative documentation tools.
+A portfolio, case study, or example of your systems-thinking or creative work is a plus.
+
+Preferred Qualifications
+
+Experience working at or with a social media platform or within a creative strategy org.
+Past work with AI tools in a marketing or creative context.
+A background in vendor management, legal operations, or cross-functional program management.
+Previous exposure to Reddit communities or culture is a bonusbut curiosity counts, too.
+
+Want to help build the engine behind Reddits creative future?
+Lets make it happen.
+Benefits:
+
+Comprehensive Healthcare Benefits and Income Replacement Programs
+401k Match
+Family Planning Support
+Gender-Affirming Care
+Mental Health &amp; Coaching Benefits
+Flexible Vacation &amp; Reddit Global Days off
+Generous paid Parental Leave  
+Paid Volunteer time off
+
+ 
+ Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and will also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$134,600$188,500 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2007666,"Client Account Manager, Mid-Market","https://job-boards.greenhouse.io/reddit/jobs/6469540","Reddit","Toronto","No",4,"Full time","2025-04-05T01:51:40.250523Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+We're looking for a sharp, positive and motivated self-starter to join our Canadian Mid-Market Sales team. As a Client Account Manager, you will closely collaborate with your Client Partner on campaign execution and optimizations to help agencies and advertisers achieve their marketing objectives on the fast-growing Reddit platform.
+Please note that this role is required to work in person from our Toronto office 1-2 days per week.
+Responsibilities:
+
+Collaborate closely with Client Partners to meet and exceed your clients marketing goals
+Proactively manage and deepen relationships with existing advertising partners, both with agencies and directly with clients to drive year-over-year Reddit revenue growth
+Lead and execute campaign launches from start to finish, delivering insightful optimization recommendations to agency and client partners
+Act as the primary point of contact for internal account operations, including managing revenue delivery, troubleshooting issues, and escalating when necessary
+Educate brands and media agencies, effectively communicating Reddits value proposition and best practices for advertising on the platform
+Consult clients on their awareness and direct response objectives, partnering closely with Client Partners to craft thoughtful and creative media plans
+Collaborate with Ad Ops to ensure effective campaign delivery and resolve any technical hurdles
+Dive deep into campaign performance data, audience and competitor insights, seasonality, and market and performance trends to develop KPI-driven campaign recommendations
+Proactively seek and represent client needs and asks to cross-functional stakeholders
+Shape Reddits native ads product roadmap by aggregating and sharing client feedback and campaign metrics with cross-functional stakeholders
+Proactively identify areas of improvement and drive the execution of solutions
+Mentor and train other team members
+
+Required Qualifications:
+
+4-7 years of experience in advertising sales and account management
+Strong understanding of customer marketing funnel and traditional marketing ecosystem
+Comfortable with problems of diverse scope where analysis of data requires evaluation of identifiable factors
+Proficient at upselling with a proven track record of growing client spend
+Understanding of Digital measurement, tracking fundamentals and mobile measurement partners
+Tenacious and entrepreneurial approach to working through product, process, and client challenges
+Experience cultivating strong relationships with external partners
+Exceptional communication and interpersonal skills
+Ability to work in a fast-paced and unstructured work environment
+High attention to detail
+Proficiency in Excel preferred
+BA / BS degree or equivalent work experience
+
+Benefits:
+
+Comprehensive Health Benefits
+Retirement Savings plan with matching contributions
+Workspace benefits for your home office
+Personal &amp; Professional development funds
+Family Planning Support
+Flexible Vacation &amp; Reddit Global Days Off
+
+#LI-ES1 #LI-onsiteReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2666080,"Senior Software Engineer, Media Infrastructure","https://job-boards.greenhouse.io/reddit/jobs/6747812","Reddit","New York","Yes",5,"Full time","2025-04-05T01:51:40.250571Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+The Core Platform team facilitates millions of API requests running the Core API Platform for Reddit. Core Platform is responsible for the APIs that build our listings, enabling posts, comments, and many more features and data models that are the sources of truth for Reddit. 
+As a Senior Engineer on this team, youll be a technical coach and mentor. Youll draw on your technical expertise to ensure these systems have high uptime and strong performance while working with others to build a roadmap to match the needs of an ever growing engineering organization. Youll build and scale the exciting features and services needed to create real-time experiences and spark connections, which will fuel the next wave of Reddits growth. Your work will directly impact hundreds of millions of users around the world. Join us and help build the future of Reddit!
+You will:
+
+Develop and design new and innovative solutions to scaling Reddit
+Build platform API projects that scale to the rest of the organization
+Mentor and coach more junior engineers on your direct team to achieve our mission
+Build, deliver, and operate services that scale to hundreds of thousands of transactions per second at 5+ 9s of availability
+Help us to optimize Reddits media experience for hundreds of millions of users across the world.
+
+You have:
+
+Software development experience in Golang or Python
+5+ years of experience with large-scale, mission-critical distributed systems.
+Media delivery expertise from back end systems to the user.  Experience optimizing media performance, scalability, and delivery by improving different stages of the stack.
+Excellent communication skills. You partner effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
+Familiarity with API platform service architectures.
+History of building clean, maintainable, and well-tested code.
+
+Benefits:
+
+Comprehensive Healthcare Benefits
+401k Matching
+Workspace benefits for your home office
+Personal &amp; Professional development funds
+Family Planning Support
+Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
+4+ months paid Parental Leave
+Paid Volunteer time off
+
+#LI-remote, #LI-JS5Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2666082,"Senior Software Engineer, Media Infrastructure","https://job-boards.greenhouse.io/reddit/jobs/6747815","Reddit","Seattle","Yes",5,"Full time","2025-04-05T01:51:40.250619Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+The Core Platform team facilitates millions of API requests running the Core API Platform for Reddit. Core Platform is responsible for the APIs that build our listings, enabling posts, comments, and many more features and data models that are the sources of truth for Reddit. 
+As a Senior Engineer on this team, youll be a technical coach and mentor. Youll draw on your technical expertise to ensure these systems have high uptime and strong performance while working with others to build a roadmap to match the needs of an ever growing engineering organization. Youll build and scale the exciting features and services needed to create real-time experiences and spark connections, which will fuel the next wave of Reddits growth. Your work will directly impact hundreds of millions of users around the world. Join us and help build the future of Reddit!
+You will:
+
+Develop and design new and innovative solutions to scaling Reddit
+Build platform API projects that scale to the rest of the organization
+Mentor and coach more junior engineers on your direct team to achieve our mission
+Build, deliver, and operate services that scale to hundreds of thousands of transactions per second at 5+ 9s of availability
+Help us to optimize Reddits media experience for hundreds of millions of users across the world.
+
+You have:
+
+Software development experience in Golang or Python
+5+ years of experience with large-scale, mission-critical distributed systems.
+Media delivery expertise from back end systems to the user.  Experience optimizing media performance, scalability, and delivery by improving different stages of the stack.
+Excellent communication skills. You partner effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
+Familiarity with API platform service architectures.
+History of building clean, maintainable, and well-tested code.
+
+Benefits:
+
+Comprehensive Healthcare Benefits
+401k Matching
+Workspace benefits for your home office
+Personal &amp; Professional development funds
+Family Planning Support
+Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
+4+ months paid Parental Leave
+Paid Volunteer time off
+
+#LI-remote, #LI-JS5Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2666081,"Senior Software Engineer, Media Infrastructure","https://job-boards.greenhouse.io/reddit/jobs/6747810","Reddit","San Francisco","Yes",5,"Full time","2025-04-05T01:51:40.250668Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+The Core Platform team facilitates millions of API requests running the Core API Platform for Reddit. Core Platform is responsible for the APIs that build our listings, enabling posts, comments, and many more features and data models that are the sources of truth for Reddit. 
+As a Senior Engineer on this team, youll be a technical coach and mentor. Youll draw on your technical expertise to ensure these systems have high uptime and strong performance while working with others to build a roadmap to match the needs of an ever growing engineering organization. Youll build and scale the exciting features and services needed to create real-time experiences and spark connections, which will fuel the next wave of Reddits growth. Your work will directly impact hundreds of millions of users around the world. Join us and help build the future of Reddit!
+You will:
+
+Develop and design new and innovative solutions to scaling Reddit
+Build platform API projects that scale to the rest of the organization
+Mentor and coach more junior engineers on your direct team to achieve our mission
+Build, deliver, and operate services that scale to hundreds of thousands of transactions per second at 5+ 9s of availability
+Help us to optimize Reddits media experience for hundreds of millions of users across the world.
+
+You have:
+
+Software development experience in Golang or Python
+5+ years of experience with large-scale, mission-critical distributed systems.
+Media delivery expertise from back end systems to the user.  Experience optimizing media performance, scalability, and delivery by improving different stages of the stack.
+Excellent communication skills. You partner effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
+Familiarity with API platform service architectures.
+History of building clean, maintainable, and well-tested code.
+
+Benefits:
+
+Comprehensive Healthcare Benefits
+401k Matching
+Workspace benefits for your home office
+Personal &amp; Professional development funds
+Family Planning Support
+Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
+4+ months paid Parental Leave
+Paid Volunteer time off
+
+#LI-remote, #LI-JS5Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2369261,"Senior Software Engineer, Media Infrastructure","https://job-boards.greenhouse.io/reddit/jobs/6602032","Reddit","Remote","Yes",10,"Full time","2025-04-05T01:51:40.250711Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+The Core Platform team facilitates millions of API requests running the Core API Platform for Reddit. Core Platform is responsible for the APIs that build our listings, enabling posts, comments, and many more features and data models that are the sources of truth for Reddit. 
+As a Senior Engineer on this team, youll be a technical coach and mentor. Youll draw on your technical expertise to ensure these systems have high uptime and strong performance while working with others to build a roadmap to match the needs of an ever growing engineering organization. Youll build and scale the exciting features and services needed to create real-time experiences and spark connections, which will fuel the next wave of Reddits growth. Your work will directly impact hundreds of millions of users around the world. Join us and help build the future of Reddit!
+You will:
+
+Develop and design new and innovative solutions to scaling Reddit
+Build platform API projects that scale to the rest of the organization
+Mentor and coach more junior engineers on your direct team to achieve our mission
+Build, deliver, and operate services that scale to hundreds of thousands of transactions per second at 5+ 9s of availability
+Help us to optimize Reddits media experience for hundreds of millions of users across the world.
+
+You have:
+
+Software development experience in Golang or Python
+5+ years of experience with large-scale, mission-critical distributed systems.
+Media delivery expertise from back end systems to the user.  Experience optimizing media performance, scalability, and delivery by improving different stages of the stack.
+Excellent communication skills. You partner effectively with teams in a fully remote environment and discuss complex topics with technical and non-technical audiences.
+Familiarity with API platform service architectures.
+History of building clean, maintainable, and well-tested code.
+
+Benefits:
+
+Comprehensive Healthcare Benefits
+401k Matching
+Workspace benefits for your home office
+Personal &amp; Professional development funds
+Family Planning Support
+Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
+4+ months paid Parental Leave
+Paid Volunteer time off
+
+#LI-remote, #LI-JS5Pay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2726810,"Senior Client Partner, Large Customer Sales (Pharma)","https://job-boards.greenhouse.io/reddit/jobs/6725172","Reddit","New York","No",8,"Full time","2025-04-05T01:51:40.250755Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+We're looking for an experienced seller to join the Pharma vertical of our Large Customer Sales team. As a Senior Client Partner, you will be responsible for forming relationships with key brands and agencies while ensuring they meet their business objectives using Reddit's advertising suite.
+This role is required to be based out of New York, NY. 
+Responsibilities:
+
+Proactively manage and deepen relationships with existing advertising partners, both with agencies and directly with clients to drive year-over-year revenue growth
+Proactively construct upfront and joint business plans with top clients
+Establish mutually beneficial relationships with new clients, educating them on Reddit and the Reddit ads platform
+Leverage agency and client direct relationships to identify new buyers of Reddit advertising products
+Leverage data from internal and external sources to inform client strategies and pitch proposals
+Consistently meet deadlines for all projects, ensuring that clients receive the highest level of customer service
+Act as an internal lead by actively volunteering in team meetings and Reddit special projects
+Own client meetings from agenda to final presentation, instilling confidence and setting all interactions up for success by appropriately setting client expectations, identifying outcomes, and communicating clear next steps
+Act as the primary point of contact for clients to communicate major platform updates, releases, changes, and/or opportunities that will deepen or expand the relationship
+Provide strategic, proactive, and consultative advice to clients in order to uplevel and grow the relationship
+Persistently explore and uncover the needs of your clients, leveraging deep product knowledge to align their goals with new and unique opportunities on the platform
+Collaborate with Account Management and Ad Operations to meet and exceed clients marketing goals
+Shape Reddits ads product roadmap by aggregating and sharing client feedback and campaign metrics with cross-functional stakeholders
+Provide thought leadership and act as a Reddit evangelist with partners and at industry events
+Share your industry, client, and product expertise by mentoring and training other team members
+Collaborate closely with other Client Partners and Account Managers to craft a cohesive strategy across shared accounts
+Build and leverage deep internal relationships, both within your direct team and cross-functionally, working together to deliver on client and business goals
+
+Required Qualifications: 
+
+8-12 years of experience in digital media with at least 4-7 years of experience in sales
+Experience owning partnerships with complex enterprise Pharma organizations
+Proven experience managing relationships up through C-level executives
+Deep industry expertise in specific verticals, product types, and/or measurement solutions
+Deep existing relationships within relevant agencies and client-direct
+Subject matter expertise in the social media landscape and native advertising
+Experience building and executing long-term account growth strategies
+Demonstrated top-performer achievement against sales targets
+Ability to lead special projects
+BA / BS degree or equivalent work experience
+
+Benefits:
+
+Comprehensive Healthcare Benefits and Income Replacement Programs
+401k Match
+Family Planning Support
+Gender-Affirming Care
+Mental Health &amp; Coaching Benefits
+Flexible Vacation &amp; Reddit Global Days off
+Generous paid Parental Leave  
+Paid Volunteer time off
+
+#LI-ES1 #LI-onsitePay Transparency:
+This job posting may span more than one career level.
+In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and will also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
+To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$124,700$174,600 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2726808,"Marketing Project Specialist (Contract)","https://job-boards.greenhouse.io/reddit/jobs/6772651","Reddit","Remote","Yes",2,"Contract","2025-04-05T01:51:40.250790Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+As a Marketing Project Specialist, you will play a key role in supporting marketing initiatives for the Mid-Market EMEA team. This 6-month contract role is designed to support the execution and delivery of a variety of marketing projects, establish and implement marketing processes, and assist in key marketing communications initiatives - including content marketing, thought leadership, vertical sales narratives, and digital marketing efforts such as paid ad campaigns, CRM, webinars, and social media campaigns. This role will focus on helping to drive awareness, consideration, and lead generation for Reddit for Business across multiple markets in EMEA.
+Key Responsibilities
+
+Support the execution of an annual marketing calendar dedicated to a mid-market audience across EMEA that focuses on driving brand awareness, strengthening customer relationships, delivering lead generation, and increasing adoption of Reddit for Business product suite.
+Create systems, processes, and toolkits to support the scaling of marketing activities, ensuring efficiency and consistency across markets.
+Work closely with cross-functional teams to refine messaging, develop localised marketing materials, support translation efforts, and ensure a strong market fit for Reddits advertising solutions.
+Assist in developing and implementing marketing initiatives that shift advertiser perceptions and drive engagement in international markets. This includes campaign coordination, project management, program creation, content writing, creative production, measurement, and reporting.
+Coordinate and support the execution of digital lead generation activities, including quarterly webinar programming, the development and implementation of a mid-market CRM strategy, delivery of paid social campaigns, and email marketing to drive engagement and conversions.
+Support the delivery of marketing programs to enhance Reddits presence across key regions in EMEA through Reddit-owned events, key industry sponsorships, partner activations, thought leadership, and earned media opportunities.
+Create a repository of proof points, including success stories and testimonials, to support sales and marketing efforts. Lead the development of multimedia case study video production.
+
+Preferred Qualifications &amp; Experience
+
+2-5+ years of experience in marketing, communications, or digital media.
+A self-starter with a growth mindset, were looking for someone who is proactive, has strong problem-solving skills, and the ability to navigate ambiguity in a fast-paced environment.
+Strong project management skills, with experience coordinating multiple projects with multiple stakeholders across regions. simultaneously
+Background in B2B marketing, content marketing or digital marketing in the tech or media industry.
+Experience in lead-gen marketing for media platforms or B2B scale-up environments.
+Understanding of the European advertising landscape, including agencies, clients, and trade partnerships.
+Fluent in English; French or German is a bonus.
+
+Location
+
+Preferably based in London or Amsterdam, but open to candidates working remotely across EMEA.
+No travel required.
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+2720578,"Senior Engineering Manager, Content Platform ","https://job-boards.greenhouse.io/reddit/jobs/6770396","Reddit","New York","Yes",7,"Full time","2025-04-05T01:51:40.250827Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -54,7 +453,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$232,500$325,500 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2720576,"Senior Engineering Manager, Content Platform ","https://job-boards.greenhouse.io/reddit/jobs/6762884","Reddit","Remote","Yes",7,"Full time","2025-04-03T01:53:07.822096Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2720576,"Senior Engineering Manager, Content Platform ","https://job-boards.greenhouse.io/reddit/jobs/6762884","Reddit","Remote","Yes",7,"Full time","2025-04-05T01:51:40.250864Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -109,7 +508,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$232,500$325,500 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2123105,"Senior Machine Learning Engineer, Ads Engagement Modeling","https://job-boards.greenhouse.io/reddit/jobs/6500410","Reddit","Remote","Yes",4,"Full time","2025-04-03T01:53:07.822121Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2123105,"Senior Machine Learning Engineer, Ads Engagement Modeling","https://job-boards.greenhouse.io/reddit/jobs/6500410","Reddit","Remote","Yes",4,"Full time","2025-04-05T01:51:40.250899Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -154,7 +553,7 @@ Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
 Paid Volunteer time off
 
 Join us at Reddit, and help us build a community that is inclusive and empowering for everyone.Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2123104,"Senior Machine Learning Engineer, Ads Engagement Modeling","https://job-boards.greenhouse.io/reddit/jobs/6500384","Reddit","Remote","Yes",4,"Full time","2025-04-03T01:53:07.822142Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2123104,"Senior Machine Learning Engineer, Ads Engagement Modeling","https://job-boards.greenhouse.io/reddit/jobs/6500384","Reddit","Remote","Yes",4,"Full time","2025-04-05T01:51:40.250929Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -203,7 +602,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$216,700$303,400 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707056,"Staff Software Engineer, ML Understanding","https://job-boards.greenhouse.io/reddit/jobs/6747086","Reddit","Remote","Yes",7,"Full time","2025-04-03T01:53:07.822160Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707056,"Staff Software Engineer, ML Understanding","https://job-boards.greenhouse.io/reddit/jobs/6747086","Reddit","Remote","Yes",7,"Full time","2025-04-05T01:51:40.250968Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -243,7 +642,7 @@ Mental Health &amp; Coaching Benefits
 Bike to Work scheme
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707055,"Staff Software Engineer - Android Test Engineering ","https://job-boards.greenhouse.io/reddit/jobs/6763442","Reddit","Remote","Yes",8,"Full time","2025-04-03T01:53:07.822178Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707055,"Staff Software Engineer - Android Test Engineering ","https://job-boards.greenhouse.io/reddit/jobs/6763442","Reddit","Remote","Yes",8,"Full time","2025-04-05T01:51:40.250996Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -287,7 +686,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$217,000$303,900 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707054,"Senior Software Engineer, Security Partner","https://job-boards.greenhouse.io/reddit/jobs/6764104","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.822196Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707054,"Senior Software Engineer, Security Partner","https://job-boards.greenhouse.io/reddit/jobs/6764104","Reddit","Remote","Yes",5,"Full time","2025-04-05T01:51:40.251021Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -376,7 +775,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707053,"Senior Release Engineer, Quality Engineering","https://job-boards.greenhouse.io/reddit/jobs/6764598","Reddit","Remote","Yes",6,"Full time","2025-04-03T01:53:07.822214Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707053,"Senior Release Engineer, Quality Engineering","https://job-boards.greenhouse.io/reddit/jobs/6764598","Reddit","Remote","Yes",6,"Full time","2025-04-05T01:51:40.251043Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -434,7 +833,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707052,"Senior Machine Learning Engineer, Top Of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6614618","Reddit","London","Yes",4,"Full time","2025-04-03T01:53:07.822232Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707052,"Senior Machine Learning Engineer, Top Of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6614618","Reddit","London","Yes",4,"Full time","2025-04-05T01:51:40.251072Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -477,7 +876,7 @@ Mental Health &amp; Coaching Benefits
 Bike to Work scheme
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707051,"Senior Frontend Engineer, Top Of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6763564","Reddit","Remote","Yes",4,"Full time","2025-04-03T01:53:07.822250Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707051,"Senior Frontend Engineer, Top Of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6763564","Reddit","Remote","Yes",4,"Full time","2025-04-05T01:51:40.251103Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -515,7 +914,7 @@ Mental Health &amp; Coaching Benefits
 Bike to Work scheme
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2707050,"Legal Program Manager, Privacy & Global Regulatory Affairs","https://job-boards.greenhouse.io/reddit/jobs/6762924","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.822272Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2707050,"Legal Program Manager, Privacy & Global Regulatory Affairs","https://job-boards.greenhouse.io/reddit/jobs/6762924","Reddit","Remote","Yes",5,"Full time","2025-04-05T01:51:40.251128Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -545,7 +944,7 @@ Pay Transparency:
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$143,600$201,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691391,"Staff Backend Engineer, Top of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6758874","Reddit","Remote","Yes",8,"Full time","2025-04-03T01:53:07.822289Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691391,"Staff Backend Engineer, Top of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6758874","Reddit","Remote","Yes",8,"Full time","2025-04-05T01:51:40.251154Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -603,7 +1002,7 @@ Mental Health &amp; Coaching Benefits
 Cycle to Work and Tax Saver schemes
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691390,"Staff Backend Engineer, Top of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6758882","Reddit","Remote","Yes",8,"Full time","2025-04-03T01:53:07.822415Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691390,"Staff Backend Engineer, Top of Funnel","https://job-boards.greenhouse.io/reddit/jobs/6758882","Reddit","Remote","Yes",8,"Full time","2025-04-05T01:51:40.251179Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -662,7 +1061,7 @@ Mental Health &amp; Coaching Benefits
 Bike to Work scheme
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691387,"Senior Software Engineer, Deployment ","https://job-boards.greenhouse.io/reddit/jobs/6692113","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.822466Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691387,"Senior Software Engineer, Deployment ","https://job-boards.greenhouse.io/reddit/jobs/6692113","Reddit","Remote","Yes",5,"Full time","2025-04-05T01:51:40.251202Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -711,7 +1110,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691386,"Senior Director, Global Head of Marketing Science","https://job-boards.greenhouse.io/reddit/jobs/6720595","Reddit","New York","No",15,"Full time","2025-04-03T01:53:07.822498Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691386,"Senior Director, Global Head of Marketing Science","https://job-boards.greenhouse.io/reddit/jobs/6720595","Reddit","New York","No",15,"Full time","2025-04-05T01:51:40.251226Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -755,7 +1154,7 @@ Pay Transparency:
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$282,000$395,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691384,"Principal Engineer, Web Performance","https://job-boards.greenhouse.io/reddit/jobs/6758637","Reddit","Remote","Yes",15,"Full time","2025-04-03T01:53:07.822518Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691384,"Principal Engineer, Web Performance","https://job-boards.greenhouse.io/reddit/jobs/6758637","Reddit","Remote","Yes",15,"Full time","2025-04-05T01:51:40.251253Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -800,7 +1199,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$206,800$365,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691383,"Engineering Manager, Software Products","https://job-boards.greenhouse.io/reddit/jobs/6759626","Reddit","Remote","Yes",10,"Full time","2025-04-03T01:53:07.822547Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691383,"Engineering Manager, Software Products","https://job-boards.greenhouse.io/reddit/jobs/6759626","Reddit","Remote","Yes",10,"Full time","2025-04-05T01:51:40.251276Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -844,13 +1243,13 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$217,000$303,900 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691382,"Engineering Manager, Reddit Pro","https://job-boards.greenhouse.io/reddit/jobs/6756651","Reddit","Remote","Yes",6,"Full time","2025-04-03T01:53:07.822567Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691382,"Engineering Manager, Business Experiences","https://job-boards.greenhouse.io/reddit/jobs/6756651","Reddit","Remote","Yes",6,"Full time","2025-04-05T01:51:40.251296Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
 
 The front page of the internet, Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.
-The Reddit Pro and Profile team is a broader pillar of the core experience at Reddit. This teams mission is to empower users, experts,professional, businesses and organizations to create engaging content for our communities while growing their presence on Reddit. Reddit Pro is an ongoing initiative that offers advanced tooling for businesses that unlocks the power of Reddits 100k active communities &amp; conversations  where opinions are formed and decisions are made. Longer term, businesses will also be able to build on this deep relationship with their Reddit communities by leveraging complementary monetized solutions from Reddit. While Reddits consumer profile is a central part of a Redditors world and acts as a key entry point to their interests and contributions on Reddit. The Profiles team is focused on making profiles an open, safe and expressive part of Reddit for all users, further encouraging growth in user contributions. 
+The Business Experiences team(Reddit Pro, Profiles and Publishers) is a broader pillar of the core experience at Reddit. This teams mission is to empower users, experts, professionals, businesses and organizations to create engaging content for our communities while growing their presence on Reddit. Reddit Pro is an ongoing initiative that offers advanced tooling for businesses that unlocks the power of Reddits 100k active communities &amp; conversations  where opinions are formed and decisions are made. Longer term, businesses will also be able to build on this deep relationship with their Reddit communities by leveraging complementary monetized solutions from Reddit. While Reddits consumer profile is a central part of a Redditors world and acts as a key entry point to their interests and contributions on Reddit. The Profiles team is focused on making profiles an open, safe and expressive part of Reddit for all users, further encouraging growth in user contributions. 
 This is a high impact role where you will be involved in technical &amp; product strategy and have a chance to get in on the ground floor of a new product space. 
 This role can be remote within the United States or Canada, or can be a hybrid model if near an office. Offices are located in San Francisco, Los Angeles, Chicago, New York City, and Toronto. 
 What Youll Do:
@@ -893,13 +1292,13 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$217,000$303,900 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2691381,"Engineering Manager, Reddit Pro","https://job-boards.greenhouse.io/reddit/jobs/6758697","Reddit","Remote","Yes",6,"Full time","2025-04-03T01:53:07.822584Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2691381,"Engineering Manager, Business Experiences ","https://job-boards.greenhouse.io/reddit/jobs/6758697","Reddit","Remote","Yes",6,"Full time","2025-04-05T01:51:40.251322Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
 
 The front page of the internet, Reddit brings over 430 million people together each month through their common interests, inviting them to share, vote, comment, and create across thousands of communities. Come for the cats, stay for the empathy.
-The Reddit Pro and Profile team is a broader pillar of the core experience at Reddit. This teams mission is to empower users, experts,professional, businesses and organizations to create engaging content for our communities while growing their presence on Reddit. Reddit Pro is an ongoing initiative that offers advanced tooling for businesses that unlocks the power of Reddits 100k active communities &amp; conversations  where opinions are formed and decisions are made. Longer term, businesses will also be able to build on this deep relationship with their Reddit communities by leveraging complementary monetized solutions from Reddit. While Reddits consumer profile is a central part of a Redditors world and acts as a key entry point to their interests and contributions on Reddit. The Profiles team is focused on making profiles an open, safe and expressive part of Reddit for all users, further encouraging growth in user contributions. 
+The Business Experiences team(Reddit Pro, Profiles and Publishers) is a broader pillar of the core experience at Reddit. This teams mission is to empower users, experts, professionals, businesses and organizations to create engaging content for our communities while growing their presence on Reddit. Reddit Pro is an ongoing initiative that offers advanced tooling for businesses that unlocks the power of Reddits 100k active communities &amp; conversations  where opinions are formed and decisions are made. Longer term, businesses will also be able to build on this deep relationship with their Reddit communities by leveraging complementary monetized solutions from Reddit. While Reddits consumer profile is a central part of a Redditors world and acts as a key entry point to their interests and contributions on Reddit. The Profiles team is focused on making profiles an open, safe and expressive part of Reddit for all users, further encouraging growth in user contributions. 
 This is a high impact role where you will be involved in technical &amp; product strategy and have a chance to get in on the ground floor of a new product space. 
 This role can be remote within the United States or Canada, or can be a hybrid model if near an office. Offices are located in San Francisco, Los Angeles, Chicago, New York City, and Toronto. 
 What Youll Do:
@@ -937,7 +1336,7 @@ Flexible Vacation &amp; Reddit Global Days off
 
  
 #LI-YK1 #LI-RemoteReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2288407,"Staff Product Manager, Ads Marketplace - Supply Optimization & Ranking","https://job-boards.greenhouse.io/reddit/jobs/6563939","Reddit","Remote","Yes",3,"Full time","2025-04-03T01:53:07.822603Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2288407,"Staff Product Manager, Ads Marketplace - Supply Optimization & Ranking","https://job-boards.greenhouse.io/reddit/jobs/6563939","Reddit","Remote","Yes",3,"Full time","2025-04-05T01:51:40.251348Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -993,7 +1392,7 @@ About Reddit Ads: Reddit Ads provides a robust, high-scale advertising solution 
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$217,000$303,900 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2359244,"Staff Product Manager for Finance Applications","https://job-boards.greenhouse.io/reddit/jobs/6596528","Reddit","Los Angeles","Yes",8,"Full time","2025-04-03T01:53:07.822622Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2359244,"Staff Product Manager for Finance Applications","https://job-boards.greenhouse.io/reddit/jobs/6596528","Reddit","Los Angeles","Yes",8,"Full time","2025-04-05T01:51:40.251370Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1052,7 +1451,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$180,200$252,300 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2666079,"Senior Product Designer, i18n","https://job-boards.greenhouse.io/reddit/jobs/6715246","Reddit","Remote","Yes",4,"Full time","2025-04-03T01:53:07.822662Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2666079,"Senior Product Designer, i18n","https://job-boards.greenhouse.io/reddit/jobs/6715246","Reddit","Remote","Yes",4,"Full time","2025-04-05T01:51:40.251395Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1091,7 +1490,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$180,200$252,300 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2666078,"Senior Frontend Engineer, Publisher Experience ","https://job-boards.greenhouse.io/reddit/jobs/6614811","Reddit","Remote","Yes",6,"Full time","2025-04-03T01:53:07.822693Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2666078,"Senior Frontend Engineer, Publisher Experience ","https://job-boards.greenhouse.io/reddit/jobs/6614811","Reddit","Remote","Yes",6,"Full time","2025-04-05T01:51:40.251419Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1132,7 +1531,7 @@ This role is 100% remote with the option to work in a Reddit office if you live 
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$267,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2666077,"Machine Learning Engineer, Ads Targeting","https://job-boards.greenhouse.io/reddit/jobs/6742320","Reddit","Remote","Yes",3,"Full time","2025-04-03T01:53:07.822712Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2666077,"Machine Learning Engineer, Ads Targeting","https://job-boards.greenhouse.io/reddit/jobs/6742320","Reddit","Remote","Yes",3,"Full time","2025-04-05T01:51:40.251442Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1175,7 +1574,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$185,800$260,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2666076,"Creative Strategist, KarmaLab, Australia (Contract)","https://job-boards.greenhouse.io/reddit/jobs/6748891","Reddit","Sydney","No",5,"Contract","2025-04-03T01:53:07.822754Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2666076,"Creative Strategist, KarmaLab, Australia (Contract)","https://job-boards.greenhouse.io/reddit/jobs/6748891","Reddit","Sydney","No",5,"Contract","2025-04-05T01:51:40.251465Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1215,7 +1614,7 @@ Possess professional writing experience for the internetblogs, articles, ads, or
 Experience in media and/or creative agencies is highly desirable.
 
 If this sounds upvote-worthy to you, please apply! We hope to hear from you soon.Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2666074,"Community Manager, Italy (Contract)","https://job-boards.greenhouse.io/reddit/jobs/6748881","Reddit","London","No",5,"Contract","2025-04-03T01:53:07.822786Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2666074,"Community Manager, Italy (Contract)","https://job-boards.greenhouse.io/reddit/jobs/6748881","Reddit","London","No",5,"Contract","2025-04-05T01:51:40.251489Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1244,7 +1643,7 @@ Deep interest in developing and driving projects, framing issues and seeking sol
 Proficiency in Italian &amp; English and based in the EU timezone 
 
  Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2650966,"Staff Machine Learning Engineer - LS Embedding","https://job-boards.greenhouse.io/reddit/jobs/6740925","Reddit","Remote","Yes",8,"Full time","2025-04-03T01:53:07.822817Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2650966,"Staff Machine Learning Engineer - LS Embedding","https://job-boards.greenhouse.io/reddit/jobs/6740925","Reddit","Remote","Yes",8,"Full time","2025-04-05T01:51:40.251516Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1293,7 +1692,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$230,000$322,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2650964,"Senior Machine Learning Engineer, LS Embedding","https://job-boards.greenhouse.io/reddit/jobs/6740914","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.822843Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2650964,"Senior Machine Learning Engineer, LS Embedding","https://job-boards.greenhouse.io/reddit/jobs/6740914","Reddit","Remote","Yes",5,"Full time","2025-04-05T01:51:40.251539Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1339,7 +1738,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$216,700$303,400 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2638542,"Senior Staff Engineer, GraphQL","https://job-boards.greenhouse.io/reddit/jobs/6738050","Reddit","Remote","Yes",10,"Full time","2025-04-03T01:53:07.822873Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2638542,"Senior Staff Engineer, GraphQL","https://job-boards.greenhouse.io/reddit/jobs/6738050","Reddit","Remote","Yes",10,"Full time","2025-04-05T01:51:40.251563Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1380,7 +1779,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$232,500$325,500 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2638541,"Senior Client Partner, Large Customer Sales (Auto)","https://job-boards.greenhouse.io/reddit/jobs/6731979","Reddit","Los Angeles","No",8,"Full time","2025-04-03T01:53:07.822905Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2638541,"Senior Client Partner, Large Customer Sales (Auto)","https://job-boards.greenhouse.io/reddit/jobs/6731979","Reddit","Los Angeles","No",8,"Full time","2025-04-05T01:51:40.251587Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1435,7 +1834,7 @@ LI-ES1 #LI-onsitePay Transparency:
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and will also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$124,700$174,600 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-1823397,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6357598","Reddit","Berlin","No",5,"Full time","2025-04-03T01:53:07.822933Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+1823397,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6357598","Reddit","Berlin","No",5,"Full time","2025-04-05T01:51:40.251611Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1492,7 +1891,7 @@ Personal &amp; Professional development funds
 Family Planning Support 
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-1823398,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6357597","Reddit","Amsterdam","No",5,"Full time","2025-04-03T01:53:07.822964Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+1823398,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6357597","Reddit","Amsterdam","No",5,"Full time","2025-04-05T01:51:40.251637Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1552,7 +1951,66 @@ Personal &amp; Professional development funds
 Family Planning Support 
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-1823396,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6357599","Reddit","London","No",5,"Full time","2025-04-03T01:53:07.822992Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+1823394,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6349847","Reddit","Dublin","No",5,"Full time","2025-04-05T01:51:40.251666Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+
+
+
+
+Reddit SRE is rapidly innovating and our teams are working to meet the needs of infrastructure and development teams as they evolve our product faster than ever before. This is a unique opportunity to leave your mark on one of the most influential and trafficked corners of the internet.
+As a Senior Site Reliability Engineer on Reddits Infrastructure SRE team, youll use your knowledge of distributed systems and architecture to improve the reliability and performance of Reddits engineering platforms and services. We are looking for someone who thrives at the intersection of infrastructure and software development. This team will work very closely with the Compute, Traffic, and Observability infrastructure teams. They will own a suite of tools for allowing engineers to understand their creations, based primarily on open-source solutions at scale. Were active users of and contributors to Prometheus, Thanos, Grafana, Vector and more.
+In this role, you will also take ownership of risk management, ensuring the reliability and performance of our systems. You will collaborate with cross-functional teams to identify, assess, and mitigate risks, implementing best practices to enhance system resilience. Your expertise will drive proactive measures to maintain uptime and optimize service delivery, making a significant impact on our operational excellence.
+Join us and help build the future of Reddit!
+Responsibilities:
+
+Advise: 
+
+Work closely with engineering teams in designing and developing systems that are resilient and highly performant at a tremendous scale, and maintaining the foundational platform for running Reddits infrastructure.
+
+Amplify: 
+
+Identify and build capabilities into our foundational Infrastructure and Platform services, which are used by Reddit engineering teams to build, deploy, and operate Reddit. 
+Deliver software to improve the availability, scalability, latency, and efficiency of observability components.
+Identify and engineer away risk across Reddits systems.
+
+Automate: 
+
+Take repetitive, manual, or risky tasks and automate them out of existence. Build tools and integrate systems to support Reddits evolution.
+Automate critical aspects of the event driven development process
+
+Diagnose: 
+
+Draw on your knowledge of distributed systems to identify and fix network, system, and service-level issues. Practice sustainable incident response, and drive structural improvement with blameless postmortem.
+Share on-call responsibilities. 
+
+Optimize:
+
+Observe and improve performance, reduce cost, and improve the experience for millions of users
+Contribute upstream changes to the open source projects we use
+
+
+Qualifications
+
+5+ years of experience in Software Engineering, Site Reliability Engineering, or a development-focused DevOps role.
+Proficiency in one or more programming languages. Were predominantly writing code in Go and Python.
+Experience with Kubernetes and Cloud systems.
+Familiarity with distributed systems development, bonus if familiar with any of the specific tools (Prometheus, Thanos, Grafana, Vector, Clickhouse, Otel, Loki)
+Experience with the development and operation of high-traffic backend systems.
+A demonstrated ability to debug, fix, and optimize code.
+Troubleshooting skills that span applications, networking (TCP/IP), and systems.
+Strong working knowledge of Linux and containers.
+Excellent communication and collaborative skills.
+
+Benefits:
+
+Private Medical, Dental and Vision Benefits 
+Retirement Savings plan with matching contributions
+Workspace benefits for your home office
+Personal &amp; Professional development funds
+Family Planning Support
+Commuter Benefits  
+Flexible Vacation &amp; Reddit Global Days Off
+Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
+1823396,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6357599","Reddit","London","No",5,"Full time","2025-04-05T01:51:40.251690Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1612,66 +2070,7 @@ Family Planning Support
 Commuter Benefits
 Flexible Vacation &amp; Reddit Global Days Off
 Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-1823394,"Senior Site Reliability Engineer ","https://job-boards.greenhouse.io/reddit/jobs/6349847","Reddit","Dublin","No",5,"Full time","2025-04-03T01:53:07.823024Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Reddit SRE is rapidly innovating and our teams are working to meet the needs of infrastructure and development teams as they evolve our product faster than ever before. This is a unique opportunity to leave your mark on one of the most influential and trafficked corners of the internet.
-As a Senior Site Reliability Engineer on Reddits Infrastructure SRE team, youll use your knowledge of distributed systems and architecture to improve the reliability and performance of Reddits engineering platforms and services. We are looking for someone who thrives at the intersection of infrastructure and software development. This team will work very closely with the Compute, Traffic, and Observability infrastructure teams. They will own a suite of tools for allowing engineers to understand their creations, based primarily on open-source solutions at scale. Were active users of and contributors to Prometheus, Thanos, Grafana, Vector and more.
-In this role, you will also take ownership of risk management, ensuring the reliability and performance of our systems. You will collaborate with cross-functional teams to identify, assess, and mitigate risks, implementing best practices to enhance system resilience. Your expertise will drive proactive measures to maintain uptime and optimize service delivery, making a significant impact on our operational excellence.
-Join us and help build the future of Reddit!
-Responsibilities:
-
-Advise: 
-
-Work closely with engineering teams in designing and developing systems that are resilient and highly performant at a tremendous scale, and maintaining the foundational platform for running Reddits infrastructure.
-
-Amplify: 
-
-Identify and build capabilities into our foundational Infrastructure and Platform services, which are used by Reddit engineering teams to build, deploy, and operate Reddit. 
-Deliver software to improve the availability, scalability, latency, and efficiency of observability components.
-Identify and engineer away risk across Reddits systems.
-
-Automate: 
-
-Take repetitive, manual, or risky tasks and automate them out of existence. Build tools and integrate systems to support Reddits evolution.
-Automate critical aspects of the event driven development process
-
-Diagnose: 
-
-Draw on your knowledge of distributed systems to identify and fix network, system, and service-level issues. Practice sustainable incident response, and drive structural improvement with blameless postmortem.
-Share on-call responsibilities. 
-
-Optimize:
-
-Observe and improve performance, reduce cost, and improve the experience for millions of users
-Contribute upstream changes to the open source projects we use
-
-
-Qualifications
-
-5+ years of experience in Software Engineering, Site Reliability Engineering, or a development-focused DevOps role.
-Proficiency in one or more programming languages. Were predominantly writing code in Go and Python.
-Experience with Kubernetes and Cloud systems.
-Familiarity with distributed systems development, bonus if familiar with any of the specific tools (Prometheus, Thanos, Grafana, Vector, Clickhouse, Otel, Loki)
-Experience with the development and operation of high-traffic backend systems.
-A demonstrated ability to debug, fix, and optimize code.
-Troubleshooting skills that span applications, networking (TCP/IP), and systems.
-Strong working knowledge of Linux and containers.
-Excellent communication and collaborative skills.
-
-Benefits:
-
-Private Medical, Dental and Vision Benefits 
-Retirement Savings plan with matching contributions
-Workspace benefits for your home office
-Personal &amp; Professional development funds
-Family Planning Support
-Commuter Benefits  
-Flexible Vacation &amp; Reddit Global Days Off
-Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2632641,"Senior Staff Software Engineer, Advertiser Growth","https://job-boards.greenhouse.io/reddit/jobs/6732194","Reddit","Remote","Yes",7,"Full time","2025-04-03T01:53:07.823054Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2632641,"Senior Staff Software Engineer, Advertiser Growth","https://job-boards.greenhouse.io/reddit/jobs/6732194","Reddit","Remote","Yes",7,"Full time","2025-04-05T01:51:40.251715Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1711,7 +2110,7 @@ Paid Volunteer time off
 
  
 #LI-CJ1 #LI-RemoteReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2632640,"Senior Staff Software Engineer, Advertiser Growth","https://job-boards.greenhouse.io/reddit/jobs/6686247","Reddit","Remote","Yes",7,"Full time","2025-04-03T01:53:07.823084Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2632640,"Senior Staff Software Engineer, Advertiser Growth","https://job-boards.greenhouse.io/reddit/jobs/6686247","Reddit","Remote","Yes",7,"Full time","2025-04-05T01:51:40.251740Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1754,7 +2153,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$232,500$325,500 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2632639,"Engineering Manager - User Adoption","https://job-boards.greenhouse.io/reddit/jobs/6730375","Reddit","Remote","Yes",8,"Full time","2025-04-03T01:53:07.823110Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2632639,"Engineering Manager - User Adoption","https://job-boards.greenhouse.io/reddit/jobs/6730375","Reddit","Remote","Yes",8,"Full time","2025-04-05T01:51:40.251764Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1801,7 +2200,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$230,000$322,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2232243,"Trust & Safety Policy - Platform Safety Policy Senior Lead (Data & AI products) ","https://job-boards.greenhouse.io/reddit/jobs/6544317","Reddit","Remote","Yes",7,"Full time","2025-04-03T01:53:07.823137Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2232243,"Trust & Safety Policy - Platform Safety Policy Senior Lead (Data & AI products) ","https://job-boards.greenhouse.io/reddit/jobs/6544317","Reddit","Remote","Yes",7,"Full time","2025-04-05T01:51:40.251787Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1834,7 +2233,7 @@ Pay Transparency:
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$194,600$272,400 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2622650,"Product Manager, Content Ops Labeling","https://job-boards.greenhouse.io/reddit/jobs/6725495","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.823167Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2622650,"Product Manager, Content Ops Labeling","https://job-boards.greenhouse.io/reddit/jobs/6725495","Reddit","Remote","Yes",5,"Full time","2025-04-05T01:51:40.251812Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1891,7 +2290,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$164,200$229,900 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2622649,"Head of Business Engineering","https://job-boards.greenhouse.io/reddit/jobs/6717303","Reddit","Remote","Yes",10,"Full time","2025-04-03T01:53:07.823199Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2622649,"Head of Business Engineering","https://job-boards.greenhouse.io/reddit/jobs/6717303","Reddit","Remote","Yes",10,"Full time","2025-04-05T01:51:40.251836Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1949,7 +2348,7 @@ Paid Volunteer time off
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$210,800$295,200 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2621003,"Director of Product, Ads Measurement","https://job-boards.greenhouse.io/reddit/jobs/6723187","Reddit","Remote","Yes",10,"Full time","2025-04-03T01:53:07.823230Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
+2621003,"Director of Product, Ads Measurement","https://job-boards.greenhouse.io/reddit/jobs/6723187","Reddit","Remote","Yes",10,"Full time","2025-04-05T01:51:40.251863Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
 
 
 
@@ -1988,423 +2387,3 @@ Pay Transparency:
 This job posting may span more than one career level.
 In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
 To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$260,800$365,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2619241,"Staff Product Manager, Community Success","https://job-boards.greenhouse.io/reddit/jobs/6718339","Reddit","Remote","Yes",6,"Full time","2025-04-03T01:53:07.823261Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Location: 
-Reddit is continuing to grow our teams with the best talent. This role is remote friendly anywhere in the United States. Please note that this role requires working US PT or ET hours.
-Team Overview:
-The Subreddit Success teams mission is to make Reddit the best place to start and grow any community on the internet. We look carefully at the entire lifecycle all the way from community creation to community growth to becoming a thriving destination. We work closely with the community support, country leads, moderation and governance teams to implement solutions for moderators and users that will increase each communitys probability of success.  
-Role Description:
-As a Staff Product Manager on the Community Success team, you will be responsible for building scalable systems that support Reddits new and growing communities. This will require revamping the experience for the Redditors who start communities, from community creation, to moderator recruitment and education to community discovery and distribution. Your goal is to assist moderators to get a community off the ground and help it grow to its full potential.
-You will need to build systems and features that unlock the potential of nascent communities. These features will be used by moderators and core Reddit users and are critical to the success of a community and Reddits ecosystem. Therefore, you need to have an intimate understanding of Reddit and how its communities work. 
-You will be entrusted to handle complex product launches end-to-end, lead a team of engineers and designers and coordinate with cross functional teams from community, governance, i18n and growth. 
-Responsibilities:
-
-Contribute to the strategy and roadmap for Subreddit Success on Reddit, and earn buy-in from executive leadership as well as the team. 
-Be a strong voice that advocates for Moderators success and have a point of view on how to make them successful.
-Collaborate with engineering and design teams to launch features, that accelerate the number of thriving communities on Reddit
-Understand Reddit and what makes communities and moderation successful. Form clear product insights on what needs to happen to increase the probability of success for communities. They lead your team to implement those insights to tangible product systems and features.
-Partner with various cross-functional teams (Community, i18n, Growth, Governance, Moderation,  Communications, Policy, etc.) to get alignment and successfully launch high quality experiences that are well received from Reddits user base.
-Dive into the data, conduct detailed analysis and guide the teams roadmap via data driven decision making.
-
-Required Experience: 
-
-At least 6+ years of consumer product management experience
-Has worked in product teams and has launched consumer facing products for consumer tech companies
-High Data fluency, knows SQL, and at a tactical (e.g. A/B testing) and strategic (e.g. feature estimations, sizing) level can be relied to inform crisp decisions
-BA/BS degree or equivalent work experience
-
-Preferred Experience::
-
-Has worked on community building related projects in the past
-Working on operational review systems at scale
-
-Benefits:
-
-All roles are 100% remote, but we also have offices in SF, LA, NY &amp; Chicago
-Comprehensive Healthcare Benefits
-401k Matching
-Workspace benefits for your home office
-Personal &amp; Professional development funds
-Family Planning Support
-Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
-4+ months paid Parental Leave
-Paid Volunteer time off
-
-#LI-AB1Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$217,000$303,900 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2619240,"Sr. Client Partner, New Business, Nordics","https://job-boards.greenhouse.io/reddit/jobs/6719795","Reddit","Amsterdam","No",6,"Full time","2025-04-03T01:53:07.823290Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Our team in Amsterdam is focused on growing our Mid-Market business in EMEA. This is an opportunity for you to be part of the team that expands the Reddit footprint: design the strategy, develop a strong book of business, and bring the magic of Reddit into the EMEA markets! We're looking for sharp, positive and motivated self-starters to help us build this team further! New Business Client Partners will be responsible for seeking out new high-potential clients and building the foundation for mutually beneficial, long-term partnerships by aligning your clients' company goals with opportunities on the Reddit ads platform. 
-This role is required to work in person from our Amsterdam office a few days a week. Reddit offer a generous relocation package for those outside the Netherlands. 
-Core Responsibilities:
-
-Identify and reach out to new clients, establishing mutually beneficial relationships and educating them on Reddit and the Reddit ads platform
-Act as the CEO of your book of business, and take full ownership of strategic bets, revenue forecasting, and ensuring operational rigor
-Work with Sales Ops Lead to develop a book of business and outbound sales pipeline
-Communicate feedback on our sales processes, narratives, and products in order to advocate for customers and improve the team's effectiveness and efficiency
-Collaborate with Account Managers and Account Executives to build mutually beneficial partnerships between your customer base and Reddit
-Have relevant experience using new business tools such as zoominfo, LinkedIn, Salesforce
-
-Qualifications: 
-
-6+ years of relevant experience in online media sales (platform experience preferred)
-Strong understanding of the media landscape and broad network of clients in the Nordics
-Fluent in English (plus fluency in one of the Nordic languages would be an advantage!)
-Users-first orientation
-Positive outlook, team player
-Demonstrated high achievement against sales targets
-Motivated self-starter who thrives in unstructured environments
-Experience with and passion for new business acquisition with proven equivalent work experience
-
-Benefits:
-
-Pension Savings plan 
-Medical Plan
-Short term sickness benefits 
-WIA excess and WGA gap insurance 
-Workspace benefits for your home office 
-Personal &amp; Professional development funds
-Family Planning Support 
-Flexible Vacation &amp; Reddit Global Days Off
-Reddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2619239,"Senior Product Manager, Reddit Answers","https://job-boards.greenhouse.io/reddit/jobs/6721235","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.823322Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Location:
-Reddit is continuing to grow our teams with the best talent. This role is remote friendly anywhere in the United States. Please note that this role requires working US PT or ET hours.
-Team Overview: 
-What if asking Reddit for advice or recommendations was as simple as typing out or asking a question? Reddit Answers is AI-powered search reimagined - we want to make it effortless and delightful for redditors to see what real humans think about something.
-Answers is part of the broader Reddit Search Org, whose mission is to make Reddit the best place on the internet to find answers, opinions, and conversations.
-Role Description:
-Were looking for a PM to lead the Answers team and own the product vision, roadmap and strategy in addition to driving end-to-end product development. You will establish and deliver KPIs and outcomes for the Answers team and work closely with senior leadership and cross functional partners.
-Were looking for a thoughtful product leader who can not only cultivate and grow a cutting-edge early stage product, but can also align a broader organization on a vision for a converged future experience between Search &amp; Answers.
-Responsibilities:
-
-Make Reddit Answers an exceptional user experience - define its outcomes, craft a compelling vision &amp; strategy, and deliver on a roadmap of features
-Drive execution with a team of engineers, designers, data, research, and other PMs
-Align product plans &amp; requirements across MLE, marketing, operations, legal, privacy, policy, and safety teams
-Analyze feature &amp; experiment results and communicate learnings to the team, leadership, and the company
-
-Qualifications:
-
-5+ years of overall Product Management experience, including direct experience leading user-facing relevance-driven products from 1-&gt;N
-Exceptional product intuition, a deep appreciation for craft, a healthy obsession with delivering world-class user experiences, and a strong sense of what makes a product delightful
-Proven experience setting and achieving an ambitious product vision, building strategic and impactful product roadmaps, ruthless prioritization, and demonstrated ownership of meaningful results for top line business metrics
-Fluency with leading distributed XFN teams through complexity and ambiguity, defining team goals and success metrics, and aligning a diverse set of stakeholders toward a common goal
-
-Preferred Qualifications:
-
-Demonstrated passion and domain experience in: large language models, generative AI, retrieval augmented generation
-Reddit power user
-Strong SQL competency
-
-Benefits:
-
-All roles are 100% remote, but we also have offices in SF, LA, NY &amp; Chicago
-Comprehensive Healthcare Benefits
-401k Matching
-Workspace benefits for your home office
-Personal &amp; Professional development funds
-Family Planning Support
-Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
-4+ months paid Parental Leave
-Paid Volunteer time off
-
-#LI-AB1
- Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$276,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2619237,"Senior Product Manager, Notifications Engagement","https://job-boards.greenhouse.io/reddit/jobs/6718343","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.823352Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Team Description:
-Notifications is responsible for several of the companys major product surface areas that drive a significant portion of Reddits user growth. You will work on building a real-time notifications platform (in-app, push, email, and potentially new channels) that can surface the right content to the right user at the right time in the right context. You will also be responsible for tackling difficult challenges around reach and addressability, off-platform conversion, new inventory development, and optimization of post-click experiences within a variety of operating systems and channels to build a delightful product for user engagement and retention. This role will partner closely with the Group Product Manager on the team.
-Responsibilities:
-
-Drive and execute product vision and strategy for Notifications Engagement, focused on increasing the usage of our various channels via improvements to the value proposition for users and their retention. 
-Maintain and communicate a prioritized roadmap to support Notifications and company strategic initiatives.
-Work closely with developers and product managers to understand problems, capture new ideas and manage a prioritized backlog of requirements.
-Participate in quarterly planning sessions to define initiatives, resolve dependencies and perform data-driven prioritization. 
-Analyze feature/experiment results and communicate learnings to the team and the company.
-Synthesize insights by analyzing data to help build more personalized and better product features.
-Work closely with internal business, operations and partnerships teams in launching and maintaining features that impact Reddits growth.
-Drive market and usability research to understand opportunities and develop strategy.
-
-Required Qualifications:
-
-5+ years of product management experience:
-You have experience growing at-scale consumer products and understanding of growth via improved user experiences.
-You have strong analytical skills, can build SQL queries from scratch and are able to solve complex problems by analyzing data, leading to data driven decisions.
-You have proven experience developing long-term strategies and product roadmaps, setting OKRs, defining, running, and measuring experiments, and working collaboratively with peers from engineering, PM, data science, and other cross-functional teams.
-You have a passion and drive for testing and learning at a fast pace.
-You know how to define team goals and success metrics, and ensure that we are tracking towards improvements that align with Reddit's wider business objectives
-You have exceptional independent problem-solving skills, attention to detail, flexibility, and ability to collaborate with others and to work in a fast-paced environment.
-You are a compelling influencer with great communication and interpersonal skills, with the ability to align a diverse group of stakeholders towards a common goal.
-
-Preferred Experience:
-
-Experience with Consumer Growth and scaled experimentation.
-Experience working on high-traffic consumer experience and/or ML-adjacent products.
-UX / Mobile, Engineering and/or Data Science background.
-
-Benefits:
-
-All roles are 100% remote, but we also have offices in SF, LA, NY &amp; Chicago
-Comprehensive Healthcare Benefits
-401k Matching
-Workspace benefits for your home office
-Personal &amp; Professional development funds
-Family Planning Support
-Flexible Vacation (please use them!) &amp; Reddit Global Wellness Days
-4+ months paid Parental Leave
-Paid Volunteer time off
-
-#LI-AB1
- Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$190,800$276,100 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2619235,"Design Manager, Growth","https://job-boards.greenhouse.io/reddit/jobs/6715242","Reddit","Remote","Yes",6,"Full time","2025-04-03T01:53:07.823381Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-This role is completely remote-friendly. If you happen to live close to one of our physical office locations, our doors are open for you to come into the office as often as you'd like.
-Reddit is one of the most popular and trafficked websites in the world  but we believe that there is a community for everyone on Reddit and that there is much room to grow. The UX Design Manager for our Growth team will lead a team focused on shaping the first-time and returning user experience. This team plays a critical role in driving Reddits growth by improving how users discover, onboard, and engage with the platform. Working across top of funnel, onboarding, adoption and notification pillars  this team ensures that users quickly find value in Reddits vast ecosystem of communities and conversations. This work directly impacts how our next set of users experience Reddit and find their communities.
-As a leader, youll mentor and empower designers, foster a user-centered design culture, and drive initiatives that make Reddit more welcoming and accessible to a global audience. Youll collaborate closely with product, engineering, research and data teams to craft experiences that are intuitive, engaging, and scalable. If youre passionate about designing for impact, solving complex UX challenges, and shaping the future of how people find community online, wed love to hear from you.
-Responsibilities:
-
-Lead and mentor a team of UX designers working across all Growth initiatives
-Develop and drive the UX strategy for user growth, ensuring delightful and relevant experiences that help new and returning users find value in Reddit
-Collaborate closely with product managers, engineers, data scientists, and researchers to identify opportunities, define priorities, and execute high-impact initiatives
-Advocate for user needs while balancing business goals, leveraging data and research to inform design decisions
-Foster a strong design culture within the team and across the organization, championing best practices in user-centered design, experimentation, and accessibility
-Establish processes that improve team efficiency, design quality, and cross-functional collaboration
-Recruit, develop, and retain top design talent, providing coaching, feedback, and career development opportunities
-Routinely collaborate with other consumer product teams across feeds, subreddits, and discovery to ensure design solutions scale cohesively.
-
-Requirements:
-
-6+ years of experience in UX/Product Design with at least 2+ years in a leadership role.
-2+ years managing a team, providing mentorship, coaching, and fostering a culture of feedback and collaboration.
-Minimum 2 years of experience working on a consumer Growth related team
-Proven experience leading design teams in fast-paced, cross-functional environments for digital consumer-facing products.
-Strong portfolio showcasing user-centered design solutions that drive measurable growth, engagement, or retention.
-Deep expertise in UX best practices, interaction design, and information architecture, with a strong grasp of visual design principles.
-Excellent communication and storytelling skills, with the ability to influence stakeholders and advocate for design across all levels of the organization.
-
-Benefits:
-
-Comprehensive Healthcare Benefits and Income Replacement Programs
-401k Match
-Family Planning Support
-Gender-Affirming Care
-Mental Health &amp; Coaching Benefits
-Flexible Vacation &amp; Reddit Global Days off
-Generous paid Parental Leave  
-Paid Volunteer time off
-
-#LI-SP1Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$194,600$272,400 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2608064,"Threat Analyst, Scaled Enforcement","https://job-boards.greenhouse.io/reddit/jobs/6674876","Reddit","Remote","Yes",3,"Full time","2025-04-03T01:53:07.823409Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Location: US remote-friendly or any office location - SF, LA, CHI, NY
-We are looking for a highly skilled Threat Analyst, Scaled Enforcement to join our team. This role will focus on detecting, analyzing, and mitigating sophisticated spam operations on our platform. You will investigate emerging spam tactics, including account takeovers, SEO spam, bot networks, and monetization schemes. Your insights will directly inform enforcement strategies and help us build scalable defenses to protect our users and platform integrity.
-Responsibilities:
-
-Investigate and provide enforcement response for spam-related threats, including coordinated manipulation and bot-driven activity.
-Analyze patterns and trends in spam operations, including SEO manipulation, account takeovers, and fraudulent engagement.
-Work closely with data science and engineering teams to develop detection models to enhance automated enforcement.
-Develop frameworks and playbooks for rapid response to emerging spam threats.
-Collaborate with cross-functional teams, including engineering, content moderation, and policy, to drive proactive threat mitigation efforts.
-
-Required Qualifications:
-
-3+ years of experience in threat analysis, spam detection, or abuse investigations within social media, e-commerce, or similar platforms.
-Strong understanding of spam tactics, including bot-driven engagement, SEO abuse, and account compromise.
-Experience analyzing large datasets to uncover abuse patterns and trends.
-Hands-on experience working with detection systems, including heuristics, rules-based, and ML-based approaches.
-Demonstrated proficiency in SQL.
-
-Benefits:
-
-Comprehensive Healthcare Benefits and Income Replacement Programs
-401k Match
-Family Planning Support
-Gender-Affirming Care
-Mental Health &amp; Coaching Benefits
-Flexible Vacation &amp; Reddit Global Days off
-Generous paid Parental Leave  
-Paid Volunteer time off
-
-
-#LI-Remote
-
- Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$123,200$172,500 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2608061,"Senior Machine Learning Engineer, Ads Targeting","https://job-boards.greenhouse.io/reddit/jobs/6705532","Reddit","Remote","Yes",5,"Full time","2025-04-03T01:53:07.823440Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Were evolving and continuing our mission to bring community, belonging, and empowerment to everyone in the world. Providing a delightful and relevant experience to our users applies to our Ads like all of our offerings, and were excited to build a product that is best-in-class for our users and advertisers. The year ahead is a busy one - join us! 
-Ads Targeting ML engineers are focused on designing and implementing ML systems and solutions for improving targeting products. The teams projects involve building large-scale offline &amp; online retrieval systems across several dimensions to improve contextual &amp; behavioral targeting for targeting products.
-As a senior machine learning engineer in the ads targeting core team, you will execute our mission to automate targeting and deliver the most relevant audiences to advertisers under the right context with data and ML-driven solutions. 
-Your Responsibilities:
-
-Own end-to-end execution of ML-based targeting products like smart targeting expansion, keyword targeting, auto targeting, user lookalikes etc
-Own offline &amp; online experimentation of ML models for improving targeting products to drive advertiser outcomes
-Research, implement, test, and launch new model architectures for retrieval using deep learning (GNNs, transformers, two tower models) with a focus on improving advertiser outcomes
-Drive technical roadmaps and lead day to day project execution, and contribute meaningfully to team vision and strategy
-Work on large scale data systems, backend services and product integration
-Collaborate closely with multiple stakeholders cross product, engineering, research and marketing 
-
-Required Qualifications
-
-2+ years of experience with leading applied machine learning models with Tensorflow/Pytorch with large-scale ML systems 
-5+ years of end-to-end experience of training, evaluating, testing, and deploying machine learning models
-Experience with large scale data processing &amp; pipeline orchestration tools like Spark, Dataflow, Kubeflow, Airflow, BigQuery
-Experience working with nearest-neighbor search systems is a big plus
-Experience building &amp; improving MLOps tools and ML experimentation workflows 
-Experience working with cross functional stakeholders across research, product &amp; infrastructure to productize ML research 
-Knowledge of large scale search &amp; recommender systems, or modern ads ranking/retrieval/targeting systems is preferred
-Experience with deep learning, representation learning or transfer learning is preferred
-Tech lead experience in a product team is strongly preferred
-
-Benefits:
-
-Comprehensive Healthcare Benefits and Income Replacement Programs
-401k Match
-Family Planning Support
-Gender-Affirming Care
-Mental Health &amp; Coaching Benefits
-Flexible Vacation &amp; Reddit Global Days off
-Generous paid Parental Leave  
-Paid Volunteer time off
-
-#LI-Remote #LI-AK1Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and depending on the position offered, it may also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$216,700$303,400 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2339926,"Client Account Manager, Large Customer Sales (Financial Services)","https://job-boards.greenhouse.io/reddit/jobs/6586011","Reddit","Chicago","No",4,"Full time","2025-04-03T01:53:07.823470Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Reddit is seeking a Client Account Manager for the Financial Services vertical of our Large Customer Sales team. This person will closely collaborate with a Client Partner on campaign execution and optimizations to help agencies and advertisers achieve their marketing objectives on the fast-growing Reddit platform. 
-This role is required to be based out of either New York, NY or Chicago, IL.
-Responsibilities:
-
-Collaborate closely with Client Partners to meet and exceed your client's marketing goals
-Proactively manage and deepen relationships with existing advertising partners, both with agencies and directly with clients to drive year-over-year Reddit revenue growth
-Lead and execute campaign launches from start to finish, delivering insightful optimization recommendations to agency and client partners
-Act as the primary point of contact for internal account operations, including managing revenue delivery, troubleshooting issues, and escalating when necessary
-Educate brands and media agencies, effectively communicating Reddits value proposition and best practices for advertising on the platform
-Consult clients on their awareness and direct response objectives, partnering closely with Client Partners to craft thoughtful and creative media plans
-Collaborate with Ad Ops to ensure effective campaign delivery and resolve any technical hurdles
-Dive deep into campaign performance data, audience and competitor insights, seasonality, and market and performance trends to develop KPI-driven campaign recommendations
-Proactively seek and represent client needs and asks to cross-functional stakeholders
-Shape Reddits native ads product roadmap by aggregating and sharing client feedback and campaign metrics with cross-functional stakeholders
-
-Required Qualifications:
-
-4-7 years of experience in advertising sales and account management
-Strong understanding of customer marketing funnel and traditional marketing ecosystem
-Expertise with performance/direct response campaigns
-Comfortable with problems of diverse scope where analysis of data requires evaluation of identifiable factors
-Understanding of Digital measurement, tracking fundamentals and mobile measurement partners
-Tenacious and entrepreneurial approach to working through product, process, and client challenges
-Experience cultivating strong relationships with external partners
-Exceptional communication and interpersonal skills
-Ability to work in a fast-paced and unstructured work environment
-High attention to detail
-Proficiency in Excel preferred
-BA / BS degree or equivalent work experience
-
-Benefits:
-
-Comprehensive Healthcare Benefits and Income Replacement Programs
-401k Match
-Family Planning Support
-Gender-Affirming Care
-Mental Health &amp; Coaching Benefits
-Flexible Vacation &amp; Reddit Global Days off
-Generous paid Parental Leave  
-Paid Volunteer time off
-
-#LI-ES1 #LI-onsitePay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and will also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$105,000$147,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
-2213381,"Client Account Manager, Large Customer Sales (Financial Services)","https://job-boards.greenhouse.io/reddit/jobs/6521074","Reddit","New York","No",4,"Full time","2025-04-03T01:53:07.823503Z","Reddit is a community of communities. Its built on shared interests, passion, and trust and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 101M+ daily active unique visitors, Reddit is one of the internets largest sources of information. For more information, visit redditinc.com.
-
-
-
-
-Reddit is seeking a Client Account Manager for the Financial Services vertical of our Large Customer Sales team. This person will closely collaborate with a Client Partner on campaign execution and optimizations to help agencies and advertisers achieve their marketing objectives on the fast-growing Reddit platform. 
-This role is required to be based out of either New York, NY or Chicago, IL.
-Responsibilities:
-
-Collaborate closely with Client Partners to meet and exceed your client's marketing goals
-Proactively manage and deepen relationships with existing advertising partners, both with agencies and directly with clients to drive year-over-year Reddit revenue growth
-Lead and execute campaign launches from start to finish, delivering insightful optimization recommendations to agency and client partners
-Act as the primary point of contact for internal account operations, including managing revenue delivery, troubleshooting issues, and escalating when necessary
-Educate brands and media agencies, effectively communicating Reddits value proposition and best practices for advertising on the platform
-Consult clients on their awareness and direct response objectives, partnering closely with Client Partners to craft thoughtful and creative media plans
-Collaborate with Ad Ops to ensure effective campaign delivery and resolve any technical hurdles
-Dive deep into campaign performance data, audience and competitor insights, seasonality, and market and performance trends to develop KPI-driven campaign recommendations
-Proactively seek and represent client needs and asks to cross-functional stakeholders
-Shape Reddits native ads product roadmap by aggregating and sharing client feedback and campaign metrics with cross-functional stakeholders
-
-Required Qualifications:
-
-4-7 years of experience in advertising sales and account management
-Strong understanding of customer marketing funnel and traditional marketing ecosystem
-Expertise with performance/direct response campaigns
-Comfortable with problems of diverse scope where analysis of data requires evaluation of identifiable factors
-Understanding of Digital measurement, tracking fundamentals and mobile measurement partners
-Tenacious and entrepreneurial approach to working through product, process, and client challenges
-Experience cultivating strong relationships with external partners
-Exceptional communication and interpersonal skills
-Ability to work in a fast-paced and unstructured work environment
-High attention to detail
-Proficiency in Excel preferred
-BA / BS degree or equivalent work experience
-
-Benefits:
-
-Comprehensive Healthcare Benefits and Income Replacement Programs
-401k Match
-Family Planning Support
-Gender-Affirming Care
-Mental Health &amp; Coaching Benefits
-Flexible Vacation &amp; Reddit Global Days off
-Generous paid Parental Leave  
-Paid Volunteer time off
-
-#LI-ES1 #LI-onsite
- Pay Transparency:
-This job posting may span more than one career level.
-In addition to base salary, this job is eligible to receive equity in the form of restricted stock units, and will also be eligible to receive a commission. Additionally, Reddit offers a wide range of benefits to U.S.-based employees, including medical, dental, and vision insurance, 401(k) program with employer match, generous time off for vacation, and parental leave. To learn more, please visit https://www.redditinc.com/careers/.
-To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar stage growth companies. Final offer amounts are determined by multiple factors including, skills, depth of work experience and relevant licenses/credentials, and may vary from the amounts listed below.The base pay range for this position is:$105,000$147,000 USDReddit is proud to be an equal opportunity employer, and is committed to building a workforce representative of the diverse communities we serve.  Reddit is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, please contact us at ApplicationAssistance@Reddit.com."
