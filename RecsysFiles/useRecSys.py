@@ -62,13 +62,12 @@ def process_new_user(text, max_seq_len=900):
     tokens = torch.tensor(tokens).unsqueeze(0).to("cpu")
     return user_encoder(tokens)
 
-# Process new job and resume
-new_job = process_new_job("Senior Python Developer")
+# # Process new job and resume
+# new_job = process_new_job("Senior Python Developer")
+# new_resume = process_new_user("5 years Python experience...")
 
-new_resume = process_new_user("5 years Python experience...")
-
-# Get rating
-rating = predict_rating(new_job, new_resume)
+# # Get rating
+# rating = predict_rating(new_job, new_resume)
 # print(f"Predicted alignment score: {rating.item():.4f}")
 
 
@@ -115,13 +114,13 @@ def batch_predict(job_prefs, user_prefs):
     
 
 # Example usage
-job_batch = ["Senior Python Developer", "ML Engineer"]
-resume_batch = ["5+ years Python...", "TensorFlow experience..."]
+# job_batch = ["Senior Python Developer", "ML Engineer"]
+# resume_batch = ["5+ years Python...", "TensorFlow experience..."]
 
-jobs_pref = batch_process_jobs(job_batch)
-users_pref = batch_process_users(resume_batch)
+# jobs_pref = batch_process_jobs(job_batch)
+# users_pref = batch_process_users(resume_batch)
 
-ratings = batch_predict(jobs_pref, users_pref)
+# ratings = batch_predict(jobs_pref, users_pref)
 # print(f"Batch ratings: {ratings.cpu().numpy().tolist()}")
 
 
@@ -155,12 +154,12 @@ def user_save_for_later(user_pref: torch.Tensor, company_pref: torch.Tensor) -> 
     return calculate_adjustment(user_pref, company_pref, multiplier)
 
 def user_apply(user_pref: torch.Tensor, company_pref: torch.Tensor) -> torch.Tensor:
-    multiplier: float = 0.2 # Move 20% of distance closer
+    multiplier: float = 0.1 # Move 10% of distance closer
 
     return calculate_adjustment(user_pref, company_pref, multiplier)
 
 def user_reject(user_pref: torch.Tensor, company_pref: torch.Tensor) -> torch.Tensor:
-    multiplier: float = 0.2 # Move 20% of distance away
+    multiplier: float = 0.1 # Move 10% of distance away
 
     return calculate_adjustment(user_pref, company_pref, multiplier, reverse=True)
 
@@ -169,12 +168,12 @@ def user_reject(user_pref: torch.Tensor, company_pref: torch.Tensor) -> torch.Te
 # ========================
 
 def company_reject(company_pref: torch.Tensor, user_pref: torch.Tensor) -> torch.Tensor:
-    multiplier: float = 0.2 # Move 20% of distance away
+    multiplier: float = 0.1 # Move 10% of distance away
 
     return calculate_adjustment(company_pref, user_pref, multiplier, reverse=True)
 
 def company_accept(company_pref: torch.Tensor, user_pref: torch.Tensor) -> torch.Tensor:
-    multiplier: float = 0.2 # Move 20% of distance closer
+    multiplier: float = 0.21 # Move 10% of distance closer
 
     return calculate_adjustment(company_pref, user_pref, multiplier)
 
