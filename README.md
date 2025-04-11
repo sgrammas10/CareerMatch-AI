@@ -44,15 +44,18 @@ File descriptions -
         - Link
     
     RecsysFiles -
-    - The barebones start of our recommender system to be used in with our website to recommend jobs to based
-      on provided information
-
-    PyTorch -
-    - The start of using PyTorch to summarize data collected in zensearchData so that it can be fed in the
-      recommender system in a usable format
+    - Refer to documentation.txt in RecsysFiles
     
     FrontEnd -
-    - The landing page and general layout of our website for users to input their data and get their recommendations from us
+    - Refer to front_end_documentation.txt in FrontEnd
 
     BackEnd -
-    - The start of our implementation of the recommender system into our website
+    - Rudimentary sign up and log in capabilities
+        - Encrypted user profiles and log in
+        - Sign up sends welcome email
+        - uses sqlite3 to encrypt user profiles homomorphically
+    - Foundation of website is built in app.py, bringing front and back end together with Flask
+
+    PyTorch -
+    - Work in progress, not implemented
+      - Aimed to refine job postings to most essential and important info

@@ -13,7 +13,6 @@ Will Gaca's Documentation
         - Encrypted user profiles and log in
         - Sign up sends welcome email
         - uses sqlite3 to encrypt user profiles homomorphically
-        - 
     - Front end development
       - Used HTML appropriate buttons for sign up and log in with other features
       - Added seperate webpages for sign up and log in
