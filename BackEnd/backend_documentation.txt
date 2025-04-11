@@ -1,0 +1,32 @@
+
+Backend Documentation Overview
+==============================
+
+This backend system powers the data ingestion, user authentication, and periodic scraping mechanisms for the job-matching platform.
+
+Resume Scraper & Frontend Integration
+-------------------------------------
+- Developed `resume_scraper.py`, a backend module connected directly to the frontend.
+- Automatically processes and extracts structured data from user-submitted resumes.
+- Parsed data is stored securely for matching with job postings.
+
+User Authentication & Profile Management
+----------------------------------------
+- Implemented rudimentary sign-up and log-in capabilities.
+- Profiles are encrypted using `sqlite3` with a homomorphic encryption scheme.
+- New user registrations trigger an automated welcome email.
+- All sensitive data is securely stored and managed.
+
+Zensearch Web Scraper
+---------------------
+- Built a custom JavaScript-based scraper, `zensearch`, to crawl and fetch job data from listed companies.
+- The scraper:
+  - Runs automatically every 48 hours.
+  - Was refined for improved accuracy and greater compatibility across a broader set of company websites.
+  - Supports scraping non-U.S.-based job postings.
+
+Job Data Aggregation
+--------------------
+- Utilizes `node-fetch` to request and parse HTML/JSON data from target sites.
+- Operates based on a CSV containing company names, slugs, and authentication tokens.
+- Each company has a dedicated output CSV where all relevant job posting data is stored.
