@@ -1,0 +1,24 @@
+Project stages: 
+Developing architecture
+
+I knew that we had to build a model to recommend different job postings to the user, but I did not know what architecture to use for the model. I first started the semester by researching different modern implementations that are being used by companies and other users. I explored many different options, such as using RNNs, Autoencoders, Graph based algorithms, and more. After reading many different papers, I finally settled on using an architecture with full deep learning. This approach is similar to the method used by Meta for their social platforms
+
+I created an architecture that inputs the resume and job description of each user or job posting, then developed 2 models that develop encodings for each input. I then developed a decoder that took in both encodings and output a rating of how similar each pair is.
+
+Creating model definition
+
+I developed the model in PyTorch using Transformer encoders and a simple collaborative filtering decoder for increased decoding speed. The definition took around a couple weeks to get right, but the final product will work quickly in production
+
+Finding and cleaning data
+
+Finding data was a task that I delegated to my team members who scraped multiple job boards in order to find job descriptions and got resume data from an online dataset.
+
+Using this input, I cleaned the dataset and created a final dataset that pairs each job description and resume, adds a tentative training rating, and gets the data prepared for final training.
+
+Training model
+
+Once I had enough data, I trained the model on the full dataset in order to gain a usable for the website. The process took around a day or 2 of continuous computing power, but it created a final model for use.
+
+Using model in website backend
+
+Using the full model, I developed a couple of functions that modifies the preference matrix based on the input action, such as reject, accept, and more. These functions were then used in the website’s backend in order to use the model on command
