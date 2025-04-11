@@ -4,6 +4,8 @@ Backend Documentation Overview
 
 This backend system powers the data ingestion, user authentication, and periodic scraping mechanisms for the job-matching platform.
 
+Currently working on flask functionality to connect front end and back end to get website running
+
 Resume Scraper & Frontend Integration
 -------------------------------------
 - Developed `resume_scraper.py`, a backend module connected directly to the frontend.
