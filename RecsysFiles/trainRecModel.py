@@ -216,7 +216,9 @@ class JobResumeDataset(Dataset):
         return {
             'job_tokens': process_text(row['RoleDescription']),
             'resume_tokens': process_text(row['Resume']),
-            'target': torch.tensor(row['target'], dtype=torch.float32)
+            'target': torch.tensor(row['target'], dtype=torch.float32),
+            'job_text': row['RoleDescription'],  # Include raw text
+            'resume_text': row['Resume']  # Include raw text
         }
 
 def train():
@@ -241,11 +243,25 @@ def train():
     for epoch in range(10):
         model.train()
         epoch_loss = 0
+        batch_idx = 1
         
         for batch in dataloader:
             job_tokens = batch['job_tokens'].to(device)
             resume_tokens = batch['resume_tokens'].to(device)
             targets = batch['target'].to(device)
+
+            if batch_idx % 10 == 0:  # Adjust frequency as needed
+                print(f"\n--- Batch {batch_idx} Samples ---")
+                for i in range(3):
+                    if i >= len(batch['job_text']):
+                        break
+                    job_sample = ' '.join(batch['job_text'][i].split()[:15])
+                    resume_sample = ' '.join(batch['resume_text'][i].split()[:15])
+                    rating = batch['target'][i].item()
+                    print(f"Sample {i+1}:")
+                    print(f"Job Posting: {job_sample}...")
+                    print(f"Resume: {resume_sample}...")
+                    print(f"Rating: {rating:.4f}\n")
             
             # Forward pass
             optimizer.zero_grad()
@@ -260,6 +276,8 @@ def train():
             loss.backward()
             optimizer.step()
             epoch_loss += loss.item()
+
+            batch_idx += 1
         
         epoch_loss_avg = epoch_loss/len(dataloader)
         print(f"Epoch {epoch+1} Loss: {epoch_loss_avg:.4f}")

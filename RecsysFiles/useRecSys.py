@@ -173,7 +173,7 @@ def company_reject(company_pref: torch.Tensor, user_pref: torch.Tensor) -> torch
     return calculate_adjustment(company_pref, user_pref, multiplier, reverse=True)
 
 def company_accept(company_pref: torch.Tensor, user_pref: torch.Tensor) -> torch.Tensor:
-    multiplier: float = 0.21 # Move 10% of distance closer
+    multiplier: float = 0.1 # Move 10% of distance closer
 
     return calculate_adjustment(company_pref, user_pref, multiplier)
 

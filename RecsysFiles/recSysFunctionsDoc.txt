@@ -1,0 +1,76 @@
+predict_rating(job_pref, user_pref)
+- Inputs 2 tensors of size (512)
+    - One represents user preference matrix
+    - The other represents company preference matrix
+- Outputs a single scalar that represents the predicted rating (higher -> better fit)
+- Only works with one tensor at a time
+
+process_new_job(text)
+- Inputs a string extracted from job posting
+- Outputs a tensor of size (512) which represents company preference
+- Only works with one string at a time
+
+process_new_user(text)
+- Inputs a string extracted from user resume
+- Outputs a tensor of size (512) which represents user’s preference
+- Only works with one string at a time
+
+batch_process_jobs(texts)
+- Inputs a list of strings extracted from multiple job postings
+- Outputs a tensor of size (NumEntries, 512) which represents company preference for each job posting
+Works with as many inputs as needed
+
+batch_process_users(texts)
+- Inputs a list of strings extracted from multiple resumes
+- Outputs a tensor of size (NumEntries, 512) which represents user preference for each job posting
+- Works with as many inputs as needed
+
+batch_predict(job_prefs, user_prefs)
+- Inputs 2 lists of tensors representing company preferences and user preferences respectively
+- Both inputs have tensors of size (512) with the same number of entries
+- Outputs a tensor of size (numEntries) with each entry being the rating for the posting/resume pair
+- Works with as many pairings as needed
+
+Suggested pipeline: use process_new_job and process_new_user during sign up and use batch_predict to get top rated postings for each user
+
+user_save_for_later(user_pref, company_pref)
+- Inputs 2 tensors of size (512) representing user preference and company preference respectively
+- Outputs a tensor of size (512) representing updated user preference matrix
+- Must be used after the user saves a job for later
+- Multiplier can be modified to strengthen or weaken the preference changes
+- Suggested value: 0.05, suggested max: 0.3
+
+user_apply(user_pref, company_pref)
+- Inputs 2 tensors of size (512) representing user preference and company preference respectively
+- Outputs a tensor of size (512) representing updated user preference matrix
+- Must be used after the user applies to a job
+- Multiplier can be modified to strengthen or weaken the preference changes
+- Suggested value: 0.1, suggested max: 0.5
+
+user_reject(user_pref, company_pref)
+- Inputs 2 tensors of size (512) representing user preference and company preference respectively
+- Outputs a tensor of size (512) representing updated user preference matrix
+- Must be used after the user passes on a job
+- Multiplier can be modified to strengthen or weaken the preference changes
+- Suggested value: 0.1, suggested max: 0.5
+
+company_reject(company_pref, user_pref)
+- Inputs 2 tensors of size (512) representing company preference and user preference respectively
+- Outputs a tensor of size (512) representing updated company preference matrix
+- Must be used after the company rejects a user
+- Multiplier can be modified to strengthen or weaken the preference changes
+- Suggested value: 0.1, suggested max: 0.5
+
+company_accept(company_pref, user_pref)
+- Inputs 2 tensors of size (512) representing company preference and user preference respectively
+- Outputs a tensor of size (512) representing updated company preference matrix
+- Must be used after the company accepts a user
+- Multiplier can be modified to strengthen or weaken the preference changes
+- Suggested value: 0.1, suggested max: 0.5
+
+company_resume_viewed(company_pref, user_pref)
+- Inputs 2 tensors of size (512) representing company preference and user preference respectively
+- Outputs a tensor of size (512) representing updated company preference matrix
+- Must be used after the company looks at a user’s application
+- Multiplier can be modified to strengthen or weaken the preference changes
+- Suggested value: 0.05, suggested max: 0.3
