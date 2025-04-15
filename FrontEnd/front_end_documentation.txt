@@ -1,0 +1,124 @@
+
+File Structure
+	index.html - Main landing page
+	about_us.html - Team and project information
+	personal_info.html - User data collection form
+	login.html - User authentication
+	signup.html - User registration
+	futureplans.txt - Planned feature enhancements
+
+
+
+File Details
+1. index.html - Landing Page
+	Purpose:
+		Serves as the main entry point to the CareerMatch AI platform
+		Introduces users to the platform's core features
+		Provides navigation to other sections of the application
+	
+	Key Features:
+		Animated welcome overlay that disappears on scroll
+		Parallax-style feature sections with smooth scroll animations
+		Responsive navigation bar consistent across all pages
+		Visual showcase of platform capabilities
+
+	Development Notes:
+		Uses CSS transitions and transforms for smooth animations
+		Implements scroll event listeners to trigger animations
+		Features alternating color schemes for visual interest
+		Designed to make strong first impression with minimal loading time
+
+2. about_us.html - About Page
+	Purpose:
+		Provides information about the CareerMatch AI platform
+		Introduces the development team
+		Explains the platform's vision and technology
+
+	Key Features:
+		Detailed description of platform functionality
+		Team member profiles with placeholder images
+		Consistent navigation with other pages
+		Professional, clean layout
+
+	Development Notes:
+		Uses card-based design for team members
+		Justified text for professional appearance
+		Responsive container layout
+		Easy to update team information
+		Content Sections:
+		Platform overview with 4 descriptive paragraphs
+		"Meet the Team" section with 7 member cards 
+		Standard footer with copyright information
+
+3. personal_info.html - Data Submission Page
+	Purpose:
+		Collects user personal information
+		Handles resume uploads and previews
+		Serves as primary data collection point
+
+	Key Features:
+		Split-form design (personal info + resume)
+		PDF preview functionality
+		Form validation
+		Authentication buttons (login/signup)
+
+	Development Notes:
+		Implements PDF file preview using URL.createObjectURL()
+		Uses FormData API for file uploads
+		Centered form layout for focus
+		Responsive design for various screen sizes
+
+
+4. login.html - Login Page
+	Purpose:
+		Handles user authentication
+		Validates credentials
+		Redirects to personal info page on success
+
+	Key Features:
+		Simple, focused form
+		Email and password fields
+		Form submission handling
+		Error messaging
+
+	Development Notes:
+		Uses fetch API for backend communication
+		Minimalist design for usability
+		Prepared for backend integration
+		Error handling for failed login attempts
+
+5. signup.html - Registration Page
+	Purpose:
+		Handles new user registration
+		Validates password requirements
+		Creates new user accounts
+
+	Key Features:
+		Username, email, and password fields
+		Password complexity validation
+		Success/error messaging
+		Redirect to home page on success
+
+	Development Notes:
+		Implements password validation regex
+		Uses fetch API for backend communication
+		Error handling for registration failures
+		Simple, intuitive form layout
+
+Cross-Cutting Features
+	Navigation System
+	Consistent across all pages
+	Fixed position for constant access
+	Includes links to: Home page, About page Data submission, External resources (GitHub, RCOS)
+	Responsive design
+	Styling Approach
+	Cohesive color scheme (blues, grays, white)
+	Modern, clean typography
+	Card-based components
+	Subtle shadows and transitions
+	Mobile-friendly layouts
+	Authentication Flow
+	Signup → Login → Personal Info progression
+	Form validation
+	Error handling
+	Secure password requirements
