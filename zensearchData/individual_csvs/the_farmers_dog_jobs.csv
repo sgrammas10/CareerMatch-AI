@@ -1,57 +1,64 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-2800230,"Software Engineer 3, Product Launch","https://job-boards.greenhouse.io/thefarmersdog/jobs/7932722002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.652805Z","Who We Are
-The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
+2827652,"Field Veterinarian","https://job-boards.greenhouse.io/thefarmersdog/jobs/7967655002","The_Farmers_Dog","Atlanta","Yes",5,"Full time","2025-04-23T01:56:53.107075Z","Who We Are
+The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
-What We Stand For and Where You'll Come In
-Whats a day in the life of a Software Engineer like here? Youll work with a talented engineering pawd to expand and improve our subscription-based, direct-to-consumer, e-commerce platform that delivers fresh food to pets across the country. Big fan of short feedback loops? Youll deliver high quality, well-tested and peer-reviewed code to production in minutes using our automated CI/CD pipeline. Your solutions will leverage industry best practices including A/B experiments, feature toggles and canary rollouts to confidently release high-impact features that dog lovers will love.
-At The Farmers Dog collaboration is an imperative. Our team is full of engineers that love to learn and grow. Youll regularly white board, pair program and review architecture with top-notch peers with experience working at Amazon, Google, Disney, and Apple.
-We have a great team, but theres still so much to do and figure out. If youre interested in scale and want to be in the room when those architecture decisions are made: youre reading the right job description. Were in that sweet spot of having clear product-market fit, but still having a small enough team that each engineer makes a big impact. Youll work closely with the team to restructure our application architecture to handle our rapid growth at scale.
-If you want to have the space and agency to make a big impact both for customers, colleagues and our system: The Farmers Dog is for you. If youre looking for a fully-formed organization with a lot of established processes: a larger company would be a better fit. If youre looking for rapid iteration to find product-market fit: an earlier stage startup would be a better match.
-One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
-We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
-We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
-We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
-We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
-How You'll Make An Impact
+What We Stand For and Where Youll Come In
+At The Farmers Dog, we believe that dogs deserve better  better nutrition, better care, and a better life. Our mission is to revolutionize dog health through proper nutrition, education, and advocacy, because what we feed our dogs directly impacts how they feel, live, and thrive.
+This mission goes far beyond food  it's about reshaping how we think about canine wellness, empowering veterinary professionals and the dogs and owners that they care for, to make informed, compassionate choices for dogs everywhere.
+Were looking for a Field Veterinarian to help bring this mission to life. This is a role for a veterinarian that is unlike any other - you'll be part educator, part advocate, and part strategic partner, working directly with veterinary teams to make a lasting impact and help them expand their use of nutrition.
+This role requires an independent and strategic thinker. We want an individual who thrives on the idea of taking a larger initiative, building it from the ground up, and shaping how we engage with the veterinary community in a region.
+If youre a veterinarian who cares deeply about advancing canine nutrition, building relationships, and making a bigger impact on dog health  we want to meet you.
+How Youll Make an Impact
+We're not here to do things the way theyve always been done. This means that youll be expected to bring new ideas to the table, shape them, and execute them with real autonomy. We want you to help define the role and what makes it most effective. Heres how youll make an impact:
 
-Knowledge of programming languages and software development standard processes to ensure that projects are delivered on time and within budget
-Analytical and problem solving skills to identify and resolve issues that arise during projects to minimize delays and keep projects on track
-Strong architectural design experience working at scale.
-Takes the initiative to learn new technologies when jumping into new projects and looking for ways to improve the system.
-Experience designing, implementing and launching new features that have a large user impact, while reducing tech debt.
-Solid data modeling skills for assessing and expanding our domain.
-Experience with multi-functional teams including developers, product managers, and partners to meet project and organizational goals
-Provide meaningful, actionable feedback that encourages growth and drives team excellence
-Experience mentoring other engineers.
-Challenge existing engineering processes, while always looking for ways to improve them.
-Proficiency in our stack which is top-to-bottom JavaScript (and TypeScript); a background with React, Angular, Node.js and Vue.js is preferred.
+Engage deeply in the veterinary and canine health community  becoming a trusted thought leader and a credible, compassionate advocate for dogs.
+Champion fresh canine nutrition  helping veterinary teams discover how fresh, personalized nutrition can revolutionize dog careaiding in disease management, wellness, and improving quality of life.
+Educate and empower veterinarians and the hospital team through engaging conversations, lectures, roundtables, and direct collaboration  always focused on the real-world needs of dogs and the veterinary teams who serve them. You not only deliver high-quality education but also actively identify learners' needs and interests to shape the educational content we create.
+Bring the ""voice of the veterinary professionals"" to our internal teams  shaping product and marketing strategies, so that everything we create is grounded in what veterinarians, their teams, and the dogs they care for, truly need.
+Coach and collaborate with our internal teams, helping them connect meaningfully with veterinary partners and stay aligned with best medicine and nutritional science.
+Partner with leadership to develop innovative strategies that drive lasting change in how the veterinary community approaches nutrition.
+Invest in your own growth and knowledge  staying current on veterinary and nutrition science, practice management, and the evolving needs of pets and their people.
 
-We're Excited About You Because
+Were Excited About You Because You Are:
 
-Theres a focus on quality in everything you deliver from code, to architecture, to group messages.
-You are always looking to improve your environment and take things from good to great.  
-You are the go to person for multiple technologies and are always willing to help out, by teaching and answering questions.
-Detail oriented internally and externally. You love to build accurate mental models of how things work.
-Always looking for ways to improve the system. With every new feature, you look for opportunities to improve the codebase.
-Focused on seeking out contrasting opinions so you can learn and grow.
-Resourceful enough to get the answers you need independently while savvy enough to develop solutions collaboratively.
-Comfortable in both scrappy and entrepreneurial environments, as well as more sophisticated and later-stage organizations.
-You think critically and objectively; have excellent problem solving skills and the ability to make quick decisions based on business demands.
-You challenge convention, you question why processes exist and make suggestions on how to improve them.
-You give meaningful and actionable feedback to others, helping others grow.
-High energy and action-oriented with a passion for getting things done in complex environments.
-Strong communication skills. You are articulate and persuasive while able to listen and incorporate the perspectives of others.
-Results orientated with a strong work ethic. Must be tenacious, with the emotional intelligence to know when to push harder and when to look for alternative approaches.
-Committed to furthering the mission of The Farmers Dog.
+An excellent communicator  whether youre chatting 1:1, speaking at a conference, or collaborating internally.
+Passionate about dog nutrition  you believe what dogs eat is foundational to their health and longevity, and you believe that fresh is an ideal way to get there. 
+A connector and educator  approachable, motivating, and able to build trust and relationships inside and outside the company.
+A collaborator  curious, creative, and energized by working with others to solve tough challenges, even when they feel ambiguous and uncertain.
+A self-starter and leader  ready to take initiative and drive change, working independently to create something new.
+A trusted coach and mentor  you know how to uplift others, share knowledge, and develop meaningful partnerships.
+Confident yet humble and flexible  you bring expertise without ego and adapt as needed.
+Comfortable with change and ambiguity  knowing that making a meaningful impact means trying new things, navigating uncertainty, and challenging the status quo.
+A lifelong learner with a growth mindset  open to new ideas and always seeking to improve.
+Committed to best medicine  always learning, growing, and advocating for whats right for dogs and their people.
 
+Youll Bring:
+
+A Doctor of Veterinary Medicine (DVM or equivalent) and an active veterinary license in good standing.
+5+ years of clinical experience in companion animal general practice.
+A passion for nutrition, wellness, and advancing dog health.
+Strong interpersonal and communication skills  you love connecting with people and having real conversations.
+A working vehicle, a valid U.S. drivers license and willingness to travel (at times can be up to about 6070% travel, including some weekends and evenings).
+Curiosity, positivity, and a mission-driven mindset  youre here to make a difference for dogs.
+
+How We Work
+We believe that changing the way the world feeds and cares for dogs wont happen by doing things the way they've always been done. So we:
+
+Think holistically  recognizing that nutrition, medicine, and wellness are interconnected.
+Focus on the right problems  prioritizing what will have the biggest impact on dogs' lives.
+Let science and real-world insights guide us  staying curious, data-driven, and skeptical of anything that doesn't serve dogs.
+Collaborate deeply and transparently  working together and with veterinary professionals to create meaningful solutions.
+Execute for impact  never for the sake of ""best practices"" or benchmarks, but because we care about results for real dogs and their humans.
+
+If youre passionate about reimagining canine health through nutrition, believe in empowering veterinary professionals, and want to play a pivotal role in transforming dog care  wed love to hear from you.
 Office Guidelines
-We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
-Our DEI Philosophy:
+While this role is remote and regional, at times you may be required to travel to our main offices. 
+Our Belonging Philosophy:
 Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
 A Few of Our Best Benefits
 
-Dog-friendly office in Greenwich Village
+Dog-friendly offices
 Market-competitive compensation and equity packages
 Comprehensive Healthcare, Dental, and Vision
 Company supported mental health benefits
@@ -61,79 +68,11 @@ Flexible PTO
 Discounted fresh food for your pup
 Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
 
-We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is155,000 - $175,000USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
 Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2800227,"Software Engineer 3, Onboarding","https://job-boards.greenhouse.io/thefarmersdog/jobs/7955040002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.652928Z","Who We Are
-The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
-To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
-#LongLiveDogs
-What We Stand For and Where You'll Come In
-Whats a day in the life of a Software Engineer like here? Youll work with a talented engineering pawd to expand and improve our subscription-based, direct-to-consumer, e-commerce platform that delivers fresh food to pets across the country. Big fan of short feedback loops? Youll deliver high quality, well-tested and peer-reviewed code to production in minutes using our automated CI/CD pipeline. Your solutions will leverage industry best practices including A/B experiments, feature toggles and canary rollouts to confidently release high-impact features that dog lovers will love.
-At The Farmers Dog collaboration is an imperative. Our team is full of engineers that love to learn and grow. Youll regularly white board, pair program and review architecture with top-notch peers with experience working at Amazon, Google, Disney, and Apple.
-We have a great team, but theres still so much to do and figure out. If youre interested in scale and want to be in the room when those architecture decisions are made: youre reading the right job description. Were in that sweet spot of having clear product-market fit, but still having a small enough team that each engineer makes a big impact. Youll work closely with the team to restructure our application architecture to handle our rapid growth at scale.
-If you want to have the space and agency to make a big impact both for customers, colleagues and our system: The Farmers Dog is for you. If youre looking for a fully-formed organization with a lot of established processes: a larger company would be a better fit. If youre looking for rapid iteration to find product-market fit: an earlier stage startup would be a better match.
-One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
-We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
-We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
-We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
-We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
-How You'll Make An Impact
-
-Knowledge of programming languages and software development standard processes to ensure that projects are delivered on time and within budget
-Analytical and problem solving skills to identify and resolve issues that arise during projects to minimize delays and keep projects on track
-Strong architectural design experience working at scale.
-Takes the initiative to learn new technologies when jumping into new projects and looking for ways to improve the system.
-Experience designing, implementing and launching new features that have a large user impact, while reducing tech debt.
-Solid data modeling skills for assessing and expanding our domain.
-Experience with multi-functional teams including developers, product managers, and partners to meet project and organizational goals
-Provide meaningful, actionable feedback that encourages growth and drives team excellence
-Experience mentoring other engineers.
-Challenge existing engineering processes, while always looking for ways to improve them.
-Proficiency in our stack which is top-to-bottom JavaScript (and TypeScript); a background with React, Angular, Node.js and Vue.js is preferred.
-
-We're Excited About You Because
-
-Theres a focus on quality in everything you deliver from code, to architecture, to group messages.
-You are always looking to improve your environment and take things from good to great.  
-You are the go to person for multiple technologies and are always willing to help out, by teaching and answering questions.
-Detail oriented internally and externally. You love to build accurate mental models of how things work.
-Always looking for ways to improve the system. With every new feature, you look for opportunities to improve the codebase.
-Focused on seeking out contrasting opinions so you can learn and grow.
-Resourceful enough to get the answers you need independently while savvy enough to develop solutions collaboratively.
-Comfortable in both scrappy and entrepreneurial environments, as well as more sophisticated and later-stage organizations.
-You think critically and objectively; have excellent problem solving skills and the ability to make quick decisions based on business demands.
-You challenge convention, you question why processes exist and make suggestions on how to improve them.
-You give meaningful and actionable feedback to others, helping others grow.
-High energy and action-oriented with a passion for getting things done in complex environments.
-Strong communication skills. You are articulate and persuasive while able to listen and incorporate the perspectives of others.
-Results orientated with a strong work ethic. Must be tenacious, with the emotional intelligence to know when to push harder and when to look for alternative approaches.
-Committed to furthering the mission of The Farmers Dog.
-
-Office Guidelines
-We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
-Our DEI Philosophy:
-Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
-A Few of Our Best Benefits
-
-Dog-friendly office in Greenwich Village
-Market-competitive compensation and equity packages
-Comprehensive Healthcare, Dental, and Vision
-Company supported mental health benefits
-12 week paid parental leave
-Competitive 401k plan with company match
-Flexible PTO 
-Discounted fresh food for your pup
-Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
-
-We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $155,000 - $175,000USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
-Equal Employment Opportunity Statement
-The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
-Reasonable Accommodations
-TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2792267,"Field Veterinarian","https://job-boards.greenhouse.io/thefarmersdog/jobs/7959434002","The_Farmers_Dog","Denver","Yes",5,"Full time","2025-04-21T02:01:24.652969Z","Who We Are
+2827651,"Field Veterinarian","https://job-boards.greenhouse.io/thefarmersdog/jobs/7967652002","The_Farmers_Dog","Denver","Yes",5,"Full time","2025-04-23T01:56:53.107170Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -207,80 +146,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2792264,"Field Veterinarian","https://job-boards.greenhouse.io/thefarmersdog/jobs/7959435002","The_Farmers_Dog","Atlanta","Yes",5,"Full time","2025-04-21T02:01:24.653013Z","Who We Are
-The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
-To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
-#LongLiveDogs
-What We Stand For and Where Youll Come In
-At The Farmers Dog, we believe that dogs deserve better  better nutrition, better care, and a better life. Our mission is to revolutionize dog health through proper nutrition, education, and advocacy, because what we feed our dogs directly impacts how they feel, live, and thrive.
-This mission goes far beyond food  it's about reshaping how we think about canine wellness, empowering veterinary professionals and the dogs and owners that they care for, to make informed, compassionate choices for dogs everywhere.
-Were looking for a Field Veterinarian to help bring this mission to life. This is a role for a veterinarian that is unlike any other - you'll be part educator, part advocate, and part strategic partner, working directly with veterinary teams to make a lasting impact and help them expand their use of nutrition.
-This role requires an independent and strategic thinker. We want an individual who thrives on the idea of taking a larger initiative, building it from the ground up, and shaping how we engage with the veterinary community in a region.
-If youre a veterinarian who cares deeply about advancing canine nutrition, building relationships, and making a bigger impact on dog health  we want to meet you.
-How Youll Make an Impact
-We're not here to do things the way theyve always been done. This means that youll be expected to bring new ideas to the table, shape them, and execute them with real autonomy. We want you to help define the role and what makes it most effective. Heres how youll make an impact:
-
-Engage deeply in the veterinary and canine health community  becoming a trusted thought leader and a credible, compassionate advocate for dogs.
-Champion fresh canine nutrition  helping veterinary teams discover how fresh, personalized nutrition can revolutionize dog careaiding in disease management, wellness, and improving quality of life.
-Educate and empower veterinarians and the hospital team through engaging conversations, lectures, roundtables, and direct collaboration  always focused on the real-world needs of dogs and the veterinary teams who serve them. You not only deliver high-quality education but also actively identify learners' needs and interests to shape the educational content we create.
-Bring the ""voice of the veterinary professionals"" to our internal teams  shaping product and marketing strategies, so that everything we create is grounded in what veterinarians, their teams, and the dogs they care for, truly need.
-Coach and collaborate with our internal teams, helping them connect meaningfully with veterinary partners and stay aligned with best medicine and nutritional science.
-Partner with leadership to develop innovative strategies that drive lasting change in how the veterinary community approaches nutrition.
-Invest in your own growth and knowledge  staying current on veterinary and nutrition science, practice management, and the evolving needs of pets and their people.
-
-Were Excited About You Because You Are:
-
-An excellent communicator  whether youre chatting 1:1, speaking at a conference, or collaborating internally.
-Passionate about dog nutrition  you believe what dogs eat is foundational to their health and longevity, and you believe that fresh is an ideal way to get there. 
-A connector and educator  approachable, motivating, and able to build trust and relationships inside and outside the company.
-A collaborator  curious, creative, and energized by working with others to solve tough challenges, even when they feel ambiguous and uncertain.
-A self-starter and leader  ready to take initiative and drive change, working independently to create something new.
-A trusted coach and mentor  you know how to uplift others, share knowledge, and develop meaningful partnerships.
-Confident yet humble and flexible  you bring expertise without ego and adapt as needed.
-Comfortable with change and ambiguity  knowing that making a meaningful impact means trying new things, navigating uncertainty, and challenging the status quo.
-A lifelong learner with a growth mindset  open to new ideas and always seeking to improve.
-Committed to best medicine  always learning, growing, and advocating for whats right for dogs and their people.
-
-Youll Bring:
-
-A Doctor of Veterinary Medicine (DVM or equivalent) and an active veterinary license in good standing.
-5+ years of clinical experience in companion animal general practice.
-A passion for nutrition, wellness, and advancing dog health.
-Strong interpersonal and communication skills  you love connecting with people and having real conversations.
-A working vehicle, a valid U.S. drivers license and willingness to travel (at times can be up to about 6070% travel, including some weekends and evenings).
-Curiosity, positivity, and a mission-driven mindset  youre here to make a difference for dogs.
-
-How We Work
-We believe that changing the way the world feeds and cares for dogs wont happen by doing things the way they've always been done. So we:
-
-Think holistically  recognizing that nutrition, medicine, and wellness are interconnected.
-Focus on the right problems  prioritizing what will have the biggest impact on dogs' lives.
-Let science and real-world insights guide us  staying curious, data-driven, and skeptical of anything that doesn't serve dogs.
-Collaborate deeply and transparently  working together and with veterinary professionals to create meaningful solutions.
-Execute for impact  never for the sake of ""best practices"" or benchmarks, but because we care about results for real dogs and their humans.
-
-If youre passionate about reimagining canine health through nutrition, believe in empowering veterinary professionals, and want to play a pivotal role in transforming dog care  wed love to hear from you.
-Office Guidelines
-While this role is remote and regional, at times you may be required to travel to our main offices. 
-Our Belonging Philosophy:
-Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
-A Few of Our Best Benefits
-
-Dog-friendly offices
-Market-competitive compensation and equity packages
-Comprehensive Healthcare, Dental, and Vision
-Company supported mental health benefits
-12 week paid parental leave
-Competitive 401k plan with company match
-Flexible PTO 
-Discounted fresh food for your pup
-Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
-
-Equal Employment Opportunity Statement
-The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
-Reasonable Accommodations
-TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2792263,"Engineering Manager - Operations","https://job-boards.greenhouse.io/thefarmersdog/jobs/7959149002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.653051Z","Who We Are
+2827649,"Engineering Manager ","https://job-boards.greenhouse.io/thefarmersdog/jobs/7967651002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.107200Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 Who We Are
@@ -335,7 +201,247 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-1321474,"Product Design Lead","https://job-boards.greenhouse.io/thefarmersdog/jobs/7306637002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.653092Z","Who We Are
+2827648,"Acquisition Manager, Streaming TV","https://job-boards.greenhouse.io/thefarmersdog/jobs/7936434002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.107243Z","Who We Are
+The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
+#LongLiveDogs
+What We Stand For and Where Youll Come In
+The Acquisition Manager, Streaming will be responsible for supporting the Director, Offline in owning and scaling TFDs CTV marketing program. This person will be responsible for the strategy and working with our media partners to execute. A successful Acquisition Manager, Streaming will have strong analytical and data-based decision making skills along with a customer-centric approach to everything they do. Youll collaborate with teams across the business (especially Growth, Brand, Creative, and Data Strategy &amp; Insights) to strategize innovative ways to scale and test within our existing portfolio, while also vetting, researching, and implementing new opportunities.
+One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
+We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
+We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
+We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
+We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
+How You'll Make An Impact
+
+Lead, manage, and scale TFDs CTV Marketing program 
+Partner with groups across the business to launch CTV campaigns that drive performance and ensure brand alignment
+Demonstrate fluency in TFDs CTV strategy by guiding briefing, planning (across all buy-types), and effectively managing feedback on the media plans to partners
+Develop and seek input on forecasting, goals, OKRs and testing roadmaps
+Use your analytical skills to deep dive into daily, weekly, and monthly performance. This includes providing reports and analyses to both internal and external stakeholders, by leveraging a variety of metrics from varying sources, communicating insights and making thoughtful and informed recommendations that drive performance and business decisions  
+Create efficiencies for the Offline group by standardizing processes, documentation, reporting etc.
+Manage relationships with media partners and set them up for success by translating internal knowledge to provide the right context and level of information 
+Manage and effectively allocate large media budgets with a deep understanding of holistic growth and channel overlaps (especially across video)
+Continuously find ways to innovate, test and implement frequent optimizations (e.g. creative, placements, buy-type etc.) that improve our best-in-class program 
+Be a thought-partner for other Offline channels and associates, by proactively knowledge sharing with others, setting exemplary standards all while seeking and welcoming feedback in the process
+
+We're Excited About You Because
+
+You have 5+ years of experience with CTV and HOK programmatic buying (its a bonus if you also have experience across other channels like Audio, YouTube, etc.)
+You have experience managing a multi-million dollar monthly budget with CTV
+You enjoy autonomy and can manage in ambiguity
+You are proactive, always on the lookout for new opportunities and solutions.
+You consistently seek better from our partners
+You have experience running A/B tests; you understand how to use different data sets and implement results 
+You have a strong analytical mentality and problem-solving skills
+You have a deep understanding of marketing KPIs
+You achieve performance metrics while prioritizing customer experience 
+You are intensely curious about the unknown, skeptical, and eager to understand why
+You have a passion for performance marketing - youre on top of the evolving ecosystem, enjoy researching the industry, and connecting with other brands
+Youre collaborative and pride yourself on your strong, effective communication skills.  Youre confident in being direct yet always lead with empathy and kindness. 
+
+Office Guidelines
+We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
+Our Belonging Philosophy:
+Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
+A Few of Our Best Benefits
+
+Dog-friendly office in Greenwich Village
+Market-competitive compensation and equity packages
+Comprehensive Healthcare, Dental, and Vision
+Company supported mental health benefits
+12 week paid parental leave
+Competitive 401k plan with company match
+Flexible PTO 
+Discounted fresh food for your pup
+Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
+
+We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $114,000 - $135,000 USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
+Equal Employment Opportunity Statement
+The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
+Reasonable Accommodations
+TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
+2815448,"Senior Compensation Analyst","https://job-boards.greenhouse.io/thefarmersdog/jobs/7966249002","The_Farmers_Dog","New York","No",4,"Full time","2025-04-23T01:56:53.107268Z","Who We Are
+The Farmers Dog is the fastest growing pet health service company in the US, and was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care  a fresh proposition in an industry riddled with manipulative and misleading marketing. Were starting by radically improving the $100 billion pet food market, replacing bulk bags of highly-processed pellets with a personalized subscription service that sends healthy, freshly-made dog food, balanced by top veterinary nutritionists, directly to customers doors. Our ultimate goal is to create innovative, honest, and delightful experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic and forward-thinking culture uniquely position us to shepherd this backwards industry into the future. 
+To date, The Farmers Dog has delivered hundreds of millions of meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to our customers, health to their companions, and much-needed change to the way people feed and care for their pets.
+#LongLiveDogs
+Where You'll Come In
+The Senior Compensation Analyst  will play a pivotal role in supporting our growing business. Were looking for an experienced compensation partner that will act as a main liaison between total rewards and the business functions as well as an integral partner to support our talent acquisition group and human business partner group.
+How You'll Make An Impact
+
+Manage preparation for the compensation review processes from beginning to end, including preparation of market data, compensation workbooks to managers and follow ups as needed. 
+Closely partner with Total Rewards leaders to facilitate thoughtful people driven conversations with managers to determine compensation decisions, and communication and training for managers and employees. 
+Continuously review and conduct benchmarking including job descriptions, FLSA, levels and market matches to ensure competitiveness to market.
+Analyze market data to distill insights, convey findings and support compensation decisions within our compensation structure.
+Serve as the primary first point of contact between Total Rewards, Talent Acquisition and Human Business Partners. Collaboration between these functions is imperative to efficiency and growth.  
+Build trust and relationships within the broader Humans function and business stakeholders.
+Review and audit compensation practices to ensure consistency, compliance, and competitiveness. 
+Assist with compensation projects as needed, most notable going into 2025 will be continued maintenance and evolution of our HRIS System, Workday.
+
+We're Excited About You Because
+
+Youve enjoyed 4+ years supporting and managing compensation processes.
+You have strong excel skills and can use data to drive points across. 
+You love to solve problems with creative solutions leveraging first principles thinking. 
+You have a fascination with numbers but also understand that numbers are not everything. 
+You thrive off collaboration and seek context when providing recommendations and discussing solutions. 
+You love dogs.
+
+Office Guidelines
+We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
+Our Belonging Philosophy:
+Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
+A Few of Our Best Benefits
+
+Dog-friendly office in Greenwich Village
+Market-competitive compensation and equity packages
+Comprehensive Healthcare, Dental, and Vision
+Company sponsored mental health benefit and coaching through Modern Health
+12 week paid parental leave
+Competitive 401k plan with company match
+Flexible PTO 
+Discounted fresh food for your pup
+Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
+
+We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $110,000 - $125,000 USD Annual and the compensation offered will include a robust market competitive package of base and equity ownership in the company. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
+Equal Employment Opportunity Statement
+The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
+Reasonable Accommodations
+TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
+2800230,"Software Engineer 3, Product Launch","https://job-boards.greenhouse.io/thefarmersdog/jobs/7932722002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107294Z","Who We Are
+The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
+To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
+#LongLiveDogs
+What We Stand For and Where You'll Come In
+Whats a day in the life of a Software Engineer like here? Youll work with a talented engineering pawd to expand and improve our subscription-based, direct-to-consumer, e-commerce platform that delivers fresh food to pets across the country. Big fan of short feedback loops? Youll deliver high quality, well-tested and peer-reviewed code to production in minutes using our automated CI/CD pipeline. Your solutions will leverage industry best practices including A/B experiments, feature toggles and canary rollouts to confidently release high-impact features that dog lovers will love.
+At The Farmers Dog collaboration is an imperative. Our team is full of engineers that love to learn and grow. Youll regularly white board, pair program and review architecture with top-notch peers with experience working at Amazon, Google, Disney, and Apple.
+We have a great team, but theres still so much to do and figure out. If youre interested in scale and want to be in the room when those architecture decisions are made: youre reading the right job description. Were in that sweet spot of having clear product-market fit, but still having a small enough team that each engineer makes a big impact. Youll work closely with the team to restructure our application architecture to handle our rapid growth at scale.
+If you want to have the space and agency to make a big impact both for customers, colleagues and our system: The Farmers Dog is for you. If youre looking for a fully-formed organization with a lot of established processes: a larger company would be a better fit. If youre looking for rapid iteration to find product-market fit: an earlier stage startup would be a better match.
+One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
+We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
+We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
+We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
+We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
+How You'll Make An Impact
+
+Knowledge of programming languages and software development standard processes to ensure that projects are delivered on time and within budget
+Analytical and problem solving skills to identify and resolve issues that arise during projects to minimize delays and keep projects on track
+Strong architectural design experience working at scale.
+Takes the initiative to learn new technologies when jumping into new projects and looking for ways to improve the system.
+Experience designing, implementing and launching new features that have a large user impact, while reducing tech debt.
+Solid data modeling skills for assessing and expanding our domain.
+Experience with multi-functional teams including developers, product managers, and partners to meet project and organizational goals
+Provide meaningful, actionable feedback that encourages growth and drives team excellence
+Experience mentoring other engineers.
+Challenge existing engineering processes, while always looking for ways to improve them.
+Proficiency in our stack which is top-to-bottom JavaScript (and TypeScript); a background with React, Angular, Node.js and Vue.js is preferred.
+
+We're Excited About You Because
+
+Theres a focus on quality in everything you deliver from code, to architecture, to group messages.
+You are always looking to improve your environment and take things from good to great.  
+You are the go to person for multiple technologies and are always willing to help out, by teaching and answering questions.
+Detail oriented internally and externally. You love to build accurate mental models of how things work.
+Always looking for ways to improve the system. With every new feature, you look for opportunities to improve the codebase.
+Focused on seeking out contrasting opinions so you can learn and grow.
+Resourceful enough to get the answers you need independently while savvy enough to develop solutions collaboratively.
+Comfortable in both scrappy and entrepreneurial environments, as well as more sophisticated and later-stage organizations.
+You think critically and objectively; have excellent problem solving skills and the ability to make quick decisions based on business demands.
+You challenge convention, you question why processes exist and make suggestions on how to improve them.
+You give meaningful and actionable feedback to others, helping others grow.
+High energy and action-oriented with a passion for getting things done in complex environments.
+Strong communication skills. You are articulate and persuasive while able to listen and incorporate the perspectives of others.
+Results orientated with a strong work ethic. Must be tenacious, with the emotional intelligence to know when to push harder and when to look for alternative approaches.
+Committed to furthering the mission of The Farmers Dog.
+
+Office Guidelines
+We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
+Our DEI Philosophy:
+Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
+A Few of Our Best Benefits
+
+Dog-friendly office in Greenwich Village
+Market-competitive compensation and equity packages
+Comprehensive Healthcare, Dental, and Vision
+Company supported mental health benefits
+12 week paid parental leave
+Competitive 401k plan with company match
+Flexible PTO 
+Discounted fresh food for your pup
+Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
+
+We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is155,000 - $175,000USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
+Equal Employment Opportunity Statement
+The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
+Reasonable Accommodations
+TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
+2800227,"Software Engineer 3, Onboarding","https://job-boards.greenhouse.io/thefarmersdog/jobs/7955040002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107319Z","Who We Are
+The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
+To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
+#LongLiveDogs
+What We Stand For and Where You'll Come In
+Whats a day in the life of a Software Engineer like here? Youll work with a talented engineering pawd to expand and improve our subscription-based, direct-to-consumer, e-commerce platform that delivers fresh food to pets across the country. Big fan of short feedback loops? Youll deliver high quality, well-tested and peer-reviewed code to production in minutes using our automated CI/CD pipeline. Your solutions will leverage industry best practices including A/B experiments, feature toggles and canary rollouts to confidently release high-impact features that dog lovers will love.
+At The Farmers Dog collaboration is an imperative. Our team is full of engineers that love to learn and grow. Youll regularly white board, pair program and review architecture with top-notch peers with experience working at Amazon, Google, Disney, and Apple.
+We have a great team, but theres still so much to do and figure out. If youre interested in scale and want to be in the room when those architecture decisions are made: youre reading the right job description. Were in that sweet spot of having clear product-market fit, but still having a small enough team that each engineer makes a big impact. Youll work closely with the team to restructure our application architecture to handle our rapid growth at scale.
+If you want to have the space and agency to make a big impact both for customers, colleagues and our system: The Farmers Dog is for you. If youre looking for a fully-formed organization with a lot of established processes: a larger company would be a better fit. If youre looking for rapid iteration to find product-market fit: an earlier stage startup would be a better match.
+One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
+We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
+We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
+We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
+We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
+How You'll Make An Impact
+
+Knowledge of programming languages and software development standard processes to ensure that projects are delivered on time and within budget
+Analytical and problem solving skills to identify and resolve issues that arise during projects to minimize delays and keep projects on track
+Strong architectural design experience working at scale.
+Takes the initiative to learn new technologies when jumping into new projects and looking for ways to improve the system.
+Experience designing, implementing and launching new features that have a large user impact, while reducing tech debt.
+Solid data modeling skills for assessing and expanding our domain.
+Experience with multi-functional teams including developers, product managers, and partners to meet project and organizational goals
+Provide meaningful, actionable feedback that encourages growth and drives team excellence
+Experience mentoring other engineers.
+Challenge existing engineering processes, while always looking for ways to improve them.
+Proficiency in our stack which is top-to-bottom JavaScript (and TypeScript); a background with React, Angular, Node.js and Vue.js is preferred.
+
+We're Excited About You Because
+
+Theres a focus on quality in everything you deliver from code, to architecture, to group messages.
+You are always looking to improve your environment and take things from good to great.  
+You are the go to person for multiple technologies and are always willing to help out, by teaching and answering questions.
+Detail oriented internally and externally. You love to build accurate mental models of how things work.
+Always looking for ways to improve the system. With every new feature, you look for opportunities to improve the codebase.
+Focused on seeking out contrasting opinions so you can learn and grow.
+Resourceful enough to get the answers you need independently while savvy enough to develop solutions collaboratively.
+Comfortable in both scrappy and entrepreneurial environments, as well as more sophisticated and later-stage organizations.
+You think critically and objectively; have excellent problem solving skills and the ability to make quick decisions based on business demands.
+You challenge convention, you question why processes exist and make suggestions on how to improve them.
+You give meaningful and actionable feedback to others, helping others grow.
+High energy and action-oriented with a passion for getting things done in complex environments.
+Strong communication skills. You are articulate and persuasive while able to listen and incorporate the perspectives of others.
+Results orientated with a strong work ethic. Must be tenacious, with the emotional intelligence to know when to push harder and when to look for alternative approaches.
+Committed to furthering the mission of The Farmers Dog.
+
+Office Guidelines
+We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
+Our DEI Philosophy:
+Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
+A Few of Our Best Benefits
+
+Dog-friendly office in Greenwich Village
+Market-competitive compensation and equity packages
+Comprehensive Healthcare, Dental, and Vision
+Company supported mental health benefits
+12 week paid parental leave
+Competitive 401k plan with company match
+Flexible PTO 
+Discounted fresh food for your pup
+Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
+
+We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $155,000 - $175,000USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
+Equal Employment Opportunity Statement
+The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
+Reasonable Accommodations
+TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
+1321474,"Product Design Lead","https://job-boards.greenhouse.io/thefarmersdog/jobs/7306637002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107343Z","Who We Are
 The Farmer's Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. We're starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers' doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -400,7 +506,7 @@ The Farmer's Dog, Inc. is an equal employment opportunity employer and does not 
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com.
 #LI-DM1 #LI-hybrid"
-2772583,"Senior Acquisition Associate, Offline","https://job-boards.greenhouse.io/thefarmersdog/jobs/7953103002","The_Farmers_Dog","New York","No",2,"Full time","2025-04-21T02:01:24.653126Z","Who We Are
+2772583,"Senior Acquisition Associate, Offline Marketing","https://job-boards.greenhouse.io/thefarmersdog/jobs/7953103002","The_Farmers_Dog","New York","No",2,"Full time","2025-04-23T01:56:53.107368Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -455,7 +561,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2051199,"Manager of Analytics, Pro Health","https://job-boards.greenhouse.io/thefarmersdog/jobs/7790264002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.653157Z","Who We Are
+2051199,"Manager of Analytics, Pro Health","https://job-boards.greenhouse.io/thefarmersdog/jobs/7790264002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.107394Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -524,7 +630,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2754478,"Real Estate Lead","https://job-boards.greenhouse.io/thefarmersdog/jobs/7936435002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-21T02:01:24.653199Z","Who We Are
+2754478,"Real Estate Lead","https://job-boards.greenhouse.io/thefarmersdog/jobs/7936435002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-23T01:56:53.107419Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -589,7 +695,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2740933,"Senior Manager, Lifecycle Marketing","https://job-boards.greenhouse.io/thefarmersdog/jobs/7927338002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-21T02:01:24.653230Z","Who We Are
+2740933,"Senior Manager, Lifecycle Marketing","https://job-boards.greenhouse.io/thefarmersdog/jobs/7927338002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-23T01:56:53.107444Z","Who We Are
 The Farmers Dog is the fastest growing pet health service company in the US, and was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care  a fresh proposition in an industry riddled with manipulative and misleading marketing. Were starting by radically improving the $100 billion pet food market, replacing bulk bags of highly-processed pellets with a personalized subscription service that sends healthy, freshly-made dog food, balanced by top veterinary nutritionists, directly to customers doors. Our ultimate goal is to create innovative, honest, and delightful experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic and forward-thinking culture uniquely position us to shepherd this backwards industry into the future. 
 To date, The Farmers Dog has delivered hundreds of millions of meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to our customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -656,7 +762,7 @@ Your pet interrupting video calls (and in-person meetings) is now a feature, not
 We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $140,000 - $160,000 USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
 Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights"
-2734848,"Content Writer","https://job-boards.greenhouse.io/thefarmersdog/jobs/7900852002","The_Farmers_Dog","Nashville","No","Not specified","Full time","2025-04-21T02:01:24.653261Z","Who We Are
+2734848,"Content Writer","https://job-boards.greenhouse.io/thefarmersdog/jobs/7900852002","The_Farmers_Dog","Nashville","No","Not specified","Full time","2025-04-23T01:56:53.107469Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -712,7 +818,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2714932,"Software Engineer 3, Vet","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938904002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.653296Z","Who We Are
+2714932,"Software Engineer 3, Vet","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938904002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107494Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -779,7 +885,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2714930,"Software Engineer 3, Operations","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938903002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.653331Z","Who We Are
+2714930,"Software Engineer 3, Operations","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938903002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107520Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -846,7 +952,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2707130,"Software Engineer 3 - Growth","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938872002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.653380Z","Who We Are
+2707130,"Software Engineer 3 - Growth","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938872002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107555Z","Who We Are
 The Farmers Dog is the fastest growing pet health service company in the US, and was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care  a fresh proposition in an industry riddled with manipulative and misleading marketing. Were starting by radically improving the $100 billion pet food market, replacing bulk bags of highly-processed pellets with a personalized subscription service that sends healthy, freshly-made dog food, balanced by top veterinary nutritionists, directly to customers doors. Our ultimate goal is to create innovative, honest, and delightful experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic and forward-thinking culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered hundreds of millions of meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to our customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -908,7 +1014,7 @@ The Farmer's Dog, Inc. is an equal employment opportunity employer and does not 
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com.
 #LI-Hybrid"
-2707129,"Senior Software Engineer 1, Onboarding","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938861002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.653411Z","Who We Are
+2707129,"Senior Software Engineer 1, Onboarding","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938861002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107580Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -974,7 +1080,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2707127,"Senior Product Innovation Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938859002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-21T02:01:24.653442Z","Who We Are
+2707127,"Senior Product Innovation Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7938859002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-23T01:56:53.107604Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -1031,7 +1137,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2694618,"Talent and Development Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7932725002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.653480Z","Who We Are
+2694618,"Talent and Development Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7932725002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.107630Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1093,7 +1199,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2660855,"Analytics Engineer 2","https://job-boards.greenhouse.io/thefarmersdog/jobs/7916402002","The_Farmers_Dog","New York","No",2,"Full time","2025-04-21T02:01:24.653512Z","Who We Are
+2660855,"Analytics Engineer 2","https://job-boards.greenhouse.io/thefarmersdog/jobs/7916402002","The_Farmers_Dog","New York","No",2,"Full time","2025-04-23T01:56:53.107656Z","Who We Are
 The Farmer's Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. We're starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers' doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -1159,7 +1265,7 @@ Your pet interrupting video calls (and in-person meetings) is now a feature, not
 We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $130,000.00 - $145,000.00 USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
 Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights."
-2683066,"Benefits Lead","https://job-boards.greenhouse.io/thefarmersdog/jobs/7932724002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.653543Z","Who We Are
+2683066,"Benefits Lead","https://job-boards.greenhouse.io/thefarmersdog/jobs/7932724002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.107682Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1214,7 +1320,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2666246,"Allocation Associate","https://job-boards.greenhouse.io/thefarmersdog/jobs/7929671002","The_Farmers_Dog","New York","No",3,"Full time","2025-04-21T02:01:24.653573Z","Who We Are
+2666246,"Allocation Associate","https://job-boards.greenhouse.io/thefarmersdog/jobs/7929671002","The_Farmers_Dog","New York","No",3,"Full time","2025-04-23T01:56:53.107708Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1265,7 +1371,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2554946,"Social Video Creative","https://job-boards.greenhouse.io/thefarmersdog/jobs/7888988002","The_Farmers_Dog","New York","No",3,"Full time","2025-04-21T02:01:24.653604Z","Who We Are
+2554946,"Social Video Creative","https://job-boards.greenhouse.io/thefarmersdog/jobs/7888988002","The_Farmers_Dog","New York","No",3,"Full time","2025-04-23T01:56:53.107744Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1314,7 +1420,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2660856,"Director of Analytics, Acquisition ","https://job-boards.greenhouse.io/thefarmersdog/jobs/7916403002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-21T02:01:24.653636Z","Who We Are
+2660856,"Director of Analytics, Acquisition ","https://job-boards.greenhouse.io/thefarmersdog/jobs/7916403002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-23T01:56:53.107767Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -1382,7 +1488,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2649815,"Training Facilitator","https://job-boards.greenhouse.io/thefarmersdog/jobs/7917019002","The_Farmers_Dog","Florida","No",2,"Full time","2025-04-21T02:01:24.653671Z","Who We Are
+2649815,"Training Facilitator","https://job-boards.greenhouse.io/thefarmersdog/jobs/7917019002","The_Farmers_Dog","Florida","No",2,"Full time","2025-04-23T01:56:53.107792Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1447,7 +1553,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2624031,"Senior Humans Business Partner, Nashville","https://job-boards.greenhouse.io/thefarmersdog/jobs/7918621002","The_Farmers_Dog","Nashville","No",6,"Full time","2025-04-21T02:01:24.653709Z","Who We Are
+2624031,"Senior Humans Business Partner, Nashville","https://job-boards.greenhouse.io/thefarmersdog/jobs/7918621002","The_Farmers_Dog","Nashville","No",6,"Full time","2025-04-23T01:56:53.107816Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the multi-billion dollar pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised significant funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -1508,54 +1614,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2624030,"Senior Compensation Analyst","https://job-boards.greenhouse.io/thefarmersdog/jobs/7918620002","The_Farmers_Dog","New York","No",4,"Full time","2025-04-21T02:01:24.653742Z","Who We Are
-The Farmers Dog is the fastest growing pet health service company in the US, and was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care  a fresh proposition in an industry riddled with manipulative and misleading marketing. Were starting by radically improving the $100 billion pet food market, replacing bulk bags of highly-processed pellets with a personalized subscription service that sends healthy, freshly-made dog food, balanced by top veterinary nutritionists, directly to customers doors. Our ultimate goal is to create innovative, honest, and delightful experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic and forward-thinking culture uniquely position us to shepherd this backwards industry into the future. 
-To date, The Farmers Dog has delivered hundreds of millions of meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to our customers, health to their companions, and much-needed change to the way people feed and care for their pets.
-#LongLiveDogs
-Where You'll Come In
-The Senior Compensation Analyst  will play a pivotal role in supporting our growing business. Were looking for an experienced compensation partner that will act as a main liaison between total rewards and the business functions as well as an integral partner to support our talent acquisition group and human business partner group.
-How You'll Make An Impact
-
-Manage preparation for the compensation review processes from beginning to end, including preparation of market data, compensation workbooks to managers and follow ups as needed. 
-Closely partner with Total Rewards leaders to facilitate thoughtful people driven conversations with managers to determine compensation decisions, and communication and training for managers and employees. 
-Continuously review and conduct benchmarking including job descriptions, FLSA, levels and market matches to ensure competitiveness to market.
-Analyze market data to distill insights, convey findings and support compensation decisions within our compensation structure.
-Serve as the primary first point of contact between Total Rewards, Talent Acquisition and Human Business Partners. Collaboration between these functions is imperative to efficiency and growth.  
-Build trust and relationships within the broader Humans function and business stakeholders.
-Review and audit compensation practices to ensure consistency, compliance, and competitiveness. 
-Assist with compensation projects as needed, most notable going into 2025 will be continued maintenance and evolution of our HRIS System, Workday.
-
-We're Excited About You Because
-
-Youve enjoyed 4+ years supporting and managing compensation processes.
-You have strong excel skills and can use data to drive points across. 
-You love to solve problems with creative solutions leveraging first principles thinking. 
-You have a fascination with numbers but also understand that numbers are not everything. 
-You thrive off collaboration and seek context when providing recommendations and discussing solutions. 
-You love dogs.
-
-Office Guidelines
-We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
-Our Belonging Philosophy:
-Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
-A Few of Our Best Benefits
-
-Dog-friendly office in Greenwich Village
-Market-competitive compensation and equity packages
-Comprehensive Healthcare, Dental, and Vision
-Company sponsored mental health benefit and coaching through Modern Health
-12 week paid parental leave
-Competitive 401k plan with company match
-Flexible PTO 
-Discounted fresh food for your pup
-Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
-
-We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $110,000 - $125,000 USD Annual and the compensation offered will include a robust market competitive package of base and equity ownership in the company. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
-Equal Employment Opportunity Statement
-The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
-Reasonable Accommodations
-TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2624029,"Humans Business Partner - Boca Raton","https://job-boards.greenhouse.io/thefarmersdog/jobs/7918623002","The_Farmers_Dog","Florida","Yes",4,"Full time","2025-04-21T02:01:24.653773Z","Who We Are
+2624029,"Humans Business Partner - Boca Raton","https://job-boards.greenhouse.io/thefarmersdog/jobs/7918623002","The_Farmers_Dog","Florida","Yes",4,"Full time","2025-04-23T01:56:53.107840Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the multi-billion dollar pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised significant funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -1611,7 +1670,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2618349,"Financial Reporting Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7899551002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.653803Z","Who We Are
+2618349,"Financial Reporting Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7899551002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.107860Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1668,64 +1727,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2595064,"Senior Manager, Corporate Finance ","https://job-boards.greenhouse.io/thefarmersdog/jobs/7911235002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-21T02:01:24.653833Z","Who We Are
-The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer   to shepherd this backwards industry into the future.
-To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
-#LongLiveDogs
-What We Stand For and Where You'll Come In
-The Senior Manager of Finance will have broad responsibility across areas of Finance, with a specific focus on Corporate Finance / FP&amp;A including overseeing our three-statement corporate financial model, long-range planning, executive presentations, and headcount/G&amp;A budgeting. They will report to the VP of Finance.
-One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
-We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
-We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
-We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
-We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
-How You'll Make An Impact
-
-Lead the company wide corporate planning models, including 3-statement forecasting, rolling monthly forecasts, and long-range planning models
-Contribute to strategic and financial planning processes, ensuring alignment with departmental and company objectives
-Drive the weekly and monthly forecast and variance analysis process, leading executive presentations on financial performance, highlighting key risks and opportunities
-Lead the annual budgeting and and monthly re-forecasting processes across headcount and overhead/G&amp;A investment in collaboration with the Humans group and department leaders across the business
-Build, manage and develop a high-performing team, including overseeing their daily responsibilities, goal-setting and coaching the group on their growth and development to set them up for long-term success
-Own, develop and monitor key performance indicators (e.g. retention rates, LTV, payback, margins etc) to track and improve financial performance
-Support and enhance our current financial modeling processes, primarily in Excel/Google Sheets, while exploring opportunities to leverage finance software solutions to streamline planning, reporting, and performance analysis. Experience with finance software is a plus but not required
-Partner with the Accounting team to enhance month-end reporting and leverage your expertise to continuously improve and automate our finance processes
-Assist with company presentations to the Board, potential investors and other investor reporting
-Support ad-hoc strategic analyses, such as capital initiatives, M&amp;A opportunities, and other high-impact projects.
-
-We're Excited About You Because
-
-You have 7+ years of finance experience in a high-growth D2C and/or subscription business, as well as experience in consulting, investment banking or transaction services. Public company / IPO experience is a plus!
-You have a track record of leading and building a high-performing team; developing, growing and performance managing your group 
-You have demonstrated experience building and owning corporate three-statement financial models from the ground up to support financial and strategic decision-making
-You're an expert in Microsoft Excel/Google Sheets with extensive analytical, financial forecasting/modeling, and business stakeholder partnering experience and you have a strong understanding of accounting
-You're a skilled communicator and have the ability to absorb and distill complexity into simple terms to drive decision making
-You are an owner, have a strong attention to detail, and are proactive. You thrive as a self-starter and excel in managing multiple projects simultaneously in a fast-paced environment.
-You are able to build strong cross-functional relationships, effectively facilitate discussions and drive consensus  
-Familiarity with Looker is preferred, and experience with systems like Workday/Adaptive Insights and NetSuite is a plus
-You love dogs! 
-
-Office Guidelines
-We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
-Our Belonging Philosophy:
-Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
-A Few of Our Best Benefits
-
-Dog-friendly office in Greenwich Village
-Market-competitive compensation and equity packages
-Comprehensive Healthcare, Dental, and Vision
-Company supported mental health benefits
-12 week paid parental leave
-Competitive 401k plan with company match
-Flexible PTO 
-Discounted fresh food for your pup
-Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
-
-We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $160,000 - $175,000 USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
-Equal Employment Opportunity Statement
-The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
-Reasonable Accommodations
-TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2527327,"Director of Manufacturing Engineering","https://job-boards.greenhouse.io/thefarmersdog/jobs/7889016002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-21T02:01:24.653863Z","Who We Are
+2527327,"Director of Manufacturing Engineering","https://job-boards.greenhouse.io/thefarmersdog/jobs/7889016002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-23T01:56:53.107883Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -1778,7 +1780,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2524508,"Group Product Manager, AI Customer Experience Ops","https://job-boards.greenhouse.io/thefarmersdog/jobs/7888985002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-21T02:01:24.653896Z","Who We Are
+2524508,"Group Product Manager, AI Customer Experience Ops","https://job-boards.greenhouse.io/thefarmersdog/jobs/7888985002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-23T01:56:53.107904Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1837,7 +1839,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2522807,"Director, Social Creative","https://job-boards.greenhouse.io/thefarmersdog/jobs/7843002002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-21T02:01:24.653933Z","Who We Are
+2522807,"Director, Social Creative","https://job-boards.greenhouse.io/thefarmersdog/jobs/7843002002","The_Farmers_Dog","New York","No",7,"Full time","2025-04-23T01:56:53.107928Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1892,7 +1894,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2507184,"Treasury Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7873375002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.653969Z","Who We Are
+2507184,"Treasury Manager","https://job-boards.greenhouse.io/thefarmersdog/jobs/7873375002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.107952Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -1951,7 +1953,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2499638,"Senior Counsel, Commercial","https://job-boards.greenhouse.io/thefarmersdog/jobs/7864882002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-21T02:01:24.654008Z","Who We Are
+2499638,"Senior Counsel, Commercial","https://job-boards.greenhouse.io/thefarmersdog/jobs/7864882002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-23T01:56:53.107975Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -2011,7 +2013,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2499634,"Paralegal","https://job-boards.greenhouse.io/thefarmersdog/jobs/7864880002","The_Farmers_Dog","New York","No",3,"Full time","2025-04-21T02:01:24.654040Z","Who We Are
+2499634,"Paralegal","https://job-boards.greenhouse.io/thefarmersdog/jobs/7864880002","The_Farmers_Dog","New York","No",3,"Full time","2025-04-23T01:56:53.108064Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -2066,7 +2068,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2458770,"Operational Excellence Quality Engineer","https://job-boards.greenhouse.io/thefarmersdog/jobs/7844945002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.654070Z","Who We Are
+2458770,"Operational Excellence Quality Engineer","https://job-boards.greenhouse.io/thefarmersdog/jobs/7844945002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.108092Z","Who We Are
 The Farmer's Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. We're starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers' doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -2126,7 +2128,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2458769,"Category Lead, DIY","https://job-boards.greenhouse.io/thefarmersdog/jobs/7865032002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-21T02:01:24.654100Z","Who We Are
+2458769,"Category Lead, DIY","https://job-boards.greenhouse.io/thefarmersdog/jobs/7865032002","The_Farmers_Dog","New York","No","Not specified","Full time","2025-04-23T01:56:53.108117Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -2183,7 +2185,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2379185,"Customer Experience Associate, Nashville","https://job-boards.greenhouse.io/thefarmersdog/jobs/7847331002","The_Farmers_Dog","Nashville","No","Not specified","Full time","2025-04-21T02:01:24.654135Z","Who We Are
+2379185,"Customer Experience Associate, Nashville","https://job-boards.greenhouse.io/thefarmersdog/jobs/7847331002","The_Farmers_Dog","Nashville","No","Not specified","Full time","2025-04-23T01:56:53.108141Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the multi-billion dollar pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised significant funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -2234,7 +2236,7 @@ The Farmer's Dog, Inc. is an equal employment opportunity employer and does not 
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com.
 #LI-Onsite"
-2379183,"Customer Experience Associate, Florida","https://job-boards.greenhouse.io/thefarmersdog/jobs/7847330002","The_Farmers_Dog","Florida","No","Not specified","Full time","2025-04-21T02:01:24.654175Z","Who We Are
+2379183,"Customer Experience Associate, Florida","https://job-boards.greenhouse.io/thefarmersdog/jobs/7847330002","The_Farmers_Dog","Florida","No","Not specified","Full time","2025-04-23T01:56:53.108166Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the multi-billion dollar pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised significant funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -2271,12 +2273,12 @@ You keep a positive demeanor as you learn, grow, and develop in a new environmen
 You are uniquely YOU! We've found that dog lovers with a variety of backgrounds and interests can excel. Whether youre starting your career or looking for a career change, we encourage you to apply!
 
 Office Guidelines:
-We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. While we are temporarily remote as we search for our dream office location scheduled to open in Q1 of 2025, we are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement. Until our new office opens, this role will initially be remote, requiring reliable home internet access with the necessary upload/download speeds.
+We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. While we are temporarily remote until our dream office opens on July 10, 2025, we are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement. Until our new office opens, this role will initially be in-person for training followed by remote until July 10, 2025. We require reliable home internet access with the necessary upload/download speeds.
 Our Belonging Philosophy:
 Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
 A Few of Our Best Benefits
 
-Pup-friendly office in Boca Raton/North Broward area
+Pup-friendly office in Boca Raton, FL
 Market-competitive hourly compensation and equity packages
 $75 monthly stipend to assist with home internet costs and commuting expenses
 Comprehensive Healthcare, Dental, and Vision
@@ -2290,62 +2292,7 @@ The Farmer's Dog, Inc. is an equal employment opportunity employer and does not 
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com.
 #LI-Onsite"
-2329198,"Senior Product Manager, Treats, Chews & Add-ons","https://job-boards.greenhouse.io/thefarmersdog/jobs/7834931002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.654215Z","Who We Are
-The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
-#LongLiveDogs
-What We Stand For and Where Youll Come In
-The Farmers Dog is looking for a customer-obsessed Senior Product Manager to lead our Treats, Chews, &amp; Add-ons pawd, who can synthesize a wide variety of data (quant and qual) to build seamless experiences that drive awareness, conversion, and retention of treats, chews, and other additions for both new and existing customers. Youll distill these insights into an actionable product roadmap, then scope, build, and ship high-impact features that meaningfully improve the lives of our customers and their four-legged companions. You will be working alongside a small group of stellar engineers, designers and new ventures group to bring experiences to life in quick iteration. 
-A day wont pass without you talking to your customers and partners, as thats the true test to ensure we are inventing on our customers behalf and delivering useful and joyful experiences. 
-One Team: We dont think of ourselves as Acquisition Marketers, Engineers, Data Analysts, or Product Managers. Beyond denoting skill sets and areas of expertise, we dont think departments matter. Wed rather align ourselves to the goals were working to achieve and make sure we have necessary subject matter expertise to drive meaningful impact. We strive to orient ourselves around customer problems TOGETHER  getting the right people, with the right context, in the right rooms/Zooms to solve problems holistically.
-We are skeptical about everything and precious about nothing:  Ideas can and should come from anywhere, and we arent tied to our own. We proactively source input. We talk to our customers and leads regularly and are quick to change course if we know theres a better or more impactful way to solve problems.
-We consider the customer journey in all of our decisions:  We know that no interaction exists in a silo and therefore understand how important every single one is.  We ensure our strategy sets prospective and new customers up for success and drives long-term retention.  We answer questions and address problems early and proactively.  We understand the value of different channels, initiatives, and messages and know how to articulate impact and advocate for prioritization holistically.
-We Execute For Impact: We dont subscribe to best practices or industry KPIs. Were uninterested in how we compare to benchmarks; instead we orient ourselves around being the best we can possibly be. Similarly, we dont subscribe to rigid or classical expectations of roles  i.e. acquisition is hyper-focused on improving customer retention and experience.
-We Are Focused and Work Without Assumption: We are not beholden to ideas. We have goals and believe everything beyond that is a series of hypotheses to validate. To that end, we seek to work in sequence and not in parallel. We constantly ask ourselves, whats the most important hypothesis I should be working on right now? How do I confirm or reject that hypothesis as fast as possible?. We rarely have timelines/deadlines and are constantly taking in new information and adjusting our priorities accordingly. We dont expect to be perfect the first time.
-How You'll Make An Impact
-
-Identify and balance high-potential bets with high-certainty iterative improvements to enable and ensure the successful launch of add-ons and new products that compliment our core offerings. 
-Partner hand in hand with product design, engineering, data analytics, operations,leadership and other key stakeholders to ensure space to get them done.
-Lead the ideation, development, testing and launch of joyful experiences that drive incremental revenue and improve the retention of new and existing customers, including experimenting with segmentation, personalization, and recommendations
-Leverage quantitative and qualitative data to deeply understand the customer journey across all stages, mindsets and personas. Use this data to develop compelling hypotheses for experimentation. 
-Take the lead with your pawd on everything data, from impact / prioritization assessments to comprehensive analysis plans.
-Run customer interviews, concept testing and usability testing with our product design group to ensure that you can represent our customers inside and out. 
-Partner with folks across the organization to ensure a cohesive experience across all of our digital AND physical products for new customers. 
-Be your pawds strongest advocate! You will be in the nitty-gritty of developing new products - both physical and digital - with your pawd, acting as their greatest champion across TFD. 
-
-We're Excited About You Because
-
-You have 5+ years of product management experience, ideally at an eCommerce company with a focus on merchandising and checkout. Bonus points for experience with physical x digital products and extensive startup experience!
-You are able to thrive in a fast-paced and ambiguous environment, naturally curious and proactive self-starter, constantly on the lookout for new opportunities and solutions
-Youre an owner, have excellent problem-solving skills and can prioritize tasks effectively, with a strong attention to detail
-You are focused on uncovering measurable insights and deeply familiar with tools to support retention, personalization, and digital product efforts.
-You are very comfortable with retention analytics and feel confident you can identify key customer segments and build features to improve their experience.
-You're a skilled communicator and have the ability to absorb and distill complexity into simple terms to drive decision-making
-You have a customer-centric mentality and experience collaborating with design, engineering, brand, and operations
-You strongly believe PMs work for the team, not the other way around
-You love dogs
-
-Office Guidelines
-We are an in-office culture, made of in-office people who thrive on the collaboration and magnetism of working in a shared space. We are seeking individuals who excel in this type of environment, where being present fosters deeper connections and engagement.
-Our DEI Philosophy:
-Our companys mission is rooted in deep, genuine care for dogs  and for the people who love them. As an organization we are full of individuals who are unique in many ways, but all united in a mission of providing true peace of mind to dog lovers everywhere. Fixing this industry and improving the lives of pets and their people will be a difficult, decades-long endeavor. We believe the best use of our time, energy, and resources as a collective team is to focus on this mission, and on supporting our team to do their best work and be their best selves. In support of this were committed to hiring and supporting a diverse workforce, and investing in internal structures, opportunities, hiring/promotions processes, and training that create and sustain an inclusive team. We strive to provide an experience at TFD that will be invested, meaningful and memorable as we progress on the journey to reimagine how we feed and care for our pets.
-A Few of Our Best Benefits
-
-Dog-friendly office in Greenwich Village
-Market-competitive compensation and equity packages
-Comprehensive Healthcare, Dental, and Vision
-Company supported mental health benefits
-12 week paid parental leave
-Competitive 401k plan with company match
-Flexible PTO 
-Discounted fresh food for your pup
-Your pet interrupting video calls (and in-person meetings) is now a feature, not a bug
-
-We commit to building a competitive compensation package and company environment for all individuals to thrive. We believe in competitive base compensation rooted in location specific market data and performance along with equity ownership in the company that allows every team member to build their personal wealth as the company grows, just as much as we believe in fostering a culture that supports our team members personally, professionally, and holistically. For this role the anticipated hiring base compensation range is $165,000 - $180,000 USD Annual and the compensation offered will include a robust market competitive package of base and equity. In addition to your base compensation offer you will also receive equity ownership in the company. More information about the value of this equity will be shared at the time of offer. This range is representative of NYC Market Data if you are applying to this role outside of the NYC area the range may change.
-Equal Employment Opportunity Statement
-The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
-Reasonable Accommodations
-TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-2188806,"Senior Art Director","https://job-boards.greenhouse.io/thefarmersdog/jobs/7805163002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-21T02:01:24.654250Z","Who We Are
+2188806,"Senior Art Director","https://job-boards.greenhouse.io/thefarmersdog/jobs/7805163002","The_Farmers_Dog","New York","No",5,"Full time","2025-04-23T01:56:53.108190Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
 What We Stand For and Where Youll Come In
@@ -2400,7 +2347,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-1845551,"IT Helpdesk Technician ","https://job-boards.greenhouse.io/thefarmersdog/jobs/7712264002","The_Farmers_Dog","Florida","No","Not specified","Full time","2025-04-21T02:01:24.654281Z","Who We Are
+1845551,"IT Helpdesk Technician ","https://job-boards.greenhouse.io/thefarmersdog/jobs/7712264002","The_Farmers_Dog","Florida","No","Not specified","Full time","2025-04-23T01:56:53.108214Z","Who We Are
 The Farmers Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. Were starting by radically improving the ninety billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
@@ -2458,7 +2405,7 @@ Equal Employment Opportunity Statement
 The Farmer's Dog, Inc. is an equal employment opportunity employer and does not discriminate in hiring on the basis of sex, gender identity, sexual orientation, race, color, religion, creed, national origin, physical or mental disability, protected veteran status or any other legally protected characteristic or status. For more information, please visit Know Your Rights.
 Reasonable Accommodations
 TFD complies with applicable federal, state, and local disability laws and makes reasonable accommodations for applicants and employees with disabilities.  If a reasonable accommodation is needed to participate in the job application or interview process, to perform essential job functions, and/or to receive other benefits and privileges of employment, please contact humansops@thefarmersdog.com."
-1656533,"Senior Counsel, Regulatory","https://job-boards.greenhouse.io/thefarmersdog/jobs/7645226002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-21T02:01:24.654311Z","Who We Are
+1656533,"Senior Counsel, Regulatory","https://job-boards.greenhouse.io/thefarmersdog/jobs/7645226002","The_Farmers_Dog","New York","No",8,"Full time","2025-04-23T01:56:53.108239Z","Who We Are
 The Farmer's Dog was born from a mission to change the landscape of pet health, providing dogs and their humans with honest, smart, and simple care. We're starting by radically improving the $90 billion pet food industry, replacing bags of highly-processed pellets with a personalized subscription service that sends complete and balanced, freshly-made dog food directly to customers' doors. Our ultimate goal is to create innovative, delightful and personalized experiences across all aspects of pet care, and we believe our direct-to-consumer business model, holistic approach to growth, and dynamic culture uniquely position us to shepherd this backwards industry into the future.
 To date, The Farmers Dog has delivered over 1 billion meals nationwide and raised over $150M in funding to help us build a company as healthy as the dogs who are eating those meals. Join us as we continue to develop ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
 #LongLiveDogs
