@@ -8,6 +8,9 @@ app = Flask(__name__)
 app.register_blueprint(auth)
 CORS(app)
 
+
+
+
 # Home route
 @app.route('/')
 def home():
@@ -41,4 +44,5 @@ def upload_resume():
 
 if __name__ == "__main__":
     init_db()
-    app.run(port=8080, debug=True)
+    #app.run(port=8080, debug=True)
+    app.run()
