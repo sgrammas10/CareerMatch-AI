@@ -8,6 +8,18 @@ app = Flask(__name__)
 app.register_blueprint(auth)
 CORS(app)
 
+#helper functions:
+import csv
+def personal_info_already_exists(email, filename="BackEnd/personal_info.csv"):
+    if not os.path.exists(filename):
+        return False
+    with open(filename, "r", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if len(row) >= 4 and row[3].strip().lower() == email.lower():
+                return True
+    return False
+
 
 # Home route
 @app.route('/')
@@ -39,13 +51,16 @@ def upload_resume():
 
     if not all([email, fname, lname, birthdate]):
         return jsonify({"error": "Missing required fields"}), 400
+    
+    if personal_info_already_exists(email):
+        return {"message": "Personal information already submitted for this email.", "skipped": True}
+
 
     # Save or process the info + resume
     result = process_resumes(email, resume)
 
     # Optional: write user info to a CSV/db
     with open("BackEnd/personal_info.csv", "a", newline='', encoding='utf-8') as f:
-        import csv
         csv.writer(f).writerow([fname, lname, birthdate, email])
 
     return jsonify(result)
@@ -53,5 +68,4 @@ def upload_resume():
 
 if __name__ == "__main__":
     init_db()
-    #app.run(port=8080, debug=True)
     app.run()
