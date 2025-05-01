@@ -24,21 +24,32 @@ def get_data():
 def personal_info():
     return render_template('personal_info.html')
 
-# Upload route
 @app.route("/upload", methods=["POST"])
 def upload_resume():
-    if "resume" not in request.files:
+    form = request.form
+    resume = request.files.get("resume")
+
+    if not resume or resume.filename == "":
         return jsonify({"error": "No resume uploaded"}), 400
 
-    resume = request.files["resume"]
-    if resume.filename == "":
-        return jsonify({"error": "No selected file"}), 400
+    email = form.get("email")
+    fname = form.get("fname")
+    lname = form.get("lname")
+    birthdate = form.get("birthdate")
 
-    try:
-        results = process_resumes(resume)
-        return jsonify({"message": "Resume processed successfully", "results": results}), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
+    if not all([email, fname, lname, birthdate]):
+        return jsonify({"error": "Missing required fields"}), 400
+
+    # Save or process the info + resume
+    result = process_resumes(email, resume)
+
+    # Optional: write user info to a CSV/db
+    with open("BackEnd/personal_info.csv", "a", newline='', encoding='utf-8') as f:
+        import csv
+        csv.writer(f).writerow([fname, lname, birthdate, email])
+
+    return jsonify(result)
+
 
 if __name__ == "__main__":
     init_db()
