@@ -1,12 +1,25 @@
-from flask import Flask, request, jsonify, render_template, url_for
+from flask import Flask, request, jsonify, render_template, url_for, session
 from flask_cors import CORS
 import os
 from resume_scraper import process_resumes
 from auth import auth, init_db
 
 app = Flask(__name__)
+#app.secret_key = os.urandom(24)  # Required for sessions
+app.secret_key = "your-super-secret-dev-key"
+
+
+app.config.update({
+    "SESSION_COOKIE_SAMESITE": "None",
+    "SESSION_COOKIE_SECURE": False  # Set to True only if using HTTPS
+})
+
 app.register_blueprint(auth)
-CORS(app)
+CORS(app,
+     supports_credentials=True,
+     resources={r"/*": {"origins": 
+         "http://127.0.0.1:8080"
+     }})
 
 #helper functions:
 import csv
@@ -38,30 +51,34 @@ def personal_info():
 
 @app.route("/upload", methods=["POST"])
 def upload_resume():
+    print("SESSION:", dict(session))  # ADD THIS
+    if "email" not in session:
+        # User is not logged in
+        return {"message": "Unauthorized. Please log in first.", "skipped": True}
+    user_email = session["email"]
     form = request.form
     resume = request.files.get("resume")
 
     if not resume or resume.filename == "":
         return jsonify({"error": "No resume uploaded"}), 400
 
-    email = form.get("email")
     fname = form.get("fname")
     lname = form.get("lname")
     birthdate = form.get("birthdate")
 
-    if not all([email, fname, lname, birthdate]):
+    if not all([user_email, fname, lname, birthdate]):
         return jsonify({"error": "Missing required fields"}), 400
     
-    if personal_info_already_exists(email):
+    if personal_info_already_exists(user_email):
         return {"message": "Personal information already submitted for this email.", "skipped": True}
 
 
     # Save or process the info + resume
-    result = process_resumes(email, resume)
+    result = process_resumes(user_email, resume)
 
     # Optional: write user info to a CSV/db
     with open("BackEnd/personal_info.csv", "a", newline='', encoding='utf-8') as f:
-        csv.writer(f).writerow([fname, lname, birthdate, email])
+        csv.writer(f).writerow([fname, lname, birthdate, user_email])
 
     return jsonify(result)
 

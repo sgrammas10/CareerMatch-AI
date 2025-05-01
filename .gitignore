@@ -1,1 +1,18 @@
+# SSL keys and certs
+*.pem
+cert.pem
+key.pem
+
+# Python virtual environments
+venv/
+.env/
+
+# Sensitive data files
+*.db
+*.sqlite
 users.db
+
+# OS and editor files
+__pycache__/
+*.pyc
+.DS_Store

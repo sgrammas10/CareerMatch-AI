@@ -1,4 +1,4 @@
-from flask import Blueprint, request, jsonify
+from flask import Blueprint, request, jsonify, session
 from werkzeug.security import generate_password_hash, check_password_hash
 import sqlite3
 import re
@@ -83,25 +83,19 @@ def signup():
 
 @auth.route("/login", methods=["POST"])
 def login():
-    data = request.json
+    data = request.get_json()
     email = data.get("email")
     password = data.get("password")
 
-    if not email or not password:
-        return jsonify({"error": "Email and password are required"}), 400
-
     conn = sqlite3.connect("users.db")
-    cursor = conn.cursor()
-    cursor.execute("SELECT password FROM users WHERE email = ?", (email,))
-    result = cursor.fetchone()
+    c = conn.cursor()
+    c.execute("SELECT password FROM users WHERE email = ?", (email,))
+    row = c.fetchone()
     conn.close()
 
-    if not result:
-        return jsonify({"error": "User not found"}), 404
-
-    stored_hashed_pw = result[0]
-
-    if check_password_hash(stored_hashed_pw, password):
+    if row and check_password_hash(row[0], password):
+        session["email"] = email
+        print("LOGIN SESSION SET:", dict(session))
         return jsonify({"message": "Login successful"}), 200
     else:
-        return jsonify({"error": "Invalid password"}), 401
+        return jsonify({"error": "Invalid credentials"}), 401
