@@ -79,3 +79,29 @@ def signup():
         return jsonify({"error": "An error occurred during sign-up."}), 500
     finally:
         conn.close()
+
+
+@auth.route("/login", methods=["POST"])
+def login():
+    data = request.json
+    email = data.get("email")
+    password = data.get("password")
+
+    if not email or not password:
+        return jsonify({"error": "Email and password are required"}), 400
+
+    conn = sqlite3.connect("users.db")
+    cursor = conn.cursor()
+    cursor.execute("SELECT password FROM users WHERE email = ?", (email,))
+    result = cursor.fetchone()
+    conn.close()
+
+    if not result:
+        return jsonify({"error": "User not found"}), 404
+
+    stored_hashed_pw = result[0]
+
+    if check_password_hash(stored_hashed_pw, password):
+        return jsonify({"message": "Login successful"}), 200
+    else:
+        return jsonify({"error": "Invalid password"}), 401

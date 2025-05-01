@@ -9,8 +9,6 @@ app.register_blueprint(auth)
 CORS(app)
 
 
-
-
 # Home route
 @app.route('/')
 def home():

@@ -28,7 +28,16 @@
             top: 0;
             left: 0;
             z-index: 1000;
+            gap: 20px;
         }
+
+        .navbar-content {
+            display: flex;
+            align-items: center;
+            flex-grow: 1;
+            justify-content: space-between;
+        }
+
         .navbar .logo {
             color: #fff;
             font-size: 1.5rem;
@@ -192,6 +201,34 @@
             opacity: 0;
             transform: translateY(-50px);
         }
+        .auth-buttons {
+            display: flex;
+            gap: 10px;
+            margin-left: 20px;
+        }
+
+        .auth-buttons .btn {
+            text-decoration: none;
+            color: white;
+            background-color: #3498db;
+            padding: 8px 15px;
+            border-radius: 5px;
+            font-size: 1rem;
+            transition: background-color 0.3s ease;
+        }
+
+        .auth-buttons .btn:hover {
+            background-color: #2980b9;
+        }
+
+        /* Hide by default, show on scroll */
+        .auth-buttons.hidden {
+            display: none;
+        }
+        .auth-buttons.visible {
+            display: flex;
+        }
+
     </style>
 </head>
 <body>
@@ -199,6 +236,7 @@
     <!-- Navigation Bar -->
     <nav class="navbar">
         <div class="logo">Career Match - AI</div>
+        
         <ul class="nav-links">
             <li><a href="personal_info.html">Data Submission</a></li>
             <li><a href="about_us.html">About Us</a></li>
@@ -206,6 +244,10 @@
             <li><a href="https://github.com/sgrammas10/CareerMatch-AI" target="_blank">GitHub Repository</a></li>
             <li><a href="https://new.rcos.io/" target="_blank">RCOS-Website</a></li>
         </ul>
+        <div class="auth-buttons hidden">
+            <a href="signup.html" class="btn">Sign Up</a>
+            <a href="login.html" class="btn">Log In</a>
+        </div>
     </nav>
 
     <!-- Welcome Overlay -->
@@ -256,8 +298,17 @@
     <!-- JavaScript -->
     <script>
         window.addEventListener("scroll", function () {
-            document.body.classList.toggle("scrolled", window.scrollY > 100);
+            const show = window.scrollY > 100;
+            document.body.classList.toggle("scrolled", show);
 
+            // Show login/signup when scrolled
+            const authButtons = document.querySelector(".auth-buttons");
+            if (authButtons) {
+                authButtons.classList.toggle("visible", show);
+                authButtons.classList.toggle("hidden", !show);
+            }
+
+            // Reveal feature sections
             document.querySelectorAll('.feature-section').forEach(section => {
                 let position = section.getBoundingClientRect().top;
                 if (position < window.innerHeight * 0.9) {
