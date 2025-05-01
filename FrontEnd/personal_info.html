@@ -244,7 +244,7 @@
             const formData = new FormData(this);
             const previewBox = document.getElementById("resumePreview");
 
-            fetch("http://127.0.0.1:5000/upload", {
+            fetch("https://127.0.0.1:5000/upload", {
                 method: "POST",
                 body: formData,
                 credentials: "include", // Include cookies in the request

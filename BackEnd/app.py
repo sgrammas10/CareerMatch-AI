@@ -4,6 +4,10 @@ import os
 from resume_scraper import process_resumes
 from auth import auth, init_db
 
+
+#might need to run openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes
+# this will create a self-signed certificate for local testing, already in the gitignore 
+
 app = Flask(__name__)
 #app.secret_key = os.urandom(24)  # Required for sessions
 app.secret_key = "your-super-secret-dev-key"
@@ -11,14 +15,14 @@ app.secret_key = "your-super-secret-dev-key"
 
 app.config.update({
     "SESSION_COOKIE_SAMESITE": "None",
-    "SESSION_COOKIE_SECURE": False  # Set to True only if using HTTPS
+    "SESSION_COOKIE_SECURE": True  # Set to True only if using HTTPS
 })
 
 app.register_blueprint(auth)
 CORS(app,
      supports_credentials=True,
      resources={r"/*": {"origins": 
-         "http://127.0.0.1:8080"
+         "https://127.0.0.1:8080"
      }})
 
 #helper functions:
@@ -85,4 +89,4 @@ def upload_resume():
 
 if __name__ == "__main__":
     init_db()
-    app.run()
+    app.run(ssl_context=("cert.pem", "key.pem"), port=5000, debug=True)
