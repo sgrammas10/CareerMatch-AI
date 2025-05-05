@@ -1,5 +1,5 @@
 import sqlite3
-from flask import Flask, request, jsonify, render_template, url_for, session, redirect, send_from_directory
+from flask import Flask, request, jsonify, render_template, url_for, session, redirect, send_from_directory, send_file
 from flask_cors import CORS
 import os
 from resume_scraper import process_resumes
@@ -145,6 +145,51 @@ def protected_profile_page():
     
     base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "FrontEnd-Protected"))
     return send_from_directory(base_path, "profile.html")
+
+
+@app.route("/resume")
+def get_resume():
+    if "email" not in session:
+        return jsonify({"error": "Unauthorized"}), 401
+
+    email = session["email"]
+    conn = sqlite3.connect("users.db")
+    c = conn.cursor()
+    c.execute("SELECT resume_path FROM users WHERE email=?", (email,))
+    row = c.fetchone()
+    conn.close()
+
+    if row and row[0]:
+        return send_file(row[0], download_name="resume.pdf", mimetype="application/pdf")
+    else:
+        return jsonify({"error": "No resume found"}), 404
+    
+
+@app.route("/resume_text", methods=["GET"])
+def resume_text():
+    if "email" not in session:
+        return jsonify({"error": "Unauthorized"}), 401
+
+    email = session["email"]
+    conn = sqlite3.connect("users.db")
+    c = conn.cursor()
+    c.execute("SELECT resume_blob FROM users WHERE email=?", (email,))
+    row = c.fetchone()
+    conn.close()
+
+    if row and row[0]:
+        from io import BytesIO
+        from PyPDF2 import PdfReader
+
+        try:
+            reader = PdfReader(BytesIO(row[0]))
+            text = "\n".join([page.extract_text() or "" for page in reader.pages])
+            return jsonify({"text": text.strip()})
+        except Exception as e:
+            return jsonify({"error": f"Failed to extract text: {str(e)}"}), 500
+    else:
+        return jsonify({"error": "No resume uploaded"}), 404
+
 
 
 if __name__ == "__main__":
