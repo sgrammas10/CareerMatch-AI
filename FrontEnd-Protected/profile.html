@@ -1,0 +1,44 @@
+<h2>Your Profile</h2>
+<p><strong>Email:</strong> <span id="email"></span></p>
+<p><strong>Birthday:</strong> <span id="birthday"></span></p>
+<p><strong>Uploaded Resume:</strong> <a id="resumeLink" href="#">View</a></p>
+
+<h3>Personal Statement</h3>
+<textarea id="statementInput" rows="5" cols="50"></textarea>
+<button onclick="uploadStatement()">Save Statement</button>
+<p id="statusMsg"></p>
+
+<script>
+fetch("https://127.0.0.1:5000/profile", {
+  method: "GET",
+  credentials: "include"
+})
+.then(response => {
+  if (response.status === 401) {
+    // Not logged in — redirect to login
+    window.location.href = "login.html";
+    return;
+  }
+  return response.json();
+})
+.then(data => {
+  if (!data) return;
+  document.getElementById("email").innerText = data.email;
+  document.getElementById("birthday").innerText = data.birthday;
+  document.getElementById("resumeLink").href = data.resume_url;
+  document.getElementById("statementInput").value = data.statement || "";
+});
+
+function uploadStatement() {
+  const statement = document.getElementById("statementInput").value;
+  fetch("https://127.0.0.1:5000/update_statement", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    credentials: "include",
+    body: JSON.stringify({ statement })
+  }).then(r => r.json())
+    .then(data => {
+      document.getElementById("statusMsg").innerText = data.message;
+    });
+}
+</script>

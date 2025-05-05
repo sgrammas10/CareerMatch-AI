@@ -1,4 +1,5 @@
-from flask import Flask, request, jsonify, render_template, url_for, session
+import sqlite3
+from flask import Flask, request, jsonify, render_template, url_for, session, redirect, send_from_directory
 from flask_cors import CORS
 import os
 from resume_scraper import process_resumes
@@ -85,6 +86,55 @@ def upload_resume():
         csv.writer(f).writerow([fname, lname, birthdate, user_email])
 
     return jsonify(result)
+
+
+@app.route("/profile", methods=["GET"])
+def profile():
+    if "email" not in session:
+        return jsonify({"error": "Not logged in"}), 401
+
+    email = session["email"]
+
+    conn = sqlite3.connect("users.db")
+    c = conn.cursor()
+    c.execute("SELECT birthday, resume_path, statement FROM users WHERE email=?", (email,))
+    row = c.fetchone()
+    conn.close()
+
+    if row:
+        birthday, resume_path, statement = row
+        return jsonify({
+            "email": email,
+            "birthday": birthday,
+            "resume_url": f"/static/uploads/{os.path.basename(resume_path)}",
+            "statement": statement
+        })
+    return jsonify({"error": "User not found"}), 404
+
+@app.route("/update_statement", methods=["POST"])
+def update_statement():
+    if "email" not in session:
+        return jsonify({"error": "Not logged in"}), 401
+
+    data = request.get_json()
+    statement = data.get("statement", "").strip()
+
+    conn = sqlite3.connect("users.db")
+    c = conn.cursor()
+    c.execute("UPDATE users SET statement=? WHERE email=?", (statement, session["email"]))
+    conn.commit()
+    conn.close()
+
+    return jsonify({"message": "Statement updated successfully."})
+
+@app.route("/profile.html")
+def protected_profile_page():
+    if "email" not in session:
+        base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "FrontEnd"))
+        return send_from_directory(base_path, "login.html")
+    
+    base_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "FrontEnd-Protected"))
+    return send_from_directory(base_path, "profile.html")
 
 
 if __name__ == "__main__":

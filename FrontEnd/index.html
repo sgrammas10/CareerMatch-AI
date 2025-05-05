@@ -241,7 +241,7 @@
             <li><a href="personal_info.html">Data Submission</a></li>
             <li><a href="about_us.html">About Us</a></li>
             <li><a href="#">Collaborators</a></li>
-            <li><a href="https://127.0.0.1:5000/profile.html">Profile</a></li>
+            <li><a href="#" id="profile-button">Profile</a></li>
             <li><a href="https://github.com/sgrammas10/CareerMatch-AI" target="_blank">GitHub Repository</a></li>
             <li><a href="https://new.rcos.io/" target="_blank">RCOS-Website</a></li>
         </ul>
@@ -319,6 +319,31 @@
                 }
             });
         });
+
+        document.addEventListener("DOMContentLoaded", function () {
+        const profileButton = document.querySelector("#profile-button");
+        if (profileButton) {
+            profileButton.addEventListener("click", function (event) {
+                event.preventDefault(); // prevent default link jump
+
+                fetch("https://127.0.0.1:5000/profile", {
+                    method: "GET",
+                    credentials: "include"
+                })
+                .then(response => {
+                    if (response.status === 401) {
+                        alert("Please log in first to access your profile.");
+                        window.location.href = "login.html";
+                    } else {
+                        window.location.href = "https://127.0.0.1:5000/profile.html";
+                    }
+                })
+                .catch(error => {
+                    console.error("Error checking login status:", error);
+                });
+            });
+        }
+    });
     </script>
 
 </body>
