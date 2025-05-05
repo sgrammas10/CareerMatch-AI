@@ -56,7 +56,7 @@ def personal_info():
 
 @app.route("/upload", methods=["POST"])
 def upload_resume():
-    print("SESSION:", dict(session))  # ADD THIS
+    #print("SESSION:", dict(session))  # check for session data
     if "email" not in session:
         # User is not logged in
         return {"message": "Unauthorized. Please log in first.", "skipped": True}
@@ -70,20 +70,31 @@ def upload_resume():
     fname = form.get("fname")
     lname = form.get("lname")
     birthdate = form.get("birthdate")
+    resume_file = request.files.get("resume")
 
-    if not all([user_email, fname, lname, birthdate]):
-        return jsonify({"error": "Missing required fields"}), 400
-    
     if personal_info_already_exists(user_email):
         return {"message": "Personal information already submitted for this email.", "skipped": True}
 
-
+    if not all([user_email, fname, lname, birthdate, resume_file]):
+        return jsonify({"error": "Missing required fields"}), 400
+    
     # Save or process the info + resume
     result = process_resumes(user_email, resume)
 
-    # Optional: write user info to a CSV/db
+    # write user info to a CSV/db
     with open("BackEnd/personal_info.csv", "a", newline='', encoding='utf-8') as f:
         csv.writer(f).writerow([fname, lname, birthdate, user_email])
+
+    resume_blob = resume_file.read()
+    conn = sqlite3.connect("users.db")
+    c = conn.cursor()
+    c.execute("""
+    UPDATE users
+    SET birthday = ?, resume_blob = ?, statement = ?
+    WHERE email = ?
+""", (birthdate, resume_blob, f"{fname} {lname}", user_email))
+    conn.commit()
+    conn.close()
 
     return jsonify(result)
 
@@ -94,7 +105,6 @@ def profile():
         return jsonify({"error": "Not logged in"}), 401
 
     email = session["email"]
-
     conn = sqlite3.connect("users.db")
     c = conn.cursor()
     c.execute("SELECT birthday, resume_path, statement FROM users WHERE email=?", (email,))
@@ -102,14 +112,14 @@ def profile():
     conn.close()
 
     if row:
-        birthday, resume_path, statement = row
         return jsonify({
             "email": email,
-            "birthday": birthday,
-            "resume_url": f"/static/uploads/{os.path.basename(resume_path)}",
-            "statement": statement
+            "birthday": row[0],
+            "resume_url": row[1],
+            "statement": row[2],
         })
-    return jsonify({"error": "User not found"}), 404
+    else:
+        return jsonify({"error": "User not found"}), 404
 
 @app.route("/update_statement", methods=["POST"])
 def update_statement():
