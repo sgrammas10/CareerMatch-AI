@@ -2,8 +2,10 @@ import sqlite3
 from flask import Flask, request, jsonify, render_template, url_for, session, redirect, send_from_directory, send_file
 from flask_cors import CORS
 import os
-from resume_scraper import process_resumes
+#from resume_scraper import process_resumes
 from auth import auth, init_db
+from werkzeug.utils import secure_filename
+
 
 
 #might need to run openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes
@@ -62,15 +64,13 @@ def upload_resume():
         return {"message": "Unauthorized. Please log in first.", "skipped": True}
     user_email = session["email"]
     form = request.form
-    resume = request.files.get("resume")
-
-    if not resume or resume.filename == "":
-        return jsonify({"error": "No resume uploaded"}), 400
-
     fname = form.get("fname")
     lname = form.get("lname")
     birthdate = form.get("birthdate")
     resume_file = request.files.get("resume")
+
+    if not resume_file or resume_file.filename == "":
+        return jsonify({"error": "No resume uploaded"}), 400
 
     if personal_info_already_exists(user_email):
         return {"message": "Personal information already submitted for this email.", "skipped": True}
@@ -79,24 +79,28 @@ def upload_resume():
         return jsonify({"error": "Missing required fields"}), 400
     
     # Save or process the info + resume
-    result = process_resumes(user_email, resume)
+    # Save resume to disk
+    os.makedirs("resumes", exist_ok=True)
+    filename = secure_filename(f"{user_email.replace('@', '_')}_resume.pdf")
+    resume_path = os.path.join("resumes", filename)
+    resume_file.save(resume_path)
 
     # write user info to a CSV/db
     with open("BackEnd/personal_info.csv", "a", newline='', encoding='utf-8') as f:
         csv.writer(f).writerow([fname, lname, birthdate, user_email])
 
-    resume_blob = resume_file.read()
+    # Save path to DB
     conn = sqlite3.connect("users.db")
     c = conn.cursor()
     c.execute("""
-    UPDATE users
-    SET birthday = ?, resume_blob = ?, statement = ?
-    WHERE email = ?
-""", (birthdate, resume_blob, f"{fname} {lname}", user_email))
+        UPDATE users
+        SET birthday = ?, resume_path = ?, statement = ?
+        WHERE email = ?
+    """, (birthdate, resume_path, f"{fname} {lname}", user_email))
     conn.commit()
     conn.close()
 
-    return jsonify(result)
+    return jsonify({"message": "Resume uploaded successfully."})
 
 
 @app.route("/profile", methods=["GET"])
@@ -147,7 +151,9 @@ def protected_profile_page():
     return send_from_directory(base_path, "profile.html")
 
 
-@app.route("/resume")
+
+
+@app.route("/resume", methods=["GET"])
 def get_resume():
     if "email" not in session:
         return jsonify({"error": "Unauthorized"}), 401
@@ -159,10 +165,11 @@ def get_resume():
     row = c.fetchone()
     conn.close()
 
-    if row and row[0]:
-        return send_file(row[0], download_name="resume.pdf", mimetype="application/pdf")
+    if row and row[0] and os.path.exists(row[0]):
+        return send_file(row[0], mimetype="application/pdf")
     else:
-        return jsonify({"error": "No resume found"}), 404
+        return jsonify({"error": "Resume file not found."}), 404
+
     
 
 @app.route("/resume_text", methods=["GET"])
@@ -173,22 +180,14 @@ def resume_text():
     email = session["email"]
     conn = sqlite3.connect("users.db")
     c = conn.cursor()
-    c.execute("SELECT resume_blob FROM users WHERE email=?", (email,))
+    c.execute("SELECT resume_text FROM users WHERE email=?", (email,))
     row = c.fetchone()
     conn.close()
 
     if row and row[0]:
-        from io import BytesIO
-        from PyPDF2 import PdfReader
-
-        try:
-            reader = PdfReader(BytesIO(row[0]))
-            text = "\n".join([page.extract_text() or "" for page in reader.pages])
-            return jsonify({"text": text.strip()})
-        except Exception as e:
-            return jsonify({"error": f"Failed to extract text: {str(e)}"}), 500
+        return jsonify({"text": row[0]})
     else:
-        return jsonify({"error": "No resume uploaded"}), 404
+        return jsonify({"error": "No resume found"}), 404
 
 
 
