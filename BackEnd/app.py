@@ -2,7 +2,7 @@ import sqlite3
 from flask import Flask, request, jsonify, render_template, url_for, session, redirect, send_from_directory, send_file
 from flask_cors import CORS
 import os
-#from resume_scraper import process_resumes
+from resume_scraper import process_resumes
 from auth import auth, init_db
 from werkzeug.utils import secure_filename
 
@@ -79,6 +79,7 @@ def upload_resume():
         return jsonify({"error": "Missing required fields"}), 400
     
     # Save or process the info + resume
+    result = process_resumes(user_email, resume_file)
     # Save resume to disk
     os.makedirs("resumes", exist_ok=True)
     filename = secure_filename(f"{user_email.replace('@', '_')}_resume.pdf")
@@ -100,7 +101,7 @@ def upload_resume():
     conn.commit()
     conn.close()
 
-    return jsonify({"message": "Resume uploaded successfully."})
+    return jsonify(result)
 
 
 @app.route("/profile", methods=["GET"])
@@ -153,25 +154,31 @@ def protected_profile_page():
 
 
 
-@app.route("/resume", methods=["GET"])
+@app.route("/resume")
 def get_resume():
     if "email" not in session:
         return jsonify({"error": "Unauthorized"}), 401
 
     email = session["email"]
+
+    # Get just the filename stored in DB
     conn = sqlite3.connect("users.db")
     c = conn.cursor()
     c.execute("SELECT resume_path FROM users WHERE email=?", (email,))
     row = c.fetchone()
     conn.close()
 
-    if row and row[0] and os.path.exists(row[0]):
-        return send_file(row[0], mimetype="application/pdf")
+    if not row or not row[0]:
+        return jsonify({"error": "No resume on file"}), 404
+
+    # Calculate absolute path: go up from BackEnd to project root, then into resumes/
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "resumes"))
+    resume_file_path = os.path.join(base_dir, os.path.basename(row[0]))
+
+    if os.path.exists(resume_file_path):
+        return send_file(resume_file_path, mimetype="application/pdf")
     else:
-        return jsonify({"error": "Resume file not found."}), 404
-
-    
-
+        return jsonify({"error": "Resume file not found"}), 404
 @app.route("/resume_text", methods=["GET"])
 def resume_text():
     if "email" not in session:
