@@ -197,7 +197,7 @@ def resume_text():
         return jsonify({"error": "No resume found"}), 404
 
 
-
+#http-server -S -C ../cert.pem -K ../key.pem -p 8080
 if __name__ == "__main__":
     init_db()
     app.run(ssl_context=("cert.pem", "key.pem"), port=5000, debug=True)
