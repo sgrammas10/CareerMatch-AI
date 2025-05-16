@@ -59,11 +59,19 @@ st.title("Chatgpt Clone")
 #reset button
 st.button('Reset Chat', on_click=reset_conversation)
 
-uploaded_file = st.file_uploader("Choose a file", type=["pdf", "txt", "docx", "csv", "xlsx"])
+uploaded_files = st.file_uploader(
+    "Upload up to 6 files", 
+    type=["pdf", "txt", "docx", "csv", "xlsx"], 
+    accept_multiple_files=True
+)
+
 #file display here, probably going to change to displaying as the actual file instead of a block of text
-if uploaded_file:
-    file_content = extract_text_from_file(uploaded_file)
-    st.text_area("File Content", file_content, height=200)
+file_contents = []
+if uploaded_files:
+    for file in uploaded_files[:6]:
+        content = extract_text_from_file(file)
+        file_contents.append(content)
+        st.text_area(f"File Content: {file.name}", content, height=200)
 
 
 #initialize chat history
@@ -78,13 +86,14 @@ for message in st.session_state.messages:
 #user input
 if user_prompt := st.chat_input("How can I help you?"):
     with st.chat_message("user"):
-        if uploaded_file:
-            chunked_file_content = prepare_file_content(file_content)
-
-            context = "\n\n".join(chunked_file_content)
+        if file_contents:
+            chunked_file_contents = []
+            for content in file_contents:
+                chunked_file_contents.extend(prepare_file_content(content))
+            context = "\n\n".join(chunked_file_contents)
             st.session_state.messages.append({
                 "role": "system",
-                "content": f"The following document is relevant context:\n\n{context}\n\n"
+                "content": f"The following documents are relevant context:\n\n{context}\n\n"
             })
         st.session_state.messages.append({
             "role": "user",
