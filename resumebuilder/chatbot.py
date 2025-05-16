@@ -32,8 +32,9 @@ def extract_text_from_file(file):
     elif name.endswith('.txt'):
         return file.read().decode("utf-8")
     elif name.endswith('.docx'):
+        file.seek(0)
         document = Document(file)
-        return "\n".join([para.text for para in document])
+        return "\n".join([para.text for para in document.paragraphs])
     elif name.endswith('.csv'):
         df = pd.read_csv(file)
         return df.to_string(index=False)
