@@ -1,5 +1,129 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-2967160,"Project Manager","https://join.jfrog.com/job/?job=6886353&gh_jid=6886353","Jfrog","Tel Aviv/ Netanya, Israel","No",3,"Full time","2025-05-19T02:06:57.392815Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+2835442,"Senior PlatformOps Engineer","https://join.jfrog.com/job/?job=6829832&gh_jid=6829832","Jfrog","Bangalore","No",5,"Full time","2025-05-21T02:02:03.967514Z","JFrog is a fast-growing company, building the next generation of software development and distribution tools. We are setting up the future of software development and DevOps tooling Chain.
+JFrog is on a mission to enable continuous software updates through Liquid Software, empowering developers to code high-quality applications that securely flow to end-users without interruption. JFrog is the creator of Artifactory, the heart of the JFrog Platform  a hybrid, universal, end-to-end DevOps solution available as open-source, self-hosted and as a SaaS subscription. More than 8000 customers, including 75% of the Fortune 100, trust JFrog to manage their software binaries and accelerate their secure software delivery from code-to-production.
+In this role you will be part of our growing Global Platform-Ops group to monitor &amp; support the cloud based availability and performance of the JFrog products, using cutting-edge technologies. You will leverage enterprise capability tools and environment automation tools to drive our business. This position requires working in rotational shifts including INDIA,EMEA &amp; US shifts in a 24x7x365 work environment.
+As a Senior Platform-Ops Engineer you will...
+
+Support all aspects of Cloud operations on a day-to-day basis and monitoring continuous availability, durability, performance, scale and up-time of multi-cloud JFrog SAAS services
+Analyse events, perform troubleshooting and incident response, communicate with internal stakeholders and track events &amp; problems through to resolution
+Build &amp; maintain SOP, tribe knowledge for necessary monitoring, automation activities
+Closely collaborating with SRE/Production engineering &amp; Cloud engineering on SAAS improvements
+
+To be a Senior Platform-Ops Engineer you need...
+
+Minimum 5 years of experience as a Cloud-Ops engineer/NOC engineer and /or Linux sysadmin.
+Working knowledge of public cloud environments(AWS/Azure/GCP) &amp; Kubernetes orchestrated containerised workloads.
+Experience on any monitoring &amp; instrumentation tools (Prometheus/Grafana, New Relic, Elastic or equivalent) is a plus
+Experience with automation using (Jenkins, Python, Shell scripting) is a plus
+Strong written and verbal communication skills.
+Strong attention to details and able to handle concurrently multiple tasks.
+Ability to work independently under minimal supervision"
+2975133,"Vulnerability Research Team Lead","https://join.jfrog.com/job/?job=6897348&gh_jid=6897348","Jfrog","Tel Aviv/ Netanya, Israel","No",3,"Full time","2025-05-21T02:02:03.967567Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+JFrog Security is one of the main pillars of the JFrog offering and long-term strategy. We are pushing the boundaries of security analysis of both binaries and code, shifting left and bringing new and exciting features to both developers and DevOps.
+We are looking for an experienced Vulnerability Researcher to lead our world-class vulnerability research team. As a Vulnerability Researcher Team Lead at JFrog, you will perform research and responsible disclosure on the latest open-source software, working with your team to find flaws in the most popular components today.  The position requires proven experience in vulnerability research, both on web applications and native applications.
+As a Vulnerability Researcher Team Lead at JFrog you will... 
+
+Research zero-day vulnerabilities in open-source projects and popular web applications
+Manage a team of senior researchers, setting the teams research targets and methodologies
+Manage the coordinated disclosure process for vulnerabilities identified by the team
+Write &amp; review technical blogposts for vulnerabilities identified by the team
+Speak in the most important global security conferences about vulnerabilities identified by the team
+
+To be a Vulnerability Researcher Team Lead at JFrog you need...
+
+3+ years of vulnerability research experience in open-source projects
+3+ years of vulnerability research experience in web applications
+Experience in team management
+Experience in writing technical vulnerability blogs
+Advantage - Experience in binary reverse engineering"
+2975132,"Software Engineer - Conan ","https://join.jfrog.com/job/?job=6899447&gh_jid=6899447","Jfrog","Madrid","No",4,"Full time","2025-05-21T02:02:03.967589Z","Residency in the Madrid area is required, as the role involves coming to the office once a week.
+At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+Conan is a leading open-source C/C++ package manager, used by thousands of organizations around the world, from small teams to some of the largest world enterprises. You will join the JFrog team of maintainers of the Conan project, responsible for all operations, support, design, architecture, development, releases, integrations, and communication of the Conan open source project. Your role in the team will have a strong focus on the product side, measuring, analyzing and improving flows and processes for the different project components and integrations (Conan client, ConanCenter, IDEs and build system integrations, and JFrog integrations), always with a hands-on approach collaborating with both Conan team and JFrog product engineers.
+As a Conan Product Engineer at JFrog you will...
+
+Propose, design, implement, operate, and maintain the different data sources, analytic,s and dashboards to track the team projects.
+Continuously analyze and improve the data, providing actionable insights for product development, and collaborate hands-on in moving those actions through the whole process.
+Improve flows and processes, from the support and development phases to the communication (docs, blog posts, conferences, etc) phases, proactively contributing to them.
+Participate in all project and product decisions, architecture, prioritization, and planning.
+
+To be a Conan Product Engineer at JFrog you need...
+
++4 years of experience as a software engineer &amp; developer: expertise in Git, testing, developing code (Python experience is a very positive advantage, Conan is written in Python), code reviews, continuous integration, releasing, etc. - necessary
++2 years of experience in a product-oriented role: dashboards, analytics, product management, product design and architecture, user support and operations, etc. - necessary
+BSc in Computer Science or equivalent - recommended
+Experience in cloud environments, Docker, and k8s - an advantage
+Experience with C and C++ build engineering (compilers, build systems as CMake, binary artifacts, ABI, etc) or the C++ ecosystem - a great advantage
+Experience in OSS communities and projects - an advantage
+Native Spanish speaker, Fluent in English"
+2835440,"Procurement Buyer & Operations Admin","https://join.jfrog.com/job/?job=6826221&gh_jid=6826221","Jfrog","Tel Aviv/ Netanya, Israel","No",1,"Full time","2025-05-21T02:02:03.967608Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+We are growing and seeking a highly motivated and detail-oriented individual to join our team as a Procurement Buyer &amp; Operations Administrator working directly with our Senior Procurement Manager.  
+In this role you will support stakeholders across the company in the execution of their purchase requests, manage all of our small volume purchase requests end to end, ensuring timely delivery of goods and services required by the organization. You will also manage various administrative tasks related to the smooth and efficient running of our processes and requests. This role is in a super dynamic environment and requires excellent interpersonal skills, analytic skills and exceptional multitasking skills. To succeed in this role, you must be a people person who knows how to encourage collaboration, whether its with internal stakeholders or external vendors.
+As a Procurement Buyer &amp; Operations Admin at JFrog you will...
+
+Review and process purchase requests and orders, ensuring completeness, accuracy, compliance with company policies and procedures.
+Collaborate with cross-functional teams such as with Legal, Finance, IS, and Compliance to resolve procurement issues and in a timely and professional manner.
+Develop and maintain relationships with internal stakeholders to support them in the execution of their day to day purchasing activities and engagements with vendors. 
+Maintain accurate records of purchases, pricing, and other relevant data using our ticketing and ERP systems.
+Conduct periodic data analysis to identify trends and optimize value
+Build automations and optimize workflows for the procurement department activities. 
+
+To be a Procurement Buyer &amp; Operations Admin at JFrog you need...
+
+Bachelors degree in business, industrial engineering, economics, or a related field.
+1-2 years of Procurement background/ experience, preferably in tech-oriented organizations.
+Excellent organizational and time management skills with the ability to prioritize tasks and meet deadlines  - Must 
+Strong project management and problem-solving skills with attention to details - Must
+Strong interpersonal skills, able to build and maintain effective and productive relationships with staff, stakeholders, and vendors.
+Excellent verbal and written communication skills in Hebrew and English - Must
+Strong analytical skills and advanced skills in Microsoft Excel - Advantage
+Experience as a system administrator, NetSuite, and ZIP specifically - Advantage
+Willingness to work hard while supporting multiple units and time zones.
+Desire to learn and grow with the team, and the ability to adapt, as our needs and mission evolve - Must"
+2972167,"Back-End Engineer","https://join.jfrog.com/job/?job=6741278&gh_jid=6741278","Jfrog","Tel Aviv/ Netanya, Israel","No",4,"Full time","2025-05-21T02:02:03.967621Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+We are looking for a hands-on developer to join an innovative and talented R&amp;D team. To join us you will need to deliver high-quality code using the latest cloud frameworks and technologies.
+As a Back-End Engineer at JFrog you will...
+
+Be responsible for all development aspects from design to production of a cloud-native product 
+Write high-quality, testable and efficient code in Java and Go
+Initiate and promote new ideas for continuous improvement of product functionality
+Work closely with team members and product colleagues
+Participate in the architecture and development of the JFrog DevOps core products
+Design, develop, and maintain back-end services
+Write high-quality, clean, efficient, and maintainable code while adhering to best practices and coding standards
+Stay up-to-date with industry trends and emerging technologies related to DevOps and the software development lifecycle
+Contribute to architectural discussions and design sessions to promote scalability and maintainability
+
+To be a Back-End Engineer at JFrog you need...
+
+4+ years of programming experience in back-end technologies and languages (Java/Go/C#/..)
+Familiarity with database technologies
+Solid architectural understanding of web applications and APIs
+Experience with concurrency  big advantage
+Experience with production mission-critical systems  advantage
+Good exposure with modern DevOps tools like Docker, Kubernetes, Helm, Shell Scripting, CI/CD  advantage"
+2968795,"Senior Front-End Developer - JFrog ML","https://join.jfrog.com/job/?job=6896034&gh_jid=6896034","Jfrog","Tel Aviv/ Netanya, Israel","No",6,"Full time","2025-05-21T02:02:03.967634Z","At JFrog, were reinventing DevOps and MLOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+We are looking for a passionate and skilled Front-End Developer to join our growing team and help shape the user experience of our MLOps platform. In this role, you will work in a fast-paced, startup-like environment, turning complex ideas into elegant, performant, and user-friendly interfaces. Youll collaborate with cross-functional teams of backend engineers, product managers, and designers to bring our vision to life.
+As a Front-End Developer at JFrog ML, you will...
+
+Build and maintain beautiful, scalable, and responsive UIs using modern frameworks
+Implement new features and improve existing ones, based on clear product and design specifications
+Work with the latest frontend technologies and best practices
+Collaborate closely with product and backend teams to define and deliver the best user experience
+Ensure high code quality by writing maintainable, testable, and reusable code
+Troubleshoot and solve performance or scalability issues
+Take part in shaping the architecture and technical direction of the frontend stack
+
+To be a Front-End Developer at JFrog ML, you need...
+
+6+ years of Front-End development experience
+4+ years of experience with JavaScript and modern ES standards
+12 years of experience with the React framework and its ecosystem (Hooks, Styled Components, etc.)
+Strong experience with TypeScript
+Solid understanding of component-based architecture and frontend application structure
+Experience working with REST &amp; gRPC APIs and API specifications
+Strong problem-solving and debugging skills
+Excellent communication skills in English"
+2967160,"Project Manager","https://join.jfrog.com/job/?job=6886353&gh_jid=6886353","Jfrog","Tel Aviv/ Netanya, Israel","No",3,"Full time","2025-05-21T02:02:03.967645Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
 We are looking for a driven and detail-oriented Project Manager to help lead JFrogs FedRAMP initiative. You wont just manage timelines, youll orchestrate the buildout of secure cloud environments, partner across global teams, and directly contribute to our FedRAMP success story. If you're passionate about compliance, thrive in ambiguity, and want to make a real impact at a fast-moving DevOps powerhouse, this role is your next big leap. Join us for the ride, and accelerate your career along the way!
 As a Project Manager at JFrog, you will...
 
@@ -25,7 +149,7 @@ B.Sc degree in Industrial Engineering and Management, Computer Science, or equiv
 Excellent English communication skills, both written and verbal
 Experience with SaaS security compliance in a global, fast-paced environment  advantage
 Experience obtaining and maintaining compliance certifications such as FedRAMP, SOC 2, ISO 27001, or similar  strongly preferred"
-2962620,"Regional Vice President of Major Accounts","https://join.jfrog.com/job/?job=6894616&gh_jid=6894616","Jfrog","Sunnyvale","No",10,"Full time","2025-05-19T02:06:57.392885Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2962620,"Regional Vice President of Major Accounts","https://join.jfrog.com/job/?job=6894616&gh_jid=6894616","Jfrog","Sunnyvale","No",10,"Full time","2025-05-21T02:02:03.967657Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 JFrog is seeking a highly accomplished and strategic leader to serve as the Regional Vice President of Major Accounts for the West Region in the United States. This critical executive role is responsible for driving the success of our enterprise segment, leading a team of seasoned Major Account Executives, and overseeing our high value enterprise customer relationships. Reporting directly to the GM and SVP of North America Sales, the RVP will be instrumental in shaping the regional sales strategy, achieving substantial revenue growth, and delivering exceptional value to both customers and stakeholders.
 As a key member of the leadership team, the RVP will shape and execute the regional sales strategy while fostering a high-performance culture. This position requires a proven track record of leading high-performing teams, managing complex sales cycles, and executing high-value enterprise deals. The RVP will act as a key driver of operational excellence, providing vision and strategic direction while fostering a culture of accountability, collaboration, and continuous growth.
 As a Regional Vice President of Major Accounts in JFrog you will... 
@@ -60,7 +184,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2962619,"New Business Enterprise AE","https://join.jfrog.com/job/?job=6885770&gh_jid=6885770","Jfrog","New York","No",7,"Full time","2025-05-19T02:06:57.392903Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2962619,"New Business Enterprise AE","https://join.jfrog.com/job/?job=6885770&gh_jid=6885770","Jfrog","New York","No",7,"Full time","2025-05-21T02:02:03.967669Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are growing our new business team and looking for a New Business Enterprise AE to join our Atlanta or New York City Swamp. This new Frog will play a pivotal role in driving JFrogs growth. As our newest New Business Enterprise AE, you will be responsible for generating new business opportunities, engaging with enterprise decision-makers, and building a robust pipeline that fuels our expansion to win new logos.
 As a New Business Enterprise AE in JFrog you will...
 
@@ -93,7 +217,7 @@ JFrog embraces hybrid work: 3 days in office / 2 days remote.
 This position does require travel.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2962618,"New Business Enterprise AE","https://join.jfrog.com/job/?job=6888651&gh_jid=6888651","Jfrog","Atlanta","No",7,"Full time","2025-05-19T02:06:57.392917Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2962618,"New Business Enterprise AE","https://join.jfrog.com/job/?job=6888651&gh_jid=6888651","Jfrog","Atlanta","No",7,"Full time","2025-05-21T02:02:03.967680Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are growing our new business team and looking for a New Business Enterprise AE to join our Atlanta or New York City Swamp. This new Frog will play a pivotal role in driving JFrogs growth. As our newest New Business Enterprise AE, you will be responsible for generating new business opportunities, engaging with enterprise decision-makers, and building a robust pipeline that fuels our expansion to win new logos.
 As a New Business Enterprise AE in JFrog you will...
 
@@ -126,7 +250,7 @@ JFrog embraces hybrid work: 3 days in office / 2 days remote.
 This position does require travel.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2451698,"Director of Engineering - Platform Engineering ","https://join.jfrog.com/job/?job=6639193&gh_jid=6639193","Jfrog","Tel Aviv","No",10,"Full time","2025-05-19T02:06:57.392962Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+2451698,"Director of Engineering - Platform Engineering ","https://join.jfrog.com/job/?job=6639193&gh_jid=6639193","Jfrog","Tel Aviv","No",10,"Full time","2025-05-21T02:02:03.967691Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
 We are seeking a visionary Director of Engineering with a strong product mindset to lead the strategy, development, and scaling of our internal platform for Engineering, and our cloud infrastructure capabilities for SaaS customers. As a Director of Engineering, you will lead teams working on two major areas: a developer-centric platform that provides the tools, automation, and infrastructure needed to seamlessly develop, deploy, and operate services in production, and cloud infrastructure capabilities for SaaS customers, including customer-facing infrastructure and management features that enhance integration, security, and reliability, ensuring a robust experience for JFrogs SaaS customers.
 As a Director of Engineering at JFrog, you will... 
 
@@ -148,7 +272,7 @@ Exceptional leadership, communication, and stakeholder management skills
 Passion for empowering developers and enabling productivity through platform engineering
 Experience with multi-cloud environments (AWS, Azure, GCP) and hybrid cloud architectures
 Proficiency in Software Development: strong experience in building and managing scalable systems using languages such as Go, Python, Java, or Node.js"
-2955955,"Solution Architect, New Logo","https://join.jfrog.com/job/?job=6885715&gh_jid=6885715","Jfrog","Remote","Yes",7,"Full time","2025-05-19T02:06:57.392977Z","** Open to remote within the EST time zone and must be fluent in English &amp; Spanish**
+2955955,"Solution Architect, New Logo","https://join.jfrog.com/job/?job=6885715&gh_jid=6885715","Jfrog","Remote","Yes",7,"Full time","2025-05-21T02:02:03.967706Z","** Open to remote within the EST time zone and must be fluent in English &amp; Spanish**
 At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a Solution Architect fluent in English &amp; Spanish to be on the front lines, working closely with our customers and prospects, guiding them on how to build robust DevSecOps processes. You will work with our sales, product, customer success &amp; engineering teams to help customers understand the value of JFrog Solution from a technical and business perspective.
 If you love working with brilliant people, being part of an energetic team and changing the world of software, you might be the perfect Frog to join our team!
@@ -186,7 +310,7 @@ This position also includes an equity package of restricted stock units (RSU).  
 JFrog provides employees comprehensive benefits including medical, dental, vision, retirement, wellness and much more!
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2952129,"Finance Controller","https://join.jfrog.com/job/?job=6889691&gh_jid=6889691","Jfrog","Bangalore","No",8,"Full time","2025-05-19T02:06:57.392991Z","JFrog is building the next generation of software development and distribution tools. We are setting up the future of software development and DevOps tools. Our top-notch development talent, open-source community, awarded products, advanced technology, paying customers, and solid funding - make JFrog a really great place to join!
+2952129,"Finance Controller","https://join.jfrog.com/job/?job=6889691&gh_jid=6889691","Jfrog","Bangalore","No",8,"Full time","2025-05-21T02:02:03.967724Z","JFrog is building the next generation of software development and distribution tools. We are setting up the future of software development and DevOps tools. Our top-notch development talent, open-source community, awarded products, advanced technology, paying customers, and solid funding - make JFrog a really great place to join!
 Working for JFrog will provide you with challenging work and the ideal environment to build a career helping the team gain an advantage in skills, and work with a team of talented professionals. If you are passionate, highly energized and have a can do approach we would love to have you as part of our finance team.
 Your role in our Swamp:
 
@@ -217,7 +341,7 @@ Adaptable with strong problem solving and analytical skills, outstanding attenti
 Required to work onsite at the Bangalore office at least three days per week
 
 Note: We follow a hybrid work model (minimum 3 days a week from office) and our office is located in Bellandur, Bangalore."
-2486386,"Business Development Representative","https://join.jfrog.com/job/?job=6647528&gh_jid=6647528","Jfrog","Atlanta","No",1,"Full time","2025-05-19T02:06:57.393003Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2486386,"Business Development Representative","https://join.jfrog.com/job/?job=6647528&gh_jid=6647528","Jfrog","Atlanta","No",1,"Full time","2025-05-21T02:02:03.967743Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 If you are looking for a successful company to build your sales or marketing career, JFrog is the place for you. We are looking for a driven Business Development Representative to join our fast growing Sales Development Unit! In this role you will work closely with Marketing and Sales to help drive JFrogs solutions. You will develop new business opportunities through outbound prospecting, cold calling, email campaigns, and inbound lead follow-up.
 As a Business Development Representative in JFrog you will...
 
@@ -249,7 +373,7 @@ This position also includes an equity package of restricted stock units (RSU).  
 JFrog provides employees comprehensive benefits including medical, dental, vision, retirement, wellness and much more!
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2949351,"Senior Full Stack Engineer - JFrog Security","https://join.jfrog.com/job/?job=6883804&gh_jid=6883804","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-19T02:06:57.393016Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2949351,"Senior Full Stack Engineer - JFrog Security","https://join.jfrog.com/job/?job=6883804&gh_jid=6883804","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-21T02:02:03.967760Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 JFrog Security is one of the main pillars of JFrogs long-term strategy. We are pushing the boundaries of security analysis for both binaries and code, shifting left and delivering new and exciting features to both developers and DevOps professionals. We are looking for a Backend- oriented Senior Full-Stack Engineer to join our innovative and talented R&amp;D team. To join us, you will need to work well under pressure and deliver high-quality code using the latest cloud frameworks and technologies.
 As a Senior Full-Stack Engineer at JFrog, you will... 
 
@@ -266,7 +390,7 @@ Deep knowledge and hands-on experience with design patterns, data structures, an
 Experience with modern front-end frameworks such as Vue.js, React, or Angular
 Quick and enthusiastic learning skills with the ability to learn new and unfamiliar frameworks and technologies
 Experience with Golang  a strong advantage"
-2046812,"Senior DevOps Developer","https://join.jfrog.com/job/?job=6488370&gh_jid=6488370","Jfrog","Tel Aviv/ Netanya, Israel","No",7,"Full time","2025-05-19T02:06:57.393038Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2046812,"Senior DevOps Developer","https://join.jfrog.com/job/?job=6488370&gh_jid=6488370","Jfrog","Tel Aviv/ Netanya, Israel","No",7,"Full time","2025-05-21T02:02:03.967772Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a Senior DevOps Developer to join a team responsible for the integration between GitHub and Artifactory. If you have extensive experience in designing and implementing end-to-end CI/CD flows and are passionate about developer experience, this is the opportunity for you! In this role, you will be responsible for taking tasks from design to development and implementation.
 As a Senior DevOps Developer at JFrog you will...
 
@@ -287,7 +411,7 @@ Experience with running CI workloads on top of k8s
 Proven experience with building end-to-end CI/CD pipelines using GitHub actions
 A strong ability to design and execute DevX projects
 Excellent communication skills and a collaborative mindset"
-2945259,"Technical Architect (Java / Golang)","https://join.jfrog.com/job/?job=6884408&gh_jid=6884408","Jfrog","Bengaluru","No",12,"Full time","2025-05-19T02:06:57.393051Z","Fast-Frogward Your Career to Years From Now
+2945259,"Technical Architect (Java / Golang)","https://join.jfrog.com/job/?job=6884408&gh_jid=6884408","Jfrog","Bengaluru","No",12,"Full time","2025-05-21T02:02:03.967783Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work takes center stage, shaping the future of software development. At JFrog, we solve critical challenges for leaders like Amazon, Google, and Netflix. Every day brings opportunities to innovate and push boundaries in a fast-moving, frogward-thinking culture. If you want your work to matter and thrive on nonstop innovation, JFrog is your place.
 Heres what our employees have to say about working at JFrog:
 
@@ -322,7 +446,7 @@ About JFrog:
 JFrog is the only end-to-end software supply chain platform that provides complete visibility, security, and control for automating the delivery of trusted releases from code to production. Our platform enables organizations to manage, secure, and automate their software delivery process, fueling innovation without worry. We empower companies to build and release software faster and more securely than ever before.
 With over 7,500 customers worldwide, including many Fortune 100 companies, JFrog is at the forefront of global innovation. Join us in shaping the future of software delivery and contributing to solutions that empower some of the world's most influential industries.
 NOTE: The job location is Bangalore (Bellandur) and we follow a hybrid model, mandatory 3 days/week work from office."
-2574453,"Finance Project Manager","https://join.jfrog.com/job/?job=6696500&gh_jid=6696500","Jfrog","Netanya","No",5,"Full time","2025-05-19T02:06:57.393064Z","This position is expected to support customers globally and is based at our office in Netanya.
+2574453,"Finance Project Manager","https://join.jfrog.com/job/?job=6696500&gh_jid=6696500","Jfrog","Netanya","No",5,"Full time","2025-05-21T02:02:03.967795Z","This position is expected to support customers globally and is based at our office in Netanya.
 At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 The Finance Project Manager in a tech company is responsible for managing financial projects that support finance operations, reporting, revenue recognition, business growth, and innovation. This role involves overseeing the finance system implementations, automation, and compliance management, ensuring financial processes are agile and scalable. The ideal candidate will bridge finance and technology, optimizing financial operations to support a fast-paced, high-growth environment..
 As a Finance Project Manager in JFrog you will...
@@ -342,7 +466,7 @@ Proficiency in financial and project management tools (e.g., NetSuite, Zuora, Ta
 Strong data analysis and financial modeling skills.
 Ability to thrive in a fast-paced, high-growth tech environment.
 Proficient in creating presentations and project plans."
-2938648,"Senior Java Developer","https://join.jfrog.com/job/?job=6884155&gh_jid=6884155","Jfrog","Bengaluru","No",7,"Full time","2025-05-19T02:06:57.393077Z","Fast-Frogward Your Career to Years From Now
+2938648,"Senior Java Developer","https://join.jfrog.com/job/?job=6884155&gh_jid=6884155","Jfrog","Bengaluru","No",7,"Full time","2025-05-21T02:02:03.967815Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work takes center stage, shaping the future of software development. At JFrog, we solve critical challenges for leaders like Amazon, Google, and Netflix. Every day brings opportunities to innovate and push boundaries in a fast-moving, frogward-thinking culture. If you want your work to matter and thrive on nonstop innovation, JFrog is your place.
 Heres what our employees have to say about working at JFrog:
 
@@ -375,7 +499,7 @@ About JFrog:
 JFrog is the only end-to-end software supply chain platform that provides complete visibility, security, and control for automating the delivery of trusted releases from code to production. Our platform enables organizations to manage, secure, and automate their software delivery process, fueling innovation without worry. We empower companies to build and release software faster and more securely than ever before.
 With over 7,500 customers worldwide, including many Fortune 100 companies, JFrog is at the forefront of global innovation. Join us in shaping the future of software delivery and contributing to solutions that empower some of the world's most influential industries.
 NOTE: The job location is Bangalore (Bellandur) and we follow a hybrid model, mandatory 3 days/week work from office."
-2938647,"R&D Engineer (Java/Multithreading/Microservices)","https://join.jfrog.com/job/?job=6884146&gh_jid=6884146","Jfrog","Bangalore","No",4,"Full time","2025-05-19T02:06:57.393091Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate - and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production - a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2938647,"R&D Engineer (Java/Multithreading/Microservices)","https://join.jfrog.com/job/?job=6884146&gh_jid=6884146","Jfrog","Bangalore","No",4,"Full time","2025-05-21T02:02:03.967827Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate - and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production - a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a strong, hands on, experienced developer who can join an innovative and talented R&amp;D team. To join us you need to be able to think quickly, work fast and deliver high quality code, using the latest frameworks and technologies while having fun! this 
 As a Software Engineer in JFrog you will... 
 
@@ -396,7 +520,7 @@ Knowledge and understanding of work in a modern CI environment; version control,
 Good exposure with modern DevOps tools like Docker, Kubernetes, Helm Chart, Shell Scripting, CI/CD.
 Knowledge in software engineering concepts such as: concurrent programming, common data structures and algorithms, profiling and optimization
 Superior, creative and innovative problem-solving skills"
-2935950,"Senior Software Engineer","https://join.jfrog.com/job/?job=6879743&gh_jid=6879743","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-19T02:06:57.393107Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2935950,"Senior Software Engineer","https://join.jfrog.com/job/?job=6879743&gh_jid=6879743","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-21T02:02:03.967839Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for an experienced, hands-on senior developer to join an innovative and talented R&amp;D team, responsible for delivering fast and high-quality code, using the latest frameworks and technologies. The chosen candidate will play a pivotal role in the enhancement, maintenance, and optimization of our JFrog infrastructure. 
 As a Senior Software Engineer at JFrog you will... 
 
@@ -421,7 +545,7 @@ Vast experience with large-scale production environments
 Experience in investigating and resolving production issues
 Ability to work independently and collaboratively in a fast-paced environment
 Excellent problem-solving skills with keen attention to detail"
-2932109,"Business Development Representative - Tokyo, Japan","https://join.jfrog.com/job/?job=6870647&gh_jid=6870647","Jfrog","Tokyo","Yes",2,"Full time","2025-05-19T02:06:57.393124Z","Fast-Frogward Your Career to Years From Now #LI-REMOTE
+2932109,"Business Development Representative - Tokyo, Japan","https://join.jfrog.com/job/?job=6870647&gh_jid=6870647","Jfrog","Tokyo","Yes",2,"Full time","2025-05-21T02:02:03.967850Z","Fast-Frogward Your Career to Years From Now #LI-REMOTE
 Be part of a team where your work directly shapes the way the worlds top companies build and secure their software. At JFrog, as a Business Development Representative, youll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make an impact in the world of software, JFrog is the place for you.
 We are seeking a driven Business Development Representative (BDR) to join our fast-growing Sales Development team! In this role, you will work closely with Marketing and Sales to help drive JFrogs solutions. You will develop new business opportunities through outbound prospecting, calling, email campaigns, and inbound lead follow-up
 What youll be doing as a BDR:
@@ -456,7 +580,7 @@ Heres what our employees have to say about working at JFrog:
 ""I wanted to work in a company that takes technology forward.""
 ""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
 ""Its nice to work for a company with a must-have product, not a nice-to-have."
-2930071,"Technical Success Manager (Singapore & ROA)","https://join.jfrog.com/job/?job=6870772&gh_jid=6870772","Jfrog","Singapore","Yes",5,"Full time","2025-05-19T02:06:57.393136Z","Fast-Frogward Your Career to Years From Now #LI-REMOTE
+2930071,"Technical Success Manager (Singapore & ROA)","https://join.jfrog.com/job/?job=6870772&gh_jid=6870772","Jfrog","Singapore","Yes",5,"Full time","2025-05-21T02:02:03.967861Z","Fast-Frogward Your Career to Years From Now #LI-REMOTE
 Be part of a team where your work takes center stage, shaping the future of software development. At JFrog, we solve critical challenges for leaders like Amazon, Google, and Netflix. Every day brings opportunities to innovate and push boundaries in a fast-moving, frogward-thinking culture. If you want your work to matter and thrive on nonstop innovation, JFrog is your place.
 Heres what our employees have to say about working at JFrog:
 
@@ -491,7 +615,7 @@ Flexibility in working hours to accommodate our global presence
 About JFrog:
 JFrog is the only end-to-end software supply chain platform that provides complete visibility, security, and control for automating the delivery of trusted releases from code to production. Our platform enables organizations to manage, secure, and automate their software delivery process, fueling innovation without worry. We empower companies to build and release software faster and more securely than ever before.
 With over 7,500 customers worldwide, including many Fortune 100 companies, JFrog is at the forefront of global innovation. Join us in shaping the future of software delivery and contributing to solutions that empower some of the world's most influential industries."
-2930070,"Experienced Developer Support Engineer ","https://join.jfrog.com/job/?job=6879508&gh_jid=6879508","Jfrog","israel","No",3,"Full time","2025-05-19T02:06:57.393149Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2930070,"Experienced Developer Support Engineer ","https://join.jfrog.com/job/?job=6879508&gh_jid=6879508","Jfrog","israel","No",3,"Full time","2025-05-21T02:02:03.967873Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
  
 We are looking for top-notch Developer Support Engineers, to be partners rather than just employees and be the technical focal point for JFrog customers.
 Besides a wild ride and a lot of learning, well leap your career forward!
@@ -520,7 +644,7 @@ Knowledge/experience with databases, LDAP, NGINX, Apache Tomcat - Advantage
 Experience in DevOps industry - Advantage
 Excellent spoken and written English
 French Speaker an advantage"
-2930069,"Account Executive - Japan","https://join.jfrog.com/job/?job=6870729&gh_jid=6870729","Jfrog","Tokyo","No",5,"Full time","2025-05-19T02:06:57.393163Z","Fast-Frogward Your Career to Years From Now
+2930069,"Account Executive - Japan","https://join.jfrog.com/job/?job=6870729&gh_jid=6870729","Jfrog","Tokyo","No",5,"Full time","2025-05-21T02:02:03.967884Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work directly shapes the way the worlds top companies build and secure their software. At JFrog, as an Account Executive, Enterprise (Japan) youll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make an impact in the world of software, JFrog is the place for you.
 What youll be doing as an Account Executive, Enterprise (Japan):
 In this role, youll be a key player in our fast-paced and highly innovative engineering team. You will:
@@ -556,7 +680,7 @@ Heres what our employees have to say about working at JFrog:
 ""I wanted to work in a company that takes technology forward.""
 ""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
 ""Its nice to work for a company with a must-have product, not a nice-to-have."""
-2928848,"Solution Engineer - Singapore & ROA","https://join.jfrog.com/job/?job=6870702&gh_jid=6870702","Jfrog","Singapore","No",4,"Full time","2025-05-19T02:06:57.393182Z","Fast-Frogward Your Career to Years From Now
+2928848,"Solution Engineer - Singapore & ROA","https://join.jfrog.com/job/?job=6870702&gh_jid=6870702","Jfrog","Singapore","No",4,"Full time","2025-05-21T02:02:03.967895Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work directly shapes the way the worlds top companies build and secure their software. At JFrog, as a Solution Engineer, youll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make an impact in the world of software, JFrog is the place for you.
 We are looking for a Solution Engineer with DevOps / DevSecOps / Software Development / Architecture and customer facing experience, who has a passion for technology and wishes to help our customers deliver software faster, more securely and agile.
 As a Solution Engineer at JFrog's, you will be on the front lines, working closely with our customers and prospects, guiding them on how to build robust and secured DevOps processes. You will work with our sales, product &amp; engineering teams to help customers understand the value of JFrog solutions from a technical and business perspective.
@@ -590,7 +714,7 @@ Heres what our employees have to say about working at JFrog:
 ""I wanted to work in a company that takes technology forward.""
 ""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
 ""Its nice to work for a company with a must-have product, not a nice-to-have."""
-2928847,"SDR Team Leader","https://join.jfrog.com/job/?job=6861123&gh_jid=6861123","Jfrog","Tel Aviv","No",5,"Full time","2025-05-19T02:06:57.393201Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate - and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2928847,"SDR Team Leader","https://join.jfrog.com/job/?job=6861123&gh_jid=6861123","Jfrog","Tel Aviv","No",5,"Full time","2025-05-21T02:02:03.967907Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate - and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for an experienced manager, coach and leader at heart, who loves building and enabling successful Sales Development teams through a clear vision, structure and strategy; to build and lead JFrogs SDR team within EMEA.
 As a SDR Team Leader at JFrog you will...
 
@@ -616,9 +740,9 @@ Experience working with Salesforce, SalesLoft or similar CRM
 Experience using LinkedIn Sales Navigator, ZoomInfo, 6Sense or other similar prospecting applications
 Excellent communication and organizational skills (English Proficiency required)
 Fluency in multiple languages is preferred"
-2928442,"Full Stack Engineer - Business Growth Team","https://join.jfrog.com/job/?job=6864247&gh_jid=6864247","Jfrog","Tel Aviv/ Netanya, Israel","No",4,"Full time","2025-05-19T02:06:57.393221Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. As software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+2928442,"Full Stack Engineer - Business Growth Team","https://join.jfrog.com/job/?job=6864247&gh_jid=6864247","Jfrog","Tel Aviv/ Netanya, Israel","No",4,"Full time","2025-05-21T02:02:03.967918Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit, and just all-around great people. Here, if youre willing to do more, your career can take off. As software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
 We are looking for a strong Full Stack Engineer to join our team focused on improving the conversion rate of leads to paying customers. We are building a product with high scalability in mind, which will require you to solve challenging problems on a daily basis. As a Full Stack Engineer, you will be expected to understand the product, work closely with team members to build new features, enhance our platform, and take ownership of your work. You should be passionate about delivering high-quality, functional user interfaces while working in a fast-paced environment. Join us to drive user journey innovation and streamline customer acquisition processes.
-As a Full Stack Engineer at JFrog, you will... 
+As a Full Stack Engineer at JFrog you will... 
 
 Join a high-impact team dedicated to improving lead conversion rates and enhancing user experiences on our platform
 Drive the development of robust, high-quality software with strong test coverage and engineering best practices
@@ -640,7 +764,7 @@ Experience with Docker, Kubernetes (K8s), Microservices
 A data-driven mindset with an understanding of how to leverage data to drive decisions and measure success
 Strong communication and collaboration skills to work effectively with cross-functional teams including marketing and sales
 A strong focus on delivering value to end users"
-2928440,"Senior Back-End Engineer - Generative AI Applications","https://join.jfrog.com/job/?job=6879491&gh_jid=6879491","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-19T02:06:57.393239Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+2928440,"Senior Back-End Engineer - Generative AI Applications","https://join.jfrog.com/job/?job=6879491&gh_jid=6879491","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-21T02:02:03.967930Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate  and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production  a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
 We are looking for a hands-on senior developer / tech lead to join an innovative and talented R&amp;D team. To join us you will need to deliver high-quality code using the latest cloud frameworks and technologies.
 As a Senior Back-End Engineer at JFrog you will...
 
@@ -664,7 +788,7 @@ Experience with concurrency  big advantage
 Experience with production mission-critical systems  advantage
 Strong exposure with modern DevOps tools like Docker, Kubernetes, Helm, Shell Scripting, CI/CD  advantage
 Proven experience in technical leadership, mentorship, and guiding development teams"
-2921404,"Developer Support Engineer","https://join.jfrog.com/job/?job=6870792&gh_jid=6870792","Jfrog","Bengaluru","No",2,"Full time","2025-05-19T02:06:57.393252Z","Fast-Frogward Your Career to Years From Now
+2921404,"Developer Support Engineer","https://join.jfrog.com/job/?job=6870792&gh_jid=6870792","Jfrog","Bengaluru","No",2,"Full time","2025-05-21T02:02:03.967941Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work takes center stage, shaping the future of software development. At JFrog, we solve critical challenges for leaders like Amazon, Google, and Netflix. Every day brings opportunities to innovate and push boundaries in a fast-moving, frogward-thinking culture. If you want your work to matter and thrive on nonstop innovation, JFrog is your place.
 Heres what our employees have to say about working at JFrog:
 
@@ -699,7 +823,7 @@ About JFrog:
 JFrog is the only end-to-end software supply chain platform that provides complete visibility, security, and control for automating the delivery of trusted releases from code to production. Our platform enables organizations to manage, secure, and automate their software delivery process, fueling innovation without worry. We empower companies to build and release software faster and more securely than ever before.
 With over 7,500 customers worldwide, including many Fortune 100 companies, JFrog is at the forefront of global innovation. Join us in shaping the future of software delivery and contributing to solutions that empower some of the world's most influential industries.
 NOTE: The job location is Bangalore (Bellandur) and we follow a hybrid model, mandatory 3 days/week work from office."
-2921403,"Account Executive, Enterprise (India)","https://join.jfrog.com/job/?job=6870759&gh_jid=6870759","Jfrog","Bangalore","No",5,"Full time","2025-05-19T02:06:57.393290Z","Fast-Frogward Your Career to Years From Now
+2921403,"Account Executive, Enterprise (India)","https://join.jfrog.com/job/?job=6870759&gh_jid=6870759","Jfrog","Bangalore","No",5,"Full time","2025-05-21T02:02:03.967952Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work directly shapes the way the worlds top companies build and secure their software. At JFrog, as an Account Executive for India, youll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make an impact in the world of software, JFrog is the place for you.
 What youll be doing as an Account Executive, Enterprise (India):
 In this role, youll be a key player in our fast-paced and highly innovative sales team. You will:
@@ -736,7 +860,7 @@ Heres what our employees have to say about working at JFrog:
 ""I wanted to work in a company that takes technology forward.""
 ""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
 ""Its nice to work for a company with a must-have product, not a nice-to-have."""
-2913571,"Technical Success Manager","https://join.jfrog.com/job/?job=6867247&gh_jid=6867247","Jfrog","Tel Aviv","No",7,"Full time","2025-05-19T02:06:57.393306Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2913571,"Technical Success Manager","https://join.jfrog.com/job/?job=6867247&gh_jid=6867247","Jfrog","Tel Aviv","No",7,"Full time","2025-05-21T02:02:03.967964Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 Were looking for a talented and experienced Technical Success Manager to enable outcome-focused engagements with JFrog customers in France, focusing on three aspects:
 
 Accelerate adoption of JFrog products and value realization.
@@ -772,7 +896,7 @@ Ability to effectively liaise with customers and regional teams/leadership
 Ability to effectively present technical presentations
 Flexibility in working hours to accommodate our global presence   
 Fluent English  Mandatory (read/write/speak)"
-2913570,"Senior Technical Product Manager","https://join.jfrog.com/job/?job=6867298&gh_jid=6867298","Jfrog","Bangalore","No",12,"Full time","2025-05-19T02:06:57.393320Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2913570,"Senior Technical Product Manager","https://join.jfrog.com/job/?job=6867298&gh_jid=6867298","Jfrog","Bangalore","No",12,"Full time","2025-05-21T02:02:03.967975Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a Senior Product Manager to join our Artifactory core product. You will be a prominent and active leader, responsible for driving the product strategy and execution. You will drive customer satisfaction by ensuring JFrog's customers get an exceptional experience when working in the JFrog Platform. 
 As a Senior Product Manager at JFrog you will...
 
@@ -791,7 +915,7 @@ Experience in driving strategic initiatives in a cross organization environment
 Excellent analytical, interpersonal, and problem-solving skills
 
 Note: The Job location is Bangalore (Bellandur) and requires a mandatory work from office for at-least 3 fixed days a week."
-2890739,"Senior Solution Engineer","https://join.jfrog.com/job/?job=6861466&gh_jid=6861466","Jfrog","Bangalore","No",4,"Full time","2025-05-19T02:06:57.393333Z","Fast-Frogward Your Career to Years From Now
+2890739,"Senior Solution Engineer","https://join.jfrog.com/job/?job=6861466&gh_jid=6861466","Jfrog","Bangalore","No",4,"Full time","2025-05-21T02:02:03.967987Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work directly shapes the way the worlds top companies build and secure their software. At JFrog, as a Solution Engineer, youll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make an impact in the world of software, JFrog is the place for you.
 We are looking for a Solution Engineer with DevOps / DevSecOps / Software Development / Architecture and customer facing experience, who has a passion for technology and wishes to help our customers deliver software faster, more securely and agile.
 As a Solution Engineer at JFrog's, you will be on the front lines, working closely with our customers and prospects, guiding them on how to build robust and secured DevOps processes. You will work with our sales, product &amp; engineering teams to help customers understand the value of JFrog solutions from a technical and business perspective.
@@ -825,7 +949,7 @@ Heres what our employees have to say about working at JFrog:
 ""I wanted to work in a company that takes technology forward.""
 ""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
 ""Its nice to work for a company with a must-have product, not a nice-to-have."""
-2889559," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6859067&gh_jid=6859067","Jfrog","Atlanta","No",10,"Full time","2025-05-19T02:06:57.393346Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2889559," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6859067&gh_jid=6859067","Jfrog","Atlanta","No",10,"Full time","2025-05-21T02:02:03.967999Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a passionate, business-savvy, and experienced attorney and leader. In this pivotal role, you will lead a team of legal professionals in providing legal guidance and practical solutions to multiple stakeholders on a variety of issues of product development, privacy, AI, and regulatory matters. This position is a full-time position, based in our Sunnyvale, Atlanta, Seattle, or, NY office reporting to VP Legal, Deputy General Counsel.
 As a Senior Director, AGC, Product and Privacy Counsel in JFrog you will... 
 
@@ -858,7 +982,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote. 
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2889558," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6859056&gh_jid=6859056","Jfrog","Seattle","No",10,"Full time","2025-05-19T02:06:57.393359Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2889558," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6859056&gh_jid=6859056","Jfrog","Seattle","No",10,"Full time","2025-05-21T02:02:03.968011Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a passionate, business-savvy, and experienced attorney and leader. In this pivotal role, you will lead a team of legal professionals in providing legal guidance and practical solutions to multiple stakeholders on a variety of issues of product development, privacy, AI, and regulatory matters. This position is a full-time position, based in our Sunnyvale, Atlanta, Seattle, or, NY office reporting to VP Legal, Deputy General Counsel.
 As a Senior Director, AGC, Product and Privacy Counsel in JFrog you will... 
 
@@ -891,7 +1015,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote. 
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2889557," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6853021&gh_jid=6853021","Jfrog","Sunnyvale","No",10,"Full time","2025-05-19T02:06:57.393379Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2889557," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6853021&gh_jid=6853021","Jfrog","Sunnyvale","No",10,"Full time","2025-05-21T02:02:03.968022Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a passionate, business-savvy, and experienced attorney and leader. In this pivotal role, you will lead a team of legal professionals in providing legal guidance and practical solutions to multiple stakeholders on a variety of issues of product development, privacy, AI, and regulatory matters. This position is a full-time position, based in our Sunnyvale, Atlanta, Seattle, or, NY office reporting to VP Legal, Deputy General Counsel.
 As a Senior Director, AGC, Product and Privacy Counsel in JFrog you will... 
 
@@ -924,7 +1048,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote. 
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2889556," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6859082&gh_jid=6859082","Jfrog","New York City","No",10,"Full time","2025-05-19T02:06:57.393392Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2889556," Senior Director, AGC, Product and Privacy Counsel","https://join.jfrog.com/job/?job=6859082&gh_jid=6859082","Jfrog","New York City","No",10,"Full time","2025-05-21T02:02:03.968035Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a passionate, business-savvy, and experienced attorney and leader. In this pivotal role, you will lead a team of legal professionals in providing legal guidance and practical solutions to multiple stakeholders on a variety of issues of product development, privacy, AI, and regulatory matters. This position is a full-time position, based in our Sunnyvale, Atlanta, Seattle, or, NY office reporting to VP Legal, Deputy General Counsel.
 As a Senior Director, AGC, Product and Privacy Counsel in JFrog you will... 
 
@@ -957,26 +1081,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote. 
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2889555,"Conan SW Engineer","https://join.jfrog.com/job/?job=6844064&gh_jid=6844064","Jfrog","Madrid","No",4,"Full time","2025-05-19T02:06:57.393405Z","Residency in the Madrid area is required, as the role involves coming to the office once a week.
-At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
-Conan is a leading open-source C/C++ package manager, used by thousands of organizations around the world, from small teams to some of the largest world enterprises. You will join the JFrog team of maintainers of the Conan project, responsible for all operations, support, design, architecture, development, releases, integrations, and communication of the Conan open source project. Your role in the team will have a strong focus on the product side, measuring, analyzing and improving flows and processes for the different project components and integrations (Conan client, ConanCenter, IDEs and build system integrations, and JFrog integrations), always with a hands-on approach collaborating with both Conan team and JFrog product engineers.
-As a Conan Product Engineer at JFrog you will...
-
-Propose, design, implement, operate, and maintain the different data sources, analytic,s and dashboards to track the team projects.
-Continuously analyze and improve the data, providing actionable insights for product development, and collaborate hands-on in moving those actions through the whole process.
-Improve flows and processes, from the support and development phases to the communication (docs, blog posts, conferences, etc) phases, proactively contributing to them.
-Participate in all project and product decisions, architecture, prioritization, and planning.
-
-To be a Conan Product Engineer at JFrog you need...
-
-+4 years of experience as a software engineer &amp; developer: expertise in Git, testing, developing code (Python experience is a very positive advantage, Conan is written in Python), code reviews, continuous integration, releasing, etc. - necessary
-+2 years of experience in a product-oriented role: dashboards, analytics, product management, product design and architecture, user support and operations, etc. - necessary
-BSc in Computer Science or equivalent - recommended
-Experience in cloud environments, Docker, and k8s - an advantage
-Experience with C and C++ build engineering (compilers, build systems as CMake, binary artifacts, ABI, etc) or the C++ ecosystem - a great advantage
-Experience in OSS communities and projects - an advantage
-Native Spanish speaker, Fluent in English"
-2883096,"Sales Development Representative (Portuguese/English Fluent)","https://join.jfrog.com/job/?job=6851991&gh_jid=6851991","Jfrog","Sunnyvale","No","Not specified","Full time","2025-05-19T02:06:57.393419Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2883096,"Sales Development Representative (Portuguese/English Fluent)","https://join.jfrog.com/job/?job=6851991&gh_jid=6851991","Jfrog","Sunnyvale","No","Not specified","Full time","2025-05-21T02:02:03.968047Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 If you are looking for a successful company to build your sales or marketing career, JFrog is the place for you. We are looking for a talented and motivated Sales Development Representative (SDR) fluent in both Portuguese and English to join our sales team. This is a unique opportunity to be the first SDR on our U.S. team focused on supporting the growth of our LATAM market. In this role, youll work closely with our Account Executives to engage inbound leads and help drive new business.
 As a Sales Development Representative (SDR) in JFrog you will...
 
@@ -1013,7 +1118,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2883095,"Sales Development Representative (SDR)","https://join.jfrog.com/job/?job=6852051&gh_jid=6852051","Jfrog","Sunnyvale","No","Not specified","Full time","2025-05-19T02:06:57.393432Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2883095,"Sales Development Representative (SDR)","https://join.jfrog.com/job/?job=6852051&gh_jid=6852051","Jfrog","Sunnyvale","No","Not specified","Full time","2025-05-21T02:02:03.968059Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 If you are looking for a successful company to build your sales or marketing career, JFrog is the place for you. We are looking for talented and motivated Sales Development Representative (SDR) to join our sales team. As an SDR, you will be responsible for researching, contacting, and qualifying inbound potential customers.
 As a Sales Development Representative (SDR) in JFrog you will... 
 
@@ -1049,7 +1154,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2862909,"Technical Writer - JFrog ML","https://join.jfrog.com/job/?job=6847745&gh_jid=6847745","Jfrog","Tel Aviv/ Netanya, Israel","No",3,"Full time","2025-05-19T02:06:57.393445Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and security is a core part of our mission. Our team of industry-leading software security experts are true pioneers, constantly pushing the boundaries with original research and technology innovation. JFrog is a special place with a unique combination of brilliance, spirit, and just all-around great people. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2862909,"Technical Writer - JFrog ML","https://join.jfrog.com/job/?job=6847745&gh_jid=6847745","Jfrog","Tel Aviv/ Netanya, Israel","No",3,"Full time","2025-05-21T02:02:03.968072Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and security is a core part of our mission. Our team of industry-leading software security experts are true pioneers, constantly pushing the boundaries with original research and technology innovation. JFrog is a special place with a unique combination of brilliance, spirit, and just all-around great people. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 About the role
 As a Technical Writer at JFrog ML, you will play a critical role in helping developers, data scientists, and enterprises confidently adopt our AI/ML platform. At JFrog ML, we support AI and data science teams at every stage of the model lifecycle, from training to serving, with advanced security, governance and deployment capabilities across cloud and self-hosted environments. Our platform streamlines data engineering, enabling teams to ingest, transform and store data for their ML initiatives. 
 You will collaborate directly with cross-functional teams, including product managers, engineers, and AI experts, to create clear, accurate, and engaging documentation, such as API references, SDK guides, user manuals, and tutorials.
@@ -1081,7 +1186,7 @@ Experience with REST APIs, Open API 3.0 (Swagger)
 Technical knowledge or experience such as coding, networking, public clouds (GCP, AWS, Azure), or CLI / console 
 Familiarity with AI/ML, DevOps, or Security processes
 Experience with tools including Paligo, Fluid Topics, Figma, Jira, Google Docs, Slack"
-2859811,"Legal Counsel, Commercial","https://join.jfrog.com/job/?job=6832765&gh_jid=6832765","Jfrog","New York City","No",4,"Full time","2025-05-19T02:06:57.393457Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2859811,"Legal Counsel, Commercial","https://join.jfrog.com/job/?job=6832765&gh_jid=6832765","Jfrog","New York City","No",4,"Full time","2025-05-21T02:02:03.968085Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a passionate, business-savvy, talented Legal Counsel, Commercial to join our US Legal Team. In this role, you will be working cross-functionally with internal business partners as well as customers and partners supporting US sales efforts and other commercial-related transactions with the opportunity to grow into other functional areas. The position is based out of New York City, New York. 
 As a Legal Counsel, Commercial in JFrog you will... 
 
@@ -1112,7 +1217,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 3 days in office / 2 days remote.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2822012,"Talent Sourcer ","https://join.jfrog.com/job/?job=6820920&gh_jid=6820920","Jfrog","Tel Aviv","No",5,"Full time","2025-05-19T02:06:57.393470Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2822012,"Talent Sourcer ","https://join.jfrog.com/job/?job=6820920&gh_jid=6820920","Jfrog","Tel Aviv","No",5,"Full time","2025-05-21T02:02:03.968097Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a Talent Sourcer to join our Talent Acquisition team!As a Talent Sourcer you will be responsible for sourcing and identifying top talent to fill our open positions. You will work closely with hiring managers to develop effective sourcing strategies, build strong pipelines of talents and create strong relationships to support JFrogs rapid growth.
   As a Talent Sourcer at JFrog you will... 
 
@@ -1134,7 +1239,7 @@ Understand technological profiles and advanced technologies
 Excellent research, analytical, and communication skills
 Demonstrate the capability to generate a substantial number of top-tier candidates within tight timeframes
 Aptitude for working in a cross-functionally team that is growing fast, highly technical, within a global start-up environment"
-2822011,"Senior UX/UI Product Designer","https://join.jfrog.com/job/?job=6783000&gh_jid=6783000","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-19T02:06:57.393484Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
+2822011,"Senior UX/UI Product Designer","https://join.jfrog.com/job/?job=6783000&gh_jid=6783000","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-21T02:02:03.968109Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us on our journey?
 We seek a Senior Product Designer to join our Design Team, consisting of Designers and UX Researchers within the JFrog DevOps group. As part of this team, you will be responsible for designing the worlds leading platform for software development management. In this role, youll take on complex design challenges, transforming them into intuitive, accessible, and user-friendly experiences. You will be part of our company-wide Design Guild, and work within a product squad  collaborating with PMs, User Researchers, R&amp;D, Technical Writers, and Data Analysts.
 As a Senior UX/UI Product Designer  at JFrog you will...
 
@@ -1157,7 +1262,7 @@ Excellent communication, presentation, and collaboration skills.
 Fluent in English (both written and spoken), with the ability to clearly communicate and present design concepts
 
  Please include URLs to your online portfolio along with your CV."
-2822010,"Senior Backend Developer (Java)","https://join.jfrog.com/job/?job=6726977&gh_jid=6726977","Jfrog","Bangalore","No",8,"Full time","2025-05-19T02:06:57.393497Z","Fast-Frogward Your Career to Years From Now
+2822010,"Senior Backend Developer (Java)","https://join.jfrog.com/job/?job=6726977&gh_jid=6726977","Jfrog","Bangalore","No",8,"Full time","2025-05-21T02:02:03.968121Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work takes center stage, shaping the future of software development. At JFrog, as a [job title], youll solve critical challenges for leaders like Amazon, Google, and Netflix. Every day brings opportunities to innovate and push boundaries in a fast-moving, frogward-thinking culture. Its more than writing code  its driving the technology that powers the world. If you want your work to matter and thrive on nonstop innovation, JFrog is your place.
 What youll be doing as a Senior Software Engineer:
 In this role, youll be a key player in our fast-paced and highly innovative engineering team. You will:
@@ -1189,7 +1294,7 @@ Heres what our employees have to say about working at JFrog:
 ""As a developer, seeing your products on the biggest Tech event stages twice a year is WOW.""
 
 For developers who work here, they have everything that they can wish for to learn and develop new things, including AI and cyber."
-2822009,"Renewal Specialist","https://join.jfrog.com/job/?job=6820894&gh_jid=6820894","Jfrog","Bengaluru","No",5,"Full time","2025-05-19T02:06:57.393509Z","Fast-Frogward Your Career to Years From Now
+2822009,"Renewal Specialist","https://join.jfrog.com/job/?job=6820894&gh_jid=6820894","Jfrog","Bengaluru","No",5,"Full time","2025-05-21T02:02:03.968132Z","Fast-Frogward Your Career to Years From Now
 Be part of a team where your work directly shapes the way the worlds top companies build and secure their software. At JFrog, as an Associate Account Manager, Renewals youll play a key role in bringing our industry-leading solutions to market, helping customers like Amazon, Google, and Netflix solve their most pressing DevSecOps and AI/ML challenges. Every day offers new opportunities to collaborate, strategize, and innovate in a fast-paced, growth-driven culture. If you thrive in a dynamic environment and want to make an impact in the world of software, JFrog is the place for you.
  
 What youll be doing as an Associate Account Manager, Renewals:
@@ -1227,9 +1332,9 @@ Heres what our employees have to say about working at JFrog:
 ""I wanted to work in a company that takes technology forward.""
 ""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
 ""Its nice to work for a company with a must-have product, not a nice-to-have."""
-2813926,"Full Stack Engineer - Generative AI Applications","https://join.jfrog.com/job/?job=6810625&gh_jid=6810625","Jfrog","Tel Aviv/ Netanya, Israel","No",4,"Full time","2025-05-19T02:06:57.393523Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2813926,"Full Stack Engineer - Generative AI Applications","https://join.jfrog.com/job/?job=6810625&gh_jid=6810625","Jfrog","Tel Aviv/ Netanya, Israel","No",4,"Full time","2025-05-21T02:02:03.968144Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a strong Full Stack Engineer. We are building a product with high scalability in mind, which will require you to solve challenging problems on a daily basis. As a Full Stack Engineer, you will be expected to understand the product, work with team members to build new features, build/optimize our front-end frameworks and take ownership. You should be passionate about delivering high-end functional user interfaces while working in a fast-paced environment. Join us to drive innovation in artifact management and streamline software development and distribution processes.
-As a Full Stack Engineer at JFrog, you will... 
+As a Full Stack Engineer at JFrog you will... 
 
 Join a high-impact team building cutting-edge Generative AI applications used across the organization
 Drive the development of robust, high-quality software with strong test coverage and engineering best practices
@@ -1239,7 +1344,7 @@ Take the lead on back-end architecture, introducing microservices, optimizing pe
 Build intuitive and responsive user interfaces with Vue.js that bring Gen AI features to life
 Become the technical authority in your domain, guiding decisions and mentoring peers as the go-to expert
 
-To be a Full Stack Engineer at JFrog, you need...
+To be a Full Stack Engineer at JFrog you need...
 
 4+ years as a Full Stack engineer
 Deep knowledge and hands-on experience with design patterns, data structures, and software design methodologies
@@ -1248,7 +1353,7 @@ Back-end experience with Python
 Experience with TypeScript, an advantage
 Experience with Docker, K8S, Microservices, Relational databases, MicroFrontends
 Experience with Langchain, LangGraph is an advantage"
-2809021,"Senior Recruiter","https://join.jfrog.com/job/?job=6791924&gh_jid=6791924","Jfrog","Sunnyvale","No",8,"Full time","2025-05-19T02:06:57.393540Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2809021,"Senior Recruiter","https://join.jfrog.com/job/?job=6791924&gh_jid=6791924","Jfrog","Sunnyvale","No",8,"Full time","2025-05-21T02:02:03.968156Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a rock star Senior Recruiter to join our high performance talent acquisition team. In this role, you will partner with hiring managers across Customer Success and G&amp;A to attract, quality and hire top talent. The Senior Recruiter is responsible for managing, prioritizing and closing requisitions against demanding timelines while delivering a world class candidate experience.
 As a Senior Recruiter in JFrog you will... 
 
@@ -1283,7 +1388,7 @@ JFrog provides employees comprehensive benefits including medical, dental, visio
 JFrog embraces hybrid work: 4 days in office / 1 day remote.
 
 JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
-2595351,"IT Cloud Infrastructure Engineer","https://join.jfrog.com/job/?job=6706877&gh_jid=6706877","Jfrog","Tel Aviv/ Netanya, Israel","Yes",5,"Full time","2025-05-19T02:06:57.393553Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
+2595351,"IT Cloud Infrastructure Engineer","https://join.jfrog.com/job/?job=6706877&gh_jid=6706877","Jfrog","Tel Aviv/ Netanya, Israel","Yes",5,"Full time","2025-05-21T02:02:03.968168Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 We are looking for a talented IT Infrastructure Cloud Engineer with excellent problem-solving skills and desire to take on responsibility, to join our growing IT department.
 As an IT Infrastructure Cloud Engineer in JFrog you will...
 
@@ -1305,7 +1410,7 @@ Networking: Strong understanding of cloud networking, VPNs, VPCs, DNS, and firew
 Security Best Practices: Experience implementing cloud security best practices, including IAM, encryption, IDP (Okta), key management etc.
 Team Player: Strong communication skills and ability to work cross-functionally with different teams.
 Problem-solving skills in complex technical environments"
-2565419,"New Business - Enterprise Account Executive","https://join.jfrog.com/job/?job=6695461&gh_jid=6695461","Jfrog","london","No",5,"Full time","2025-05-19T02:06:57.393566Z","*Residency in London is required
+2565419,"New Business - Enterprise Account Executive","https://join.jfrog.com/job/?job=6695461&gh_jid=6695461","Jfrog","london","No",5,"Full time","2025-05-21T02:02:03.968180Z","*Residency in London is required
 At JFrog, we are reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
 As part of JFrogs EMEA New Business Sales Team, you will drive new revenues from different territories and verticals, by directly engaging potential new customers. You will be responsible for guiding the customer conversation and ultimately managing the sales process from lead to deal. You will be a master of gleaning insight out of the current customers operations and uncover opportunities to drive solution fit and revenues. The ideal candidate will have a working knowledge of the On-Prem and Software as a Services (SaaS) models, a strong customer service orientation, is organized, accurate and enjoys a fast-paced work environment.
 As a New Business Account Executive in JFrog you will...
@@ -1326,133 +1431,3 @@ To be an Account Executive in JFrog you need...
 Proven success in lead generation, prospecting, pipeline generation, negotiation, and closing complex sales cycles
 Experience with managing prospects POC and continue the sales cycle until closure
 Revenue quota-carrying experience is a must"
-2799553,"New Business - Enterprise Account Executive","https://join.jfrog.com/job/?job=6806875&gh_jid=6806875","Jfrog","madrid","No",8,"Full time","2025-05-19T02:06:57.393580Z","*Residency in Madrid is required
-At JFrog, we are reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including 75% of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
-As part of JFrogs EMEA New Business Sales Team, you will drive new revenues from different territories and verticals, by directly engaging potential new customers. You will be responsible for guiding the customer conversation and ultimately managing the sales process from lead to deal. You will be a master of gleaning insight out of the current customers operations and uncover opportunities to drive solution fit and revenues. The ideal candidate will have a working knowledge of the On-Prem and Software as a Services (SaaS) models, a strong customer service orientation, is organized, accurate and enjoys a fast-paced work environment.
-As a New Business Account Executive in JFrog you will...
-
-Proactively, identify, qualify and close a sales pipeline for new logos 
-Cultivate sales through outbound prospecting and inbound SQLs
-Work closely with the XDR team to develop the pipeline for cloud and self-hosted solutions
-Lead the POC process from the SQLs to close won opportunities
-Ability to articulate the business value of complex tech products
-Master in building business champions
-Prepare monthly and quarterly sales pipeline forecasts
-Work with multiple functions such as Legal, Solution Engineering, Finance, Demand Generation to drive deal closure
-Manage a sales pipeline in Salesforce and using prospecting tools such as Sales Navigator, ZoomInfo
-
-To be an Account Executive in JFrog you need...
-
-8+ years experience closing B2B SaaS/Software subscriptions in a highly technical environment / technical users
-Proven success in lead generation, prospecting, pipeline generation, negotiation, and closing complex sales cycles
-Experience with managing prospects POC and continue the sales cycle until closure
-Revenue quota-carrying experience is a must"
-1954232,"Senior Business/ Marketing Analyst","https://join.jfrog.com/job/?job=6428436&gh_jid=6428436","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-19T02:06:57.393593Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
-We are looking for a Senior Marketing Analyst to drive data-informed decision-making and optimize our marketing strategies for maximum impact. The ideal candidate will possess strong analytical skills, proficiency in data visualization tools, and a passion for uncovering insights that accelerate business growth.
-As a Senior Analyst in JFrog, you will...
-
-Develop and present proactive insights and recommendations to regional marketing leaders
-Create and manage a suite of dashboards, and reports, using Data visualization tools (ex: Tableau) )
-Own the Demand Gen performance dashboards
-Collaborate with other teams to provide actionable insights on campaign performance, lead generation, pipeline contribution, and ROI
-Track, analyze and provide data-driven, actionable insights to optimize and refine our marketing programs, improve conversions and performance, for efficiency and increase our business impact, ROI and support reaching our quarterly and annual goals
-Utilize advanced analytics and statistical methods to forecast and optimize marketing ROI, while developing forecasting models to predict marketing outcomes. 
-Establish the MEL, MQL, SQL, and Pipeline delivery schedules, tracking actual vs. target performance, and shaping Demand Generation, acquisition strategies, and budget allocations.
-Apply analytics techniques on complex data sets to uncover trends, insights, and growth opportunities, enhance marketing ROI and drive strategic insights
-
-To be a Senior Analyst in JFrog you need...
-
-Bachelors degree in Business, Marketing, Statistics, or a related field; advanced degree preferred.
-5 years experience as a marketing analyst or business/sales/RevOps analyst
-5 years experience working in or with a high-growth Demand Gen marketing team in B2B SaaS companies.
-Experience with digital marketing channels (SEM, SEO, content, email, social) and understanding of SaaS metrics like LTV, CAC, and ARR.
-Strong analysis and data modeling skills, and an understanding of statistical techniques. SQL, Python, or R skills are a plus.
-Proficiency in data visualization and BI tools (e.g., Tableau, Looker, Power BI) and experience with marketing automation platforms and CRM systems (e.g., HubSpot, Marketo, Salesforce) as well as experience with Saleloft, 6Sense, Clickup, Google Analytics, MS Office, Google Suite (Advanced Excel and PPT skills).
-Strategic Data Analysis: Proactive, out-of-the-box thinker who will identify key trends to drive marketing strategy aligned with business goals
-Cross-Functional Collaboration: Work with Sales, Product, Finance and Marketing analysts to ensure data-driven alignment
-Exceptional communication and presentation skills, with a track record of influencing senior leadership through data."
-2792537,"Technical Success Manager","https://join.jfrog.com/job/?job=6806418&gh_jid=6806418","Jfrog","Bengaluru","No",7,"Full time","2025-05-19T02:06:57.393605Z","Fast-Frogward Your Career to Years From Now
-Be part of a team where your work takes center stage, shaping the future of software development. At JFrog, we solve critical challenges for leaders like Amazon, Google, and Netflix. Every day brings opportunities to innovate and push boundaries in a fast-moving, frogward-thinking culture. If you want your work to matter and thrive on nonstop innovation, JFrog is your place.
-Heres what our employees have to say about working at JFrog:
-
-""I wanted to work in a company that takes technology forward.""
-""Our business is so interesting because it is constantly moving, and we have to adapt new solutions to the challenges that arise from the customers.""
-""Its nice to work for a company with a must-have product, not a nice-to-have.""
-
-What youll be doing as a Technical Success Manager:
-
-Focus on the customers continuous interactions with JFrog, the customers lifetime value and the associated NPS/CSAT scores.
-Assist our customers in creating an adoption/rollout plan to ensure they are confident in successfully socializing and embedding the JFrog Platform
-Provide Service to JFrog Sales team by focusing on customers strategy,  and to make sure JFrog platform  helps customers achieve their goals, enabling the JFrog Sales account manager to be there when customers need them and to get renewals, upsells done on time.
-To formulate and deliver projects by collaborating with JFrog customers based on agreed upon timelines
-Work with the Solution engineering and Professional Services team to ensure all customers complete their projects timely and successfully 
-Focus on NPS/CSAT and Customer Lifetime Value .
-Monitor the   customer health and their perception of JFrog brand by becoming  a Platform Health Expert.
-Be first point of escalation 
-Develop full understanding of JFrog platform
-
-What you bring on to the table:
-
-7+ years of professional experience preferably in customer success management, relationship management, delivery management, consulting or enterprise delivery
-3+ years of experience is Software industry preferably in SaaS companies
-Background or experience in security domain will be an add on
-Ability to effectively liaise with customers and regional teams/leadership.
-Ability to effectively present technical presentations
-Flexibility in working hours to accommodate our global presence 
-Prior hands on experience in Linux
-CLI hands on experience
-Rest API experience will be an advantage
-Docker / Kubernetes experience is good to have
-
-About JFrog:
-JFrog is the only end-to-end software supply chain platform that provides complete visibility, security, and control for automating the delivery of trusted releases from code to production. Our platform enables organizations to manage, secure, and automate their software delivery process, fueling innovation without worry. We empower companies to build and release software faster and more securely than ever before.
-With over 7,500 customers worldwide, including many Fortune 100 companies, JFrog is at the forefront of global innovation. Join us in shaping the future of software delivery and contributing to solutions that empower some of the world's most influential industries.
-NOTE: The job location is Bangalore (Bellandur) and we follow a hybrid model, mandatory 3 days/week work from office. The work timing is 2:30 pm to 11:30 pm IST."
-2792534,"Senior DevOps Engineer","https://join.jfrog.com/job/?job=6806406&gh_jid=6806406","Jfrog","Tel Aviv/ Netanya, Israel","No",5,"Full time","2025-05-19T02:06:57.393618Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
-JFrog is seeking a highly skilled Senior DevOps Engineer to join our team! In this role, you will drive best practices, optimize operational workflows, and mentor junior engineers, fostering a culture of collaboration and innovation. This is an exciting opportunity for someone passionate about building next-generation DevOps platforms at scale. You will lead large-scale, cross-functional initiatives, working closely with R&amp;D architects to shape the best DevOps strategies for our SaaS solutions. If you're eager to make a significant impact in a fast-paced, high-growth environment, we encourage you to apply.
-As a Senior DevOps Engineer at JFrog, you will...
-
-Lead the team towards technical solutions guided by a strong understanding of the latest and greatest technologies like Kubernetes, Helm, Terraform, and more
-Design, implement, and manage cloud and containerized architectures in GCP, AWS, and Azure
-Design, develop, and manage large-scale systems with CI/CD in mind, to support multiple production environments and use cases
-Tackle large-scale production issues and bring out-of-the-box thinking to the table
-Evaluate new cloud-native technologies and vendor products to continuously improve our SaaS offerings
-
-To be a Senior DevOps Engineer at JFrog you need...
-
-5+ years of relevant DevOps experience in large-scale production environments
-2+ years of infrastructure automation, configuration management, or container orchestration
-2+ years in Python or any other advanced programming language
-Strong ability to lead, design, and execute cross-organization projects
-Experience in managing container and infrastructure orchestration tools (e.g. Kubernetes, Terraform)
-Hands-on experience administering public clouds (AWS, GCP, or Azure)
-Experience with building CI/CD pipelines for applications and microservices"
-2786193,"Senior Director of FP&A","https://join.jfrog.com/job/?job=6779414&gh_jid=6779414","Jfrog","Sunnyvale","No",12,"Full time","2025-05-19T02:06:57.393631Z","At JFrog, were reinventing DevOps to help the worlds greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here, if youre willing to do more, your career can take off. And since software plays a central role in everyones lives, youll be part of an important mission. Thousands of customers, including the majority of the Fortune 100, trust JFrog to manage, accelerate, and secure their software delivery from code to production -- a concept we call liquid software. Wouldn't it be amazing if you could join us in our journey?
-We are seeking an experienced, strategic, and dynamic Senior Director of FP&amp;A to lead our Financial Planning &amp; Analysis function. You will report directly to our VP of FP&amp;A and serve as the tactical and operational leader of our FP&amp;A organization. This individual will be responsible for driving forecasts, budgets, analyses, and managing an FP&amp;A team that spans multiple geographies. Success in this role hinges on establishing streamlined processes, implementing a new FP&amp;A planning system, and providing outstanding partnership to our Sales, Marketing, P&amp;E, and other key business units.
-As a Senior Director of FP&amp;A in JFrog you will... 
-
-Be the tactical and operational leader of the FP&amp;A function, driving forecasts, budgets, analyses, and managing the FP&amp;A team.
-Manager a global team of FP&amp;A Directors/Managers and analysts; be a strong people leader who invests in development, career growth, and engagement.
-Provide world class business partner support by collaborating with executives and senior leaders to provide strategic decision support, solve business problems creatively, resourcing allocation, budget management, forecasting and KPIs.
-Lead the annual operating plan (AOP) process ensuring alignment with overarching corporate strategy and financial objectives.
-Implement and optimize our new FP&amp;A planning system.
-
-To be a Senior Director of FP&amp;A in JFrog you need...
-
-12+ years of progressive finance experience in technology or SaaS.
-Hands-on leadership experience at growth-oriented SaaS companies.
-Strong executive presence with proven ability to present to and influence senior leadership.
-Demonstrated success supporting Sales and Marketing teams, including capacity planning and pipeline analysis.
-Familiarity with implementing or upgrading FP&amp;A tools (e.g., Adaptive Insights, Pigment, Planful, or similar) is a plus.
-Expert-level financial modeling and forecasting skills; proven track record of achieving forecasting accuracy targets.
-
-WHAT JFROG CAN OFFER...
-
-At JFrog, base salary is only one component of our compensation package.
-This position has a base salary range between $230,000 to $260,000.  Base salary will be based on your skills, qualifications, experience and location.
-Additionally, this role may be eligible for discretionary bonuses or commission payments.
-This position also includes an equity package of restricted stock units (RSU).  In addition, JFrog employees are eligible to participate in our Employee Stock Purchase Plan.
-JFrog provides employees comprehensive benefits including medical, dental, vision, retirement, wellness and much more!
-JFrog embraces hybrid work: 3 days in office / 2 days remote.
-
-JFrog is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex, sexual orientation, national origin or nationality, ancestry, age, disability, gender identity or expression, marital status or any other category protected by law."
