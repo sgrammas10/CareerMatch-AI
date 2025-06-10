@@ -168,21 +168,22 @@ if __name__ == "__main__":
    
 
     # ---- Always define user_prompt ----
-    user_prompt = None
+    job_description = None
 
     # Always show the chat box
     chat_input_value = st.chat_input("Paste job description here")
-
+    job_description=chat_input_value
     #user input
-    if user_prompt:
+    if job_description:
         with st.chat_message("user",avatar="👤"):
             if uploaded_file:         
                 
-                resume_text=load_document(uploaded_file)
+                resume_text = load_document(uploaded_file)
+                resume_text_str = "\n\n".join([doc.page_content for doc in resume_text])
 
                 prompt = (
-                    f"Here is the resume:\n\n{resume_text}\n\n"
-                    f"Based on this job description here:\n\n{user_prompt}"
+                    f"Here is the resume:\n\n{resume_text_str}\n\n"
+                    f"Based on this job description here:\n\n{job_description}"
                     f"\n\nPlease edit the resume to include keywords and phrases from the job description."
                     f"\n\n Do not change the format of the resume, just edit the content to include the keywords and phrases from the job description."
                     f"\n\nDo not make up any information, skills, or experiences. "
@@ -192,14 +193,14 @@ if __name__ == "__main__":
                 )
             #if no file is uploaded, just use the user prompt
             else:
-                prompt = user_prompt
+                prompt = job_description
             st.session_state.messages.append({
                 "role": "user",
-                "content": user_prompt,      
+                "content": job_description,      
                 "llm_content": prompt,
                 "avatar": "👤"         
             })
-            st.markdown(user_prompt)
+            st.markdown(job_description)
 
 
        
