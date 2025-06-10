@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Resume</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 40px; }
+    h1, h2 { color: #2c3e50; }
+    .section { margin-bottom: 20px; }
+    .job-title { font-weight: bold; }
+    .job-entry { margin-bottom: 10px; }
+  </style>
+</head>
+<body>
+
+  <h1>{{ name }}</h1>
+  <p>{{ email }} | {{ phone }}</p>
+
+  <div class="section">
+    <h2>Summary</h2>
+    <p>{{ summary }}</p>
+  </div>
+
+  <div class="section">
+    <h2>Experience</h2>
+    {% for job in experience %}
+    <div class="job-entry">
+      <p class="job-title">{{ job.title }} — {{ job.company }} ({{ job.dates }})</p>
+      <p>{{ job.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    {% for edu in education %}
+    <p>{{ edu.degree }} — {{ edu.institution }} ({{ edu.year }})</p>
+    {% endfor %}
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <p>{{ skills | join(', ') }}</p>
+  </div>
+
+</body>
+</html>
