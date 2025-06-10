@@ -4,6 +4,7 @@ import streamlit.components.v1 as components
 import time
 import requests
 import time
+import re
 
 import os
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
@@ -23,7 +24,7 @@ from langchain_community.document_loaders import PDFPlumberLoader
 import json
 from PIL import Image
 
-
+from render_resume import render_resume_to_pdf
 
 #overwrites the size of image to 64x64
 
@@ -59,6 +60,24 @@ st.markdown("""
 
 
 #helper functions
+def extract_json_from_response(text):
+    """
+    Attempts to extract the first valid JSON object found in a text response.
+    It scans for the first '{' and tries to decode JSON until success or failure.
+    """
+    import json
+
+    start = text.find('{')
+    while start != -1:
+        for end in range(len(text), start, -1):
+            snippet = text[start:end]
+            try:
+                return json.loads(snippet)
+            except json.JSONDecodeError:
+                continue
+        start = text.find('{', start + 1)
+    return None
+
 
 def stream_response_lines_and_buffer(response):
     for line in response.iter_lines(decode_unicode=True):
@@ -185,11 +204,35 @@ if __name__ == "__main__":
                     f"Here is the resume:\n\n{resume_text_str}\n\n"
                     f"Based on this job description here:\n\n{job_description}"
                     f"\n\nPlease edit the resume to include keywords and phrases from the job description."
-                    f"\n\n Do not change the format of the resume, just edit the content to include the keywords and phrases from the job description."
                     f"\n\nDo not make up any information, skills, or experiences. "
                     f"\n\nOnly edit the content of the resume to include the keywords and phrases from the job description if stating this skill is not a blatant lie."
-                    f"\n\nIf the resume is already well-tailored to the job description, just say that it is already well-tailored."
                     f"\n\nIf the resume does not show any relevant skills or experiences for the job description, say that the resume does not show any relevant skills or experiences for the job description."
+                    f"\n\nReturn the edited resume in the following JSON format, with all fields filled in as appropriate:\n"
+                    f"""
+                    {{
+                    "name": "Full Name",
+                    "email": "email@example.com",
+                    "phone": "123-456-7890",
+                    "summary": "...",
+                    "experience": [
+                        {{
+                        "title": "Job Title",
+                        "company": "Company Name",
+                        "dates": "Start – End",
+                        "description": "Details"
+                        }}
+                    ],
+                    "education": [
+                        {{
+                        "degree": "Degree Name",
+                        "institution": "School",
+                        "year": "Year"
+                        }}
+                    ],
+                    "skills": ["Skill1", "Skill2"]
+                    }}
+                    """
+
                 )
             #if no file is uploaded, just use the user prompt
             else:
@@ -278,6 +321,21 @@ if __name__ == "__main__":
             
             response_area.empty()
             # Write to UI while buffering
+
+            parsed_data = extract_json_from_response(full_response)
+
+            if parsed_data:
+                try:
+                    pdf_path = render_resume_to_pdf(parsed_data)
+                    st.success(f"Edited resume saved to: {pdf_path}")
+                    with open(pdf_path, "rb") as f:
+                        st.download_button("Download Edited Resume", f, file_name="edited_resume.pdf")
+                except Exception as e:
+                    st.error(f"Error generating PDF: {e}")
+            else:
+                st.error("No valid JSON found in the LLM response.")
+
+
 
             response_area.write_stream(stream_and_buffer_to_ui(response))
             st.markdown('<div id="scroll-to-bottom"></div>', unsafe_allow_html=True)

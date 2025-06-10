@@ -17,26 +17,26 @@ def render_resume_to_pdf(data, output_path="Streamlit/outputs/edited_resume.pdf"
     return output_path
 
 
-sample_data = {
-    "name": "Jane Doe",
-    "email": "jane@example.com",
-    "phone": "555-1234",
-    "summary": "Experienced data scientist with expertise in NLP and AI.",
-    "experience": [
-        {
-            "title": "Data Scientist",
-            "company": "TechCorp",
-            "dates": "2020–2023",
-            "description": "Worked on NLP models and AI projects."
-        }
-    ],
-    "education": [
-        {
-            "degree": "B.Sc. in Computer Science",
-            "institution": "MIT",
-            "year": "2019"
-        }
-    ],
-    "skills": ["Python", "Machine Learning", "NLP"]
-}
-render_resume_to_pdf(sample_data)
+# sample_data = {
+#     "name": "Jane Doe",
+#     "email": "jane@example.com",
+#     "phone": "555-1234",
+#     "summary": "Experienced data scientist with expertise in NLP and AI.",
+#     "experience": [
+#         {
+#             "title": "Data Scientist",
+#             "company": "TechCorp",
+#             "dates": "2020–2023",
+#             "description": "Worked on NLP models and AI projects."
+#         }
+#     ],
+#     "education": [
+#         {
+#             "degree": "B.Sc. in Computer Science",
+#             "institution": "MIT",
+#             "year": "2019"
+#         }
+#     ],
+#     "skills": ["Python", "Machine Learning", "NLP"]
+# }
+# render_resume_to_pdf(sample_data)
