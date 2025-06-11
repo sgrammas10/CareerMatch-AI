@@ -61,21 +61,16 @@ st.markdown("""
 
 #helper functions
 def extract_json_from_response(text):
-    """
-    Attempts to extract the first valid JSON object found in a text response.
-    It scans for the first '{' and tries to decode JSON until success or failure.
-    """
-    import json
 
-    start = text.find('{')
-    while start != -1:
-        for end in range(len(text), start, -1):
-            snippet = text[start:end]
-            try:
-                return json.loads(snippet)
-            except json.JSONDecodeError:
-                continue
-        start = text.find('{', start + 1)
+    # Find all potential JSON snippets
+    matches = re.findall(r'\{(?:[^{}]|(?R))*\}', text, re.DOTALL)
+
+    for match in matches:
+        try:
+            return json.loads(match)
+        except json.JSONDecodeError:
+            continue
+
     return None
 
 
@@ -201,6 +196,7 @@ if __name__ == "__main__":
                 resume_text_str = "\n\n".join([doc.page_content for doc in resume_text])
 
                 prompt = (
+                    f"\n\nRespond ONLY with valid JSON. Do not add any extra text or explanations."
                     f"Here is the resume:\n\n{resume_text_str}\n\n"
                     f"Based on this job description here:\n\n{job_description}"
                     f"\n\nPlease edit the resume to include keywords and phrases from the job description."
@@ -322,8 +318,9 @@ if __name__ == "__main__":
             response_area.empty()
             # Write to UI while buffering
 
+            response_area.write_stream(stream_and_buffer_to_ui(response))\
+            
             parsed_data = extract_json_from_response(full_response)
-
             if parsed_data:
                 try:
                     pdf_path = render_resume_to_pdf(parsed_data)
@@ -335,9 +332,6 @@ if __name__ == "__main__":
             else:
                 st.error("No valid JSON found in the LLM response.")
 
-
-
-            response_area.write_stream(stream_and_buffer_to_ui(response))
             st.markdown('<div id="scroll-to-bottom"></div>', unsafe_allow_html=True)
             components.html(
                 """
