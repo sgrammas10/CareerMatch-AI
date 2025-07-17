@@ -1,9 +1,112 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-3255497,"Surgery Data Analyst","https://boards.greenhouse.io/neuralink/jobs/6646432003?gh_jid=6646432003","Neuralink","Austin","No",3,"Full time","2025-07-15T02:21:25.098347Z","About Neuralink:
+3269351,"Firmware Engineer Intern","https://boards.greenhouse.io/neuralink/jobs/6648992003?gh_jid=6648992003","Neuralink","Fremont","No",2,"Internship","2025-07-17T02:18:45.275531Z","About Neuralink:
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
+At Neuralink, we're engineering the future of automated surgeries, focusing on the safe and effective implantation of our groundbreaking Neuralink implant. Our team  a cross-functional mix of roboticists, engineers from various disciplines, and medical professionals  collaborates on developing a surgical flow from first principles. In this critical role, you'll straddle the cutting-edge worlds of robotics, software, and neuroscience.
+Job Description and Responsibilities:
+This is a new role for our team that will allow you to create new embedded systems from scratch while challenging and refining the old. As a Firmware Engineer Intern, your responsibilities will encompass:
+
+Developing and optimizing embedded software for robotic surgery applications
+Streamlining our codebase by refining and, when necessary, retiring legacy embedded software
+Rigorous testing and validation of software systems to meet the highest safety and reliability standards
+Participating in peer code reviews
+Writing drivers and applications to extend the functionality of our robotics
+Specifying hardware and software choices as we develop future hardware platforms
+Sharing your findings and progress with the team in a collaborative environment
+
+Required Qualifications:
+
+Demonstrated track record of success in a science or engineering field, evidenced by outstanding projects, innovations, or advanced problem-solving
+Proven experience in software development, preferably with exposure to embedded systems
+
+Preferred Qualifications:
+Embedded Software Development:
+
+2+ years of experience with embedded systems
+Proficient with common communication protocols (SPI, UART, I2C, etc.)
+Comfortable/working knowledge of more advanced protocols such as PCIe, MIPI CSI/DSI, USB, and 802.3
+Proficient in at least one embedded language such as C, C++, or Rust
+Proficient with embedded toolchains and workflow
+
+Experience building and bringing-up MCUs or FPGAs
+
+Experience with embedded stacks for ARM cores
+Experience developing on embedded Linux platforms
+Experience with embedded Linux kernel configuration and device tree setup
+Experience with kernel driver development
+Experience with ARM bootloaders
+Experience coding drivers for actuators and sensors
+Experience with high-speed data acquisition and processing
+
+Electrical Engineering:
+
+Foundational understanding of MCU architectures and peripheral integration
+Solid knowledge in electrical engineering and DSP
+Ability to interpret electrical schematics and datasheets, along with proficiency in using lab equipment
+
+
+
+Expected Compensation:
+The anticipated hourly rate for this position is listed below.
+California Hourly Flat Rate:$35/Hr USD
+
+
+What We Offer:
+Full-time employees are eligible for the following benefits listed below.
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+Growth potential; we rapidly advance team members who have an outsized impact
+Excellent medical, dental, and vision insurance through a PPO plan
+Paid holidays
+Commuter benefits
+Meals provided
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
+Parental leave *Temporary Employees &amp; Interns excluded
+Flexible time off *Temporary Employees &amp; Interns excluded"
+3255497,"Data Annotation Specialist","https://boards.greenhouse.io/neuralink/jobs/6646432003?gh_jid=6646432003","Neuralink","Austin","No",3,"Full time","2025-07-17T02:18:45.275614Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Data Annotation team at Neuralink ensures the accuracy and clarity of surgical data through detailed analysis and collaboration. By interpreting logs, images, and videos from surgeries, the team provides actionable insights to both engineering and surgical teams, enabling continuous refinement of processes and technologies. This team acts as a critical link, ensuring data-driven decisions that advance Neuralinks mission of developing cutting-edge neural interfaces.
 Job Description and Responsibilities:
-As a Surgery Data Analyst at Neuralink, you will be responsible for analyzing, labeling, interpreting, and recording the data produced by surgeries conducted at Neuralink. You will be in charge of communicating the results of the surgery with relevant engineering and surgery teams, most importantly when there are deviations or unexpected events. No prior medical experience is necessary, we only require an extreme attention to detail in visual imagery. The role will also involve cross-team collaboration during presentation of data results. The Surgery Data Analyst will:
+As a Data Annotation Specialist at Neuralink, you will be responsible for analyzing, labeling, interpreting, and recording the data produced by surgeries conducted at Neuralink. You will be in charge of communicating the results of the surgery with relevant engineering and surgery teams, most importantly when there are deviations or unexpected events. No prior medical experience is necessary, we only require an extreme attention to detail in visual imagery. The role will also involve cross-team collaboration during presentation of data results. The Data Annotation Specialist will:
+
+Interface with the surgical robot logs, images, and videos to provide metrics of the efficacy of the insertions for every surgery
+Create Surgery Debrief presentation slides and media to communicate the results of the surgery with the engineering and surgery teams
+Collaborate with engineering teams on designing solutions to recurring issues 
+Performs other projects or duties that may be assigned
+
+Required Qualifications: 
+
+Extremely attentive to visual details
+Exceedingly organized
+Excellent with computer systems
+Excellent communication and documentation skills
+3+ years of troubleshooting experience, or equivalent
+Minimum Associate of Science (AS) degree or equivalent industry experience
+
+Preferred Qualifications: 
+
+Experience with data analysis
+Experience with programming languages such as Python
+Strong understanding of engineering first principles
+
+What We Offer:
+Full-time employees are eligible for the following benefits listed below.
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+Growth potential; we rapidly advance team members who have an outsized impact
+Excellent medical, dental, and vision insurance through a PPO plan
+Paid holidays
+Commuter benefits
+Meals provided
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
+Parental leave *Temporary Employees &amp; Interns excluded
+Flexible time off *Temporary Employees &amp; Interns excluded"
+3255495,"Data Annotation Specialist","https://boards.greenhouse.io/neuralink/jobs/6646501003?gh_jid=6646501003","Neuralink","Fremont","No",3,"Full time","2025-07-17T02:18:45.275638Z","About Neuralink:
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
+The Data Annotation team at Neuralink ensures the accuracy and clarity of surgical data through detailed analysis and collaboration. By interpreting logs, images, and videos from surgeries, the team provides actionable insights to both engineering and surgical teams, enabling continuous refinement of processes and technologies. This team acts as a critical link, ensuring data-driven decisions that advance Neuralinks mission of developing cutting-edge neural interfaces.
+Job Description and Responsibilities:
+As a Data Annotation Specialist at Neuralink, you will be responsible for analyzing, labeling, interpreting, and recording the data produced by surgeries conducted at Neuralink. You will be in charge of communicating the results of the surgery with relevant engineering and surgery teams, most importantly when there are deviations or unexpected events. No prior medical experience is necessary, we only require an extreme attention to detail in visual imagery. The role will also involve cross-team collaboration during presentation of data results. The Data Annotation Specialist will:
 
 Interface with the surgical robot logs, images, and videos to provide metrics of the efficacy of the insertions for every surgery
 Create Surgery Debrief presentation slides and media to communicate the results of the surgery with the engineering and surgery teams
@@ -25,7 +128,7 @@ Experience with data analysis
 Experience with programming languages such as Python
 Strong understanding of engineering first principles
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$74,000$124,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$74,000$124,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -35,49 +138,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3255495,"Surgery Data Analyst","https://boards.greenhouse.io/neuralink/jobs/6646501003?gh_jid=6646501003","Neuralink","Fremont","No",3,"Full time","2025-07-15T02:21:25.098454Z","About Neuralink:
-We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
-The Data Annotation team at Neuralink ensures the accuracy and clarity of surgical data through detailed analysis and collaboration. By interpreting logs, images, and videos from surgeries, the team provides actionable insights to both engineering and surgical teams, enabling continuous refinement of processes and technologies. This team acts as a critical link, ensuring data-driven decisions that advance Neuralinks mission of developing cutting-edge neural interfaces.
-Job Description and Responsibilities:
-As a Surgery Data Analyst at Neuralink, you will be responsible for analyzing, labeling, interpreting, and recording the data produced by surgeries conducted at Neuralink. You will be in charge of communicating the results of the surgery with relevant engineering and surgery teams, most importantly when there are deviations or unexpected events. No prior medical experience is necessary, we only require an extreme attention to detail in visual imagery. The role will also involve cross-team collaboration during presentation of data results. The Surgery Data Analyst will:
-
-Interface with the surgical robot logs, images, and videos to provide metrics of the efficacy of the insertions for every surgery
-Create Surgery Debrief presentation slides and media to communicate the results of the surgery with the engineering and surgery teams
-Collaborate with engineering teams on designing solutions to recurring issues 
-Performs other projects or duties that may be assigned
-
-Required Qualifications: 
-
-Extremely attentive to visual details
-Exceedingly organized
-Excellent with computer systems
-Excellent communication and documentation skills
-3+ years of troubleshooting experience, or equivalent
-Minimum Associate of Science (AS) degree or equivalent industry experience
-
-Preferred Qualifications: 
-
-Experience with data analysis
-Experience with programming languages such as Python
-Strong understanding of engineering first principles
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$74,000$124,000 USD
-What We Offer:
-Full-time employees are eligible for the following benefits listed below.
-
-An opportunity to change the world and work with some of the smartest and most talented experts from different fields
-Growth potential; we rapidly advance team members who have an outsized impact
-Excellent medical, dental, and vision insurance through a PPO plan
-Paid holidays
-Commuter benefits
-Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
-Parental leave *Temporary Employees &amp; Interns excluded
-Flexible time off *Temporary Employees &amp; Interns excluded"
-3247902,"People Operations","https://boards.greenhouse.io/neuralink/jobs/6645174003?gh_jid=6645174003","Neuralink","Fremont","No",4,"Full time","2025-07-15T02:21:25.098529Z","About Neuralink:
+3247902,"People Operations","https://boards.greenhouse.io/neuralink/jobs/6645174003?gh_jid=6645174003","Neuralink","Fremont","No",4,"Full time","2025-07-17T02:18:45.275662Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Job Description and Responsibilities:
 We are looking for a strategic and analytical People Operations / compensation professional to join the Neuralink team. This role will be focused on building and managing our comp and equity programs, providing actionable insights that shape our growth, and supporting the team via other various People Operations needs. 
 This position sits at the intersection of people, data, and business strategy  balancing analytical rigor with a broad understanding of other areas in the People Operations space.
@@ -108,7 +173,7 @@ Familiarity with HRIS platforms (e.g., UKG) and how they integrate with compensa
 Strong project management skills and ability to drive cross-functional alignment across HR, Finance, and Legal
 Passion for operational excellence and continuous improvement in people processes
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$102,000$190,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$102,000$190,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -118,47 +183,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3240386,"Brain-Computer Interface Engineer","https://boards.greenhouse.io/neuralink/jobs/6644023003?gh_jid=6644023003","Neuralink","Austin","No",1,"Full time","2025-07-15T02:21:25.098552Z","About Neuralink:
-We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world. 
-Team Description:
-The Brain-Computer Interface team is responsible for delivering a product that gives people with paralysis the ability to control computers and phones with their minds at the same speed and functionality level as able-bodied people can. In this role, youll collaborate with software engineers, neuroengineers, animal trainers, mechanical engineers, and veterinarians to develop the next-generation human-ready Brain-Computer Interface (BCI).
-Job Responsibilities:
-Lead the design and development of brain-machine interface devices, interfacing with surgical robotics and microfabrication teams. Manage projects from concept through production, utilizing advanced mechanical engineering techniques in the field of brain-machine interfaces. Collaborate closely with neuroscientists, biologists, clinicians, animal care specialists, and engineers to deliver solutions and support to their respective teams. Redesign systems and processes to scale up bespoke solutions for larger-scale production. Design, implement, and troubleshoot improved production line stations for the larger-scale production line. Implement scalable engineering methods, conduct hands-on testing and analysis, and drive innovation in engineering development and testing infrastructure for implantable medical devices and medical robots. Design, build, and test implant and charger systems to meet both internal and external customer needs. Diagnose and resolve issues with electromechanical systems used across the company, optimizing performance and reliability.  Provide engineering input and advice to the clinical team for regulatory submissions to the USA, Canada, UK, and beyond.
-Required Qualifications:
-
-Bachelors degree or foreign equivalent in Mechanical Engineering or related fields.
-1 year experience in job offered or related occupations (e.g. mechanical engineer).
-Must have at least 1 year of prior work experience in each of the following:
-
-Vacuum systems and leak detection technologies
-Hands-on medical device manufacturing experience
-Class 3 medical device engineering
-Flip-chip bonding and solder bumping
-Working in a cleanroom environment
-
-
-
-Worksite: Austin, TX
-Applicant Instructions: Email resume to: NLK-Recruiting@neuralink.com. Include job code 92709 in reply. EOE.
- 
- Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$98,000$125,000 USD
-What We Offer:
-Full-time employees are eligible for the following benefits listed below.
-
-An opportunity to change the world and work with some of the smartest and most talented experts from different fields
-Growth potential; we rapidly advance team members who have an outsized impact
-Excellent medical, dental, and vision insurance through a PPO plan
-Paid holidays
-Commuter benefits
-Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
-Parental leave *Temporary Employees &amp; Interns excluded
-Flexible time off *Temporary Employees &amp; Interns excluded"
-3232201,"EPC Engineer","https://boards.greenhouse.io/neuralink/jobs/6642491003?gh_jid=6642491003","Neuralink","Austin","No",3,"Full time","2025-07-15T02:21:25.098575Z","About Neuralink:
+3232201,"EPC Engineer","https://boards.greenhouse.io/neuralink/jobs/6642491003?gh_jid=6642491003","Neuralink","Austin","No",3,"Full time","2025-07-17T02:18:45.275681Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Designing and building facilities and infrastructure is key to enabling Neuralink to scale. The EPC team is responsible for all aspects of engineering, procurement, and construction ranging from greenfield site developments to tenant improvements of our existing facilities. We regularly interface with cross-functional teams to identify their short- and long-term needs, plan, and deliver purpose-built spaces.This position requires an outgoing and highly organized mindset, an ability to perform at a high level on a consistent basis, a desire to work on multi-disciplinary projects, and an excitement to work at Neuralink!
 Job Description and Responsibilities:
@@ -199,8 +228,7 @@ Experience commissioning and startup of Mechanical and Electrical Equipment
 Has passed the FE exam or has the ability to pass it within 6 months of starting
 Experience with structural engineering, deep and shallow foundation designs, steel, concrete, and other building materials is preferred
 Experience managing external consultants and contractors through full scopes
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$71,000$119,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -210,10 +238,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3224562,"People Operations","https://boards.greenhouse.io/neuralink/jobs/6641074003?gh_jid=6641074003","Neuralink","Austin","No",4,"Full time","2025-07-15T02:21:25.098596Z","About Neuralink:
+3224562,"People Operations","https://boards.greenhouse.io/neuralink/jobs/6641074003?gh_jid=6641074003","Neuralink","Austin","No",4,"Full time","2025-07-17T02:18:45.275701Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Job Description and Responsibilities:
 We are looking for a strategic and analytical People Operations / compensation professional to join the Neuralink team. This role will be focused on building and managing our comp and equity programs, providing actionable insights that shape our growth, and supporting the team via other various People Operations needs. 
 This position sits at the intersection of people, data, and business strategy  balancing analytical rigor with a broad understanding of other areas in the People Operations space.
@@ -243,8 +272,7 @@ Prior experience in a fast-paced or startup environment with ambiguity and chang
 Familiarity with HRIS platforms (e.g., UKG) and how they integrate with compensation workflows
 Strong project management skills and ability to drive cross-functional alignment across HR, Finance, and Legal
 Passion for operational excellence and continuous improvement in people processes
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$102,000$190,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -254,10 +282,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3203160,"Architect","https://boards.greenhouse.io/neuralink/jobs/6628534003?gh_jid=6628534003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.098626Z","About Neuralink:
+3203160,"Architect","https://boards.greenhouse.io/neuralink/jobs/6628534003?gh_jid=6628534003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.275720Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Designing &amp; building facilities and infrastructure is key to enabling Neuralink to scale. We are looking for an experienced Architect to join our EPC  team in Austin, TX. You will play a pivotal role in the design and planning of our facilities and infrastructure. This position requires an outgoing and highly organized mindset, an ability to perform at a high level on a consistent basis, a desire to work on multi-disciplinary projects, and an excitement to work at Neuralink!
 Job Description and Responsibilities:
@@ -304,7 +333,7 @@ Experience in all phases of schematic design, design development, construction d
 Strong desire to be a part of a world class team focused on achieving amazing results
 Experience writing and modifying CSI book specifications for Divisions 1-13
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$71,000$119,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$71,000$119,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -314,10 +343,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3181484,"Surgery Mechanical Engineer","https://boards.greenhouse.io/neuralink/jobs/6623370003?gh_jid=6623370003","Neuralink","Austin","No",1,"Full time","2025-07-15T02:21:25.098647Z","About Neuralink:
+3181484,"Surgery Mechanical Engineer","https://boards.greenhouse.io/neuralink/jobs/6623370003?gh_jid=6623370003","Neuralink","Austin","No",1,"Full time","2025-07-17T02:18:45.275739Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Surgery Engineering team is responsible for developing and managing custom hardware and processes for neurosurgical procedures, excluding the R1 Robot and Operator Station. Their responsibilities encompass the entire surgical process, including patient positioning, incision, craniectomy, precise implant placement, robotic thread insertion success, surgical site irrigation, implant installation, and closure. Additionally, the team ensures safe explantation and upgrade procedures for implants. They also provide mechanical engineering support to the animal care, histology, and BCI teams, contributing to the success of complex neurosurgical procedures and related research activities.
 Job Description and Responsibilities:
@@ -345,8 +375,7 @@ Industrial design experience
 Additional Requirements and Competencies:
 
 Some work-related travel will be required
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$75,000$202,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -356,10 +385,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3160473,"Technical Recruiter","https://boards.greenhouse.io/neuralink/jobs/6620183003?gh_jid=6620183003","Neuralink","Austin","No",2,"Full time","2025-07-15T02:21:25.098670Z","About Neuralink:
+3160473,"Technical Recruiter","https://boards.greenhouse.io/neuralink/jobs/6620183003?gh_jid=6620183003","Neuralink","Austin","No",2,"Full time","2025-07-17T02:18:45.275760Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Recruitment is the driving force behind Neuralinks growth and is responsible for cultivating exceptionalism by finding top talent and hiring experts for our interdisciplinary teams, all while providing an all-around great candidate experience. The Recruiting Team members have come from diverse industries, forming a group of experts in Hardware, Software, Research, and G&amp;A hiring. Our team collaborates closely and believes communication is the key to success. 
 Job Description and Responsibilities:
@@ -386,8 +416,7 @@ Preferred Qualifications:
 Experience using Greenhouse, Gem, LinkedIn, and G Suite
 Experience working in an agency and at an early-stage startup
 Ability to build reports and dashboards through queries in Excel or Google Sheets
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$97,000$179,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -397,10 +426,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3127360,"Quality Assurance Specialist","https://boards.greenhouse.io/neuralink/jobs/6614602003?gh_jid=6614602003","Neuralink","Austin","No",1,"Full time","2025-07-15T02:21:25.098685Z","About Neuralink:
+3127360,"Quality Assurance Specialist","https://boards.greenhouse.io/neuralink/jobs/6614602003?gh_jid=6614602003","Neuralink","Austin","No",1,"Full time","2025-07-17T02:18:45.275783Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Join the Quality Team, where our mission is to ensure compliance with relevant regulatory standards. We are a group of industry-experienced professionals who utilize creative problem-solving to establish efficient systems for compliance.
 Job Description and Responsibilities:
@@ -440,8 +470,7 @@ Strong understanding of the scientific method and engineering-first principles
 Understanding within the fields of microbiology and chemistry 
 Excellent organization and communication skills
 Keen eye for detail
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$65,000$108,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -451,10 +480,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3127357,"Facilities Technician - Electrician","https://boards.greenhouse.io/neuralink/jobs/6613706003?gh_jid=6613706003","Neuralink","Fremont","No",3,"Full time","2025-07-15T02:21:25.098700Z","About Neuralink:
+3127357,"Facilities Technician - Electrician","https://boards.greenhouse.io/neuralink/jobs/6613706003?gh_jid=6613706003","Neuralink","Fremont","No",3,"Full time","2025-07-17T02:18:45.275804Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Facilities team is the operational backbone that ensures our buildings and infrastructure run safely, efficiently, and reliablyso our innovators can stay focused on creating the future. This role offers a dynamic playground for those passionate about mechanical and electrical systems and are eager to expand their hands-on knowledge across a wide range of building operations. From HVAC and plumbing to electrical systems and advanced BMS controls, we keep the environment optimized and responsive. Our team includes skilled technicians, electricians, plumbers, HVAC specialists, security personnel, and administrative supporteach playing a critical part in maintaining seamless operations. Success in this team requires strong collaboration, the ability to prioritize effectively, and adaptability in a fast-paced, evolving setting. If youre driven to solve real-world problems and keep the systems behind the scenes running at their best, youll feel right at home here. 
 Job Description and Responsibilities:
@@ -513,10 +543,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3110649,"Manufacturing Technician, Surgical Consumables","https://boards.greenhouse.io/neuralink/jobs/6608676003?gh_jid=6608676003","Neuralink","Fremont","No",1,"Full time","2025-07-15T02:21:25.098715Z","About Neuralink:
+3110649,"Manufacturing Technician, Surgical Consumables","https://boards.greenhouse.io/neuralink/jobs/6608676003?gh_jid=6608676003","Neuralink","Fremont","No",1,"Full time","2025-07-17T02:18:45.275822Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 As part of the Surgery &amp; Robot Hardware Department, the Surgical Consumables Team is responsible for producing a wide range of critical mechanical devices that enable our life-changing surgical procedures. Balancing immediate needs with long-term scalability, we drive innovation with precisely engineered tools that ensure safety, reliability, and high-quality surgical execution.
 Job Description and Responsibilities:
@@ -560,10 +591,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3110648,"Electrical Engineer Intern, Robotics and Surgery Engineering","https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003","Neuralink","Fremont","No","Not specified","Internship","2025-07-15T02:21:25.098731Z","About Neuralink:
+3110648,"Electrical Engineer Intern, Robotics and Surgery Engineering","https://boards.greenhouse.io/neuralink/jobs/6607398003?gh_jid=6607398003","Neuralink","Fremont","No","Not specified","Internship","2025-07-17T02:18:45.275840Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 To achieve Neuralinks mission and provide our technology to those that need it, the surgical process that implants our cutting-edge devices must be exceptionally safe, efficient, and scalable. 
 The surgical robot we design is key to enabling this, and the Robot Electrical Engineering Team supports this by designing, testing, and integrating all electrical aspects of our robot, encompassing a diverse range of fundamental electrical engineering domains while also working closely with the optical, mechanical, and software engineering teams.
@@ -607,10 +639,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3089130,"Shipping & Receiving Associate","https://boards.greenhouse.io/neuralink/jobs/6605951003?gh_jid=6605951003","Neuralink","Fremont","No","Not specified","Full time","2025-07-15T02:21:25.098745Z","About Neuralink:
+3089130,"Shipping & Receiving Associate","https://boards.greenhouse.io/neuralink/jobs/6605951003?gh_jid=6605951003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.275858Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Job Description and Responsibilities:
 We are looking for a proactive and detail-oriented Shipping &amp; Receiving Specialist to join the Neuralink team. This role is essential to maintaining the flow of materials and packages across our California locations, supporting a wide range of engineering and research teams. This individual will also serve as a key support partner to our Workplace Experience and Office Operations teams.
 The ideal candidate is a strong communicator and self-starter who thrives in a fast-paced, hands-on environment. This role requires the ability to work across disciplines and departments to ensure timely and accurate receipt, inspection, and distribution of goods and equipment. The successful candidate will help keep our warehouse, office, and labs spaces running efficiently and safely. Additionally, you will be expected to:
@@ -653,10 +686,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3065566,"Regulatory Affairs Specialist","https://boards.greenhouse.io/neuralink/jobs/6601847003?gh_jid=6601847003","Neuralink","Austin","No",2,"Full time","2025-07-15T02:21:25.098758Z","About Neuralink:
+3065566,"Regulatory Affairs Specialist","https://boards.greenhouse.io/neuralink/jobs/6601847003?gh_jid=6601847003","Neuralink","Austin","No",2,"Full time","2025-07-17T02:18:45.275890Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Join the Quality Team, where our mission is to ensure compliance with relevant regulatory standards. We are a group of industry-experienced professionals who utilize creative problem-solving to establish efficient systems for compliance.
 Job Description and Responsibilities:
@@ -686,8 +720,7 @@ Preferred Qualifications:
 Experience with significant risk medical device-related regulatory filings
 Experience with robotics, software, and cybersecurity-related regulatory filings
 RAPs or ASQ certification or other scientific/technical training
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$65,000$108,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -697,10 +730,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3065565,"Pathology Specialist, Histology","https://boards.greenhouse.io/neuralink/jobs/6599939003?gh_jid=6599939003","Neuralink","Austin","No",2,"Full time","2025-07-15T02:21:25.098772Z","About Neuralink:
+3065565,"Pathology Specialist, Histology","https://boards.greenhouse.io/neuralink/jobs/6599939003?gh_jid=6599939003","Neuralink","Austin","No",2,"Full time","2025-07-17T02:18:45.275907Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Pathology Team at Neuralink plays a critical role in the evaluation of macroscopic and microscopic tissue samples derived from preclinical studies. Our team encompasses specialized units focused on Anatomic Pathology, Histology, Digital Pathology, and Laboratory Operations, working collaboratively within the Preclinical Department to advance Neuralink's mission of creating a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow. As a Pathology Specialist in Histology, you will play a pivotal role within our Histology core, applying technical expertise to tissue processing and staining procedures to support preclinical research with urgency and excellence. You will report to the Pathology Lead and collaborate with Pathology team members and cross-functional teams.
 Job Description and Responsibilities:
@@ -742,8 +776,7 @@ Willingness to travel to and from other facilities as required, with travel not 
 Comfortable working in a controlled laboratory environment with potential exposure to extreme temperatures, fumes, biohazardous materials, and chemicals, including formalin.
 Ability to lift and maneuver up to 45 pounds to manage large volumes of chemical waste, reposition equipment, and perform other physically demanding tasks as required.
 
-Note: The cadence of travel requests are flexible, will vary, and are based on staffing needs and pipeline demand, but are not expected to exceed 4 weeks per year.Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$59,000$98,000 USD
+Note: The cadence of travel requests are flexible, will vary, and are based on staffing needs and pipeline demand, but are not expected to exceed 4 weeks per year.
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -753,64 +786,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3065564,"Pathology Specialist, Anatomic Pathology","https://boards.greenhouse.io/neuralink/jobs/6599947003?gh_jid=6599947003","Neuralink","Austin","No",2,"Full time","2025-07-15T02:21:25.098784Z","About Neuralink:
-We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
-The Pathology Team at Neuralink plays a critical role in the evaluation of macroscopic and microscopic tissue samples derived from preclinical studies. Our team encompasses specialized units focused on Anatomic Pathology, Histology, Digital Pathology, and Laboratory Operations, working collaboratively within the Preclinical Department to advance Neuralink's mission of creating a generalized brain interface to restore autonomy to those with unmet medical needs today and unlock human potential tomorrow. As a Pathology Specialist in Anatomic Pathology, you will play a pivotal role within our Anatomic Pathology core, applying technical expertise to necropsy and tissue grossing procedures to support preclinical research with urgency and excellence. You will report to the Pathology Lead and collaborate with Pathology team members and cross-functional teams.
-Job Description and Responsibilities:We are seeking a skilled and dynamic Pathology Specialist, Anatomic Pathology to execute critical tasks within the Anatomic Pathology core of our Pathology department. This individual will apply foundational skills and knowledge to perform animal necropsies and tissue grossing, bringing technical precision to the pathology pipeline. This role requires proactive problem-solving, efficient completion of assigned tasks, and effective collaboration with cross-functional teams to support Neuralink's ambitious goals. The Pathology Specialist will work closely with other Pathology Specialists to ensure operational efficiency and with stakeholders across the Preclinical Department to maintain clarity in study-related processes. Successful candidates will have a proven track record of excellence in anatomic pathology and demonstrate the ability to complete tasks independently, identify areas for improvement, and communicate effectively with team members and stakeholders. Additionally, you will be expected to:
-
-Independently perform animal necropsies and tissue grossing with precision, ensuring high-quality sample preparation for downstream analysis in compliance with study protocols
-Apply judgment and discretion to operate and maintain laboratory equipment relevant to anatomic pathology, adjusting parameters to achieve optimal outcomes and troubleshooting issues as they arise
-Conduct pre-necropsy checks and perfusion procedures, ensuring readiness and compliance with SOPs, collaborating with Veterinary Medicine for input as needed
-Document experimental findings and procedures in compliance with Good Documentation Practices (GDP) and laboratory SOPs, demonstrating attention to detail and identifying gaps for process improvement
-Proactively collaborate with stakeholders (e.g., Pathology cores, Pathologists, Veterinary Medicine, Study Manager, Study Director) to ensure clarity and efficiency in study-related processes and sample management
-Engage in mentorship, supporting and empowering colleagues to engage in team optimizations, and promoting a culture of continuous learning and development within the Anatomic Pathology core
-Participate in workload management discussions and quality initiatives, contributing insights to balance team capacity and enhance process efficiency
-Assist in aggregating data and generating image exhibits or similar materials for reporting purposes, ensuring accurate and timely study documentation
-Assist with inventory management and ensure the correct disposal of hazardous materials, maintaining a clean and orderly laboratory environment in coordination with Laboratory Operations Specialists
-Collaborate seamlessly across Pathology department cores as needed to ensure collective success, demonstrating adaptability and ownership
-Actively participate in a culture of challenge and continuous growth by seeking feedback, embracing learning opportunities, and pushing boundaries to improve personal and team performance
-Share resources and information with Preclinical Scientists and Pathology team members in an egoless manner, prioritizing team-over-individual stewardship of R&amp;D projects and openly contributing knowledge to ensure collective success
-
-Required Qualifications: 
-
-BA/BS in Biology, Medical Laboratory Science, Neuroscience, or a related field, with at least 2 years of relevant experience in an anatomic pathology function, or associates degree with equivalent experience
-Adept at carrying out necropsy and tissue grossing procedures within the pathology pipeline with minimal guidance, in a regulatory-compliant environment
-Familiarity with basic anatomy, physiology, and the ability to recognize tissue abnormalities during gross examination
-Strong communication skills and the ability to work collaboratively with multidisciplinary teams within the Preclinical Department
-
-Preferred Qualifications: 
-
-Advanced degree in Biology, Anatomy, or a related discipline
-Certification as a Pathologists Assistant (PA) by the American Society for Clinical Pathology (ASCP), or equivalent, or eligibility to challenge exams within 1 year of hire
-Demonstrated ability to multitask and resolve complex issues, with a history of implementing process improvements in anatomic pathology workflows
-Recognized by peers for deep domain knowledge in anatomic pathology and contributions to a positive work culture
-Strong organizational skills and capacity to lead by example, upholding high standards of work
-
-Additional Requirements and Competencies:
-
-Ability to work flexible hours, including off-hours and weekends, to meet project deadlines and support team needs
-Willingness to travel to and from other facilities as required, with travel not expected to exceed 6 weeks per year
-Comfortable working in a controlled laboratory environment with potential exposure to extreme temperatures, fumes, biohazardous materials, and chemicals, including formalin
-Ability to lift and maneuver up to 45 pounds to manage large volumes of chemical waste, reposition large animals, and perform other physically demanding tasks as required
-
-Note: The cadence of travel requests are flexible, will vary, and are based on staffing needs and pipeline demand, but are not expected to exceed 4 weeks per year.Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$79,000$131,000 USD
-What We Offer:
-Full-time employees are eligible for the following benefits listed below.
-
-An opportunity to change the world and work with some of the smartest and most talented experts from different fields
-Growth potential; we rapidly advance team members who have an outsized impact
-Excellent medical, dental, and vision insurance through a PPO plan
-Paid holidays
-Commuter benefits
-Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
-Parental leave *Temporary Employees &amp; Interns excluded
-Flexible time off *Temporary Employees &amp; Interns excluded"
-2343047,"Neurosurgical Robot Operator","https://boards.greenhouse.io/neuralink/jobs/6346645003?gh_jid=6346645003","Neuralink","Fremont","No",2,"Full time","2025-07-15T02:21:25.098797Z","About Neuralink:
+2343047,"Neurosurgical Robot Operator","https://boards.greenhouse.io/neuralink/jobs/6346645003?gh_jid=6346645003","Neuralink","Fremont","No",2,"Full time","2025-07-17T02:18:45.275954Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Neurosurgical Robot Operator Team, a division of the Surgery &amp; Robot Hardware Department, is directly responsible for the setup and operation of surgical robots during surgeries under medical professional supervision. Our team regularly collaborates on cross-functional projects to enhance robotic surgical capabilities.
 Job Description and Responsibilities:
@@ -851,10 +831,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3042700,"Software Engineer, BCI Applications","https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003","Neuralink","Fremont","No","Not specified","Full time","2025-07-15T02:21:25.098812Z","About Neuralink:
+3042700,"Software Engineer, BCI Applications","https://boards.greenhouse.io/neuralink/jobs/6596365003?gh_jid=6596365003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.275982Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Computer Interface (BCI) Applications Team is responsible for delivering a product that gives people with paralysis the ability to control computers, phones, and robotic arms with their minds at the same speed and functionality level as able-bodied people can. The team works closely with the PRIME clinical study patients which allows them fast and direct feedback about new features from users. The work in the team is multidisciplinary and team members have diverse backgrounds in software engineers, design engineering, ML engineering and neuro-engineering.
 Job Description and Responsibilities:As a Software Engineer in the BCI team, you will collaborate with our users, specifically clinical trial participants, to comprehend their requirements and engineer brain-computer interface software systems that deliver exceptional user experiences. You will take the lead in creating innovative applications, implementing new features, and resolving existing issues to enhance the overall functionality of the software.
@@ -878,7 +859,7 @@ You are mission-driven and goal-oriented in your approach to solving problems
 You are resourceful, flexible, and adaptable; no task is too big or too small
 Excellent communication and collaboration skills
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$138,000$269,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$138,000$269,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -888,10 +869,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3038029,"Software Engineer Intern, BCI Applications","https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003","Neuralink","Fremont","No","Not specified","Internship","2025-07-15T02:21:25.098826Z","About Neuralink:
+3038029,"Software Engineer Intern, BCI Applications","https://boards.greenhouse.io/neuralink/jobs/6594422003?gh_jid=6594422003","Neuralink","Fremont","No","Not specified","Internship","2025-07-17T02:18:45.276002Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Computer Interface (BCI) Applications Team is responsible for delivering a product that gives people with paralysis the ability to control computers, phones, gaming consoles, and robotic arms with their minds at the same speed and functionality level as able-bodied people can. In addition,the team is also working on restoring speech to mute individuals, this will also open the option for direct and natural silent communication with AI agents.  The team works closely with the PRIME clinical study patients which allows them fast and direct feedback about new features from users. The work in the team is multidisciplinary and team members have diverse backgrounds in software engineers, design engineering, ML engineering and neuro-engineering.
 Job Description and Responsibilities:
@@ -935,10 +917,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3038028,"Machine Learning Engineer Intern","https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003","Neuralink","Fremont","No","Not specified","Internship","2025-07-15T02:21:25.098839Z","About Neuralink:
+3038028,"Machine Learning Engineer Intern","https://boards.greenhouse.io/neuralink/jobs/6594261003?gh_jid=6594261003","Neuralink","Fremont","No","Not specified","Internship","2025-07-17T02:18:45.276020Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Computer Interface (BCI) Applications Team is responsible for delivering a product that gives people with paralysis the ability to control computers, phones, gaming consoles, and robotic arms with their minds at the same speed and functionality level as able-bodied people can. Furthermore, the team is focused on restoring speech for mute individuals and enabling direct, natural silent communication with AI agents.  In this role, youll work with neuroscientists, physicians, software engineers, and electrical engineers to develop the next-generation human-ready Brain-Computer Interface (BCI). 
 Job Description and Responsibilities:
@@ -973,10 +956,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3023308,"Electrical Engineer, Implant Embedded Systems","https://boards.greenhouse.io/neuralink/jobs/6591566003?gh_jid=6591566003","Neuralink","Fremont","No",1,"Full time","2025-07-15T02:21:25.098853Z","About Neuralink:
+3023308,"Electrical Engineer, Implant Embedded Systems","https://boards.greenhouse.io/neuralink/jobs/6591566003?gh_jid=6591566003","Neuralink","Fremont","No",2,"Full time","2025-07-17T02:18:45.276055Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Join the implant team and be part of an elite team of engineers working on high-performance, safety-critical embedded systems for the next-generation brain-computer interfaces. We are looking for experienced, hands-on engineers who are interested in exploring what's possible in highly power and latency-constrained environments. We are looking for an experienced, hands-on electrical engineer for implant electronics board design, integration with our custom chips, design verification, manufacturing, and quality control. You will own advanced projects, not only working on incremental changes, and be an integral member of a small, fast-moving team. You will be working on all phases of board design (part selection, schematic design, layout, and bring-up) as well as work closely with chip designers, firmware engineers, mechanical and manufacturing engineers, and microfabrication experts for system integration.
 Job Responsibilities:
@@ -1010,7 +994,7 @@ Experience with FEM/FDTD simulation tools and antenna designs/testing
 Experience with analog circuit design
 Experience in the design and testing of wearable electronic devices (watches, fitness trackers, wireless headphones, etc.)
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$109,800$238,100 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$109,800$238,100 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1020,10 +1004,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3012273,"Product Operations","https://boards.greenhouse.io/neuralink/jobs/6590291003?gh_jid=6590291003","Neuralink","Fremont","No","Not specified","Full time","2025-07-15T02:21:25.098867Z","About Neuralink:
+3012273,"Product Operations","https://boards.greenhouse.io/neuralink/jobs/6590291003?gh_jid=6590291003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.276078Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Job Description and Responsibilities:
 As Product Operations, youll collaborate with software engineers, neuroengineers, animal trainers, mechanical engineers, and clinical team members to develop the next-generation human Brain-Computer Interface (BCI). 
 The overarching responsibility of Product Operations is to be the interface between the Neuralink users and the other engineers of both the BCI application team and the broader company. As the bridge between the users and other engineers, there are two general roles field engineers serve:
@@ -1056,7 +1041,7 @@ Experience prototyping and designing a product or service for users
 Proficiency in collecting physiological or other time-series data
 Experience collecting and analyzing user feedback
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$89,000$148,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$89,000$148,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1066,10 +1051,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-3002627,"Mechanical Engineer, Robotics (CONVOY)","https://boards.greenhouse.io/neuralink/jobs/6587719003?gh_jid=6587719003","Neuralink","Fremont","No",3,"Full time","2025-07-15T02:21:25.098880Z","About Neuralink:
+3002627,"Mechanical Engineer, Robotics (CONVOY)","https://boards.greenhouse.io/neuralink/jobs/6587719003?gh_jid=6587719003","Neuralink","Fremont","No",3,"Full time","2025-07-17T02:18:45.276097Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Convoy team, a specialized group within the Robot Mechanical Engineering team, is working on developing a first-of-its-kind brain-controlled assistive robotic arm (ARA). Our focus is on developing high-dimensional neural control of hardware, specifically robotic arms and hands. We design and integrate robotics systems, work directly with our clinical trial participants, and collaborate cross-functionally with hardware, software, electrical, and BCI engineers. We believe this work may be one of the best and most advanced paths to giving physical independence back to users with unmet medical needs.
 Job Description and Responsibilities:
@@ -1095,7 +1081,7 @@ Multidisciplinary experience in robotics software and control (e.g., Python, ROS
 Electrical engineering proficiency (e.g., PCB design, wire harnessing, circuit design)
 Proficiency with conventional machining and rapid prototyping technologies
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$90,000$226,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$90,000$226,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1105,61 +1091,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2996752,"Validation Engineer","https://boards.greenhouse.io/neuralink/jobs/6586375003?gh_jid=6586375003","Neuralink","Austin","No",2,"Full time","2025-07-15T02:21:25.098894Z","About Neuralink:
-We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
-Join our innovative Quality Engineering team, a dynamic collective of experts dedicated to maintaining the precision and efficacy of high-tech equipment in preclinical and manufacturing domains. Engage with the latest in biomedical devices, industrial instrumentation, and cutting-edge technologies. As pioneers who've crafted a robust equipment program from scratch, we champion creative problem-solving and strive to set industry benchmarks. Immerse yourself in a mission-critical role that propels safety and regulatory compliance to new heights, and become part of a collaborative force driving the future of biomedical quality.
-Job Description and Responsibilities:
-As a Validation Engineer at Neuralink, you will collaborate with engineering teams to validate critical processes and systems, including sterilization, cleaning, and manufacturing, as well as ensuring adherence to stringent regulatory standards such as GMP and ISO. In addition to this core responsibility, you will support the Quality Engineering team with equipment and software qualifications, routine calibrations, and maintenance, as well as other essential tasks to uphold manufacturing integrity and regulatory compliance. Furthermore, you will be expected to:
-
-Develop and write system verification and validation test methods to evaluate product requirements and ensure regulatory compliance
-Assess changes to design or manufacturing processes and their impact on existing validations
-Develop real-time dashboards for defect tracking and implement process improvements
-Communicate clearly and effectively, translating regulatory requirements into action
-Have a clear understanding of how to apply risk assessments
-Improve process efficiency and develop automated systems
-Demonstrate knowledge of Quality Assurance, Process Validation, Design Controls, Risk Management, and Statistical Techniques
-Exercise independent judgment and apply solution-oriented  thinking, problem-solving, and troubleshooting
-
-Required Qualifications: 
-
-Bachelors degree in an engineering discipline
-Minimum 2 years of experience in a medical device or life sciences organization
-Attention to detail: ability to perform critical analysis of situations and provide recommendations
-Capable of working independently with structured guidance
-Experience developing critical quality programs and systems
-Strong foundation in basic science and engineering principles
-Experience in regulatory environments (e.g., GMP, GCP, or GLP)
-
-Preferred Qualifications: 
-
-Familiarity with computer systems such as coordinate measuring systems, Jira, and CAD
-Experience designing test methods and test strategies, developing and executing validation  protocols, analyzing and interpreting results, and communicating results and their impact through written reports, design reviews, and interactive discussions
-Experience in process validation, test method validation, gage R&amp;R, experiment design, and troubleshooting manufacturing failures
-
-Additional Requirements and Competencies:
-
-Ability to travel to/from and work in multiple locations
-Comfort working in office, vivarium, and operating room environments, with potential exposure to animal bodily fluids, including blood
-Basic computer skills and proficiency in Google Docs, Google Drive, Gmail, and Jira
-Ability to use equipment controllers and interfaces of varying degrees of complexity
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$65,000$108,000 USD
-What We Offer:
-Full-time employees are eligible for the following benefits listed below.
-
-An opportunity to change the world and work with some of the smartest and most talented experts from different fields
-Growth potential; we rapidly advance team members who have an outsized impact
-Excellent medical, dental, and vision insurance through a PPO plan
-Paid holidays
-Commuter benefits
-Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
-Parental leave *Temporary Employees &amp; Interns excluded
-Flexible time off *Temporary Employees &amp; Interns excluded"
-2987619,"Infrastructure Engineer","https://boards.greenhouse.io/neuralink/jobs/6583843003?gh_jid=6583843003","Neuralink","Fremont","No","Not specified","Full time","2025-07-15T02:21:25.098907Z","About Neuralink:
+2987619,"Infrastructure Engineer","https://boards.greenhouse.io/neuralink/jobs/6583843003?gh_jid=6583843003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.276125Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: 
 The Infrastructure Team builds the foundation that enables the company to operate safely, robustly, and move at light-speed. We run a mixture of cloud-based and on-prem systems and have a user base spanning from highly technically proficient engineers to non-technical scientists and doctors; but all of them need solid systems, rugged networking, and bullet-proof software to do their jobs. This role will integrate tightly with teams across the company, and span all layers of the work environment stack, from deployment of physical hardware on the manufacturing line, to custom tooling to stream neural recordings from implants.
 Tech Stack:
@@ -1190,7 +1126,7 @@ Systems administration experience on Windows, macOS, and Linux.
 In-depth understanding of modern networking and common protocols.
 Ability to architect, build, and ship 0 to 1 infrastructure quickly and efficiently.
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$138,000$200,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$138,000$200,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1200,10 +1136,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2987618,"Infrastructure Engineer","https://boards.greenhouse.io/neuralink/jobs/6584996003?gh_jid=6584996003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.098919Z","About Neuralink:
+2987618,"Infrastructure Engineer","https://boards.greenhouse.io/neuralink/jobs/6584996003?gh_jid=6584996003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.276144Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: 
 The Infrastructure Team builds the foundation that enables the company to operate safely, robustly, and move at light-speed. We run a mixture of cloud-based and on-prem systems and have a user base spanning from highly technically proficient engineers to non-technical scientists and doctors; but all of them need solid systems, rugged networking, and bullet-proof software to do their jobs. This role will integrate tightly with teams across the company, and span all layers of the work environment stack, from deployment of physical hardware on the manufacturing line, to custom tooling to stream neural recordings from implants.
 Tech Stack:
@@ -1233,8 +1170,7 @@ Familiarity with modern Linux boot process, UEFI, TPM measured boot, Secure Boot
 Systems administration experience on Windows, macOS, and Linux.
 In-depth understanding of modern networking and common protocols.
 Ability to architect, build, and ship 0 to 1 infrastructure quickly and efficiently.
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$124,000$180,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1244,10 +1180,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2960643,"Sterile Processing Technician","https://boards.greenhouse.io/neuralink/jobs/6578160003?gh_jid=6578160003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.098934Z","About Neuralink:
+2960643,"Sterile Processing Technician","https://boards.greenhouse.io/neuralink/jobs/6578160003?gh_jid=6578160003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.276163Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Surgery Team is responsible for making sure Neuralinks various implanted devices get installed safely and efficiently. This means our job as a team is not limited just to the insertion of the implants electrodes but instead to owning the full surgery experience of a Neuralink customer in a way that scales. The team works towards our mission of safely installing our implant through in-depth preclinical studies and clinical trials by conducting surgeries and diving into data analysis.
 Job Description and Responsibilities:
@@ -1297,10 +1234,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2945818,"Robot Optics Intern","https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003","Neuralink","Fremont","No",1,"Internship","2025-07-15T02:21:25.098982Z","About Neuralink:
+2945818,"Robot Optics Intern","https://boards.greenhouse.io/neuralink/jobs/6576326003?gh_jid=6576326003","Neuralink","Fremont","No",1,"Internship","2025-07-17T02:18:45.276191Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Robot Optics Team is passionate about shaping the future of operating rooms. We are responsible for all optical engineering aspects of Neuralink surgeries, including working on our surgical robotics, supporting operating room equipment, and manufacturing custom consumables. The core device we work on is the robotic system that performs implant insertions. Key subsystems include 2D and 3D machine vision cameras, optical coherence tomography, and surgical site illuminators.
 Our team oversees the entire product lifecycle of all optical subsystems across multiple robot versions, from ideation and design through production, testing, and maintenance. We also design hardware for producing and inspecting consumables, such as laser-machined needle cartridges. As we manufacture a significant portion of our hardware in-house, our core activities include bring-up testing, designing hardware acceptance testers, and overseeing manufacturing processes. 
@@ -1359,10 +1297,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2913920,"Software Engineer Intern, Implant","https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003","Neuralink","Fremont","No","Not specified","Internship","2025-07-15T02:21:25.099005Z","About Neuralink:
+2913920,"Software Engineer Intern, Implant","https://boards.greenhouse.io/neuralink/jobs/6569018003?gh_jid=6569018003","Neuralink","Fremont","No","Not specified","Internship","2025-07-17T02:18:45.276209Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Interfaces Software Team is responsible for the end to end software stack that manages implant communication, verification, manufacturing and monitoring. We own client side SDKs and full-stack platforms that are used by various divisions within the company. We are looking for versatile engineers who are interested in architecting and implementing elegant software solutions and who thrive with the autonomy to propose creative approaches to problems. 
 Neuralink strives to be a meritocratic environment: we require honest and transparent communication to ensure the best ideas win out, and we believe the best solutions emerge and the best teams are created when you assemble high-performing individuals and allow them to engage in rigorous and thoughtful inquiry. We want to work with exceptional people, and, to the extent that you excel, we want you to take on more responsibility and help all of us succeed. If this speaks to you, come join us.
@@ -1413,10 +1352,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2913919,"Software Engineer Intern, Implant","https://boards.greenhouse.io/neuralink/jobs/6569020003?gh_jid=6569020003","Neuralink","Austin","No","Not specified","Internship","2025-07-15T02:21:25.099027Z","About Neuralink:
+2913919,"Software Engineer Intern, Implant","https://boards.greenhouse.io/neuralink/jobs/6569020003?gh_jid=6569020003","Neuralink","Austin","No","Not specified","Internship","2025-07-17T02:18:45.276228Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Interfaces Software Team is responsible for the end to end software stack that manages implant communication, verification, manufacturing and monitoring. We own client side SDKs and full-stack platforms that are used by various divisions within the company. We are looking for versatile engineers who are interested in architecting and implementing elegant software solutions and who thrive with the autonomy to propose creative approaches to problems. 
 Neuralink strives to be a meritocratic environment: we require honest and transparent communication to ensure the best ideas win out, and we believe the best solutions emerge and the best teams are created when you assemble high-performing individuals and allow them to engage in rigorous and thoughtful inquiry. We want to work with exceptional people, and, to the extent that you excel, we want you to take on more responsibility and help all of us succeed. If this speaks to you, come join us.
@@ -1469,10 +1409,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2913918,"Software Engineer, Implant","https://boards.greenhouse.io/neuralink/jobs/6569010003?gh_jid=6569010003","Neuralink","Fremont","No","Not specified","Full time","2025-07-15T02:21:25.099050Z","About Neuralink:
+2913918,"Software Engineer, Implant","https://boards.greenhouse.io/neuralink/jobs/6569010003?gh_jid=6569010003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.276247Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Interfaces Software Team is responsible for the end to end software stack that manages implant communication, verification, manufacturing and monitoring. We own client side SDKs and full-stack platforms that are used by various divisions within the company. We are looking for versatile engineers who are interested in architecting and implementing elegant software solutions and who thrive with the autonomy to propose creative approaches to problems. 
 Neuralink strives to be a meritocratic environment: we require honest and transparent communication to ensure the best ideas win out, and we believe the best solutions emerge and the best teams are created when you assemble high-performing individuals and allow them to engage in rigorous and thoughtful inquiry. We want to work with exceptional people, and, to the extent that you excel, we want you to take on more responsibility and help all of us succeed. If this speaks to you, come join us.
@@ -1506,7 +1447,7 @@ You are mission-driven and goal-oriented in your approach to solving problems
 You feel a sense of urgency to get things done sooner rather than laterbecause there is so much we, as people, can contribute to the world and accomplish in this life, its a shame to waste time
 You are resourceful, flexible, and adaptable; no task is too big or too small
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$119,000$200,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$119,000$200,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1516,10 +1457,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2913917,"Software Engineer, Implant","https://boards.greenhouse.io/neuralink/jobs/6569015003?gh_jid=6569015003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.099071Z","About Neuralink:
+2913917,"Software Engineer, Implant","https://boards.greenhouse.io/neuralink/jobs/6569015003?gh_jid=6569015003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.276269Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Interfaces Software Team is responsible for the end to end software stack that manages implant communication, verification, manufacturing and monitoring. We own client side SDKs and full-stack platforms that are used by various divisions within the company. We are looking for versatile engineers who are interested in architecting and implementing elegant software solutions and who thrive with the autonomy to propose creative approaches to problems. 
 Neuralink strives to be a meritocratic environment: we require honest and transparent communication to ensure the best ideas win out, and we believe the best solutions emerge and the best teams are created when you assemble high-performing individuals and allow them to engage in rigorous and thoughtful inquiry. We want to work with exceptional people, and, to the extent that you excel, we want you to take on more responsibility and help all of us succeed. If this speaks to you, come join us.
@@ -1552,8 +1494,7 @@ You deliver. You may enjoy thoughtful conversations about problems and perfectin
 You are mission-driven and goal-oriented in your approach to solving problems
 You feel a sense of urgency to get things done sooner rather than laterbecause there is so much we, as people, can contribute to the world and accomplish in this life, its a shame to waste time
 You are resourceful, flexible, and adaptable; no task is too big or too small
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$83,000$180,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1563,10 +1504,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2907993,"Brain Interfaces Lab Manager","https://boards.greenhouse.io/neuralink/jobs/6568922003?gh_jid=6568922003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.099086Z","About Neuralink:
+2907993,"Brain Interfaces Lab Manager","https://boards.greenhouse.io/neuralink/jobs/6568922003?gh_jid=6568922003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.276291Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Interfaces Team is responsible for the design, manufacturing, and testing of all systems related to the implant and charger. Our projects involve electrical and mechanical test systems, custom jigs and fixtures used in manufacturing and assembly, electronics packaging, and tooling at the interface  between the implant and the surgical robot.
 Job Description and Responsibilities:
@@ -1591,8 +1533,7 @@ Preferred Qualifications:
 
 Knowledge of regulatory standards relevant to medical device development
 Experience with inventory management systems and quality control processes
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$61,000$101,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1602,10 +1543,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2905728,"Clinical Quality Specialist","https://boards.greenhouse.io/neuralink/jobs/6567599003?gh_jid=6567599003","Neuralink","Austin","No",4,"Full time","2025-07-15T02:21:25.099099Z","About Neuralink:
+2905728,"Clinical Quality Specialist","https://boards.greenhouse.io/neuralink/jobs/6567599003?gh_jid=6567599003","Neuralink","Austin","No",4,"Full time","2025-07-17T02:18:45.276312Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Join the Quality Team, where our mission is to ensure compliance with relevant regulatory standards. We are a group of industry-experienced professionals who utilize creative problem-solving to establish efficient systems for compliance.
 Job Description and Responsibilities:
@@ -1643,8 +1585,7 @@ Ability to perform core functions independently
 Strong attention to detail
 Adaptability to changing priorities and schedules
 Team-oriented and proactive mindset
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$95,000$176,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1654,10 +1595,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2887616,"Microfabrication Technician","https://boards.greenhouse.io/neuralink/jobs/6563685003?gh_jid=6563685003","Neuralink","Fremont","No",2,"Full time","2025-07-15T02:21:25.099113Z","About Neuralink:
+2887616,"Microfabrication Technician","https://boards.greenhouse.io/neuralink/jobs/6563685003?gh_jid=6563685003","Neuralink","Fremont","No",2,"Full time","2025-07-17T02:18:45.276334Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Microfabrication Team, a division of the Brain Interfaces Hardware Department, designs, manufactures, and verifies the thin-film microelectrode array that records and relays neural signals to the body of the implant. The team operates at an in-house cleanroom facility in Fremont. 
 Job Description and Responsibilities: 
@@ -1707,10 +1649,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2866121,"Embedded Software Engineer","https://boards.greenhouse.io/neuralink/jobs/6559727003?gh_jid=6559727003","Neuralink","Austin","No",1,"Full time","2025-07-15T02:21:25.099128Z","About Neuralink:
+2866121,"Embedded Software Engineer","https://boards.greenhouse.io/neuralink/jobs/6559727003?gh_jid=6559727003","Neuralink","Austin","No",1,"Full time","2025-07-17T02:18:45.276356Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Join the Brain Interfaces Embedded Systems Team and be part of an elite team of engineers working on high-performance, safety-critical embedded systems for the next-generation brain-computer interfaces. You will have the opportunity to work closely with chip designers, electrical engineers, and software engineers on a small, fast-moving team.
 Job Description and Responsibilities: 
@@ -1744,8 +1687,7 @@ Experience with safety-critical systems
 Experience with FPGA development and testing
 Experience with RF, BLE, TCP/IP stacks from a practical embedded perspective
 Prior work or experience with applied cryptography and embedded systems security
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$99,800$281,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1755,10 +1697,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2820705,"Embedded Software Engineer","https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003","Neuralink","Fremont","No",1,"Full time","2025-07-15T02:21:25.099142Z","About Neuralink:
+2820705,"Embedded Software Engineer","https://boards.greenhouse.io/neuralink/jobs/6550259003?gh_jid=6550259003","Neuralink","Fremont","No",1,"Full time","2025-07-17T02:18:45.276378Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 Join the Brain Interfaces Embedded Systems Team and be part of an elite team of engineers working on high-performance, safety-critical embedded systems for the next-generation brain-computer interfaces. You will have the opportunity to work closely with chip designers, electrical engineers, and software engineers on a small, fast-moving team.
 Job Description and Responsibilities: 
@@ -1793,7 +1736,7 @@ Experience with FPGA development and testing
 Experience with RF, BLE, TCP/IP stacks from a practical embedded perspective
 Prior work or experience with applied cryptography and embedded systems security
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$119,000$281,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$119,000$281,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1803,10 +1746,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2794507,"Mechanical Engineering Intern, Brain Interfaces","https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003","Neuralink","Austin","No",1,"Internship","2025-07-15T02:21:25.099155Z","About Neuralink:
+2794507,"Mechanical Engineering Intern, Brain Interfaces","https://boards.greenhouse.io/neuralink/jobs/6545426003?gh_jid=6545426003","Neuralink","Austin","No",1,"Internship","2025-07-17T02:18:45.276401Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Brain Interfaces Mechanical Engineering Team is responsible for the design, build, and testing of all mechanical systems in our implant and charger. Our team also develops test infrastructure to accelerate hardware development and manufacturing, designs electronics packaging for our charger and implant electronics, and creates tooling to interface the implant with the surgical robot.
 Job Description and Responsibilities:
@@ -1853,10 +1797,65 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2719625,"Clinical Project Manager","https://boards.greenhouse.io/neuralink/jobs/6530233003?gh_jid=6530233003","Neuralink","Austin","No",5,"Full time","2025-07-15T02:21:25.099172Z","About Neuralink:
+2719625,"Clinical Project Manager","https://boards.greenhouse.io/neuralink/jobs/6530233003?gh_jid=6530233003","Neuralink","Austin","No",5,"Full time","2025-07-17T02:18:45.276423Z","About Neuralink:
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
+The Neuralink Clinical team is at the heart of an ecosystem that merges neuroscience, engineering, and medicine. We work to shape the future of brain-computer interface (BCI) technology through the planning, launch, and execution of groundbreaking human clinical trials. Our team is built on a foundation of excellence, aiming to uphold the highest standards of Good Clinical Practice (GCP) while redefining whats possible and revolutionizing the way people interact with technology. Through strict compliance with ethical and regulatory protocols, we focus on ensuring the well-being of our trial participants while advancing the frontiers of neuroscience! Every day will bring fresh challenges and unprecedented opportunities to pioneer new approaches in the pursuit of our mission. From navigating regulatory pathways, designing trial protocols and documentation, and executing clinical trials, our team is instrumental in translating Neuralinks BCI technology for use in people! 
+Job Description and Responsibilities:
+As a Clinical Project Manager, you will develop, implement, and execute Neuralinks human clinical trial operations. We are seeking a self-driven individual who independently initiates work  and meets deadlines accurately and efficiently. Our team operates in a dynamic environment, so the ideal candidate will possess a positive attitude, adaptability, and a willingness to take accountability for new responsibilities. Additionally, you will be expected to:
+
+Serve as the main point of contact for assigned clinical studies and ensure these clinical studies meet team milestones 
+Build and manage strong working relationships with internal Neuralink teams, external vendors, partners, and study sites
+Design and implement processes to scale clinical trial operations efficiently across multiple geographies while maintaining high standards of safety, quality, and compliance
+Lead negotiations with clinical trial sites, including budget discussions, contracts, and financial planning to optimize trial costs while maintaining high-quality site engagement
+Ensure cross-functional stakeholders are trained and credentialed for their roles within assigned clinical studies
+Obtain study approvals and maintain good standing with overseeing study ethics committees (e.g., IRB, RECs)
+Compile and analyze data from assigned clinical studies
+Maintain a working knowledge of and ensure compliance with Good Clinical Practices, Federal Regulatory requirements, and site-specific SOPs
+
+Required Qualifications: 
+
+Bachelors degree in neuroscience or a related field
+Evidence of exceptional ability in science or engineering
+5+ years of academic or industry experience working with medical devices
+Comfort working closely with physicians, engineers, participants, and technical staff in research and healthcare environments
+Familiarity with operating room settings
+Working knowledge of ISO14155 regulations and medical/scientific terminology
+Demonstrated problem-solving abilities in managing clinical sites
+Proven ability to communicate tactfully and diplomatically with study staff
+Track record of going above and beyond to deliver projects and improve processes
+
+Preferred Qualifications: 
+
+Masters or PhD degree in neuroscience or a related field
+Experience with neurological or spinal medical devices
+3+ publications in biomedical engineering or neuroscience
+Familiarity with scripting or programming
+
+Additional Requirements and Competencies:
+
+Willingness to travel domestically and internationally (50%+) to support surgeries, train sites, and ensure smooth trial execution
+Excellent verbal and written communication skills
+Meticulous attention to detail and strong organizational skills
+Effective management of projects and tasks
+
+What We Offer:
+Full-time employees are eligible for the following benefits listed below.
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+Growth potential; we rapidly advance team members who have an outsized impact
+Excellent medical, dental, and vision insurance through a PPO plan
+Paid holidays
+Commuter benefits
+Meals provided
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
+Parental leave *Temporary Employees &amp; Interns excluded
+Flexible time off *Temporary Employees &amp; Interns excluded"
+2719623,"Clinical Project Manager","https://boards.greenhouse.io/neuralink/jobs/6530225003?gh_jid=6530225003","Neuralink","Fremont","No",5,"Full time","2025-07-17T02:18:45.276444Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Neuralink Clinical team is at the heart of an ecosystem that merges neuroscience, engineering, and medicine. We work to shape the future of brain-computer interface (BCI) technology through the planning, launch, and execution of groundbreaking human clinical trials. Our team is built on a foundation of excellence, aiming to uphold the highest standards of Good Clinical Practice (GCP) while redefining whats possible and revolutionizing the way people interact with technology. Through strict compliance with ethical and regulatory protocols, we focus on ensuring the well-being of our trial participants while advancing the frontiers of neuroscience! Every day will bring fresh challenges and unprecedented opportunities to pioneer new approaches in the pursuit of our mission. From navigating regulatory pathways, designing trial protocols and documentation, and executing clinical trials, our team is instrumental in translating Neuralinks BCI technology for use in people! 
 Job Description and Responsibilities:
@@ -1897,7 +1896,7 @@ Excellent verbal and written communication skills
 Meticulous attention to detail and strong organizational skills
 Effective management of projects and tasks
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$95,000$176,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$105,000$195,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -1907,64 +1906,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2719623,"Clinical Project Manager","https://boards.greenhouse.io/neuralink/jobs/6530225003?gh_jid=6530225003","Neuralink","Fremont","No",5,"Full time","2025-07-15T02:21:25.099192Z","About Neuralink:
-We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
-The Neuralink Clinical team is at the heart of an ecosystem that merges neuroscience, engineering, and medicine. We work to shape the future of brain-computer interface (BCI) technology through the planning, launch, and execution of groundbreaking human clinical trials. Our team is built on a foundation of excellence, aiming to uphold the highest standards of Good Clinical Practice (GCP) while redefining whats possible and revolutionizing the way people interact with technology. Through strict compliance with ethical and regulatory protocols, we focus on ensuring the well-being of our trial participants while advancing the frontiers of neuroscience! Every day will bring fresh challenges and unprecedented opportunities to pioneer new approaches in the pursuit of our mission. From navigating regulatory pathways, designing trial protocols and documentation, and executing clinical trials, our team is instrumental in translating Neuralinks BCI technology for use in people! 
-Job Description and Responsibilities:
-As a Clinical Project Manager, you will develop, implement, and execute Neuralinks human clinical trial operations. We are seeking a self-driven individual who independently initiates work  and meets deadlines accurately and efficiently. Our team operates in a dynamic environment, so the ideal candidate will possess a positive attitude, adaptability, and a willingness to take accountability for new responsibilities. Additionally, you will be expected to:
-
-Serve as the main point of contact for assigned clinical studies and ensure these clinical studies meet team milestones 
-Build and manage strong working relationships with internal Neuralink teams, external vendors, partners, and study sites
-Design and implement processes to scale clinical trial operations efficiently across multiple geographies while maintaining high standards of safety, quality, and compliance
-Lead negotiations with clinical trial sites, including budget discussions, contracts, and financial planning to optimize trial costs while maintaining high-quality site engagement
-Ensure cross-functional stakeholders are trained and credentialed for their roles within assigned clinical studies
-Obtain study approvals and maintain good standing with overseeing study ethics committees (e.g., IRB, RECs)
-Compile and analyze data from assigned clinical studies
-Maintain a working knowledge of and ensure compliance with Good Clinical Practices, Federal Regulatory requirements, and site-specific SOPs
-
-Required Qualifications: 
-
-Bachelors degree in neuroscience or a related field
-Evidence of exceptional ability in science or engineering
-5+ years of academic or industry experience working with medical devices
-Comfort working closely with physicians, engineers, participants, and technical staff in research and healthcare environments
-Familiarity with operating room settings
-Working knowledge of ISO14155 regulations and medical/scientific terminology
-Demonstrated problem-solving abilities in managing clinical sites
-Proven ability to communicate tactfully and diplomatically with study staff
-Track record of going above and beyond to deliver projects and improve processes
-
-Preferred Qualifications: 
-
-Masters or PhD degree in neuroscience or a related field
-Experience with neurological or spinal medical devices
-3+ publications in biomedical engineering or neuroscience
-Familiarity with scripting or programming
-
-Additional Requirements and Competencies:
-
-Willingness to travel domestically and internationally (50%+) to support surgeries, train sites, and ensure smooth trial execution
-Excellent verbal and written communication skills
-Meticulous attention to detail and strong organizational skills
-Effective management of projects and tasks
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$105,000$195,000 USD
-What We Offer:
-Full-time employees are eligible for the following benefits listed below.
-
-An opportunity to change the world and work with some of the smartest and most talented experts from different fields
-Growth potential; we rapidly advance team members who have an outsized impact
-Excellent medical, dental, and vision insurance through a PPO plan
-Paid holidays
-Commuter benefits
-Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
-Parental leave *Temporary Employees &amp; Interns excluded
-Flexible time off *Temporary Employees &amp; Interns excluded"
-2682862,"Mechanical Engineering Intern, Robotics (Fall 2025+)","https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003","Neuralink","Fremont","No",1,"Internship","2025-07-15T02:21:25.099214Z","About Neuralink:
+2682862,"Mechanical Engineering Intern, Robotics (Fall 2025+)","https://boards.greenhouse.io/neuralink/jobs/6514169003?gh_jid=6514169003","Neuralink","Fremont","No",1,"Internship","2025-07-17T02:18:45.276467Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:The Robotics &amp; Surgery Engineering Team is developing our next-generation surgical platform to facilitate bringing our cutting-edge brain implant to more of those in need. Were working on driving surgery time and invasiveness down, while pushing safety and accuracy to their maximums.
 Job Description and Responsibilities:
 As a Mechanical Engineering Intern at Neuralink, you will have the opportunity to design and produce hardware solutions for our brain-machine interface devices, including surgical robotics, automation, microfabrication, and more. You will get to own projects from concept to production, utilizing your mechanical engineering background in the challenging field of brain-machine interfaces. The role involves collaboration with neuroscientists, biologists, and engineers to determine design criteria and build systems quickly and effectively.
@@ -2001,10 +1947,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2660933,"Software Engineer, Lab Systems","https://boards.greenhouse.io/neuralink/jobs/6521585003?gh_jid=6521585003","Neuralink","Austin","No",1,"Full time","2025-07-15T02:21:25.099233Z","About Neuralink:
+2660933,"Software Engineer, Lab Systems","https://boards.greenhouse.io/neuralink/jobs/6521585003?gh_jid=6521585003","Neuralink","Austin","No",1,"Full time","2025-07-17T02:18:45.276489Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Lab Systems Software Team works closely with other teamsneuroscientists, physicists, roboticists, chip designers, pathologists, and mechanical engineersto build Neuralinks centralized data aggregation and analysis platform. This data platform collects, organizes, and visualizes a diverse set of data ranging from neural signal recordings and brain histology images to microfabrication manufacturing data. Our team owns projects that drive engineering and experimentation at Neuralink.
 We operate like an internal startup  rapidly prototyping and building software that solves problems for the company. This usually takes the form of full-stack tools, but can be any tech stack. If you are obsessed with smooth user experience and love to iterate rapidly on software, you may be a good fit for this role!
@@ -2030,8 +1977,7 @@ A bachelors degree in Computer Science or equivalent demonstrated work experienc
 Excellent written and verbal communication skills
 Experience understanding requirements and delivering iteratively
 A strong eye for user experience and polished user interfaces
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$83,000$180,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2041,10 +1987,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2660931,"Software Engineer, Data Engineering","https://boards.greenhouse.io/neuralink/jobs/6521553003?gh_jid=6521553003","Neuralink","Fremont","No",1,"Full time","2025-07-15T02:21:25.099248Z","About Neuralink:
+2660931,"Software Engineer, Data Engineering","https://boards.greenhouse.io/neuralink/jobs/6521553003?gh_jid=6521553003","Neuralink","Fremont","No",1,"Full time","2025-07-17T02:18:45.276510Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Data Engineering Team works closely with other teamsneuroscientists, physicists, roboticists, chip designers, pathologists, and mechanical engineersto build Neuralinks centralized data aggregation and analysis platform. This data platform collects, organizes, and visualizes a diverse set of data ranging from neural signal recordings and brain histology images to microfabrication manufacturing data. Our team owns projects that drive engineering and experimentation at Neuralink.
 We operate like an internal startup  rapidly prototyping and building software that solves problems for the company. If you are obsessed with smooth user experience and love to iterate rapidly on software, you may be a good fit for this role! See a talk on our data platform, Neuralake, below:
@@ -2079,7 +2026,7 @@ Experience with Python and Rust
 Experience with data analytics systems such as Clickhouse, Delta Lake, Apache Spark, Hadoop, or Snowflake
 
 Note: You do not need to have any of these preferred qualifications in order to be considered for this role! Any exceptional software engineer is encouraged to apply.Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$138,000$200,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$138,000$200,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2089,10 +2036,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2660930,"Software Engineer, Data Engineering","https://boards.greenhouse.io/neuralink/jobs/6521543003?gh_jid=6521543003","Neuralink","Austin","No",1,"Full time","2025-07-15T02:21:25.099262Z","About Neuralink:
+2660930,"Software Engineer, Data Engineering","https://boards.greenhouse.io/neuralink/jobs/6521543003?gh_jid=6521543003","Neuralink","Austin","No",1,"Full time","2025-07-17T02:18:45.276532Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Data Engineering Team works closely with other teamsneuroscientists, physicists, roboticists, chip designers, pathologists, and mechanical engineersto build Neuralinks centralized data aggregation and analysis platform. This data platform collects, organizes, and visualizes a diverse set of data ranging from neural signal recordings and brain histology images to microfabrication manufacturing data. Our team owns projects that drive engineering and experimentation at Neuralink.
 We operate like an internal startup  rapidly prototyping and building software that solves problems for the company. If you are obsessed with smooth user experience and love to iterate rapidly on software, you may be a good fit for this role! See a talk on our data platform, Neuralake, below:
@@ -2126,8 +2074,7 @@ Experience with building data platforms
 Experience with Python and Rust
 Experience with data analytics systems such as Clickhouse, Delta Lake, Apache Spark, Hadoop, or Snowflake
 
-Note: You do not need to have any of these preferred qualifications in order to be considered for this role! Any exceptional software engineer is encouraged to apply.Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$124,000$180,000 USD
+Note: You do not need to have any of these preferred qualifications in order to be considered for this role! Any exceptional software engineer is encouraged to apply.
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2137,10 +2084,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2603463,"Optical Engineer","https://boards.greenhouse.io/neuralink/jobs/6510680003?gh_jid=6510680003","Neuralink","Fremont","No",3,"Full time","2025-07-15T02:21:25.099275Z","About Neuralink:
+2603463,"Optical Engineer","https://boards.greenhouse.io/neuralink/jobs/6510680003?gh_jid=6510680003","Neuralink","Fremont","No",3,"Full time","2025-07-17T02:18:45.276553Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Robot Optics Team is seeking Optical Engineers passionate about shaping the future of operating rooms. We are responsible for all optical engineering aspects of Neuralink surgeries, which includes working on our surgical robotics, supporting operating room equipment, and manufacturing custom consumables. The core device we work on is the robotic system that performs implant insertions. Key subsystems include 2D and 3D machine vision cameras, optical coherence tomography, and surgical site illuminators.
 Our team oversees the entire product lifecycle of all optical subsystems across multiple robot versions, from ideation and design through production, testing, and maintenance. We also design hardware for producing and inspecting consumables, such as laser-machined needle cartridges. As we manufacture a significant portion of our hardware in-house, our core activities include bring-up testing, designing hardware acceptance testers, and overseeing manufacturing processes. 
@@ -2173,7 +2121,7 @@ Basic understanding in laser interferometry or optical coherence tomography
 Hands-on experience in fabricating, terminating, and splicing optical fibers
 Software engineering experience in developing scripts for instrument testing
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$86,000$143,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$86,000$143,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2183,10 +2131,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2580565,"Internal Auditor","https://boards.greenhouse.io/neuralink/jobs/6506921003?gh_jid=6506921003","Neuralink","Austin","No",2,"Full time","2025-07-15T02:21:25.099288Z","About Neuralink:
+2580565,"Internal Auditor","https://boards.greenhouse.io/neuralink/jobs/6506921003?gh_jid=6506921003","Neuralink","Austin","No",2,"Full time","2025-07-17T02:18:45.276576Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description: 
 Join the Quality Team, where our mission is to ensure compliance with relevant regulatory standards. We are a group of industry-experienced professionals who utilize creative problem-solving to establish efficient systems for compliance.
 Job Description &amp; Responsibilities: 
@@ -2215,8 +2164,7 @@ Experience with international regulatory audits (e.g., TGA, EU, Health Canada, M
 Experience with supplier audits
 Experience leading an internal audit program
 Experience being a front room lead for external agency audits
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$95,000$176,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2226,10 +2174,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-1758743,"Animal Care Specialist","https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.099302Z","About Neuralink:
+1758743,"Animal Care Specialist","https://boards.greenhouse.io/neuralink/jobs/6103655003?gh_jid=6103655003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.276597Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.
 Team Description:
 The Animal Care Team is responsible for providing care for Neuralink animals in the areas of husbandry, enrichment, cooperative veterinary medicine, and behavioral health/ training. Animal Care Specialists create and implement refinements that ensure animals have access to basic needs, species-typical behaviors, agency, and joy (defined by engaging in preferred activities). They also develop and maintain behavioral intervention plans to maximize wellbeing using methodology based in positive reinforcement training and the science of Applied Behavior Analysis. Additionally, our team members coordinate with engineers and researchers to conduct voluntary research task sessions and collect data for study usage in order to maintain high welfare standards while furthering Neuralinks mission. 
@@ -2286,10 +2235,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2549969,"Software Engineer, Medical Imaging","https://boards.greenhouse.io/neuralink/jobs/6500101003?gh_jid=6500101003","Neuralink","Fremont","No","Not specified","Full time","2025-07-15T02:21:25.099315Z","About Neuralink:
+2549969,"Software Engineer, Medical Imaging","https://boards.greenhouse.io/neuralink/jobs/6500101003?gh_jid=6500101003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.276619Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Surgery Engineering team is responsible for developing and managing custom hardware and processes for neurosurgical procedures, excluding the R1 Robot and Operator Station. Their responsibilities encompass the entire surgical process, including patient positioning, incision management, craniectomy, precise implant placement, thread management during robot-assisted insertion, surgical site irrigation, implant installation, and closure. Additionally, the team ensures safe explantation and upgrade procedures for implants. They also provide mechanical engineering support to the animal care, histology, and BCI teams, contributing to the success of complex neurosurgical procedures and related research activities.
 Job Description and Responsibilities:
@@ -2317,7 +2267,7 @@ Experience working with protected health information
 Knowledge of container management and orchestration
 Experience with infrastructure development
 Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.California Base Salary Range:$138,000$300,000 USD
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$138,000$300,000 USD
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2327,10 +2277,11 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"
-2549968,"Software Engineer, Medical Imaging","https://boards.greenhouse.io/neuralink/jobs/6500103003?gh_jid=6500103003","Neuralink","Austin","No","Not specified","Full time","2025-07-15T02:21:25.099328Z","About Neuralink:
+2549968,"Software Engineer, Medical Imaging","https://boards.greenhouse.io/neuralink/jobs/6500103003?gh_jid=6500103003","Neuralink","Austin","No","Not specified","Full time","2025-07-17T02:18:45.276640Z","About Neuralink:
 We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
 The Surgery Engineering team is responsible for developing and managing custom hardware and processes for neurosurgical procedures, excluding the R1 Robot and Operator Station. Their responsibilities encompass the entire surgical process, including patient positioning, incision management, craniectomy, precise implant placement, thread management during robot-assisted insertion, surgical site irrigation, implant installation, and closure. Additionally, the team ensures safe explantation and upgrade procedures for implants. They also provide mechanical engineering support to the animal care, histology, and BCI teams, contributing to the success of complex neurosurgical procedures and related research activities.
 Job Description and Responsibilities:
@@ -2357,8 +2308,7 @@ Experience with medical imaging formats, such as DICOM and NIfTI
 Experience working with protected health information
 Knowledge of container management and orchestration
 Experience with infrastructure development
-Expected Compensation:
-At Neuralink, your base pay is one part of your total compensation package. The anticipated base salary for this position is expected to be within the below range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training.Texas Base Salary Range$124,000$270,000 USD
+
 What We Offer:
 Full-time employees are eligible for the following benefits listed below.
 
@@ -2368,6 +2318,99 @@ Excellent medical, dental, and vision insurance through a PPO plan
 Paid holidays
 Commuter benefits
 Meals provided
-Equity + 401(k) plan *Temporary Employees &amp; Interns excluded
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
+Parental leave *Temporary Employees &amp; Interns excluded
+Flexible time off *Temporary Employees &amp; Interns excluded"
+2549967,"IT Systems Engineer","https://boards.greenhouse.io/neuralink/jobs/6500084003?gh_jid=6500084003","Neuralink","Fremont","No","Not specified","Full time","2025-07-17T02:18:45.276662Z","About Neuralink:
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
+For Neuralink's Information Technology team, the corporate environment is production. It is where our groundbreaking research and development takes place and hosts our assembly lines, neural recording training and processing, and many other functions. The team builds critical systems and processes that safely accelerate our progress along the company's critical path.
+Job Description and Responsibilities:
+IT Systems Engineers set the bar for technical leadership and customer service at Neuralink and help identify the most impactful projects to prioritize the team's roadmap. They regularly span the entire work environment stack, from the physical hardware the company runs on to the custom tooling built to facilitate neural recordings and scalable cloud services powering many of our critical functions.
+Neuralink has a diverse user base, from highly technically proficient engineers to non-technical scientists and doctors. Still, they all need solid systems, rugged networking, and bullet-proof software to do their jobs. IT Systems Engineers thrive by proactively finding opportunities for impact and collaborating to accomplish amazing things. The job responsibilities will include:
+
+Identifying, building, and deploying open-source, off-the-shelf, or custom-built systems and policies that meet our demanding requirements
+Monitoring, maintaining, and optimizing the performance and security of all IT systems, including servers, networks, cloud infrastructure, and applications
+Providing expert technical support to end-users as part of a tier-1 rotation
+Providing mentorship to team members and operating as a tier-2/3 support resource for challenging technical issues
+Ensuring compliance with data protection regulations and internal security policies by implementing robust security measures and conducting regular audits
+Creating and maintaining comprehensive documentation for systems, processes, and procedures to support knowledge sharing and business continuity
+
+Required Qualifications: 
+
+Systems administration expertise on Linux, macOS, and/or Windows
+Firm grasp of networking protocols such as TCP/IP, UDP, ARP, DNS, DHCP, and PXE
+Strong understanding of on-prem networking solutions and cloud provider networking technologies, such as VPCs, IPsec VPNs, Wireguard, and IAM security policies
+Expertise in procuring and maintaining physical computer infrastructure
+Flexibility to partner with many teams at Neuralink to design business processes, such as the manufacturing and Animal Care teams
+Empathetic and patient, especially when collaborating with non-technical colleagues or mentoring teammates
+Ability to solve immediate problems while designing and prioritizing systemic solutions
+
+Preferred Qualifications: 
+
+Expertise in designing and scaling large-scale data storage solutions that meet stringent latency, durability, and availability guarantees
+Can develop tooling and automation with at least one of POSIX sh, Bash, Python, or another programming language for tasks such as end-user asset management or provisioning
+Ability to design comprehensive security policies and best practices and implement them in day-to-day business operations
+Working knowledge of major cryptographic protocols and authentication schemes such as TLS, X.509, 802.1x, U2F, SAML, and WebAuthn
+Experience using IaC tools, CI/CD, and modern cloud-native tooling, such as Terraform, Docker, Packer, Ansible, Cloud-Init, Git, Helm, and GitLab CI
+Experience administering SaaS applications like Microsoft Entra, Google Workspace, and Slack
+Expected Compensation:
+The anticipated base salary for this position is expected to be within the following range. Your actual base pay will be determined by your job-related skills, experience, and relevant education or training. We also believe in aligning our employees success with the company's long-term growth. As such, in addition to base salary, Neuralink offers equity compensation (in the form of Restricted Stock Units (RSU)) for all full-time employees.Base Salary Range:$69,000$190,000 USD
+What We Offer:
+Full-time employees are eligible for the following benefits listed below.
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+Growth potential; we rapidly advance team members who have an outsized impact
+Excellent medical, dental, and vision insurance through a PPO plan
+Paid holidays
+Commuter benefits
+Meals provided
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
+Parental leave *Temporary Employees &amp; Interns excluded
+Flexible time off *Temporary Employees &amp; Interns excluded"
+2524444,"Senior Software Engineer, Clinical","https://boards.greenhouse.io/neuralink/jobs/6495017003?gh_jid=6495017003","Neuralink","Austin","No",3,"Full time","2025-07-17T02:18:45.276683Z","About Neuralink:
+We are creating devices that enable a bi-directional interface with the brain. These devices allow us to restore movement to the paralyzed, restore sight to the blind, and revolutionize how humans interact with their digital world.Team Description:
+Neuralink's Clinical Software Engineering Team designs, builds, and scales services and systems to support participants for Neuralinks clinical trials. The teams portfolio includes the Patient Registry, which allows candidates to apply to Neuralinks clinical trials, and the Clinical Admin Portal, which helps Neuralinks internal team automate the application process, allowing for a better applicant experience. Our team must meet and exceed stringent accessibility, compliance, scalability, security, and usability requirements to facilitate a seamless user experience.
+Job Description and Responsibilities:
+Clinical Software Engineers are phenomenal product engineers who build world-class web and mobile experiences for our users. We are looking for engineers who are obsessed with creating an excellent product, both for external users and internal teams. Fast iteration is expected, and engineers who build things quickly, talk to users, and iterate will succeed on this team. As a Clinical Software Engineer, you will be expected to:
+
+Develop full-stack applications that directly support Neuralinks groundbreaking clinical trials, shaping the future of brain-machine interfaces
+Work closely with cross-functional teams to create intuitive, user-focused solutions, iterating quickly to meet evolving needs
+Deliver high-performance, secure, and scalable software, optimizing systems to ensure reliability and efficiency
+Embrace rapid iteration and on-call responsibilities, tackling challenges with agility and a proactive mindset
+
+Required Qualifications: 
+
+Experience leading the delivery of full-stack software that has actively been used with a quantifiable impact
+Strong full-stack application development skills
+Proficiency in building responsive web applications
+An ability to design comprehensive product experiences, while accounting for accessibility, compliance, legal, and scalability requirements
+Comfortable working with a sense of urgency, collaborating with stakeholders across departments, and communicating directly with users to understand their requirements and workflows
+Insatiable curiosity and drive to build the best user experience for everyone, regardless of their accessibility needs
+Proficient with SQL databases such as Postgres and MySQL
+Able to translate product needs into efficient schemas and queries
+A strong sense of ownership to join the on-call rotation supporting these systems, but the wisdom to build systems that rarely page
+
+Preferred Qualifications: 
+
+Familiarity with modern web frameworks and libraries for building responsive web applications with quick iteration cycles
+Expertise in building scalable backends with a modern server-side language, e.g. Typescript, Ruby, Rust, Golang, etc.
+Experience building systems that meet and exceed HIPAA compliance requirements
+Experience with computer, network, or cloud security
+Comfort in building developer productivity tooling and deployment pipelines to cloud environments
+Confidence to ask for help and feedback from colleagues across many disciplines, with the skill set to deliver on a shared vision
+
+What We Offer:
+Full-time employees are eligible for the following benefits listed below.
+
+An opportunity to change the world and work with some of the smartest and most talented experts from different fields
+Growth potential; we rapidly advance team members who have an outsized impact
+Excellent medical, dental, and vision insurance through a PPO plan
+Paid holidays
+Commuter benefits
+Meals provided
+Equity (RSUs) *Temporary Employees &amp; Interns excluded
+401(k) plan *Interns initially excluded until they work 1,000 hours
 Parental leave *Temporary Employees &amp; Interns excluded
 Flexible time off *Temporary Employees &amp; Interns excluded"

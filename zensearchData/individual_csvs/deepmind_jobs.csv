@@ -1,5 +1,265 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-3262525,"Portfolio Lead, Global Health","https://job-boards.greenhouse.io/deepmind/jobs/7068337","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151120Z","Snapshot
+3278153,"Senior Software Engineer, Gemini Audio Inference - Mountain View","https://job-boards.greenhouse.io/deepmind/jobs/7077765","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196048Z","Snapshot:
+Our team is responsible for building the Productionization and Serving infrastructure for Gemini Audio Inference at Google DeepMind. We help land Gemini Audio capabilities into numerous clients including Astra, GeminiApp, YouTube, Search, Meet, Cloud, Geo, Assistant etc. Based on research Gemini model flavors, our tasks involve model latency/throughput optimizations, serializations, orchestration, evaluation &amp; finally landing in production, at Google scale.
+
+Our team focuses deeply on Inference efficiencies for Gemini and its related components. We actively develop new infrastructure to make Gemini more accessible to new streaming use cases.  
+Our team has deep collaboration with both the research team and production platform team, exposed with SOTA research work and their inference optimizations.
+Our team owns the infra to serve the Audio tokenization &amp; Audio generation around the Gemini models. 
+
+Join us if you are interested in having a direct impact on making Google's products better for our users in over 100 languages! Here are showcase videos that directly used the infra built from our team: Gemini Audio, Project Astra, Real Time Translation. 
+About us:
+Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+The role:
+You will work with the research teams to build the serving solution of Gemini models for different clients. Propose and test the best serving configurations based on client needs. Build new infrastructure to serve Gemini in different ways (e.g. streaming). Design and build audio-specific logic in the orchestration framework. Ensure the Gemini model quality in the production environment. 
+We are looking for highly skilled Software Engineers interested in improving Gemini serving performance. This is a fast-paced role, and deadlines may be aggressive, however we do value work-life balance. You should be prepared to wear many hats and be ready to solve a wide range of exciting technical problems. 
+Some of the things we are working on:
+
+Build and improve the new infrastructure to support the streaming Gemini prompt on a large scale. 
+Bring the Gemini Audio related capabilities to clients: e.g. Long Context capabilities to Meet YouTube clients; Audio Out capabilities to Maps team.  
+Embracing a new orchestration infra around Gemini model servings.
+
+About you:
+You are a talented and resourceful engineer/researcher capable of applying large language models, aka Gemini, at scale; conceiving of and executing experiments to improve them; and overcoming last mile issues to launch your model into production for millions of people to use. We seek out individuals who thrive in ambiguity and have a shipping mindset, willing to help out with whatever moves prototypes forward. We regularly need to invent novel solutions to problems, and often change course if our ideas dont work out, so flexibility and adaptability to work on any project is a must.
+In order to set you up for success as a Software Engineer at Google DeepMind, we look for the following skills and experience:
+
+BS, MS or PhD degree in computer science, mathematics, applied stats, machine learning or similar experience working in industry
+Experience working on software engineering projects from proof-of-concept through to implementation.
+Required programming languages: C++; Python a plus
+Experience in performance engineering; GPU/TPU a plus.
+Great communication skills and interpersonal skills
+Knowledge of machine learning and inference 
+Experience productionizing state-of-the-art large language and multimodal models a plus
+
+The US base salary range for this full-time position is between $166,000 - $244,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
+Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
+3278152,"Research Scientist, R2  ","https://job-boards.greenhouse.io/deepmind/jobs/6883680","Deepmind","New York","No","Not specified","Full time","2025-07-17T02:18:53.196122Z","Snapshot
+As a Research Scientist on the Sociotechnical Analysis of Model Behavior (SAMBA) team in the Responsible Research Group (R2), you will conduct cutting edge research on model behaviors that impact people and society. You will conduct qualitative and quantitative research, design experiments,  and develop measures to characterize model properties relevant to Responsibility and Safety. You will also design tools and methods for measuring the impact of AI on society, broadly defined. As one part of your work, you will collaborate closely with other Research Scientists and Research Engineers to build frontier evaluations, apply them in practice, and publish results. 
+About us
+Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+The role
+You will contribute to empirical and conceptual research that helps to identify and define appropriate model behavior in context and societal impacts of AI. You will work closely with Research Engineers to implement research findings and transform them into concrete, measurable metrics and systematic evaluations. 
+Key responsibilities
+
+Identify new research areas and questions
+Design and conduct research and experiments
+Develop and test new metrics and measures
+Perform data analysis to synthesize and visualize research findings and evaluation results
+
+
+Lead writing results for research publications 
+Communicate findings in non-research publications to non-technical audiences through presentations or briefs
+
+About you
+You are a Research Scientist who is interested in applying your skills to better understand model behavior in areas with large impacts on people and society. You are passionate about evaluation and quantification and able to communicate well with technical teams to integrate your work into existing platforms and infrastructures.
+In order to set you up for success as a Research Scientist at Google DeepMind, we look for the following skills and experience:
+
+A history of high impact research and publication in relevant areas, typically demonstrated by a PhD and/or strong publication record in a relevant field. Because this role is interdisciplinary in nature, a disciplinary background in Computer Science, Economics, Computational Social Science, Data Science, Political Science, or similar involving technical/quantitative skills and consideration of impacts on people or society is desired.
+Proficiency in programming languages like R or Python (with experience in relevant libraries like Pandas, NumPy, Scikit-learn) or other scripting languages.
+Solid understanding of statistical concepts, and ability to perform basic data analysis and visualization
+Experience with or demonstrated interest in AI evaluation.
+Good communication and collaboration skills: an ability to effectively communicate and work with researchers from a wide variety of backgrounds in research publications, policy briefs, and/or presentations targeted at both technical and non-technical audiences
+Comfortable working in a fast-paced environment 
+
+The US base salary range for this full-time position is between $166,000 - $244,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
+Application deadline: 5pm ET Wednesday 30th July 2025
+Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
+2691914,"Executive Communications Manager","https://job-boards.greenhouse.io/deepmind/jobs/6750636","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196145Z","Snapshot
+As an Executive Communications Manager, youll be responsible for preparing senior executives for external media and speaking engagements that protect and enhance Google DeepMinds reputation. This role is pivotal in helping develop, shape, and communicate the Google DeepMind story to external audiences.
+About Us
+We believe artificial intelligence  and ultimately artificial general intelligence (AGI)   has the potential to be one of the most important and beneficial technologies ever invented. Were a team of scientists, engineers, ethicists and more, working to build the next generation of AI systems safely and responsibly.
+By solving some of the hardest scientific and engineering challenges of our time, were working to create breakthrough technologies that could advance science, transform work, serve diverse communities  and improve billions of peoples lives.
+The Role
+Key responsibilities:
+
+Building relationships with key senior executives; strategizing holistically across the executive team to ensure that the right executive voices are heard at appropriate moments, on key topics
+Prepare executives for high-visibility external engagements with briefing documents and logistical details - drafting talking points, soundbites, talk abstracts and more
+Provide coaching, guidance and support to spokespeople in preparation for high profile external speaking opportunities and media engagements.
+Identify, pitch and maintain relationships with major media players and event organizers to ensure optimal placements for GDM
+Manage journalists and event partners on all aspects of major external engagements
+Proactively identify opportunities and risks ahead of external engagements by monitoring trending topics in news coverage, social media conversation.
+Ensure executive content aligns with the company's long term mission, vision, progress and values. 
+Vet and respond to inbound requests for key executives based on GDM strategic priorities
+Guide the update and maintenance of helpful self-service materials for executives that reflect the values and company positions of Google DeepMind. 
+Work closely with other teams to deliver strategic executive social content
+Build and maintain a calendar for Google DeepMind speakers bureau  (e.g., industry events, conferences) 
+Develop criteria for evaluating opportunities and success metrics to measure the impact of executive engagements
+
+About You
+In order to set you up for success at Google DeepMind, we look for the following skills and experience:
+
+Successful track record of pitching and managing high-visibility external media moments and events ideally in the tech / AI space
+Good media landscape knowledge and relationships
+Demonstrable experience working with senior executives on their external engagements preferred
+Strong writing skills tailored to a variety of formats and audiences
+Ability to convey complex technical information in clear, creative and compelling ways
+Experience in the tech industry; demonstrable curiosity and interest in the AI landscape
+Meticulous attention to detail and organization 
+Solutions-oriented approach to problem solving
+High discernment and good judgment
+A strong collaborator, you seek out opportunities to partner with colleagues to create synergies, improve results, and have maximum impact.
+Creativity with a flexible approach, adjusting style and tone when needed to drive the executive communications vision
+Ability to thrive in a fast-paced environment.
+
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
+3269684,"Senior Product Designer, AI Studio","https://job-boards.greenhouse.io/deepmind/jobs/7059256","Deepmind","Mountain View","No",5,"Full time","2025-07-17T02:18:53.196160Z","Snapshot
+Google AI Studio is the front door for millions of developers, researchers, and enthusiasts to explore, prototype, and build with Google DeepMinds most advanced generative models. As the primary interface for the Gemini API, AI Studio is central to Googles AI developer strategy.
+We are looking for a Senior Product Designer to define and craft the user experience for the next generation of AI-native developer tools. This role offers a unique opportunity to design entirely new interaction patternsfrom multimodal playgrounds and vibe coding environments to agentic workflows. You will help translate state-of-the-art AI capabilities into intuitive, powerful tools that accelerate how developers build the future by designing that future.
+About Us
+Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+The Role
+The Google AI Studio team is responsible for the full-stack AI developer platform, structured around four key pillars: Discover (showcasing models), Develop (building applications/agents), Operate (platform management/console), and Learn (integrated documentation).
+This is a high-impact role where you will grapple with interaction design challenges that are unique to generative AI. How do developers intuitively interact with multimodal inputs (text, image, audio, video)? How do we design a first class vibe coding experience that seamlessly transitions an idea into a full application? How do we build trust and clarity in complex operational tasks like billing, quota management, and monitoring for API usage?
+You will own significant areas of the AI Studio roadmap, working in deeply collaborative partnerships with Product Management, Engineering, and AI Research teams. You will be responsible for establishing a cohesive, developer-centric design vision and executing it at a high level of craft. This role requires a blend of strategic thinking, exceptional interaction design skills, and a deep empathy for the developer journey in the rapidly evolving landscape of generative AI.
+Key responsibilities:
+
+Lead the end-to-end design process for major pillars of Google AI Studio (e.g., Discover, Develop, Operate, Learn ), driving projects from initial concept through execution, launch, and iteration.
+Define and design novel interaction patterns for AI-native development, including multimodal prompting, agentic workflows, and AI-assisted coding environments.
+Collaborate closely with Product Managers and Engineering leads to define product strategy, roadmaps, and requirements, ensuring design is a key driver of product direction.
+Partner with UX Research to deeply understand the needs, workflows, and pain points of AI developers, translating insights into actionable design solutions.
+Establish and maintain a high bar for visual and interaction design quality across the AI Studio platform, ensuring a cohesive and intuitive developer experience.
+Work cross-functionally with teams across Google DeepMind and Google Cloud to ensure a seamless experience as developers scale their usage and manage their resources.
+Measure success through developer adoption, satisfaction, and the velocity at which users can successfully graduate from prototyping in AI Studio to building with the Gemini API.
+
+About You
+In order to set you up for success as a Senior Product Designer at Google DeepMind, we look for the following skills and experience:
+Requirements (Minimum Qualifications)
+
+5+ years of experience in Product Design, UX Design, or a related field.
+A portfolio demonstrating a track record of shipping complex, high-quality digital products, showcasing strong interaction design, visual design, and strategic product thinking.
+Experience designing developer-facing products, tools, APIs, IDEs, or complex technical platforms.
+Demonstrated ability to lead design strategy for ambiguous or entirely new problem spaces, translating complex technical concepts into intuitive user experiences.
+Proficiency with contemporary design and prototyping tools (e.g., Figma).
+
+In addition, the following would be an advantage:
+
+Demonstrated passion for the AI space, with evidence of experimentation, personal projects, or contributions within generative AI or vibe coding yourself! We love tinkerer profiles. This also includes actively staying on top of the latest trends and technologies in the AI landscape.
+Experience designing interfaces for Generative AI, Machine Learning tools, or prompt engineering environments.
+Experience designing for emerging interaction paradigms, such as agentic workflows or AI-assisted creation tools.
+Technical proficiency; experience with front-end prototyping or a background in software engineering, enabling deep collaboration with engineering partners on technical constraints and possibilities.
+Experience designing complex management consoles, dashboards, or monitoring/billing interfaces.
+Proven experience influencing product strategy and vision within a large organization or fast-moving startup environment, effectively advocating for user needs at all levels.
+
+The US base salary range for this full-time position is between $168,000 - $266,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
+Application deadline: July 31st, 2025
+Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
+3269683,"Materials Laboratory Scientist","https://job-boards.greenhouse.io/deepmind/jobs/7029929","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196174Z","Snapshot
+Science is at the heart of everything we do at Google DeepMind. From the beginning, we took inspiration from science to build better algorithms, and now, we want to use our toolkit to accelerate scientific discovery. By bringing together specialists with backgrounds in machine learning, computer science, physics, chemistry, biology and more, were optimistic that we can build new methods that will push the boundaries of what is possible and help solve the biggest problems facing humanity.
+About us
+Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+The role
+Google DeepMind (GDM) is pursuing a ground-breaking research program in materials, aiming to accelerate the discovery of new functional materials by combining the predictive power of artificial intelligence (AI) with automated experimentation. The team is establishing experimental capacity to create a closed-loop, AI-driven discovery engine. This lab will be crucial for synthesizing and characterizing novel materials, validating AI-generated hypotheses, and generating high-quality data to refine our models.
+We are seeking an exceptional and highly motivated expert in solid-state synthesis and characterization to lead the design, outfitting, and management of this new laboratory. This is a founding role with a unique blend of scientific leadership, hands-on experimental work, and strategic input. You will be instrumental in building our experimental capabilities from the ground up and refining the critical in-silico to experiment feedback loop that is at the heart of our mission.
+Key responsibilities
+
+Lab Design &amp; Setup: Lead the strategic planning, design, equipment selection, and commissioning of a new materials synthesis and characterization laboratory.
+Experimental Execution &amp; Leadership: Independently plan and execute experimental workflows to synthesize and characterize novel inorganic materials proposed by our AI models.
+Workflow Automation: Collaborate with engineers and AI researchers to develop and implement high-throughput and automated experimental workflows, from precursor handling to data analysis.
+Data Integrity &amp; Feedback Loop: Ensure the generation of high-quality, reproducible experimental data. Play a key role in structuring and feeding this data back to the AI team to create a rapid and effective discovery cycle.
+Lab Management, Health &amp; Safety: Establish the operations management structure and working practices of the lab, including instrument maintenance, administration of consumable inventory, and establishing and enforcing comprehensive health and safety protocols.
+Cross-functional Collaboration: Work closely with AI researchers, computational scientists, and software engineers to translate AI-generated hypotheses into tangible experiments and to troubleshoot the sim-to-real gap.
+Reporting &amp; Communication: Clearly and efficiently report on experimental progress, findings, and challenges to the wider Material Intelligence team and key stakeholders.
+
+About you
+In order to set you up for success as a Laboratory Research Scientist at Google DeepMind, we look for the following skills and experience:
+
+Deep, recognized expertise in materials synthesis methodologies (e.g., solid state synthesis, thin-film deposition or combinatorial methods).
+Extensive hands-on experience and a significant track record of synthesizing and discovering novel materials in a laboratory setting,
+Strong conceptual understanding of laboratory automation, robotics, and high-throughput experimental workflows.
+Comprehensive knowledge of a wide array of material characterization and measurement techniques
+Proven experience in setting up, equipping, and commissioning new laboratory spaces or significant experimental capabilities
+Strong laboratory management skills
+
+Required:
+
+PhD and post-PhD experience in Materials Science, Solid-State Chemistry, Condensed Matter Physics, or a related field.
+Deep, recognized expertise and extensive hands-on experience in solid-state synthesis methodologies.
+Proven, hands-on proficiency with a wide array of material characterization and property measurement techniques (e.g., Powder XRD, SEM/EDS, thermal analysis, relevant electrical/magnetic property measurements).
+Proven experience in setting up, equipping, and commissioning new laboratory spaces or significant experimental capabilities.
+Demonstrated ability to independently lead and manage complex experimental research projects, from conception to data analysis and publication/patenting.
+High attention to detail and a history of persistence in troubleshooting complex experimental challenges to produce high-quality data.
+Excellent teamwork and communication skills, with experience in interdisciplinary collaboration between experimental and computational/theory groups.
+
+In addition, the following would be an advantage: 
+
+Expertise in one or more advanced synthesis techniques (e.g., thin-film deposition (PVD/CVD), combinatorial methods, high-pressure synthesis).
+Strong conceptual and/or practical experience with laboratory automation, robotics, and high-throughput experimental workflows.
+Experience in laboratory management, including budgeting, procurement, and ensuring compliance with health &amp; safety requirements.
+Excellent lab operations and stakeholder management, including experience managing external relationships with vendors, equipment suppliers and contractors.
+A significant track record of high-impact research in materials science or related areas.
+Experience hiring and mentoring junior researchers.
+Familiarity with programming (e.g., Python) for instrument control or custom data analysis.
+
+Application deadline: Tuesday 22nd July. 
+ 
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know"
+3269682,"E/ABP Community Partner","https://job-boards.greenhouse.io/deepmind/jobs/7074559","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196188Z","Snapshot
+E/ABP Community Partners play a key role in the delivery and management of a mission-focussed and effective E/ABP program. Day-to-day, you will partner closely with E/ABPs across the community, providing them with coaching and guidance to optimise their impact, as well as fostering strong relationships with a diverse, complex, and senior stakeholder group, ensuring that the community excels and adapts to evolving business needs.
+About Us
+Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+The Role
+Key responsibilities:
+
+Partner with the E/ABP Lead and other E/ABP Community Partners to lead, develop and nurture the global GDM E/ABP community. 
+Collaborate with senior stakeholders to manage the E/ABP communitys capacity and determine leadership partnering bundles by objectively assessing leadership support requirements and providing the information required to make informed decisions in line with the E/ABP program objectives.
+Manage a team of E/ABPs by setting expectations for each of your reports aligned to their role, level, and organisational goals. Provide regular feedback and coaching, invest in their development, assess their performance and regularly meet with the leader(s) they partner with for feedback. Recognize achievements and hold team members accountable against expectations. 
+Ensure appropriate metrics, roles, and people are in place to meet organisational goals. Make prioritisation decisions, equitably allocate work, and manage resources to deliver business impact for GDM. 
+Manage through change to deliver results by demonstrating good judgement, making and communicating adjustments and removing obstacles to ensure goals can be met during times of change. Encourage innovation and thoughtful risk taking to deliver business impact for GDM. Balance short term needs with longer term business goals and the E/ABP program strategy
+Take ownership to make equitable hiring and talent decisions across the team to meet current and future business needs. 
+Ensure that community norms create belonging, psychological safety, and respect. Facilitate collaboration and open communication to help teams achieve results together.
+Encourage wellbeing by checking in with each E/ABP you manage and provide appropriate resources to support wellbeing as needed. Set the team up for sustained high performance by actively reprioritizing or redistributing work as demands on the community change. 
+Role model and make decisions and support activities that align to GDMs values, policies and practices. Encourage community  members to positively contribute to GDM and recognize them for doing so.
+
+About You
+In order to set you up for success as a E/ABP Community Manager at Google DeepMind,  we look for the following skills and experience:
+
+Team Management experience: an understanding of and continued investment in growing the skills and capabilities required to lead work, develop people, and build community.
+Ability to build trusting, collaborative relationships and rapport across all stakeholders groups and business areas. You confidently share your expertise and opinions and influence Leaders, reports and collaborators to make informed decisions. 
+A resilient nature, you remain calm, implementing changes as required, seeking understanding and learning from any setbacks. 
+You identify and take ownership for developing solutions to problems independently and improve ways of working, tools or processes.
+
+In addition, the following would be an advantage: 
+
+Experience managing teams across offices and timezones
+Understanding of the E/ABP role and/or experience developing individuals within a supportive function
+Experience working closely with senior stakeholders to deliver against business needs
+
+The US base salary range for this full-time position is between $114,000 - $167,000 + bonus + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
+Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy"
+3267017,"Research Scientist, Multimodal Alignment, Safety, and Fairness","https://job-boards.greenhouse.io/deepmind/jobs/7071457","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196201Z","This role is ideally located in Mountain View, CA. For the right candidate, there may be an option to work from either New York City, NY, Kirkland, WA, or Pittsburgh, PA.
+Snapshot
+Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
+About Us
+Our team's mission is to advance the frontiers of fairness, safety, and inclusion in multimodal AI, building new capabilities into Google's flagship models and products so that they work for everyone. We approach alignment research with an ecosystem view, partnering across the development and deployment cycle and grounding our work in real-world impact on global users and communities. We are a research team with a mandate to invest in longer term bets and explore innovative approaches that deliver breakthrough improvements to models (Gemini) and products. Our research advances have directly impacted multiple versions of Gemini and Imagen models.
+The Role
+We are seeking a Research Scientist to help leverage agentic techniques to assess and improve model safety and alignment. You will join a team working to supercharge exploration, assessment, and steering of evolving model behavior, with a focus on subjective and creative tasks. You will tackle the underlying research questions to improve collaborative specification of alignment objectives and assessment of adherence to desired behaviors.
+Key responsibilities:
+
+Design and execute experiments to validate research hypotheses
+Research and develop novel techniques for agent-human interaction workflows
+Research and implement techniques for modeling expected user behavior, identifying and summarizing loss patterns, balancing exploration and exploitation objectives
+
+About You
+In order to set you up for success as a Research Scientist at Google DeepMind,  we look for the following skills and experience:
+
+PhD in Computer Science or related field.
+Strong publication record in top machine learning conferences (e.g., NeurIPS, CVPR, ICML, ICLR, ICCV, ECCV).
+Experience in at least one modern deep learning framework (e.g. Tensorflow, JAX, PyTorch). 
+
+In addition, some of the following would be an advantage:
+
+Experience prototyping with VLMs with modern prompting strategies (e.g., thinking / reasoning)
+Experience finetuning and post-training LLMs using RL
+Experience with developing agentic AI solutions to complex problems
+Excited to collaborate across orgs and disciplines to leverage diverse perspectives and expertise and find creative solutions. 
+Interest in AI alignment/fairness/safety/responsibility.
+
+The US base salary range for this full-time position is between $141,000 - $202,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
+At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
+3262525,"Portfolio Lead, Global Health","https://job-boards.greenhouse.io/deepmind/jobs/7068337","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196214Z","Snapshot
 The Google DeepMind Impact Accelerator (GDI) has a unique role in GDM, to develop solutions and resources built on GDM's technologies and expertise that extend the benefits to humanity. We are a path to real world impact, beyond Alphabet products and services or making our research public.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -38,7 +298,7 @@ Deadline to Apply: 5pm BST, Sunday 27th July 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
  
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3255671,"Visual Designer","https://job-boards.greenhouse.io/deepmind/jobs/7064396","Deepmind","New York","No","Not specified","Full time","2025-07-15T02:21:33.151202Z","Snapshot
+3255671,"Visual Designer","https://job-boards.greenhouse.io/deepmind/jobs/7064396","Deepmind","New York","No","Not specified","Full time","2025-07-17T02:18:53.196227Z","Snapshot
 As a Visual Designer, you'll collaborate with a cross-functional team of creative and technical subject matter experts to shape how the world learns about, experiences, and interacts with our most advanced innovations. You'll translate complex concepts into clear, compelling visual narratives across various platforms and explore new approaches to elevate our brand's visual identity.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -72,7 +332,7 @@ Experience leading workstreams autonomously, with the ability to integrate feedb
 The US base salary range for this full-time position is between $117,000 - $168,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3255670,"Manager, Forward Deployment, Applied AI","https://job-boards.greenhouse.io/deepmind/jobs/7065638","Deepmind","London","No",8,"Full time","2025-07-15T02:21:33.151229Z","Snapshot
+3255670,"Manager, Forward Deployment, Applied AI","https://job-boards.greenhouse.io/deepmind/jobs/7065638","Deepmind","London","No",8,"Full time","2025-07-17T02:18:53.196245Z","Snapshot
 We are seeking a Manager, Forward Deployment to lead the development and deployment of novel applications, leveraging Googles generative AI models. This role focuses on rapidly developing new features, and working across partner teams to deliver solutions, and maximize impact for Google &amp; top Google customers. You will be instrumental in translating cutting-edge AI research into real-world products, and demonstrating the capabilities of latest generation models. We are looking for a manager with a strong track record of building and shipping software, and leading engineering teams, ideally with some experience in early-stage environments, where you may have contributed to scaling products from initial concept to production. The ideal candidate will be motivated by the opportunity to drive product &amp; business impact, and develop strong relationships with research teams.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -117,7 +377,7 @@ Experience delivering software solutions in a fast-paced, customer-facing enviro
 
 If you are a passionate software engineering leader with a drive to build innovative products and a desire to work at the forefront of AI, we encourage you to apply!
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds, and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3255669,"Forward Deployment Engineer, Applied AI","https://job-boards.greenhouse.io/deepmind/jobs/7065652","Deepmind","London","No",2,"Full time","2025-07-15T02:21:33.151282Z","Snapshot
+3255669,"Forward Deployment Engineer, Applied AI","https://job-boards.greenhouse.io/deepmind/jobs/7065652","Deepmind","London","No",2,"Full time","2025-07-17T02:18:53.196265Z","Snapshot
 We are seeking a Forward Deployment Engineer, Applied AI to develop and deploy novel applications, leveraging Googles generative AI models. This role focuses on rapidly developing new features, and working across partner teams to deliver solutions, and maximize impact for Google &amp; top Google customers. You will be instrumental in translating cutting-edge AI research into real-world products, and demonstrating the capabilities of latest generation models. We are looking for engineers with a strong track record of building and shipping software, ideally with experience in early-stage environments where they have contributed to scaling products from initial concept to production. The ideal candidate will be motivated by the opportunity to drive product &amp; business impact.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -146,7 +406,7 @@ Substantial experience with machine learning frameworks and libraries such as Te
 Ability to work in a fast-paced environment and adapt to changing priorities.
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3255668,"Data Scientist, GeminiApp, Personalization","https://job-boards.greenhouse.io/deepmind/jobs/7065334","Deepmind","Zurich","No",8,"Full time","2025-07-15T02:21:33.151307Z","About the Team
+3255668,"Data Scientist, GeminiApp, Personalization","https://job-boards.greenhouse.io/deepmind/jobs/7065334","Deepmind","Zurich","No",8,"Full time","2025-07-17T02:18:53.196288Z","About the Team
 Our team, GeminiApp, is on a mission to build a universal AI assistant that will empower billions of people. We are creating a personal, proactive, and powerful life assistant that will be used multiple times a day to increase productivity and creativity by 10 to 100-fold. Our work is shaping how humanity interacts with AI at scale.
 About the Role
 As a Data Scientist on the GeminiApp team, you are a key partner and co-creator in our product strategy. You will be instrumental in building a uniquely proactive and powerful assistant by ensuring our strategic decisions are grounded in data. This is a high-impact role for a data scientist who is excited about working in a fast-paced, innovative environment and who is passionate about building user-centered experiences that will redefine our relationship with technology.
@@ -184,7 +444,7 @@ Bachelor's degree in Statistics, Mathematics, Data Science, Engineering, Physics
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Application deadline: 12pm GMT Thursday 11th August 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see ourApplicant and Candidate Privacy Policy."
-2981579,"Research Engineer, Applied Robotics","https://job-boards.greenhouse.io/deepmind/jobs/6763910","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151329Z","Snapshot
+2981579,"Research Engineer, Applied Robotics","https://job-boards.greenhouse.io/deepmind/jobs/6763910","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196315Z","Snapshot
 The Google Deepmind Robotics ML-Framework team's mission is to enable and accelerate cutting-edge robotics AI research and maximize research impact in the real world.
 We achieve this by collaborating closely with top tier embodied AI researchers to tackle emerging challenges and push the boundaries of whats possible. We form partnership with top robotics players in the world and actively work with them to externalize our robotics research outcome. Our team works hand in hand with infrastructure experts in robotics and GDM to deliver innovative, robust, flexible, and extensible software solutions that empower a wide array of research and partner projects. 
 The team is a core member of Google Deepmind Robotics, which is a research team devoted to exploring how machine learning can revolutionize the world of robotics. Recent advances in Large Language Models and perception, fueled by the deep learning revolution, have made it possible to envision autonomous robots that acquire a deep understanding of their environment through sensing and learning. This requires new, scalable approaches to learning in the physical world, as well as safe and data efficient approaches to continuously improving sensorimotor skills, which will ultimately enable autonomous agents to safely act in human-centered environments.
@@ -219,7 +479,7 @@ Collaborating experience with cross functional and cross organizational teams.
 Application deadline: 31st July 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3249236,"Technical Program Manager, GenAI","https://job-boards.greenhouse.io/deepmind/jobs/7062564","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151351Z","Snapshot
+3249236,"Technical Program Manager, GenAI","https://job-boards.greenhouse.io/deepmind/jobs/7062564","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196346Z","Snapshot
 The role of the Program Management Team is to shape and accelerate the delivery of GDMs highest priorities. We do this through translating strategy into program plans, implementing efficient ways of working, and developing successful teams to drive end to end delivery of our GDM objectives. We provide focus for our teams through co-developing goals and priorities, continually anchoring teams back to these. We continually pursue sustainable ways to optimize our work, striving to ensure we cultivate an environment where people can be both highly collaborative and deeply creative, making responsible and groundbreaking technical progress at pace. We build positive relationships with teams, bringing clarity to ambiguity and providing stability during change. Collaborating across org boundaries &amp; roles to pull in the right expertise at the right time. This allows us to provide a holistic view of whats happening across GDM to identify early signals, insights, and risks with recommended actions. 
  
 Our program management expertise structures complex projects, and we continuously deepen our technical knowledge, working alongside researchers and engineers to ensure all our work is advancing towards our mission.
@@ -264,7 +524,7 @@ The US base salary range for this full-time position is between $183,000 - $271,
 Application deadline: 12pm PST Thursday 24th July 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3249233,"Software Engineer, Applied Robotics","https://job-boards.greenhouse.io/deepmind/jobs/6763890","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151371Z","Snapshot
+3249233,"Software Engineer, Applied Robotics","https://job-boards.greenhouse.io/deepmind/jobs/6763890","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196369Z","Snapshot
 The Google Deepmind Robotics ML-Framework team's mission is to enable and accelerate cutting-edge robotics AI research and maximize research impact in the real world.
 We achieve this by collaborating closely with top tier embodied AI researchers to tackle emerging challenges and push the boundaries of whats possible. We form partnership with top robotics players in the world and actively work with them to externalize our robotics research outcome. Our team works hand in hand with infrastructure experts in robotics and GDM to deliver innovative, robust, flexible, and extensible software solutions that empower a wide array of research and partner projects.
 The team is a core member of Google Deepmind Robotics, which is a research team devoted to exploring how machine learning can revolutionize the world of robotics. Recent advances in Large Language Models and perception, fueled by the deep learning revolution, have made it possible to envision autonomous robots that acquire a deep understanding of their environment through sensing and learning. This requires new, scalable approaches to learning in the physical world, as well as safe and data efficient approaches to continuously improving sensorimotor skills, which will ultimately enable autonomous agents to safely act in human-centered environments.
@@ -294,7 +554,7 @@ Bachelors, Master or Ph.D. degree in Computer Science, a related technical field
 Full-stack development with production applications, including scoping, design, implementation, testing, debugging, releasing, deployment, etc.
 Experience with applying robotics ML/AI research to real-world problems and demonstrating impact.
 Collaboration experience with cross functional and cross organizational teams."
-3249230,"Administrative Business Partner","https://job-boards.greenhouse.io/deepmind/jobs/7013986","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151393Z","Snapshot 
+3249230,"Administrative Business Partner","https://job-boards.greenhouse.io/deepmind/jobs/7013986","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196390Z","Snapshot 
 We are seeking an Administrative Business Partner to support up to three leaders, who can strategically manage the day-to-day operational needs and support on projects &amp; initiatives to help drive team &amp; company priorities. This role would suit someone who thrives in a fast-paced, changeable environment and enjoys working as part of a team that is both locally and globally distributed. 
 About Us
  Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -330,7 +590,7 @@ Open to new ways of working, curious and dedicated to continuous improvement for
 Experience with Google Suite is preferable but not crucial. 
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3244973,"Lead Technical Program Manager, Science & Strategic Initiatives","https://job-boards.greenhouse.io/deepmind/jobs/6975896","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151415Z","Snapshot 
+3244973,"Lead Technical Program Manager, Science & Strategic Initiatives","https://job-boards.greenhouse.io/deepmind/jobs/6975896","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196410Z","Snapshot 
 Join us as Lead (Technical) Program Manager for Science &amp; Strategic Initiatives and directly influence how we push the boundaries of scientific research! Your strategic insights, leadership, scientific expertise and strong organisational partnerships will enable and accelerate progress towards Google DeepMind's most ambitious goals.
 About Us 
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -371,7 +631,7 @@ Experience with the commercialization of research breakthroughs.
 
 Application deadline: 30th July 2025
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2691907,"Analytics Engineer ","https://job-boards.greenhouse.io/deepmind/jobs/6383777","Deepmind","Mountain View","No",4,"Full time","2025-07-15T02:21:33.151437Z","Snapshot
+2691907,"Analytics Engineer ","https://job-boards.greenhouse.io/deepmind/jobs/6383777","Deepmind","Mountain View","No",4,"Full time","2025-07-17T02:18:53.196431Z","Snapshot
 Are you an experienced Analytics Engineer looking for your next role?
 Join us in shaping the future of AI research. In this role you will use data to help Google DeepMind focus on the right projects.
 About Us
@@ -420,7 +680,7 @@ The US base salary range for this full-time position is between $122,000 - $186,
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy
  
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, maternity or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3240122,"Research Scientist, Gemini Data ","https://job-boards.greenhouse.io/deepmind/jobs/7018214","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151459Z","Snapshot
+3240122,"Research Scientist, Gemini Data ","https://job-boards.greenhouse.io/deepmind/jobs/7018214","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196453Z","Snapshot
 The Gemini Data team 
 We are seeking a highly motivated and talented Research Scientist to join our team to work on Gemini data. Our goal is to organize the world's information and generate and curate high-quality tokens for Gemini core model training.
 About Us
@@ -450,7 +710,7 @@ Expertise in one or more of the following areas of LLMs: Synthetic Data, Data Qu
 
 The US base salary range for this full-time position is between $166,000 - $220,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2860924,"Internal Communications - Unit Head, GenAI","https://job-boards.greenhouse.io/deepmind/jobs/6750311","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151481Z","Snapshot
+2860924,"Internal Communications - Unit Head, GenAI","https://job-boards.greenhouse.io/deepmind/jobs/6750311","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196475Z","Snapshot
 We're looking for an Internal Communications Lead to drive impactful communications within our groundbreaking GenAI unit. You'll craft compelling narratives, elevate product launches and research breakthroughs, and foster engagement across a diverse global audience. This is a pivotal role for a creative and agile communications expert passionate about AI and technology.
 About Us
 Artificial Intelligence could be one of humanity's most useful inventions. At Google DeepMind, we're a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -485,7 +745,7 @@ Accountability &amp; Drive: Strong accountability and leadership skills, coupled
 The US base salary range for this full-time position is between $165,000 - $245,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3236876,"Creative Technologist","https://job-boards.greenhouse.io/deepmind/jobs/7055032","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151503Z","Snapshot
+3236876,"Creative Technologist","https://job-boards.greenhouse.io/deepmind/jobs/7055032","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196498Z","Snapshot
 As a Creative Technologist you will collaborate with a team of designers, creatives, marketers and researchers to shape how the world learns about, experiences and interacts with Google's most advanced AI whilst also exploring new ways to use our own technologies to empower our creative work.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -519,7 +779,7 @@ Drive innovation by exploring and implementing emerging AI technologies to deliv
 Application deadline: 12pm BST 25 July 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3231712,"Senior Program Manager, People & Culture (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6954452","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.151525Z","About Us
+3231712,"Senior Program Manager, People & Culture (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6954452","Deepmind","London","No","Not specified","Contract","2025-07-17T02:18:53.196518Z","About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligenceWe use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority
 Snapshot
 The role of the Program Management Team is to shape and accelerate the delivery of GDMs highest priorities. This position is part of a dedicated Program Management team responsible for partnering with People &amp; Culture (P&amp;C) at Google DeepMind.  This means the role will focus on leading programs with a high element of organisational change or people involvement, impacting how the org operates and how people work. We continually pursue sustainable ways to optimize our work, working in partnership with P&amp;C to cultivate an environment where people can be both highly collaborative and deeply creative, making responsible and groundbreaking research progress at pace.
@@ -555,7 +815,7 @@ Ability to effectively cultivate a collaborative environment, leveraging the exp
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Closing date: July 22nd 2025"
-3231711,"Research Scientist, Multimodal Generative AI (Image/Video)","https://job-boards.greenhouse.io/deepmind/jobs/7057468","Deepmind","New York","No","Not specified","Full time","2025-07-15T02:21:33.151546Z","Snapshot
+3231711,"Research Scientist, Multimodal Generative AI (Image/Video)","https://job-boards.greenhouse.io/deepmind/jobs/7057468","Deepmind","New York","No","Not specified","Full time","2025-07-17T02:18:53.196531Z","Snapshot
 The role of the Research Scientist will be to develop state-of-the-art methods for multimodal generative AI models, with a primary focus on image generation and editing. 
 At Google DeepMind, we've built a unique culture and work environment where long-term ambitious research can flourish. Our special interdisciplinary team combines the best techniques from deep learning, reinforcement learning, and systems neuroscience to build general-purpose learning algorithms. We have already made a number of high-profile breakthroughs towards building artificial general intelligence, and we have all the ingredients in place to make further significant progress over the coming year!
 About Us
@@ -587,7 +847,7 @@ A real passion for AI!
 
 The US base salary range for this full-time position is between $188,000 - $262,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3228504,"Generative AI Portfolio Lead, Google DeepMind Impact Accelerator ","https://job-boards.greenhouse.io/deepmind/jobs/6982798","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151566Z","Snapshot
+3228504,"Generative AI Portfolio Lead, Google DeepMind Impact Accelerator ","https://job-boards.greenhouse.io/deepmind/jobs/6982798","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196544Z","Snapshot
 The Google DeepMind Impact Accelerator (GDI) has a unique role in Google DeepMind (GDM), to develop solutions and resources built on GDM's technologies and expertise that extend the benefits to humanity. We are a path to real world impact, beyond ABC products and services or making our research public.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -617,7 +877,7 @@ A passion for Google DeepMinds mission and knowledge and excitement about AI and
 Deadline to Apply: 22nd July 2025, 5pm BST 
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds, and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3223947,"Research Scientist / Engineer, World Modeling","https://job-boards.greenhouse.io/deepmind/jobs/7052986","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151579Z","Snapshot
+3223947,"Research Scientist / Engineer, World Modeling","https://job-boards.greenhouse.io/deepmind/jobs/7052986","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196557Z","Snapshot
 Join an ambitious project to build generative models that simulate the physical world. We believe scaling pretraining on video and multimodal data is on the critical path to artificial general intelligence. World models will power numerous domains, such as visual reasoning and simulation, planning for embodied agents, and real-time interactive entertainment. The team will collaborate with and build on work from Gemini, Veo and Genie teams, and tackle critical new problems to scale world models to the highest levels of compute.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -650,7 +910,7 @@ Expertise optimizing efficiency of distributed training systems and/or inference
 The US base salary range for this full-time position is between $197,000 - $291,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3223946,"Product Manager, Responsibility - 12 Month Fixed Term Contract ","https://job-boards.greenhouse.io/deepmind/jobs/7051909","Deepmind","Mountain View","No",5,"Full time","2025-07-15T02:21:33.151592Z","Snapshot
+3223946,"Product Manager, Responsibility - 12 Month Fixed Term Contract ","https://job-boards.greenhouse.io/deepmind/jobs/7051909","Deepmind","Mountain View","No",5,"Full time","2025-07-17T02:18:53.196571Z","Snapshot
 The Google DeepMind (GDM) Responsibility Product team works on efforts across the organization to develop products and tools which innovate in AI safety and responsibility. 
 We are looking for a senior Product Manager to join our team to partner with engineering and research groups to design and deliver highly impactful Responsible AI efforts.
 About us
@@ -683,7 +943,7 @@ The US base salary range for this full-time position is between $183,000 - $271,
 Application deadline: 5pm PT, 21st July 2025 
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3223945,"Head of Frontier Policy Partnerships","https://job-boards.greenhouse.io/deepmind/jobs/7050399","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151606Z","About Us
+3223945,"Head of Frontier Policy Partnerships","https://job-boards.greenhouse.io/deepmind/jobs/7050399","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196585Z","About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 Weve built a supportive and inclusive environment where collaboration and learning are encouraged. We constantly iterate on our workplace experience to support flexibility and balance. From excellent office facilities through to extensive manager support, we strive to support our people and their needs as effectively as possible. Our list of benefits is extensive, and were happy to discuss this further throughout the interview process.
 Snapshot
@@ -719,7 +979,7 @@ Experience in a fast-paced, matrixed organization, working across multiple teams
  
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, maternity or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3217583,"Research Engineer, Gemini Diffusion ","https://job-boards.greenhouse.io/deepmind/jobs/7034519","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151619Z","Snapshot
+3217583,"Research Engineer, Gemini Diffusion ","https://job-boards.greenhouse.io/deepmind/jobs/7034519","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196599Z","Snapshot
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 About Us
 Were looking for a Research Engineer to help accelerate our research in Artificial Intelligence as part of our mission to create the next generation of Generative AI technologies. Our team has a unique mandate: to work on speculative, longer-horizon research projects that, if successful, yield step-change improvements in the capabilities of our frontier models. We target paradigm-shifting ideas and are prepared to invest the time and resources necessary to achieve them. Our goal is to ideate, research, develop, validate, and integrate these improvements into major Google technologies.
@@ -757,7 +1017,7 @@ Data engineering and visualisation.
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Applications close on Friday 18th July 2025."
-3206703,"Data Scientist, GeminiApp, Verticals","https://job-boards.greenhouse.io/deepmind/jobs/7032699","Deepmind","Mountain View","No",8,"Full time","2025-07-15T02:21:33.151632Z","About the Team
+3206703,"Data Scientist, GeminiApp, Verticals","https://job-boards.greenhouse.io/deepmind/jobs/7032699","Deepmind","Mountain View","No",8,"Full time","2025-07-17T02:18:53.196615Z","About the Team
 Our team, GeminiApp, is on a mission to build a universal AI assistant that will empower billions of people. We are creating a personal, proactive, and powerful life assistant that will be used multiple times a day to increase productivity and creativity by 10 to 100-fold. Our work is shaping how humanity interacts with AI at scale.
 About the Role
 As a Data Scientist on the GeminiApp team, you are a key partner and co-creator in our product strategy. You will be instrumental in building a uniquely proactive and powerful assistant by ensuring our strategic decisions are grounded in data. This is a high-impact role for a data scientist who is excited about working in a fast-paced, innovative environment and who is passionate about building user-centered experiences that will redefine our relationship with technology.
@@ -797,7 +1057,7 @@ The US base salary range for this full-time position is between $156,000 - $229,
 Application deadline: 12pm GMT Friday 17th July 2025
  
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3206702,"Data Scientist, GeminiApp, Model-to-Product","https://job-boards.greenhouse.io/deepmind/jobs/7032613","Deepmind","Mountain View","No",8,"Full time","2025-07-15T02:21:33.151645Z","About the Team
+3206702,"Data Scientist, GeminiApp, Model-to-Product","https://job-boards.greenhouse.io/deepmind/jobs/7032613","Deepmind","Mountain View","No",8,"Full time","2025-07-17T02:18:53.196628Z","About the Team
 Our team, GeminiApp, is on a mission to build a universal AI assistant that will empower billions of people. We are creating a personal, proactive, and powerful life assistant that will be used multiple times a day to increase productivity and creativity by 10 to 100-fold. Our work is shaping how humanity interacts with AI at scale.
 About the Role
 As a Data Scientist on the GeminiApp team, you are a key partner and co-creator in our product strategy. You will be instrumental in building a uniquely proactive and powerful assistant by ensuring our strategic decisions are grounded in data. This is a high-impact role for a data scientist who is excited about working in a fast-paced, innovative environment and who is passionate about building user-centered experiences that will redefine our relationship with technology.
@@ -837,7 +1097,7 @@ The US base salary range for this full-time position is between $156,000 - $229,
 Application deadline: 12pm GMT Friday 17th July 2025
  
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3206701,"Data Scientist, GeminiApp, Personalization","https://job-boards.greenhouse.io/deepmind/jobs/7032661","Deepmind","Mountain View","No",8,"Full time","2025-07-15T02:21:33.151657Z","About the Team
+3206701,"Data Scientist, GeminiApp, Personalization","https://job-boards.greenhouse.io/deepmind/jobs/7032661","Deepmind","Mountain View","No",8,"Full time","2025-07-17T02:18:53.196650Z","About the Team
 Our team, GeminiApp, is on a mission to build a universal AI assistant that will empower billions of people. We are creating a personal, proactive, and powerful life assistant that will be used multiple times a day to increase productivity and creativity by 10 to 100-fold. Our work is shaping how humanity interacts with AI at scale.
 About the Role
 As a Data Scientist on the GeminiApp team, you are a key partner and co-creator in our product strategy. You will be instrumental in building a uniquely proactive and powerful assistant by ensuring our strategic decisions are grounded in data. This is a high-impact role for a data scientist who is excited about working in a fast-paced, innovative environment and who is passionate about building user-centered experiences that will redefine our relationship with technology.
@@ -877,7 +1137,7 @@ The US base salary range for this full-time position is between $156,000 - $229,
 Application deadline: 12pm GMT Friday 17th July 2025
  
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3206700,"Data Scientist, GeminiApp, Automation","https://job-boards.greenhouse.io/deepmind/jobs/7032676","Deepmind","Mountain View","No",8,"Full time","2025-07-15T02:21:33.151681Z","About the Team
+3206700,"Data Scientist, GeminiApp, Automation","https://job-boards.greenhouse.io/deepmind/jobs/7032676","Deepmind","Mountain View","No",8,"Full time","2025-07-17T02:18:53.196664Z","About the Team
 Our team, GeminiApp, is on a mission to build a universal AI assistant that will empower billions of people. We are creating a personal, proactive, and powerful life assistant that will be used multiple times a day to increase productivity and creativity by 10 to 100-fold. Our work is shaping how humanity interacts with AI at scale.
 About the Role
 As a Data Scientist on the GeminiApp team, you are a key partner and co-creator in our product strategy. You will be instrumental in building a uniquely proactive and powerful assistant by ensuring our strategic decisions are grounded in data. This is a high-impact role for a data scientist who is excited about working in a fast-paced, innovative environment and who is passionate about building user-centered experiences that will redefine our relationship with technology.
@@ -917,7 +1177,7 @@ The US base salary range for this full-time position is between $156,000 - $229,
 Application deadline: 12pm GMT Friday 17th July 2025
  
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3188289,"Product Manager, Conversationality, Gemini App","https://job-boards.greenhouse.io/deepmind/jobs/7017685","Deepmind","Mountain View","No",10,"Full time","2025-07-15T02:21:33.151694Z","About Us
+3188289,"Product Manager, Conversationality, Gemini App","https://job-boards.greenhouse.io/deepmind/jobs/7017685","Deepmind","Mountain View","No",10,"Full time","2025-07-17T02:18:53.196676Z","About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 The Role
 If youre a driven, entrepreneurial Product Manager, this is your opportunity to join DeepMinds Gemini App team where you will define and build core conversational capabilities with AI.  Youre expected to lead the product vision, go-to-market efforts, and work cross-functionally with research teams to integrate cutting-edge capabilities amidst a rapidly evolving technological landscape.
@@ -953,7 +1213,7 @@ Experience in proactively identifying ethical risks in AI systems, familiarity w
 
 The US base salary range for this full-time position is between $227,000 - $320,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 At DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, maternity or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3186340,"Technical Program Manager, Inception (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/7019795","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.151708Z","About us
+3186340,"Technical Program Manager, Inception (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/7019795","Deepmind","London","No","Not specified","Contract","2025-07-17T02:18:53.196690Z","About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 Snapshot
 The role of the Program Management Team is to organise and enable our teams to be the best at what they do and to make fast-paced progress towards our goal. We continually pursue sustainable ways to optimise our work, striving to ensure we cultivate an environment where people can be both highly collaborative and deeply creative, making responsible and groundbreaking research progress at pace. We build positive relationships with teams, bringing clarity to ambiguity and providing stability during change. We provide expertise in various program management techniques to structure abstract and complex research, engineering and operational projects across the business. We use our coaching skills to support and enable people and teams to do their best work together. We continually deepen our domain knowledge, working alongside researchers and engineers to ensure all our work is advancing towards our mission!
@@ -994,7 +1254,7 @@ Demonstrated understanding of how to successfully partner with and support talen
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Application deadline: July 14th 2025"
-3186339,"Strategy and Operations Principal","https://job-boards.greenhouse.io/deepmind/jobs/7019954","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151722Z","Snapshot
+3186339,"Strategy and Operations Principal","https://job-boards.greenhouse.io/deepmind/jobs/7019954","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196704Z","Snapshot
 Were looking for an extraordinarily capable and enthusiastic individual to work closely on a high-performing team, responsible for in-house consulting projects to help Google DeepMind leadership answer strategic questions essential to Google DeepMinds success, including realising the most impactful applications of our research. This role is integral to the achievement of Google DeepMinds mission and requires someone who can bridge Google DeepMind research and Googles industry-leading products, platforms and technologies to pave the way towards an inclusive AGI-enabled future.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -1035,7 +1295,7 @@ The US base salary range for this full-time position is between $180,000 - $267,
 Application deadline: 30th July 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3186338,"Research Security Manager, Security & Privacy [12-Month FTC]","https://job-boards.greenhouse.io/deepmind/jobs/7014530","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151736Z","Snapshot
+3186338,"Research Security Manager, Security & Privacy [12-Month FTC]","https://job-boards.greenhouse.io/deepmind/jobs/7014530","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196717Z","Snapshot
 As Research Security Manager on a 12-month Fixed Term Contract (FTC) at Google DeepMind, you will play a key role in Google DeepMinds Global Security team, partnering closely with security teams across Google and senior stakeholders across Google DeepMind. You will be responsible for managing risks to our critical assets and driving security education and awareness to safeguard our research environment. 
 About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -1072,7 +1332,7 @@ Certifications: Relevant security education and/or insider risk certifications (
 
 The US base salary range for this full-time position is between $122,000 - $186,000 + bonus + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3181937,"Legal Counsel - Product Counsel","https://job-boards.greenhouse.io/deepmind/jobs/7014446","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151750Z","Snapshot
+3181937,"Legal Counsel - Product Counsel","https://job-boards.greenhouse.io/deepmind/jobs/7014446","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196730Z","Snapshot
 The Google DeepMind Legal team is looking for an adept and enthusiastic Product Counsel to partner with our product and research teams to advise on legal matters relevant to developing and releasing AI models, products, and systems. Youll also work with cross-functional teams to ensure were prepared for forthcoming regulatory changes that might impact our technology. Finally, youll collaborate closely with Google DeepMind compliance teams, other members of the legal team, Google Regulatory Affairs, and with outside counsel when needed.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -1107,7 +1367,7 @@ The US base salary range for this full-time position is between $266,000 - $374,
 Application deadline: 12pm GMT Thursday August 15, 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3164352,"People & Culture Program Manager (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6999676","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.151789Z","About Us
+3164352,"People & Culture Program Manager (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6999676","Deepmind","London","No","Not specified","Contract","2025-07-17T02:18:53.196742Z","About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 Snapshot
 The role of the Program Management Team (PgM)  is to shape and accelerate the delivery of GDMs highest priorities. This position is part of a dedicated PgM team responsible for partnering with People &amp; Culture (P&amp;C) at Google DeepMind and therefore will focus on leading programs with a high element of organisational change or people involvement, impacting how the org operates and how people work.We continually pursue sustainable ways to optimize our work, working in partnership with P&amp;C to cultivate an environment where people can be both highly collaborative and deeply creative, making responsible and groundbreaking research progress at pace. We build positive relationships with teams, bringing clarity to ambiguity and providing stability during change. We provide expertise in various program management techniques to structure abstract and complex operational projects across the business. We use our coaching skills to support and enable people and teams to do their best work together. We continually deepen our domain knowledge, working alongside researchers and engineers to ensure all our work is advancing towards our mission!
@@ -1146,7 +1406,7 @@ Naturally curious and enjoy working across a large range of different subjects w
 Passionate about our mission, proactive about learning and acquiring knowledge to enhance your experience
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2691921,"Manager, Forward Deployment, Applied AI ","https://job-boards.greenhouse.io/deepmind/jobs/6704563","Deepmind","Mountain View","No",8,"Full time","2025-07-15T02:21:33.151807Z","Snapshot
+2691921,"Manager, Forward Deployment, Applied AI ","https://job-boards.greenhouse.io/deepmind/jobs/6704563","Deepmind","Mountain View","No",8,"Full time","2025-07-17T02:18:53.196755Z","Snapshot
 We are seeking a Manager, Forward Deployment to lead the development and deployment of novel applications, leveraging Googles generative AI models. This role focuses on rapidly developing new features, and working across partner teams to deliver solutions, and maximize impact for Google &amp; top Google customers. You will be instrumental in translating cutting-edge AI research into real-world products, and demonstrating the capabilities of latest generation models. We are looking for a manager with a strong track record of building and shipping software, and leading engineering teams, ideally with some experience in early-stage environments, where you may have contributed to scaling products from initial concept to production. The ideal candidate will be motivated by the opportunity to drive product &amp; business impact, and develop strong relationships with research teams.
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -1194,7 +1454,7 @@ The US base salary range for this full-time position is between $235,000 - $350,
 Application deadline: 12pm PST Friday 28th March 2025
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds, and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3152455,"Technical Program Manager","https://job-boards.greenhouse.io/deepmind/jobs/7002564","Deepmind","Bangalore","No",5,"Full time","2025-07-15T02:21:33.151821Z","Snapshot
+3152455,"Technical Program Manager","https://job-boards.greenhouse.io/deepmind/jobs/7002564","Deepmind","Bangalore","No",5,"Full time","2025-07-17T02:18:53.196768Z","Snapshot
 The role of the Technical Program Management Team is to organise and enable our research teams to be the best at what they do and to make fast-paced progress towards our mission. We continually pursue scalable and sustainable ways to optimise research, striving to ensure we cultivate an environment where people can be both highly collaborative and deeply creative, making responsible and pioneering research progress at pace. We build strong relationships with teams, bringing clarity to ambiguity and providing stability during change.
 Our program management skills help us tackle even the most complicated projects. By working hand-in-hand with researchers and engineers, we're constantly deepening our technical skills and making sure our work is always moving us closer to our mission.
 About Us
@@ -1230,7 +1490,7 @@ Knowledge of Research Lifecycle
 Experience working across multiple geographies and time zones
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3152454,"Senior Workplace Manager","https://job-boards.greenhouse.io/deepmind/jobs/6993477","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.151836Z","Snapshot
+3152454,"Senior Workplace Manager","https://job-boards.greenhouse.io/deepmind/jobs/6993477","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196782Z","Snapshot
 As Google DeepMind's Senior Workplace Manager, you'll play a key role in shaping the future of our work environment. You will lead a team of workplace professionals to deliver an exceptional employee experience that fosters collaboration, creativity and well-being. This includes overseeing space planning and design, implementing innovative workplace solutions, and managing a range of employee-centric programs and services. Your strategic vision and leadership will ensure that our physical workspace supports Google DeepMind's groundbreaking research and positive impact on the world.  
 About us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -1286,7 +1546,7 @@ Working knowledge of human resources processes
 The US base salary range for this full-time position is between $153,000 - $227,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy."
-3150201,"Data Analyst, People and Culture (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6999750","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.151849Z","Snapshot
+3150201,"Data Analyst, People and Culture (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6999750","Deepmind","London","No","Not specified","Contract","2025-07-17T02:18:53.196797Z","Snapshot
 We're seeking a Data Analyst with advanced SQL skills, and experience in analytics engineering to join Google DeepMinds internal People, Culture and Org Domain group on a fixed-term contract. You will leverage your strong SQL and data analysis skills to provide clarity and structure to complex business problems, while ensuring high-quality analytics code. You will collaborate closely with stakeholders to produce critical insights that directly guide strategic decisions around our people and culture strategy, contributing to Google DeepMinds mission.
 Youll join the Core Analytics Team (CAT) within the Tech Ops &amp; Analytics group at Google DeepMind. Were a team of data engineers, data scientists, and analysts aiming to drive better organisational decisions  blending our technical skillset with rich stakeholder relationships to deliver impact. The outcomes of our work, ranging across topics like (but not limited to!) enabling data-informed decisions to reach DE&amp;I goals, providing performance insights, recruitment optimisation, directly influence Google DeepMinds progress towards our mission.
 About Us
@@ -1365,7 +1625,7 @@ A collaborative mindset and eagerness to work with others to achieve common goal
 If you dont think you embody all of the above criteria, please still seriously consider applying! This role (and therefore the requirements) is broad, and wed be excited to discuss how you see yourself contributing across it.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Closing Date:"
-2939466,"Project Lead, Safety Testing - 12 Month Fixed Term Contract ","https://job-boards.greenhouse.io/deepmind/jobs/6883687","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.151863Z","Snapshot
+2939466,"Project Lead, Safety Testing - 12 Month Fixed Term Contract ","https://job-boards.greenhouse.io/deepmind/jobs/6883687","Deepmind","London","No","Not specified","Contract","2025-07-17T02:18:53.196815Z","Snapshot
 As the Project Lead, Safety Testing in the Responsible Development and Innovation (ReDI) team, youll be integral to the delivery and scaling of our external safety testing program on Google DeepMinds (GDMs) most groundbreaking models.   
 You will work with teams across GDM, including Product Management, Research, Legal, Engineering, Public Policy, and Frontier Safety and Governance, to lead external safety evaluations which are a key part of our responsibility and safety best practices, helping Google DeepMind to progress towards its mission.
 The role is a 12 month fixed-term contract. 
@@ -1427,7 +1687,7 @@ Experience of working with sensitive data and access controls
 Prior experience working with product development or in similar agile settings would be advantageous 
 Subject matter expertise in generative AI safety considerations, including (but not limited to) frontier safety (such as chemical and biological risks), content safety, and sociotechnical risks (such as fairness)  
 Experience designing and implementing audits or evaluations of cutting edge AI systems"
-3127762,"Research Scientist, Systems and Programming - Sydney, Australia","https://job-boards.greenhouse.io/deepmind/jobs/6953849","Deepmind","Apac","No","Not specified","Full time","2025-07-15T02:21:33.151884Z","This role is based in Sydney, Australia.
+3127762,"Research Scientist, Systems and Programming - Sydney, Australia","https://job-boards.greenhouse.io/deepmind/jobs/6953849","Deepmind","Apac","No","Not specified","Full time","2025-07-17T02:18:53.196837Z","This role is based in Sydney, Australia.
  
 Snapshot
 The Systems and Programming Research team at Google DeepMind conducts foundational systems research in support of ground-breaking AI research, such as AlphaFold, AlphaProof, and AlphaEvolve, as well as the next generation of products across Googles diverse product lines, scaling from the phone to the data center.
@@ -1463,7 +1723,7 @@ Proven experience working in industry, working on projects from proof-of-concept
 A real passion for solving high-impact problems!
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3115220,"Executive Communications Lead, Office of the Chief Operating Officer (OCOO)","https://job-boards.greenhouse.io/deepmind/jobs/6986419","Deepmind","London","No","Not specified","Full time","2025-07-15T02:21:33.151906Z","Snapshot
+3115220,"Executive Communications Lead, Office of the Chief Operating Officer (OCOO)","https://job-boards.greenhouse.io/deepmind/jobs/6986419","Deepmind","London","No","Not specified","Full time","2025-07-17T02:18:53.196859Z","Snapshot
 This is an opportunity to join an outstanding team at the forefront of AI research and development. Were seeking a highly skilled specialist writer to join the communications team at Google DeepMind to focus on communicating our work across key priority areas, including: science, the societal benefits of AI, responsibility and AGI. This role plays a crucial part in amplifying the Executive voice both internally and externally, managing public perception, and engaging key stakeholders across a multitude of platforms which extends beyond content creation. 
 This role involves crafting compelling narratives through blog posts, articles, internal and external appearances and other written content, translating complex initiatives into accessible and impactful stories. Partnering with the COO on specific writing assignments, helping to articulate the vision and the companys mission through their own, authentic voice.
 You will collaborate closely with teams across the company including: the COO and their strategic team, internal and external communications teams, senior leaders, and researchers to craft compelling narratives that bring our groundbreaking discoveries, and innovative developments to life for a variety of audiences.
@@ -1541,7 +1801,7 @@ Interpersonal &amp; Collaboration Skills
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy."
-3109462,"Team Coordinator (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6980431","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.151927Z","Snapshot
+3109462,"Team Coordinator (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6980431","Deepmind","London","No","Not specified","Contract","2025-07-17T02:18:53.196878Z","Snapshot
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 About Us
 A Team Coordinator is a driven, highly organised person with a self starter approach. This role provides the opportunity to partner with multiple leaders and their teams in the People and Culture Team. They are instrumental in ensuring the smooth operation of the team, managing administrative tasks, coordinating projects, scheduling meetings, and acting as a central point of contact, ultimately enabling the team to focus on strategic initiatives and achieve its objectives. This role reports into the Administrative Business Partner to the Global Director of People and Culture.
@@ -1576,7 +1836,7 @@ Essential skills and experience
 
 A university degree or relevant work experience, where you can demonstrate how you have operated in a fast paced and changing environment
 An understanding of DeepMind and our research"
-3082511,"Gemini App Product Manager, Mountain View","https://job-boards.greenhouse.io/deepmind/jobs/6848922","Deepmind","Mountain View","No",10,"Full time","2025-07-15T02:21:33.151943Z","About Us
+3082511,"Gemini App Product Manager, Mountain View","https://job-boards.greenhouse.io/deepmind/jobs/6848922","Deepmind","Mountain View","No",10,"Full time","2025-07-17T02:18:53.196895Z","About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
 The Role
 This is an opportunity to join DeepMinds Gemini App team where you will define and lead the product vision for how users interact with AI, strategically integrating cutting-edge AI capabilities amidst a rapidly evolving technological landscape. This role requires someone who is comfortable driving innovation in a space where foundational AI technologies and user needs are co-evolving rapidly. By leveraging cutting-edge large language models (LLMs), you will contribute to the advancement of generative AI technologies, enabling them to serve as intelligent assistants, researchers, collaborators, and coaches. This role offers the opportunity to make a profound impact by creating an AI experience that deeply understands and supports individual user needs and ambitions. This is especially critical as product-market fit for novel LLM-powered experiences is still emerging, requiring keen insight to translate subtle user needs into intuitive AI solutions. You will work with a talented team passionate about pushing the boundaries of what's possible in conversational AI. If you're excited about shaping the future of human-AI interaction and developing innovative products that seamlessly integrate into users' daily lives, this is your chance to be at the forefront of this transformative field.
@@ -1611,7 +1871,7 @@ Experience in proactively identifying ethical risks in AI systems, familiarity w
 The US base salary range for this full-time position is between $227,000 - $320,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, maternity or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3042965,"Software Engineer, Gemini","https://job-boards.greenhouse.io/deepmind/jobs/6944363","Deepmind","Bangalore","No",5,"Full time","2025-07-15T02:21:33.151964Z","Snapshot
+3042965,"Software Engineer, Gemini","https://job-boards.greenhouse.io/deepmind/jobs/6944363","Deepmind","Bangalore","No",5,"Full time","2025-07-17T02:18:53.196909Z","Snapshot
 The Gemini Global teams mission is to be the forerunner in bringing AI technology to users and pushing the boundaries of what is possible in a scalable manner across 46+ languages. The sheer diversity of locales makes scalability across a breadth of areas including modeling, safety, factuality, feature development, data generation, evaluations, etc challenging.
 Due to the rapid pace at which the LLMs space is evolving, there is an increasing need to be on top of both industry and academic trends. The candidate will work closely with both the SWE team and Research teams towards bringing in the cutting edge technologies to mainstream products (Gemini App).
 About Us
@@ -1651,7 +1911,7 @@ Experience with ML frameworks such as JAX, PyTorch, or TensorFlow.
 Experience training and deploying large-scale models
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-3042964,"Organisational Design and Development Lead (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6945237","Deepmind","Mountain View","No","Not specified","Contract","2025-07-15T02:21:33.152209Z","Snapshot
+3042964,"Organisational Design and Development Lead (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6945237","Deepmind","Mountain View","No","Not specified","Contract","2025-07-17T02:18:53.196944Z","Snapshot
 Google DeepMind has a remarkable track record of scientific breakthroughs. Such extraordinary work is a direct result of the brilliant and diverse groups of people we bring together. Our Operations team work together to maintain, optimise, and nurture our culture to create the best environment in the world for advancing AI research. A place where everyones expertise is recognised and where everyone is continually learning and supported to be the best leaders, managers, and collaborators they can be.
 About Us
 Were a dedicated scientific community, committed to solving intelligence and ensuring our technology is used for widespread public benefit. Weve built a supportive and inclusive environment where collaboration is encouraged and learning is shared freely. We dont set limits based on what others think is possible or impossible. We drive ourselves and inspire each other to push boundaries and achieve ambitious goals.
@@ -1687,7 +1947,7 @@ Exemplifies DeepMinds values of Pioneering, Intentional, AGI-first, and Responsi
 
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities, regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
 Role closing date: Wednesday 18th June 2025"
-3029539,"Head of Legal Operations","https://job-boards.greenhouse.io/deepmind/jobs/6922383","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.152236Z","Snapshot
+3029539,"Head of Legal Operations","https://job-boards.greenhouse.io/deepmind/jobs/6922383","Deepmind","Mountain View","No","Not specified","Full time","2025-07-17T02:18:53.196963Z","Snapshot
 The Google DeepMind Legal team provides proactive and strategic legal counseling to accelerate DeepMinds best-in-class research, ensure smooth operations and enable fast-paced progress towards our mission. We are looking for an adept and enthusiastic Head of Legal Ops to oversee our legal operations support with a focus on legal team efficiency.
 About Us
 Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
@@ -1718,289 +1978,3 @@ You are adept at balancing legal considerations with cultural nuances and busine
 The US base salary range for this full-time position is between $192,000 - $270,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
 Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
 At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2958832,"Software Engineer, Machine Learning and Electronic Design Automation","https://job-boards.greenhouse.io/deepmind/jobs/6891425","Deepmind","Mountain View","No",1,"Full time","2025-07-15T02:21:33.152257Z","Snapshot
-We are looking for engineers who understand that the end of Moores Law will require a revolution in chip design methodology (EDA). Our work emphasizes three opportunities for novel approaches to EDA: cloud/hyperscale computing--which allows algorithms to operate totally differently; machine learning--which provides dramatic automation opportunities; and integration--since we can now co-design and/or co-optimize algorithms, compilers, and hardware. 
-This is a hands-on coding role for engineers who like to roll up their sleeves and get things done. At Google DeepMind youll be joining our team of scientists and engineers who are directly impacting the machinery of machine learning.
-About Us
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence (AI). We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-The Role
-You should be passionate about making digital electronic design better, including (but not limited to) how to use AI, cloud computing, and/or co-design to dramatically improve EDA:
-
-Skilled at rapid yet rigorous prototyping and software tool building for design automation; aptitude to quickly determine whether an approach is worth following or not without spending too much time.
-Excited to invent, prototype, and deliver products employing novel optimization techniques and machine learning to re-invent AI chip design, from models to GDSii.
-
-Existing team members are self-driven and motivated, bring passion to their work, are comfortable working in a highly ambiguous environment, are open and curious to seek out and learn new perspectives, can challenge their own thinking, and are excellent and direct communicators and collaborators. 
-About You
-In order to set you up for success as a EDA Software Engineer at Google DeepMind, we look for the following requirements:
-
-Experience advancing EDA, including using AI, cloud computing, or HW/SW co-design to improve EDA outcomes.
-Demonstrated ability to innovate. 
-Ability to scope, plan, and execute projects towards team goals. 
-Desire to revolutionize chip design and the flexibility to thrive in a rapidly evolving organization.
-
-In addition, 1-2 years of experience of the following would be helpful:
-
-Experience with collaborative, hyper-scalar software development and engineering best practices.
-Interest in working with full-stack system development, from HW/SW co-design through implementation (ideally through post-silicon)..
-Interest in JAX, GPU, or other SIMD programming (eg, for ML/AI or scientific computing).
-Ph.D. in Electrical Engineering, Computer Science or related field; or other similar experience.
-
-The US base salary range for this full-time position is between $141,000 - $291,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
-Application deadline: June 5, 2025
-Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy
-At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2958829,"Administrative Business Partner","https://job-boards.greenhouse.io/deepmind/jobs/6890209","Deepmind","Tokyo","No","Not specified","Full time","2025-07-15T02:21:33.152277Z","Snapshot 
-This is a 60% part-time role where the successful candidate would work 3 days a week. Full time employee benefits would be provided.  Bilingual Japanese/English fluency required.
-We are seeking an Administrative Business Partner to support up to three leaders, who can strategically manage the day-to-day operational needs and support on projects &amp; initiatives to help drive team &amp; company priorities. This role would suit someone who thrives in a fast-paced, changeable environment and enjoys working as part of a team that is both locally and globally distributed.
-About Us 
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-The Role
-Key responsibilities:
-
-Strategically and proactively manage a very complex and ever-changing calendar of meetings, conference calls, interviews appointments, across numerous time zones and different office locations.
-Supporting with operational tasks and processes; suggesting ideas for continuous improvement to increase efficiencies.
-Collate and track actions and deliverables.
-Meeting support - circulating agendas, capturing notes and ensuring actions are followed up on and are completed. Ensure meeting roles, agendas and briefing documentation are in place for each meeting.
-Develop a strong working relationship with each leader: thinking ahead, handling priorities, anticipating needs and future challenges, proposing solutions to enable effective decision-making.
-Understanding of the key stakeholders; build and maintain effective working relationships across the whole organisation.
-Draft and send out team communications. 
-Organise and execute internal and external events for business and team events e.g. off-sites, lunches, talks, seminars, visitors.
-Arrange domestic and international travel for meetings, international office visits and speaking engagements e.g. hotel reservations, flight check-in, visas, detailed travel itineraries and overseas transport.
-Financial administration e.g. compile expense claims, approve purchase order requests, contract creation, reimbursements, etc.
-Act as a point of contact, dealing with incoming requests, requiring heavy email correspondence.
-You may be involved in assisting and leading on site specific initiatives within Google DeepMind.
-
-About You
-
-You are a resilient Assistant, with experience working in a fast-paced environment, in Japanese and English
-You are energetic, enthusiastic and have a keen interest to continue to develop your career in supporting and enabling others.
-Colleagues describe you as positive, warm, kind, trustworthy and efficient; with a can-do attitude, willingness to learn and a strong desire to grow.  
-Passionate about supporting and enabling others, motivated by Leader support.
-Proactive, you are a self-starter and a naturally strong problem-solver; you can anticipate what needs to be done without guidance.
-Highly organised, you manage priorities well; juggling and handling multiple deadlines and tasks efficiently, whilst being able to manage expectations in a thoughtful way.
-Can adapt quickly to changing demands and embrace ambiguity
-Able to demonstrate administrative excellence, you have an acute and exceptional attention to detail.
-Solid communicator and active listener; you exhibit a high EQ.
-Able to build relationships across teams and foster trust.
-Collaborative and thrives in a team environment.
-Proactively seek out time-saving solutions and tools.
-Open to new ways of working, curious and dedicated to continuous improvement for yourself and the team.
-Experience with Google Suite is preferable but not crucial. 
-
-At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
-Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy"
-2691955,"Research Scientist / Tech Lead Manager, World Modeling","https://job-boards.greenhouse.io/deepmind/jobs/6456664","Deepmind","Mountain View","No",3,"Full time","2025-07-15T02:21:33.152297Z","Snapshot
-Join an ambitious project to build generative models that simulate the physical world. We believe scaling pretraining on video and multimodal data is on the critical path to artificial general intelligence. World models will power numerous domains, such as visual reasoning and simulation, planning for embodied agents, and real-time interactive entertainment. The team will collaborate with and build on work from Gemini, Veo and Genie teams, and tackle critical new problems to scale world models to the highest levels of compute.
-About us
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-The Role
-This role will start as a Research Scientist and grow a small team which will turn into a hybrid IC and management role.
-Key responsibilities:Implement core infrastructure and conduct research to build generative models of the physical world. Solve essential problems to train world simulators at massive scale, develop metrics and scaling laws for physical intelligence, curate and annotate training data, enable real-time interactive generation, and study integration of world models with multimodal language models. Embrace the bitter lesson and seek simple methods that scale, with emphasis on strong systems and infrastructure.
-Areas of focus:
-
-Systems for training multimodal transformers at massive scale.
-Infrastructure for large-scale video data pipelines and annotation.
-Inference optimization and distillation for real-time generation.
-Methods for native multimodal generation in language models.
-Methods for ultra-long-context transformers.
-Quantitative evals for physical accuracy and intelligence.
-Scaling law science for video pretraining.
-
-About you
-We seek individuals who are passionate about world models and believe learning from data of the physical world is crucial to intelligence. We strive for simple methods that scale and look for candidates excited to improve models through infrastructure, data, evals, and compute.
-In order to set you up for success as a Research Scientist at Google DeepMind, we look for the following skills and experience:
-
-3-5 years of experience leading researchers in a fast-moving and fast-changing environment.
-Experience with large-scale transformer models and/or large-scale data pipelines.
-MSc or PhD in computer science or machine learning, or equivalent industry experience.
-Track record of releases, publications, and/or open source projects relating to video generation, world models, multimodal language models, or transformer architectures.
-Strong systems and engineering skills in deep learning frameworks like JAX or PyTorch.
-
-In addition, the following would be an advantage:
-
-A track record on landing research impact within multi-team collaborative environments under senior stakeholders.
-Experience building training codebases for large-scale video or multimodal transformers.
-Expertise optimizing efficiency of distributed training systems and/or inference systems.
-
-The US base salary range for this full-time position is between $197,000 - $291,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
-Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
-At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2907266,"Research Engineer, Chip Verification","https://job-boards.greenhouse.io/deepmind/jobs/6868351","Deepmind","Mountain View","No",5,"Full time","2025-07-15T02:21:33.152318Z","At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know.
-Snapshot
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-At Google DeepMind, youll have the opportunity to revolutionise AI by applying state-of-the-art AI to Chip Design. We develop research breakthroughs that impact all aspects of the Electronic Design Automation (EDA) process, to significantly reduce the time to market of Googles products and services.
-About Us
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-About the Team:
-We develop and apply state-of-the-art AI methods and models to Chip Design and work closely with research and product teams across Google.
-Our team is composed of research scientists, research engineers and software engineers that have already had a big impact on real products via research breakthroughs. We work on lighting the path of new ideas that can become new products. We work closely with hardware engineers, architects, and ML model developers to generate novel ideas and bring them to  products. 
-We are core contributors to MLIR, which we use as a core technology to represent abstractions from models, to transformations, hardware and simulators. The mission of our team is to enable near infinite compute at near zero cost. This implies working across the entire software and hardware stack to discover opportunities for optimization and create AI based-technologies that improve the efficiency of training and serving AI workloads.
-At Google DeepMind we've built a unique culture and work environment where long-term ambitious research grounded in real problems can flourish.
-The Role
-As part of our team at Google DeepMind you'll have opportunities to advance AI for Chip Design to enable breakthrough capabilities, and pioneer next-generation products in collaboration with teams spanning major Product Areas.
-There are many fundamental research and transformative product landing opportunities, including but not limited to:
-
-Bring the most advanced ML models and technologies to chip design. 
-Develop breakthrough technologies that will have a big impact for Google products and for the whole chip design industry.
-Enable efficiency across the entire AI learning stack.
-Solve some of the most complex tasks in automating chip design: hardware-software co-design for ML models, hardware generation and verification, RTL optimization, and system design.
-Engage and work in a fast paced, rapidly shifting environment, demonstrating flexibility and the ability to bring clarity in ambiguous problem spaces.
-
-Key Responsibilities
-
-Contribute and drive ML for hardware-software co-design.
-Contribute and drive hardware generation technologies, using ML techniques, traditional compiler-based transformations, and novel program generation techniques, such as program synthesis and constraint-based programming.
-Identify unsolved impactful research problems in chip design, inspired by current and future real world needs.
-Collaborate with model developers, software developers, and hardware architects to ensure generated designs are correct and efficient.
-Amplify impact by generalising solutions in open-source code, publications and education.
-
-About You
-In order to set you up for success as a Research Engineer at Google DeepMind,  we look for the following skills and experience:
-
-Ph.D. in Computer Science or related quantitative field, or B.S./M.S. in Computer Science or related quantitative field with 5+ years of relevant experience.
-Experience in code-generation technologies: intermediate representations, program synthesis, programming with constraints.
-Experience in Machine Learning (ML), especially on ML for hardware, ML for compilers or ML for optimization.
-
-In addition, the following would be an advantage: 
-
-Experience with MLIR, and in particular dialects specialized for hardware synthesis, e.g., CIRCT, XLS, and similar.
-Experience with JAX, TensorFlow, PyTorch or similar. 
-Experience or interest in hardware verification technologies, formal methods, theorem proving, and hardware testing methodologies.
-Self-directed engineer/research scientist who can drive new research ideas from conception, experimentation, to productionisation in a rapidly shifting landscape. Excel at teamwork and cross-team collaborations.
-Strong research experience and publications in relevant fields: hardware synthesis and verification, machine learning, or code-generation.
-
-The US base salary range for this full-time position is between $166,000 - $244,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
-Application deadline: Julsy 31st 2025
-Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy."
-2860925,"Marketing Insights and Measurements Analyst (12 Month Fixed Term Contract)","https://job-boards.greenhouse.io/deepmind/jobs/6843731","Deepmind","London","No","Not specified","Contract","2025-07-15T02:21:33.152337Z","Snapshot
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-We are looking for an experienced Marketing Insights and Measurements Analyst who loves telling stories with data and turning insights into actions to help the marketing and communications teams deliver impact. The main purpose of the Marketing Data &amp; Insights role is to be responsible for the gathering, organising and analysing data from all relevant internal and external data sources to enable the marcomms department to make data driven decisions resulting in improved performance and impact. They will report to the Marketing Analytics and User Insights Lead.
- 
-The Role
-The role of the Insights function within the Marketing team is to ensure that Google DeepMind has the right insights to support strategy and planning. As Marketing Insights &amp; Measurements Analyst reporting into the Insights Lead, you will analyse, build and implement a range of insight, research tools and activities to ensure that the team and wider organisation has the knowledge it needs to put our priority audiences at the heart of everything we do. The insights function within the team is expanding and is fast paced, as more stakeholders and teams see the value and utilise the insights and data.
-The role is very hands-on,  and will require a can-do attitude and confidence to take on new challenges. It is a great opportunity for someone who would like to grow their responsibilities and have various research programmes/projects, and a broad scope of work. You will be working on a variety of small to large scale projects. This will include using a suite of media monitoring and social listening tools, tracking information, analytics tools, creating dashboards, reports, and other useful resources for the team, to support in guiding our marcomms strategy and helping the team deliver impact.
-Key responsibilities:
-
-Own the marcomms channel metrics, including website and social media stats and benchmarks, media mentions and headlines, and executive social media and media engagements. 
-Update, maintain and develop team self-serve dashboards to support issue identification and decision making from marketing, owned channels, and comms performance data points 
-Social media monitoring and analysis for product use cases and feedback, to support product positioning, analysis, use cases and demo designs. 
-Lead on monthly team performance and channel reports and learnings, with actionable insights and tailored overviews and presentations with team members and stakeholders. 
-Analyse website user behaviour, and user journeys through from the Google DeepMind site to various sites, platforms and tools - identifying trends and pain points which can then be improved to deliver a best customer experience across all digital touchpoints.
-Support with delivering reports following Google DeepMind launches and competitor moments to help stakeholders understand external reactions, impact and sentiment, vs prev launches and competitor moments. 
-Support with analysis of competitor moments, including key details and external reactions. 
-Support with Internal Communications measurements, including channel and impact analysis, metrics and KPIs, and audience segmentation.
-Maintain team Insight repository.
-Recommend and Implement new performance measures and metrics for short-term and long-term communications efforts, and coordinate the reporting and analysis work across the marketing and communications organisation.
-Lead on maintaining and updating our channel benchmarks (overall and per strategy area) to ensure the team can accurately compare campaigns and moments.
-Partner and work with external and internal stakeholders to collaborate, share learnings and implement best measurement practices.
-
- 
-About You
-To set you up for success as a Marketing Data and Insights Analyst at Google DeepMind,  we look for the following skills and experience:
-In addition, the following would be an advantage: 
-
-Proven experience working in a similar Marketing Data, Insight analytics type role
-Experience using AI tools to support with work efficiencies and optimisation
-Strategic, analytical, and have strong communication skills, as well as being able to relay technical information/data/results
-Extensive experience working with Google Analytics, Brandwatch (social listening), Google Search Console, YouTube Analytics, Looker Studio for reporting / dashboarding etc
-Experience working with PR/Comms Reporting tools such as NewsWhip
-Strong numerical and analytical skills are crucial
-Able to combine and interpret high volumes of data from multiple sources
-Able to synthesise information from a variety of sources, add insightful commentary and translate data / trends into practical recommendations and stories to improve performance
-Strong writing and storytelling skills are crucial, prior experience in marketing is useful
-Excellent spoken, written and visual communications skills, including the ability to visualise data in simple, concise, clear and impactful ways
-Strong project management skills and experience in creating insight dashboards (if not the experience, the potential to learn quickly)
-Commitment to learning about new insight tools
-Confidence to work and collaborate with a range of stakeholders
-Hands-on social listening experience, audience analysis or data/statistical analysis, preferably with exposure to audience insights and social media research
-You work well both independently and as a part of team
-Strong ability to manage yourself and time, working effectively across multiple priorities
-
-At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2750070,"Forward Deployment Engineer","https://job-boards.greenhouse.io/deepmind/jobs/6784515","Deepmind","Mountain View","No",2,"Full time","2025-07-15T02:21:33.152356Z","Snapshot
-We are seeking a Forward Deployment Engineer, Applied AI to develop and deploy novel applications, leveraging Googles generative AI models. This role focuses on rapidly developing new features, and working across partner teams to deliver solutions, and maximize impact for Google &amp; top Google customers. You will be instrumental in translating cutting-edge AI research into real-world products, and demonstrating the capabilities of latest generation models. We are looking for engineers with a strong track record of building and shipping software, ideally with experience in early-stage environments where they have contributed to scaling products from initial concept to production. The ideal candidate will be motivated by the opportunity to drive product &amp; business impact.
-About us
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
-The role
-This role requires a strong software engineering foundation and a passion for building and iterating on software products. We are looking for engineers who thrive in fast-paced environments and have a proven ability to deliver high-quality code. Experience in prototyping, building, and scaling software is essential. We particularly value experience in early-stage or startup environments, where engineers take ownership and drive product development from the ground up.
-Key responsibilities
-
-Design and develop scalable software applications leveraging generative AI models.
-Rapidly prototype new features and iterate based on evaluation results.
-Collaborate with researchers and product managers to translate research advancements into tangible product features.
-Optimize software performance and ensure reliability of deployed applications.
-Contribute to the development of best practices for building and deploying generative AI applications.
-
-About you
-In order to set you up for success as a Forward Deployment Engineer at Google DeepMind, we look for the following skills and experience:
-
-Bachelors degree or equivalent practical experience.
-2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.
-2 years of experience with data structures or algorithms.
-1 year of experience with core GenAI concepts (LLM, Multi-Modal, Large Vision Models) and experience with text, image, video, or audio generation.
-1 year of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
-Proven experience in rapidly developing and shipping software products.
-Deep understanding of software development best practices, including testing &amp; deployment.
-Experience with cloud computing platforms and infrastructure (e.g., Google Cloud Platform, AWS, Azure).
-Substantial experience with machine learning frameworks and libraries such as TensorFlow, PyTorch, Hugging Face, etc.
-Ability to work in a fast-paced environment and adapt to changing priorities.
-
-The US base salary range for this full-time position is between $141,000 - $244,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
-Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policy.
-At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunities regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
-2691984,"Software Engineer, Large Scale Pre-Training Performance","https://job-boards.greenhouse.io/deepmind/jobs/6660899","Deepmind","Mountain View","No","Not specified","Full time","2025-07-15T02:21:33.152375Z","Snapshot
-We are seeking a software engineer to define, drive, and critically contribute to the next generation of the state-of-the-art ML models on TPU. As part of the Pre-Training team you will co-design the model, and implement critical components across Model architecture, ML frameworks, custom kernels and platform, to deliver frontier models with maximum efficiency.
- 
-About Us
- 
-Artificial Intelligence could be one of humanitys most useful inventions. At Google DeepMind, were a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. We use our technologies for widespread public benefit and scientific discovery, and collaborate with others on critical challenges, ensuring safety and ethics are the highest priority.
- 
-The Role
-
-Were looking for a Software Engineer to re-define efficient training of frontier LLMs at massive scale. This role offers an opportunity to influence the design of frontier LLM models, and drive an effort to ensure efficient training and inference.
-Key responsibilities:
-
-
-Being responsible for Pre-Training efficiency and optimising the performance of the latest models on Googles fleet of hardware accelerators - throughout the entire LLM research, training and deployment lifecycle.
-
-
-Being responsible for guiding model design to ensure inference-efficiency.
-
-
-Greatly improving the performance of LLM models on hardware accelerators by optimizing at all levels, including developing custom kernels when necessary.
-
-
-Collaborating with the compiler, framework, and platform teams. And ensure efficient training at industry-largest scale.
-
-
-Profile models to identify performance bottlenecks and opportunities for optimization.
-
-
-Develop low-level custom kernels for maximum performance of the most critical operators.
-
-
-Collaborating with research teams by enabling new critical operators in advance of their availability in frameworks and compilers.
-
-
-About You
-
-
-You're an engineer looking to re-define efficient training of frontier LLMs at massive scale and have:
-
-
-A proven track record of critical contributions to the distributed training of LLMs at 1e25 FLOPs scale on modern GPU/TPU clusters  
-
-
-Experience in programming hardware accelerators GPU/TPUs via ML frameworks (e.g. JAX, PyTorch) and low-level programming models (e.g. CUDA, OpenCL)
-
-
-Experience in leveraging custom kernels and compiler infrastructure to improve performance on hardware
-
-
-Experience with Python and neural network training (publications, open-source projects, relevant work experience, etc.)
-
-
-The US base salary range for this full-time position is between $235,000 - $350,000 + bonus + equity + benefits. Your recruiter can share more about the specific salary range for your targeted location during the hiring process.
-Application deadline: July 31st, 2025
-Note: In the event your application is successful and an offer of employment is made to you, any offer of employment will be conditional on the results of a background check, performed by a third party acting on our behalf. For more information on how we handle your data, please see our Applicant and Candidate Privacy Policyopen_in_new.
-At Google DeepMind, we value diversity of experience, knowledge, backgrounds and perspectives and harness these qualities to create extraordinary impact. We are committed to equal employment opportunity regardless of sex, race, religion or belief, ethnic or national origin, disability, age, citizenship, marital, domestic or civil partnership status, sexual orientation, gender identity, pregnancy, or related condition (including breastfeeding) or any other basis as protected by applicable law. If you have a disability or additional need that requires accommodation, please do not hesitate to let us know."
