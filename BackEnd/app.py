@@ -24,9 +24,11 @@ app.config.update({
 app.register_blueprint(auth)
 CORS(app,
      supports_credentials=True,
-     resources={r"/*": {"origins": 
+     resources={r"/*": {"origins": [
+         "http://localhost:8000",
+         "https://127.0.0.1:8000",
          "https://127.0.0.1:8080"
-     }})
+     ]}})
 
 #helper functions:
 import csv
