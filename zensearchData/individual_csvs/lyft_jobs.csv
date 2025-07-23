@@ -1,5 +1,317 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-3292533,"Operations Associate","https://app.careerpuck.com/job-board/lyft/job/8080613002?gh_jid=8080613002","lyft","Phoenix","No",1,"Full time","2025-07-21T02:25:17.572898Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+2438022,"Senior Software Engineer - Map Data","https://app.careerpuck.com/job-board/lyft/job/7858083002?gh_jid=7858083002","lyft","Munich","No",5,"Full time","2025-07-23T02:20:35.999637Z","At Lyft, our mission is to improve peoples lives with the worlds best transportation. 
+Our transportation network serves millions daily, relying on a map that reflects the constantly changing real world. Our systems leverage insights from driving locations, sensor data, and user feedback to provide the best possible service. This empowers us to optimize routes, recommend ideal transport modes, ensure safe drop-off locations, and much more.
+To strengthen our efforts, we are hiring a Senior Software Engineer who will work end-to-end on creating and improving new capabilities to detect changes in the environment and reflect them in our Lyft map using a wide variety of input sources from the Lyft fleet. For this we are looking for someone who values software engineering best practices, loves the algorithmic and geospatial side of the challenge and is data-driven from start to end. 
+Our technology stack ranges from basic machine learning models to large language models and running them at scale on millions of images. You will work with incredibly passionate and talented colleagues from machine learning, data science, and engineering on projects that delight our passengers and drivers  powered by an up to date map.
+Responsibilities
+
+Design, develop, deploy, monitor, operate and maintain scalable, robust, stable, reliable and performant systems to support map data pipelines that operate on large data sets.
+Provide technical leadership and direction to the team by defining the teams roadmap, architecture, processes, and best practices, with a focus on scalability and robustness in data pipeline design and implementation for large geospatial datasets.
+Analyze our internal systems and processes, locate areas for improvement/automation, and build tools and dashboards to provide visibility.
+Write clean, testable, and maintainable code while implementing best practices for code reviews, CI/CD pipelines, and system observability.
+Help establish technical roadmaps and architectures based on technology and our business needs.
+Drive high-impact projects and innovate new solutions to provide the best mapping experience possible.
+Ship ML models at scale and low cost by focussing on systems / performance engineering.
+Create resilient and scalable infrastructure that enables rapid iteration of new pipelines and  machine learning models.
+
+Experience:
+
+BS/MS or equivalent degree in Computer Science, Machine Learning, or a related field.
+5+ years of proven work experience in software engineering.
+Extensive experience with Python (including its data related batteries like numpy or pandas).
+Familiarity with cloud platforms such as AWS and/or GCP, including experience with cloud infrastructure.
+Excellent communication and collaboration skills with experience working in cross-functional teams.
+Excellent analytical and problem-solving skills with a passion for tackling complex challenges.
+Proven track record of proactively driving initiatives, taking ownership of projects, and independently identifying and implementing improvements.
+
+Advantageous would be:
+
+Experience with MLOps processes.
+Familiarity with geospatial data processing, GIS frameworks, or mapping infrastructure.
+Familiarity with Go
+
+Benefits:
+
+Pension scheme with 4% employer contribution
+Risk and Accidental Death &amp; Dismemberment benefits
+Mental health benefits 
+Family building benefits
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+30 days of paid time off in addition to 10 observed holidays
+
+Lyft proudly pursues and hires a diverse workforce. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy.  Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your Recruiter if you wish to make such a request."
+3307182,"Associate, Customer Experience","https://app.careerpuck.com/job-board/lyft/job/8061341002?gh_jid=8061341002","lyft","Nashville","No",1,"Full time","2025-07-23T02:20:35.999710Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+The ideal candidate is someone who is passionate about customer experience and knows what it means to go above and beyond as an advocate for the Lyft community. You must be calm in the face of a storm, caring and compassionate, and able to have a strong sense of empathy in difficult situations. Our team consists of Customer Experience Associates supporting customers across chat, email and phone.
+Responsibilities:
+
+Create a personalized, positive and effortless experience for the Lyft community
+Provide friendly, timely support to Lyft drivers via chat, email and phone
+Troubleshoot user problems with the Lyft app
+Document all support contacts in a CRM system
+Make recommendations based on feature requests and bugs reported by users
+Be a community advocate for Lyft
+
+Experience:
+
+1+ years experience in customer service, required.
+1+ years experience in call center a plus, but not mandatory
+Computer proficiency required
+Friendly and enthusiastic, social personality
+Dependable and punctual with time management skills
+Strong writing skills and impeccable attention to detail
+Demonstrates empathy and the ability to take initiative on doing the right thing for the customer
+Advanced problem-solving skills with the ability to think creatively to resolve difficult situations
+Ability to quickly learn web-based user support applications
+Comfortable in a fast-paced environment, subject to rapid change and uncertainty
+Keen ability to work independently and in a team
+High level of comfort and familiarity with smartphone applications (iPhone and Android)
+Willingness to work a range of hours, weekends and holidays
+
+Benefits:
+
+Great medical, dental, and vision insurance options with additional programs available when enrolled
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+401(k) plan to help save for your future
+In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Subsidized commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Nashville  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+The expected base pay range for this position in the Nashville area is $16.62 - $20.77. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
+3300523,"Software Engineer, Security Foundations","https://app.careerpuck.com/job-board/lyft/job/8083487002?gh_jid=8083487002","lyft","San Francisco","No","Not specified","Full time","2025-07-23T02:20:35.999727Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+Lyft connects people to transportation to change the way we live and get around our communities. Lyfts engineering team is growing rapidly, and we are looking for Software Engineers with a passion in Security to help us scale. Come be part of the Security team at Lyft focused on enabling and empowering engineering teams to deliver secure services at scale.
+Our drivers and passengers entrust Lyft with their personal information and travel details to get where they're going and expect us to keep that data safe. Lyft's security team leads efforts across the company to ensure our systems are secure and worthy of our users' trust.
+The security team designs and builds Lyft's security architecture, consults with other teams as they build and launch new products and features, proactively plans for the unexpected, and responds to incidents that occur. Our work affects the entire company and takes place at all levels of the stack, from infrastructure to web application security, as well as mobile apps, IT, and autonomous vehicles. We try to approach security from a software engineering standpoint. We believe in scaling security through automation and tooling and we ship frequently. Check out our blog posts at https://eng.lyft.com/tagged/security to learn more about some of the things weve built.
+We're looking for an engineer who's excited about growing and improving security at Lyft by building systems and promoting security throughout the company. You'll play a part in shaping the future of security at Lyft, and your work will have significant impact and visibility.
+Responsibilities:
+
+Develop critical services that Lyft depends on such as our Identity Access Management platform, which governs and provides least-privileged access at Lyft for all employees and credential management service, which provides secrets to all our services at Lyft.
+Architect and build services that improve the security of our systems with an eye towards scalability and avoiding unnecessary friction.
+Evangelize our shared security responsibility model by collaborating with other Infrastructure teams at Lyft to ensure that our services and workflows are secure by default.
+Work on embedding security best practices such as least privilege, isolation, monitoring, authentication and authorization across our infrastructure from the application to network stack.  
+Provide rich data to engineers at Lyft to drive manual and automated decision making by working on our open-source service Cartography, which shows relationships between our infrastructure assets.
+
+Experience:
+
+Solid experience with a high level programming language (bonus points for experience with Python, Go-lang and shell scripts)
+Experience with (or a deep interest in) computer security
+When facing a problem that's poorly defined or outside of your expertise, you can quickly learn what you need to dig in, make sense of the problem, and start working towards a solution
+You're a great communicator, and can advocate for your proposals while also empathizing with your teammates' goals and priorities
+You understand that security work must be prioritized because all teams have finite resources. You have good judgment and a sense of when to compromise and when to hold your ground
+Understanding of computer network security or major computer networking protocols (e.g. TCP/IP, HTTP, TLS, DNS).
+Nice to haves: 
+
+Experience with Amazon Web Services (AWS) or any other major cloud service provider
+Kubernetes and container security and running fleets of endpoints or servers in the cloud.  
+Cryptography, PKI, or key distribution
+Running multi-tier or distributed web applications at scale
+
+
+Benefits:
+
+Great medical, dental, and vision insurance options with additional programs available when enrolled
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+401(k) plan to help save for your future
+In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Subsidized commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+The expected base pay range for this position in the San Francisco area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
+3300522,"Software Engineer, Security Foundations","https://app.careerpuck.com/job-board/lyft/job/8083636002?gh_jid=8083636002","lyft","Seattle","No",2,"Full time","2025-07-23T02:20:35.999741Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+Lyft connects people to transportation to change the way we live and get around our communities. Lyfts engineering team is growing rapidly, and we are looking for Software Engineers with a passion in Security to help us scale. Come be part of the Security team at Lyft focused on enabling and empowering engineering teams to deliver secure services at scale.
+Our drivers and passengers entrust Lyft with their personal information and travel details to get where they're going and expect us to keep that data safe. Lyft's security team leads efforts across the company to ensure our systems are secure and worthy of our users' trust.
+The security team designs and builds Lyft's security architecture, consults with other teams as they build and launch new products and features, proactively plans for the unexpected, and responds to incidents that occur. Our work affects the entire company and takes place at all levels of the stack, from infrastructure to web application security, as well as mobile apps, IT, and autonomous vehicles. We try to approach security from a software engineering standpoint. We believe in scaling security through automation and tooling and we ship frequently. Check out our blog posts at https://eng.lyft.com/tagged/security to learn more about some of the things weve built.
+We're looking for an engineer who's excited about growing and improving security at Lyft by building systems and promoting security throughout the company. You'll play a part in shaping the future of security at Lyft, and your work will have significant impact and visibility.
+Responsibilities:
+
+Develop critical services that Lyft depends on such as our Identity Access Management platform, which governs and provides least-privileged access at Lyft for all employees and credential management service, which provides secrets to all our services at Lyft.
+Architect and build services that improve the security of our systems with an eye towards scalability and avoiding unnecessary friction.
+Evangelize our shared security responsibility model by collaborating with other Infrastructure teams at Lyft to ensure that our services and workflows are secure by default.
+Work on embedding security best practices such as least privilege, isolation, monitoring, authentication and authorization across our infrastructure from the application to network stack.  
+Provide rich data to engineers at Lyft to drive manual and automated decision making by working on our open-source service Cartography, which shows relationships between our infrastructure assets.
+
+Experience:
+
+Solid experience with a high level programming language (bonus points for experience with Python, Go-lang and shell scripts)
+Experience with (or a deep interest in) computer security
+When facing a problem that's poorly defined or outside of your expertise, you can quickly learn what you need to dig in, make sense of the problem, and start working towards a solution
+You're a great communicator, and can advocate for your proposals while also empathizing with your teammates' goals and priorities
+You understand that security work must be prioritized because all teams have finite resources. You have good judgment and a sense of when to compromise and when to hold your ground
+Understanding of computer network security or major computer networking protocols (e.g. TCP/IP, HTTP, TLS, DNS).
+Nice to haves: 
+
+Experience with Amazon Web Services (AWS) or any other major cloud service provider
+Kubernetes and container security and running fleets of endpoints or servers in the cloud.  
+Cryptography, PKI, or key distribution
+Running multi-tier or distributed web applications at scale
+
+
+Benefits:
+
+Great medical, dental, and vision insurance options with additional programs available when enrolled
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+401(k) plan to help save for your future
+In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Subsidized commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+The expected base pay range for this position in the Seattle area is $117,760 - $147,200. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
+3300521,"Software Engineer, Async Platform","https://app.careerpuck.com/job-board/lyft/job/8083776002?gh_jid=8083776002","lyft","Seattle","No",3,"Full time","2025-07-23T02:20:35.999754Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+What we do
+We are building and maintaining a highly scalable asynchronous platform that empowers our organization to handle critical business cases. As a software engineering team, our mission is to create robust and innovative solutions that drive the success of our business and deliver unparalleled value to our customers.
+We adopt Infrastructure as Code practice to automate the provisioning and configuration of our resources, which helps reduce manual configuration and improve consistency. 
+Our team culture is built on collaboration, open communication, and a supportive environment where each member's ideas are valued and contributions are recognized. We believe in the importance of fostering a positive workplace culture that inspires innovation and creativity.
+Responsibilities:
+
+Maintain and analyze metrics from; operating systems; control planes; and applications to assist in fault detection and performance enhancement
+Design, develop and deploy tooling and systems that continually improve the reliability, scalability and efficiency of our platform
+Balance feature development speed and reliability with service-level objectives
+Operate and improve our Infrastructure using industry best practices and tools
+Participate in design and production readiness reviews, platform management and capacity planning ceremonies with cross-functional teams
+Document Infrastructure operations process and insights, identify repeatable actions and ruthlessly automate repetitive tasks
+Participate in our teams on-call rotations, respond to incidents and support other teams mitigate customer impacting events
+
+Experience:
+
+3+ years experience working on teams responsible for software development, automation and systems engineering
+Experience building large-scale infrastructure, distributed systems or networks. Knowledge with SQS, Kafka and Kinesis is a bonus.
+Experience developing in Go, Python, or other object-oriented programming languages
+Experience working with a cloud-based environments such as AWS/GCP/Azure
+Take pride in reducing technical debt; you pay attention to small details, and you value keeping code/configuration clean and maintainable.
+
+Benefits:
+
+Great medical, dental, and vision insurance options with additional programs available when enrolled
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+401(k) plan to help save for your future
+In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Subsidized commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+The expected base pay range for this position in the Seattle area is $117,760 - $147,200. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
+3300520,"Frontend Software Engineer","https://app.careerpuck.com/job-board/lyft/job/8083489002?gh_jid=8083489002","lyft","Mexico City","No",4,"Full time","2025-07-23T02:20:35.999767Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.
+Responsibilities:
+
+Write well-crafted, well-tested, readable, maintainable code. Leave the code in a better state than when you found it (progressive refactoring).
+Perform thoughtful code reviews for colleagues to ensure code quality and distribute knowledge
+Unblock, support and effectively communicate cross functionally in order to achieve results
+Evangelize appropriate tech and engineering best practices, and occasionally give internal or external tech talks
+Participate in hiring activities: take part in technical interviews, live coding, share detailed feedback to hiring best technical talent in the function
+Act as a mentor to other developers on the team
+
+Experience:
+
+Must have 4+ years of software engineering industry experience
+Advanced knowledge of JavaScript, CSS, and HTML
+Experience working with modern JavaScript frameworks, like React
+Experience working with NodeJS and Express applications
+Experience working with design systems (e.g. Bootstrap, Salesforce Lightning, GitHub Primer)
+Experience with unit, integration, and end-to-end testing
+Experience working cross-functionally with Product and Design
+Good understanding of web performance and how browsers and DOM work
+
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture.  This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Mexico City  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #HybridPlease submit your resume in English.
+En Lyft, nuestro propsito es servir y conectar. Buscamos lograrlo cultivando un ambiente de trabajo donde todos se sientan parte del equipo y tengan la oportunidad de prosperar.
+Responsabilidades:
+
+Ser parte de un equipo inclusivo y colaborativo que practica la programacin en pareja, discusiones saludables y apoyo entre el equipo para el logro de las metas.
+Colaborar con equipos interfuncionales con tecnologas nuevas y emergentes, determinando cmo integrarlas dentro de nuestra cambiante infraestructura.
+Desbloquear, dar soporte y comunicarse con socios internos para lograr resultados.
+Ayudar a establecer una ruta y arquitectura basada en tecnologa y nuestras necesidades de negocio.
+Evangelizar tecnologa y mejores prcticas, y ocasionalmente dar charlas tcnicas dentro y fuera de la organizacin
+Dejar el cdigo en un mejor estado del que lo encontraste (refactorizacin progresiva)
+Participar en revisiones de cdigo para asegurar la calidad del mismo y distribuir conocimiento
+Irse a casa sabiendo que el trabajo del da es importante para mejorar la vida de los conductores y pasajeros de Lyft
+
+Experiencia:
+
++4 Aos de expedicin en industria de Desarrollo de Software
+Conocimiento avanzado de JavaScript, CSS y HTML
+Experiencia trabajando con frameworks modernos de JavaScript como React
+Experiencia trabajando con aplicaciones en NodeJS y Express
+Experiencia trabajando con sistemas de diseo (ej. Bootstrap, Salesforce Lightning, GitHub Premier)
+Experiencia con pruebas unitarias, de integracin y end-to-end
+Experiencia trabajando con equipos interfuncionales de Producto y Diseo
+Buen entendimiento de desempeo web y como funcionan distintos navegadores y DOM
+
+Lyft valora enormemente que los empleados trabajen en la oficina para fomentar un ambiente de trabajo colaborativo y una cultura empresarial. Este puesto se realizar en la oficina con un horario hbrido tras el establecimiento de una oficina de Lyft en la Ciudad de Mxico. Se espera que los miembros del equipo trabajen en la oficina tres das a la semana: lunes, mircoles y jueves. Lyft considera que trabajar en la oficina al menos tres das a la semana es una funcin esencial de este puesto hbrido. Adems, los puestos hbridos ofrecen la flexibilidad de trabajar desde cualquier lugar hasta cuatro semanas al ao. #Hybrid
+Por favor enve su currculum en ingls."
+3300519,"Engineering Manager, Trust & Safety","https://app.careerpuck.com/job-board/lyft/job/8078413002?gh_jid=8078413002","lyft","Toronto","No",10,"Full time","2025-07-23T02:20:35.999781Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
+The Community Safety organization is responsible for ensuring the trust and safety of our riders and drivers. We work every day to build a trusted community, foster safe interactions, manage risky situations, and deliver best-in-class support. As part of this team, you will play a critical role in making transportation safer for all.
+We are looking for an experienced and highly motivated Engineering Manager to lead a team of talented engineers to deliver on key initiatives that enhance the safety of Lyfts community. Youll partner cross-functionally with product management, engineering, design, legal, research, and operations teams to build impactful safety features, models, and systems. This is a rare opportunity to apply your technical leadership to products and infrastructure that materially improve peoples well-being  while shaping the future of rideshare safety.
+Responsibilities:
+
+Set the technical vision and strategy for a rapidly evolving product area
+Co-own the product strategy with the product partner and ensure a timely delivery with high quality of the engineering solutions
+Lead a team of talented engineers who like to ship code and tackle hard engineering problems
+Mentor and guide the professional and technical development of your team members. Help develop their careers and assign them to projects tailored to their skill levels, personalities, work styles, and professional goals
+Build teams that are collaborative, inclusive, and respectful of each other
+Provide continuous feedback, address performance, and recognize the individual strengths and contributions of your team members
+Create plans for prioritizing technical and resourcing challenges in your organization
+Maintain a balance between building sustainable, high-impact projects and shipping things quickly
+Instill a spirit of continuous improvement in the teams code, architecture, and processes
+Work closely with the Lyft recruiting team to hire high potential candidates from diverse backgrounds
+Work with your engineers and/or product managers to maintain a prioritized backlog and create short term and long-term goals
+Own your teams deliverables and ensure we continue to ship scalable, highly-available products that delight our passengers and drivers
+Work closely with the Lyft recruiting team to hire high potential candidates from diverse backgrounds
+
+Experience:
+
+Bachelors degree in Computer Science, a related field, or equivalent practical experience
+10+ years of experience in software engineering
+3+ years of experience managing engineering teams
+Experience architecting, building, and scaling distributed systems
+Experience both launching consumer facing products and also leading backend and ML-focused teams
+You have experience leading a team of engineers and guiding them through their career development
+You enjoy working in a collaborative environment, and youre committed to driving projects to completion creatively
+You can motivate and instill a strong sense of ownership in your team
+You have experience guiding teams through planning, prioritization, and execution of work
+You are able to thrive in a heavily cross-functional environment and drive projects to completion regardless of the organizational structure
+You work well with product and science partners and help set the product vision for an ambiguous project
+Very strong written and verbal communications and presentation skills and aptitude to engage directly and effectively with company executives
+Preferred:
+
+Experience in a Trust &amp; Safety, Fraud, Identity, Security, or Privacy domain
+Understanding of sophisticated harms detection systems and evolving industry best practices
+
+
+
+Benefits:
+
+Extended health and dental coverage options, along with life insurance and disability benefits
+Mental health benefits
+Family building benefits
+Child care and pet benefits
+Access to a Lyft funded Health Care Savings Account
+RRSP plan to help save for your future
+In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service 
+Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.
+Subsidized commuter benefits
+
+Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
+Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+The expected base pay range for this position in the Toronto area is $172,000 - $215,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
+3292533,"Operations Associate","https://app.careerpuck.com/job-board/lyft/job/8080613002?gh_jid=8080613002","lyft","Phoenix","No",1,"Full time","2025-07-23T02:20:35.999793Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Flexdrive is a subsidiary of Lyft that works together with Lyft teams to realize our shared mission.
 Flexdrive, a subsidiary of Lyft provides vehicle access to Lyft drivers through a flexible car rental subscription program, is looking for a motivated and organized Operations Associate to join our Phoenix team full-time. Reporting into the Operations Lead, in this role, you will be providing quality in-person experiences by serving customers at our local Flexdrive facilities that offer the Express Drive Program end-to-end rental process and preparing them for the exciting road ahead. If you love working with people, have a passion for operations and the thought of helping Lyft drivers continue to build this incredible ride-sharing movement in Phoenix sounds exciting, we would love to meet you!  
 Responsibilities:
@@ -41,7 +353,7 @@ Flexdrive highly values having employees working in-office to foster a collabora
 The expected base pay range for this position in the Phoenix area is $16.62 - $20.77. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process. 
 Flexdrive is an Equal Opportunity Employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status,"
-3292531,"Content Designer, Lyft Business","https://app.careerpuck.com/job-board/lyft/job/8083492002?gh_jid=8083492002","lyft","Providence","No",6,"Full time","2025-07-21T02:25:17.572970Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3292531,"Content Designer, Lyft Business","https://app.careerpuck.com/job-board/lyft/job/8083492002?gh_jid=8083492002","lyft","Providence","No",6,"Full time","2025-07-23T02:20:35.999806Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Every day, millions of people rely on Lyft to get them to work, appointments, and their hotel after a long day of travel. And we're looking for a Content Designer to support this work, specifically on our B2B product, Lyft Business. 
 In this role, you'll help solve complex user problems and create clear, on-brand customer-centric copy that helps people connect to the world around them. Of course, you wont be alone. You'll work with designers, researchers, marketers, and product managers day in and day out to ensure that Lyft Business' features are clearly communicated and intuitive to use. 
 As a member of the Content Design team, you'll elevate your peers' solutions, help define best practices and systems to scale our team, and advocate for the discipline across Lyft and beyond.  
@@ -91,7 +403,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Rhode Island  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Rhode Island area is $113,160 - $141,450. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3285992,"Software Engineer, Road Safety","https://app.careerpuck.com/job-board/lyft/job/7973043002?gh_jid=7973043002","lyft","Toronto","No",3,"Full time","2025-07-21T02:25:17.572988Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3285992,"Software Engineer, Road Safety","https://app.careerpuck.com/job-board/lyft/job/7973043002?gh_jid=7973043002","lyft","Toronto","No",3,"Full time","2025-07-23T02:20:35.999820Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft is looking for an experienced backend software engineer to join our Road Safety Team. We are growing our team with people who want to build, improve, and incorporate technologies that enrich the lives of our community by making Lyft safer and more affordable. As an engineer at Lyft, you'll collaborate with teams like product, mobile engineering, data science, design, and operations on code that empowers us to iterate quickly while focusing on delighting our passengers and drivers.As a Software Engineer for Road Safety, you will contribute to internal and external facing products that make Lyft safer by reducing the frequency and severity of accidents on the platform. You will partner with teams such as Telematics to leverage ride-level insights into user facing products, and collaborate on launches across all of Lyft, fostering collaboration and driving innovation to increase the adoption &amp; usage of Lyfts safety insights.
 Responsibilities:
 
@@ -131,7 +443,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $148,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3285991,"Software Engineer, Observability","https://app.careerpuck.com/job-board/lyft/job/8080575002?gh_jid=8080575002","lyft","Toronto","No",3,"Full time","2025-07-21T02:25:17.573003Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
+3285991,"Software Engineer, Observability","https://app.careerpuck.com/job-board/lyft/job/8080575002?gh_jid=8080575002","lyft","Toronto","No",3,"Full time","2025-07-23T02:20:35.999832Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
 Responsibilities:
 
 Maintain and analyze metrics from operating systems, control planes, and applications to assist in fault detection and performance enhancement.
@@ -167,7 +479,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3277241,"Software Engineer, Server","https://app.careerpuck.com/job-board/lyft/job/8078417002?gh_jid=8078417002","lyft","Mexico City","No",3,"Full time","2025-07-21T02:25:17.573017Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive
+3277241,"Software Engineer, Server","https://app.careerpuck.com/job-board/lyft/job/8078417002?gh_jid=8078417002","lyft","Mexico City","No",3,"Full time","2025-07-23T02:20:35.999844Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive
 Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.
 Responsibilities
 
@@ -204,7 +516,7 @@ Lacks of hands on experience
 
 
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture.  This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Mexico City  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid Please submit your resume in English."
-3277240,"Senior Data Scientist, Trust and Safety","https://app.careerpuck.com/job-board/lyft/job/8078412002?gh_jid=8078412002","lyft","Toronto","No",5,"Full time","2025-07-21T02:25:17.573031Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3277240,"Senior Data Scientist, Trust and Safety","https://app.careerpuck.com/job-board/lyft/job/8078412002?gh_jid=8078412002","lyft","Toronto","No",5,"Full time","2025-07-23T02:20:35.999857Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 The Community Safety organization is responsible for ensuring the trust and safety of our riders and drivers. We work every day to build a trusted community, foster safe interactions, manage risky situations, and deliver best-in-class support. As part of this team, you will play a critical role in making transportation safer for all.
 We are looking for an experienced and highly motivated Senior Data Scientist to lead key initiatives that enhance the safety of Lyfts community. Youll work cross-functionally with product management, engineering, design, legal, research, and operations teams to build impactful safety features, models, and systems. This high-impact role requires deep customer empathy, insatiable curiosity to uncover platform risks; and competencies to explore large datasets, develop statistical models, and design data-driven strategies for products that provide safe and engaging experiences for customers.
 Youll report to a Data Science Manager within the Rider &amp; Safety Data Science team.
@@ -247,7 +559,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD$136,000 - CAD $170,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3277239,"Backend Engineer, Real-time supply management","https://app.careerpuck.com/job-board/lyft/job/8070802002?gh_jid=8070802002","lyft","San Francisco","No",3,"Full time","2025-07-21T02:25:17.573052Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3277239,"Backend Engineer, Real-time supply management","https://app.careerpuck.com/job-board/lyft/job/8070802002?gh_jid=8070802002","lyft","San Francisco","No",3,"Full time","2025-07-23T02:20:35.999869Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 The Real Time Supply Management team, in Marketplace, at Lyft is responsible for managing our suite of real time driver earnings products, driving top business goals around financial metrics and marketplace performance. The team develops and improves algorithms to automate the management of our real time earnings products, develops new earnings products, and manages financial performance of these products to manage the growth of the business. 
 Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.
 Responsibilities:
@@ -283,7 +595,7 @@ Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits 
 Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.#LI-IR1"
-3277238,"Backend Engineer, Real-time supply management","https://app.careerpuck.com/job-board/lyft/job/8071014002?gh_jid=8071014002","lyft","New York","No",3,"Full time","2025-07-21T02:25:17.573071Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3277238,"Backend Engineer, Real-time supply management","https://app.careerpuck.com/job-board/lyft/job/8071014002?gh_jid=8071014002","lyft","New York","No",3,"Full time","2025-07-23T02:20:35.999881Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 The Real Time Supply Management team, in Marketplace, at Lyft is responsible for managing our suite of real time driver earnings products, driving top business goals around financial metrics and marketplace performance. The team develops and improves algorithms to automate the management of our real time earnings products, develops new earnings products, and manages financial performance of these products to manage the growth of the business. 
 Lyft is looking for experienced software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.
 Responsibilities:
@@ -319,41 +631,7 @@ Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits 
 Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the New York City area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.#LI-IR1"
-2925999,"Analytics Lead, Customer Care","https://app.careerpuck.com/job-board/lyft/job/7991643002?gh_jid=7991643002","lyft","San Francisco","No",4,"Full time","2025-07-21T02:25:17.573092Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
-The vision of the Safety &amp; Customer Care (SCC) team is to foster long-term loyalty to Lyft with every support interaction.  If we are successful, a Lyft customer will rarely interact with Lyft Support. But when that interaction occurs, their issue is resolved quickly, effectively, and with true care. For a Lyft customer, their experience of Support should be that Lyft cares about me and made the experience easy.
-As an Analytics Lead, youll partner directly with cross-functional stakeholders to identify opportunities and design solutions for improving our customer support experience. Youll leverage your analytical expertise to deliver actionable insights and recommendations to drive quality business decisions with customer-facing impact.  Customer support at Lyft is evolvingintegrating customer experience with AI to deliver faster, more personalized, and scalable solutions.  You will have a direct impact to redefining support as a strategic driver of customer trust and satisfaction.
-Responsibilities
-
-Tell a Story with Data: Interpret data into compelling narratives with clear recommendations that influence our product and customer support experience
-Sharing Insights that Matter: Monitor KPIs, uncover root causes behind performance shifts and present insights to senior leadership teams
-Collaborate Across Teams: Partner with Product, Engineering, Data Science &amp; Analytics, Business Operations and other cross-functional stakeholders to achieve business goals 
-Measure Success: Define metrics used to measure the success of strategic initiatives and health of our customer support platform by building dashboards and tracking metrics over time
-Drive Operational Excellence: Measure business health, customer sentiment, monitor operational performance and identify opportunities for continuous improvement.
-
-Experience
-
-4+ years of experience in data analytics or a related analyst role, ideally within a high-growth tech or startup environment
-Skilled in communicating insights across audiences, with strong experience in written, verbal, and listening communication
-Proficient in working with SQL and Python (a plus), with hands-on experience analyzing large datasets and integrating inputs from multiple sources
-Demonstrated ability to translate ambiguous business challenges into structured analytical problems with minimal guidance
-Proven track record of using data to solve complex problems and connect detailed analysis to broader strategic goals
-Experience in building trust and collaborating across functions, with a strong ability to influence stakeholders and align on shared objectives
-
-Benefits:
-
-Great medical, dental, and vision insurance options
-Mental health benefits
-Family building benefits
-In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
-401(k) plan to help save for your future
-18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
-Pre-tax commuter benefits
-Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
-
-Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
-This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-The expected base pay range for this position in the San Francisco area is $118,000 - $147,500. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-2909820,"Sr. Manager, Strategic Finance","https://app.careerpuck.com/job-board/lyft/job/7985508002?gh_jid=7985508002","lyft","San Francisco","No","Not specified","Full time","2025-07-21T02:25:17.573114Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+2909820,"Sr. Manager, Strategic Finance","https://app.careerpuck.com/job-board/lyft/job/7985508002?gh_jid=7985508002","lyft","San Francisco","No","Not specified","Full time","2025-07-23T02:20:35.999893Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Financial Planning &amp; Analysis (FP&amp;A) is an integral part of the decision-making process at Lyft, embedded within the business to ensure we maximize ROI and drive to the best possible P&amp;L outcomes. Lyfts FP&amp;A team is looking for a Sr. Manager, Strategic Finance to join our FP&amp;A team. 
 Reporting to the Sr. Director of FP&amp;A, this candidate will work closely with senior executives throughout the organization to provide critical financial information, business metrics, and market insights to enable Lyft to make optimal investment, operational, and management decisions. This is a highly visible role with the opportunity to build and lead a high-performing team, driving meaningful impact at a company undergoing exciting and transformational change.
 Responsibilities:
@@ -390,7 +668,41 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $169,000 - $211,250. Salary ranges are dependent on a variety of factors, including qualifications, experience, and geographic location. This range is not inclusive of potential equity offering, bonus, or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-2980589,"Analytics Lead, Safety","https://app.careerpuck.com/job-board/lyft/job/8005387002?gh_jid=8005387002","lyft","San Francisco","No",4,"Full time","2025-07-21T02:25:17.573135Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+2925999,"Analytics Lead, Customer Care","https://app.careerpuck.com/job-board/lyft/job/7991643002?gh_jid=7991643002","lyft","San Francisco","No",4,"Full time","2025-07-23T02:20:35.999906Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+The vision of the Safety &amp; Customer Care (SCC) team is to foster long-term loyalty to Lyft with every support interaction.  If we are successful, a Lyft customer will rarely interact with Lyft Support. But when that interaction occurs, their issue is resolved quickly, effectively, and with true care. For a Lyft customer, their experience of Support should be that Lyft cares about me and made the experience easy.
+As an Analytics Lead, youll partner directly with cross-functional stakeholders to identify opportunities and design solutions for improving our customer support experience. Youll leverage your analytical expertise to deliver actionable insights and recommendations to drive quality business decisions with customer-facing impact.  Customer support at Lyft is evolvingintegrating customer experience with AI to deliver faster, more personalized, and scalable solutions.  You will have a direct impact to redefining support as a strategic driver of customer trust and satisfaction.
+Responsibilities
+
+Tell a Story with Data: Interpret data into compelling narratives with clear recommendations that influence our product and customer support experience
+Sharing Insights that Matter: Monitor KPIs, uncover root causes behind performance shifts and present insights to senior leadership teams
+Collaborate Across Teams: Partner with Product, Engineering, Data Science &amp; Analytics, Business Operations and other cross-functional stakeholders to achieve business goals 
+Measure Success: Define metrics used to measure the success of strategic initiatives and health of our customer support platform by building dashboards and tracking metrics over time
+Drive Operational Excellence: Measure business health, customer sentiment, monitor operational performance and identify opportunities for continuous improvement.
+
+Experience
+
+4+ years of experience in data analytics or a related analyst role, ideally within a high-growth tech or startup environment
+Skilled in communicating insights across audiences, with strong experience in written, verbal, and listening communication
+Proficient in working with SQL and Python (a plus), with hands-on experience analyzing large datasets and integrating inputs from multiple sources
+Demonstrated ability to translate ambiguous business challenges into structured analytical problems with minimal guidance
+Proven track record of using data to solve complex problems and connect detailed analysis to broader strategic goals
+Experience in building trust and collaborating across functions, with a strong ability to influence stakeholders and align on shared objectives
+
+Benefits:
+
+Great medical, dental, and vision insurance options
+Mental health benefits
+Family building benefits
+In addition to 12 observed holidays, salaried team members have unlimited paid time off, hourly team members have 15 days paid time off
+401(k) plan to help save for your future
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+Pre-tax commuter benefits
+Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
+
+Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
+The expected base pay range for this position in the San Francisco area is $118,000 - $147,500. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
+2980589,"Analytics Lead, Safety","https://app.careerpuck.com/job-board/lyft/job/8005387002?gh_jid=8005387002","lyft","San Francisco","No",4,"Full time","2025-07-23T02:20:35.999918Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 The vision of this team is to foster long-term loyalty to Lyft with every support interaction.  If we are successful, a Lyft customer will rarely interact with Lyft Support. But when that interaction occurs, their issue is resolved quickly, effectively, and with true care. For a Lyft customer, their experience of Support should be that Lyft cares about me and made the experience easy.
 As an Analytics Lead, youll partner directly with cross-functional stakeholders to identify opportunities and design solutions for improving our customer support experience. Youll leverage your analytical expertise to deliver actionable insights and recommendations to drive quality business decisions with customer-facing impact.  Customer support at Lyft is evolvingintegrating customer experience with AI to deliver faster, more personalized, and scalable solutions.  You will have a direct impact to redefining support as a strategic driver of customer trust and satisfaction.
 Responsibilities
@@ -424,7 +736,7 @@ Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits 
 Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
 This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $118,000 - $147,500. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3269793,"Software Engineer, Rider","https://app.careerpuck.com/job-board/lyft/job/8074795002?gh_jid=8074795002","lyft","Toronto","No","Not specified","Full time","2025-07-21T02:25:17.573156Z","At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+3269793,"Software Engineer, Rider","https://app.careerpuck.com/job-board/lyft/job/8074795002?gh_jid=8074795002","lyft","Toronto","No","Not specified","Full time","2025-07-23T02:20:35.999932Z","At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 Lyft is looking for software engineers from a scope of disciplines. We are growing our team with people who want to build, improve and incorporate technologies that make the lives of our community more enriched. As an engineer at Lyft, you'll collaborate with teams like product, data science, analytics, and operations on code that empower us to iterate quickly, while focusing on delighting our passengers and drivers.
 The Rider organization is focused on building a seamless, best-in-class rideshare experience for riders. From the foundational functionality of requesting a ride to the tailored interactions with your flight, we sweat the small stuff to help make Lyft the best transportation solution. As a server software engineer on the Rider Team, you will work hand in hand with various teams across Lyft, fostering collaboration, and driving innovation to improve riders' experience with rideshare.
  
@@ -461,49 +773,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3269791,"Field Operations Associate","https://app.careerpuck.com/job-board/lyft/job/8074448002?gh_jid=8074448002","lyft","Los Angeles","No",1,"Full time","2025-07-21T02:25:17.573176Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-Flexdrive is a subsidiary of Lyft that works together with Lyft teams to realize our shared mission. 
-Flexdrive, a subsidiary of Lyft provides vehicle access to Lyft drivers through a flexible car rental subscription program, is looking for a motivated and organized Operations Associate to join our Los Angeles team full-time. Reporting into the Operations Lead, in this role, you will be providing quality in-person experiences by serving customers at our local Flexdrive facilities that offer the Express Drive Program end-to-end rental process and preparing them for the exciting road ahead. If you love working with people, have a passion for operations and the thought of helping Lyft drivers continue to build this incredible ride-sharing movement in Los Angeles sounds exciting, we would love to meet you!  
-Responsibilities:
-
-Assists customers with the car rental process, including but not limited to Express Drive customer support, customer Arrival/Check-In, assigning drivers to rental vehicles and processing rental returns
-Prepares Flexdrive rental vehicles for Lyft Drivers, which includes fueling and cleaning, installing telematics, license plates, conducting fleet vehicle inspections, and managing vehicle compliance documents
-Manages vehicle lot organization, vehicle transportation, and other daily rental operations
-Flags vehicle issues, program challenges, and bugs to the Operations Lead and internal/external partners
-Builds trust and works effectively with others to achieve results and team goals
-Upholds Flexdrives high standard of service while working with all drivers and be an ambassador for the Lyft brand
-Takes initiative and ownership to ""make it happen"" and seeks out opportunities to contribute to team success
-
-Experience:
-
-1+ year of experience in an in-person customer service role like retail, technical support or hospitality
-Familiarity with the Los Angeles area
-Impeccable customer service and problem-solving skills
-Excellent, clear verbal and written communication skills
-What should come easy to you: patience, problem identifying and solving, de-escalating situations, teamwork, and self-governance 
-Team Player Mentality: We are all about THE TEAM, since we all know there is no I in TEAM
-Bonus points if you love ride-sharing so much that you're a Lyft driver too! 
-Proficiency in other languages is considered a plus!
-A valid unrestricted driver's license and satisfactory driving record and be insurable under Lyft's policy required
-
-Benefits:
-
-Great medical, dental, and vision insurance options with additional programs available when enrolled
-Mental health benefits
-Family building benefits
-Child care and pet benefits
-401(k) plan to help save for your future
-In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
-18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
-Subsidized commuter benefits
-Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
-
-Note: For this role, candidates must reside in states registered for Flexdrive Services LLC.
-This role is on-site at a Lyft Flexdrive hub or office location full time. #Onsite
-The expected base pay range for this position in the Los Angeles area is $18.86 - $23.31. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
-Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process. 
-Flexdrive is an Equal Opportunity Employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. Flexdrive also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Flexdrive will also consider employment for qualified applicants with criminal histories consistent with applicable federal, state and local law."
-3269789,"Operation Manager, AV Deployment","https://app.careerpuck.com/job-board/lyft/job/8074450002?gh_jid=8074450002","lyft","Nashville","No",5,"Full time","2025-07-21T02:25:17.573198Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3269789,"Operation Manager, AV Deployment","https://app.careerpuck.com/job-board/lyft/job/8074450002?gh_jid=8074450002","lyft","Nashville","No",5,"Full time","2025-07-23T02:20:35.999944Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Flexdrive is a subsidiary of Lyft that works together with Lyft teams to realize our shared mission. 
 At Flexdrive, we're at the forefront of revolutionizing transportation, and a crucial part of that journey is building the future of autonomous vehicle (AV) operations. We're seeking an experienced and highly analytical Program Manager, AV Operations Enablement to play a pivotal role in designing, implementing, and optimizing our new AV depot operations. This is an exciting opportunity for a strategic thinker with deep knowledge of the AV space and strong project management skills to make a significant impact.
 Reporting to the Director, Field Operations, you'll be instrumental in developing foundational and operational plans for our AV operations. You'll act as the primary operational leader, responsible for creating the strategic framework, executing complex projects, and ensuring the seamless functioning of our AV support infrastructure in close partnership with our AV technology partners.
@@ -562,7 +832,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Nashville  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Nashville area is $88,560 - $110,700. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3269788,"Data Engineer, Decision Apps","https://app.careerpuck.com/job-board/lyft/job/8071011002?gh_jid=8071011002","lyft","Toronto","No",3,"Full time","2025-07-21T02:25:17.573220Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3269788,"Data Engineer, Decision Apps","https://app.careerpuck.com/job-board/lyft/job/8071011002?gh_jid=8071011002","lyft","Toronto","No",3,"Full time","2025-07-23T02:20:35.999957Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
  Here at Lyft, Data powers all the decisions we make. It is the core of our business, helping us create a great transportation experience for our customers, and providing insights into the effectiveness of our services and products.
 You will be part of Lyfts core Marketplace team, focusing on developing pipelines that support decision-making processes for supply, demand, finance and competitive data. Your contributions will help data scientists and business leaders make informed decisions that drive Lyfts success.
 You will join a dynamic team responsible for data transport, collection, and storage systems while exposing services that prioritize data as a first-class citizen. Your work will involve proposing innovative ideas, evaluating multiple approaches, and implementing solutions based on fundamental principles and supporting data.
@@ -605,7 +875,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-2891461,"Engineering Manager, Mapping","https://app.careerpuck.com/job-board/lyft/job/7976188002?gh_jid=7976188002","lyft","Toronto","No","Not specified","Full time","2025-07-21T02:25:17.573242Z","At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+2891461,"Engineering Manager, Maps.","https://app.careerpuck.com/job-board/lyft/job/7976188002?gh_jid=7976188002","lyft","Toronto","No","Not specified","Full time","2025-07-23T02:20:35.999970Z","At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 We are seeking an experienced Engineering Manager to join the Mapping organization and manage the team responsible for building, enhancing and maintaining the Rider and Driver product for the Pick-up Experience. This team supports the backbone of Lyft's search system, supporting millions of rides by helping our riders and drivers connect and reach their destinations. Our focus is to ensure the pick-up/drop-off experience is seamless by enhancing guidance and routing as well as the rider experience. Additionally the team uses map data to create new product experiences in collaboration with teams across Lyft. This team has a history of enabling rich and creative features that directly influence the product for all our users. We constantly innovate and incorporate cutting-edge technologies to make the lives of our community more enriched.
 We are looking for an engineering manager with a passion for mapping and a proven expertise in managing teams with ownership of microservices, big-data processing and experience in building scalable solutions in cloud environments.
 Responsibilities:
@@ -651,7 +921,7 @@ Subsidized commuter benefits
 
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request. Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $172,000 - CAD $215,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3263164,"Staff Product Designer, Fleets","https://app.careerpuck.com/job-board/lyft/job/8074539002?gh_jid=8074539002","lyft","New York","No",8,"Full time","2025-07-21T02:25:17.573264Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+3263164,"Staff Product Designer, Fleets","https://app.careerpuck.com/job-board/lyft/job/8074539002?gh_jid=8074539002","lyft","New York","No",8,"Full time","2025-07-23T02:20:35.999983Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 The Fleets team works on some of the fastest growing areas at Lyft, including:
 
 Autonomous Vehicles: Enabling riders to book AV rides via our partner network.
@@ -694,7 +964,7 @@ Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits 
 Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
 This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the NYC area is $176,000 - $210,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3263163,"Sr. Employee Relations Manager","https://app.careerpuck.com/job-board/lyft/job/8069875002?gh_jid=8069875002","lyft","U.S. Anywhere","No",7,"Full time","2025-07-21T02:25:17.573285Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
+3263163,"Sr. Employee Relations Manager","https://app.careerpuck.com/job-board/lyft/job/8069875002?gh_jid=8069875002","lyft","U.S. Anywhere","No",7,"Full time","2025-07-23T02:20:35.999997Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
 The Senior Employee Relations Manager will have company wide responsibilities supporting investigations, performance management, accommodations, and more! The ideal candidate possesses exceptional listening skills, adeptness in conducting interviews, and the ability to maintain composure in emotionally charged or high-pressure scenarios. Proficiency in both written and verbal communication is essential, coupled with comfortability utilizing various technologies. 
 Responsibilities:
 
@@ -738,7 +1008,7 @@ Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits 
 Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the U.S. is $108,240 - $135,300. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3263161,"Senior Accountant ","https://app.careerpuck.com/job-board/lyft/job/8071482002?gh_jid=8071482002","lyft","Mexico City","No",4,"Full time","2025-07-21T02:25:17.573307Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3263161,"Senior Accountant ","https://app.careerpuck.com/job-board/lyft/job/8071482002?gh_jid=8071482002","lyft","Mexico City","No",4,"Full time","2025-07-23T02:20:36.000010Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft is looking to hire a qualified and experienced Senior Accountant to its Accounting Operations team in Mexico. This is a crucial role that will assist in overseeing accounting operations in a fast paced environment. The candidate should expect to leverage current skill-sets while also focusing on learning quickly and adding value to the current processes.
 Responsibilities:
 
@@ -789,7 +1059,7 @@ Pensamiento de futuro: Una mentalidad orientada a la innovacin, el aprendizaje c
 
 Lyft valora enormemente que los empleados trabajen en la oficina para fomentar un ambiente de trabajo colaborativo y una cultura empresarial. Este puesto se realizar en la oficina con un horario hbrido tras el establecimiento de una oficina de Lyft en la Ciudad de Mxico. Se espera que los miembros del equipo trabajen en la oficina tres das a la semana: lunes, mircoles y jueves. Lyft considera que trabajar en la oficina al menos tres das a la semana es una funcin esencial de este puesto hbrido. Adems, los puestos hbridos ofrecen la flexibilidad de trabajar desde cualquier lugar hasta cuatro semanas al ao. #Hybrid 
 Por favor enve su currculum en ingls."
-3260808,"Data Engineer, Customer Care","https://app.careerpuck.com/job-board/lyft/job/8069876002?gh_jid=8069876002","lyft","Kyiv","No",5,"Full time","2025-07-21T02:25:17.573328Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+3260808,"Data Engineer, Customer Care","https://app.careerpuck.com/job-board/lyft/job/8069876002?gh_jid=8069876002","lyft","Kyiv","No",5,"Full time","2025-07-23T02:20:36.000023Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 Here at Lyft, Data is the only way we make decisions. It is the core of our business, helping us create a transportation experience for our customers, and providing insights into the effectiveness of our product launch &amp; features.
 As a Data Engineer at Lyft, you will be a part of an early-stage team that builds the data transport, collection, and storage, and exposes services that make data a first-class citizen at Lyft. We are looking for a Data Engineer to build a scalable data platform. You will proactively propose new ideas, evaluate multiple approaches and choose the best one based on fundamental qualities and supporting data. Communicate highly technical problems, working along with our cross-functional team. Youll have ownership of our core data pipeline that powers Lyfts top-line metrics; You will also use data expertise to help evolve data models in several components of the data stack; You will help architect, building, and launching scalable data pipelines to support Lyfts growing data processing and analytics needs. Your efforts will allow access to business and user behavior insights, using huge amounts of Lyft data to fuel various teams such as Analytics, Data Science, Engineering, and many others. 
 Responsibilities:
@@ -824,7 +1094,7 @@ Mental health benefits.
 Family building benefits.
 
 This role is fully remote in Ukraine, candidates for this role must be based in Ukraine. #Remote"
-3258677,"Data Curation Associate (Customer Experience)","https://app.careerpuck.com/job-board/lyft/job/8071621002?gh_jid=8071621002","lyft","Mexico City","No","Not specified","Full time","2025-07-21T02:25:17.573349Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3258677,"Data Curation Associate (Customer Experience)","https://app.careerpuck.com/job-board/lyft/job/8071621002?gh_jid=8071621002","lyft","Mexico City","No","Not specified","Full time","2025-07-23T02:20:36.000035Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for their input.
 Data Curation Operations is a team which supports all ongoing curation projects for Mapping and other teams at Lyft. Our mission is to improve customer experience in Lyft products by providing high-quality, comprehensive, and efficient data curation operations. 
 As a Data Curation Associate at Lyft, you will play a crucial role in ensuring the accuracy, quality, and usability of Map Data. You will work closely with various teams to curate and maintain data sets that are essential for our operations and decision-making processes. We are looking for someone who has good analytical skills and is able to work with a large amount of information. If you have an entrepreneurial spirit, like to solve challenging problems, and want to be part of the next big thing at Lyft, we would love to meet you!
@@ -862,7 +1132,7 @@ Experience with Jira, Confluence
 
 
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture.  This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Mexico City  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #HybridPlease submit your resume in English."
-3254673,"Staff Machine Learning Engineer","https://app.careerpuck.com/job-board/lyft/job/8067058002?gh_jid=8067058002","lyft","Toronto","No",8,"Full time","2025-07-21T02:25:17.573364Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254673,"Staff Machine Learning Engineer","https://app.careerpuck.com/job-board/lyft/job/8067058002?gh_jid=8067058002","lyft","Toronto","No",8,"Full time","2025-07-23T02:20:36.000047Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 With over half a billion rides and counting, Lyft is solving hard problems in a rapidly growing domain with a lot of data and creative solutions in Rider, Marketplace, Growth, and beyond. While traditional approaches to optimization and problem decomposition are sufficient to disrupt transportation, building a next-generation platform for low-cost, ultra-immersive transportation to improve people's lives warrants modern ML utilizing peta-byte scale data. 
 Our highly motivated Machine Learning Engineers work on these challenging problems and define solutions to directly impact various aspects of our core business. Join us in our mission to revolutionize transportation and improve lives by leveraging cutting-edge machine learning technologies. At Lyft, we foster a culture of innovation, inclusivity, and continuous learning, where every team member is empowered to make a difference.
 We are seeking a Staff Machine Learning Engineer to lead the design, development, and deployment of state-of-the-art machine learning systems. This role requires a strategic thinker who can balance high-level system architecture with hands-on technical implementation. You will collaborate across teams to shape the future of ride-sharing by leveraging AI, Machine learning and Data science.
@@ -906,7 +1176,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $189,200 - CAD $236,500. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254672,"Sr Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067249002?gh_jid=8067249002","lyft","New York","No",3,"Full time","2025-07-21T02:25:17.573377Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254672,"Sr Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067249002?gh_jid=8067249002","lyft","New York","No",3,"Full time","2025-07-23T02:20:36.000059Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, Legal, and Public Policy to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -945,7 +1215,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the New York City area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254671,"Sr Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067206002?gh_jid=8067206002","lyft","San Francisco","No",3,"Full time","2025-07-21T02:25:17.573390Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254671,"Sr Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067206002?gh_jid=8067206002","lyft","San Francisco","No",3,"Full time","2025-07-23T02:20:36.000071Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, Legal, and Public Policy to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -984,7 +1254,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254670,"Software Engineer","https://app.careerpuck.com/job-board/lyft/job/8072205002?gh_jid=8072205002","lyft","Mexico City","No",3,"Full time","2025-07-21T02:25:17.573403Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+3254670,"Software Engineer","https://app.careerpuck.com/job-board/lyft/job/8072205002?gh_jid=8072205002","lyft","Mexico City","No",3,"Full time","2025-07-23T02:20:36.000084Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 Lyft AV brings the autonomous future to life by matching our community of riders with self-driving vehicles to meet their transportation needs today. The program is powered by a technical team innovating to build new features, experiment, and evolve approaches for emerging business needs. At the same time, we prioritize production quality because our customers put their trust in us for safety and reliability.
 As a Software Engineer for Autonomous Vehicles, youll be responsible for executing integrations with partners, making tradeoffs between technical investments and product work, and collaborating with other engineers on system design. You will help shape the product direction by developing a deep understanding of the customer and working closely with cross-functional partners from Product, Design, Science, and Operations. You will work with a group of talented engineers and help the team to deliver significant business impact while being open to change through constant experimentation in an ambiguous emerging product. If you enjoy collaborating with technical and nontechnical partners in a fast-moving space with real-world impact, this is the role for you.
 Our Driver Organization is working on creating the best onboarding and compliance experience in the industry. We help drivers quickly get on the road and start earning in over 300 markets in both the U.S. and Canada. We create delightful experiences by streamlining the complex process of collecting driver documents, conducting safety checks, and ensuring compliance with local regulations. We leverage the latest technologies in image recognition and intelligent automation to make driving for Lyft easy. The teams collaborate closely with legal, operations, design, and marketing to deliver business-critical initiatives.
@@ -1012,7 +1282,7 @@ Must have a track record of professional excellence
 
 This role will be in-office on a hybrid schedule if an established Lyft Location is available to the Mexico City region  Hybrid Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 Please submit your resume in English."
-3254669,"Senior Machine Learning Engineer, Recommendations","https://app.careerpuck.com/job-board/lyft/job/8039964002?gh_jid=8039964002","lyft","Toronto","No",5,"Full time","2025-07-21T02:25:17.573418Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
+3254669,"Senior Machine Learning Engineer, Recommendations","https://app.careerpuck.com/job-board/lyft/job/8039964002?gh_jid=8039964002","lyft","Toronto","No",5,"Full time","2025-07-23T02:20:36.000095Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
 With over half a billion rides and counting, Lyft is solving hard problems in a rapidly growing domain with a lot of data and creative solutions in Marketplace, Mapping, Fraud, Trust &amp; Safety, Growth and beyond. While traditional approaches to optimization and problem decomposition are sufficient to disrupt transportation, building next-generation platform for low-cost, ultra-immersive transportation to improve peoples lives warrants modern ML utilizing peta-byte scale data. Our highly motivated Machine Learning Engineers work on these challenging problems and define solutions to directly impact various aspects of our core business.
 If you are a critical thinker with experience in machine learning workflows, passionate about solving business problems using data and working in a dynamic, creative, and collaborative environment, we are searching for you. 
 As a machine learning engineer, you will be developing and launching the algorithms that power the platforms core services and impactful products. Compared to similarly-sized technology companies, the set of problems that we tackle is incredibly diverse. They cut across transportation, economics, forecasting, mapping, safety, personalization, and adaptive control. We are hiring motivated experts in each of these fields. Were looking for someone who is passionate about solving problems with data, building reliable ML systems, and is excited about working in a fast-paced, innovative, and collegial environment.
@@ -1048,7 +1318,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $149,600 - CAD $187,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254668,"Senior Data Analyst, Pricing","https://app.careerpuck.com/job-board/lyft/job/8069809002?gh_jid=8069809002","lyft","Toronto","No",5,"Full time","2025-07-21T02:25:17.573438Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254668,"Senior Data Analyst, Pricing","https://app.careerpuck.com/job-board/lyft/job/8069809002?gh_jid=8069809002","lyft","Toronto","No",5,"Full time","2025-07-23T02:20:36.000109Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 The Marketplace team at Lyft is responsible for accelerating the growth of the business and for delivering our top business/company goals around financial metrics and marketplace performance. The team provides analysis and use cases to support Product teams on building automated tools to manage growth investments. 
 We are looking for an analyst to join the Pricing vertical of the Marketplace team that is responsible for working with cross-functional stakeholders to analyze and improve existing product and financial levers leveraged in Lyfts pricing strategy. You will influence existing and future strategy with your data analysis, insights, and visualization to deliver strategic recommendations on experimentation and product improvements. Were looking for a data &amp; process-driven individual who has extraordinary attention to detail and a track record of analytical problem-solving.
 Responsibilities:
@@ -1089,7 +1359,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $129,000 - CAD $161,250. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254667,"Senior Actuarial Analyst, Reserving","https://app.careerpuck.com/job-board/lyft/job/8067208002?gh_jid=8067208002","lyft","Toronto","No","Not specified","Full time","2025-07-21T02:25:17.573459Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254667,"Senior Actuarial Analyst, Reserving","https://app.careerpuck.com/job-board/lyft/job/8067208002?gh_jid=8067208002","lyft","Toronto","No","Not specified","Full time","2025-07-23T02:20:36.000125Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, and Legal to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -1132,7 +1402,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD 135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254666,"Senior Actuarial Analyst, Pricing","https://app.careerpuck.com/job-board/lyft/job/8067385002?gh_jid=8067385002","lyft","New York","No",3,"Full time","2025-07-21T02:25:17.573472Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254666,"Senior Actuarial Analyst, Pricing","https://app.careerpuck.com/job-board/lyft/job/8067385002?gh_jid=8067385002","lyft","New York","No",3,"Full time","2025-07-23T02:20:36.000139Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, Legal, and Public Policy to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -1176,7 +1446,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the New York City area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254665,"Senior Actuarial Analyst, Pricing","https://app.careerpuck.com/job-board/lyft/job/8067202002?gh_jid=8067202002","lyft","San Francisco","No",3,"Full time","2025-07-21T02:25:17.573491Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254665,"Senior Actuarial Analyst, Pricing","https://app.careerpuck.com/job-board/lyft/job/8067202002?gh_jid=8067202002","lyft","San Francisco","No",3,"Full time","2025-07-23T02:20:36.000152Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, Legal, and Public Policy to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -1220,7 +1490,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $128,000 - $160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254664,"Field Operations Associate","https://app.careerpuck.com/job-board/lyft/job/8071518002?gh_jid=8071518002","lyft","Chesapeake","No",1,"Full time","2025-07-21T02:25:17.573510Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254664,"Field Operations Associate","https://app.careerpuck.com/job-board/lyft/job/8071518002?gh_jid=8071518002","lyft","Chesapeake","No",1,"Full time","2025-07-23T02:20:36.000182Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Flexdrive is a subsidiary of Lyft that works together with Lyft teams to realize our shared mission. 
 Flexdrive, a subsidiary of Lyft provides vehicle access to Lyft drivers through a flexible car rental subscription program, is looking for a motivated and organized Operations Associate to join our Chesapeake team full-time. Reporting into the Operations Lead, in this role, you will be providing quality in-person experiences by serving customers at our local Flexdrive facilities that offer the Express Drive Program end-to-end rental process and preparing them for the exciting road ahead. If you love working with people, have a passion for operations and the thought of helping Lyft drivers continue to build this incredible ride-sharing movement in Chesapeake sounds exciting, we would love to meet you!  
 Responsibilities:
@@ -1261,7 +1531,7 @@ Note: For this role, candidates must reside in states registered for Flexdrive S
 This role is on-site at a Lyft Flexdrive hub or office location full time. #Onsite
 The expected base pay range for this position in the Chesapeake area is $16.62 - $20.77. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Flexdrive is an Equal Opportunity Employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. Flexdrive also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Flexdrive will also consider employment for qualified applicants with criminal histories consistent with applicable federal, state and local law."
-3254663,"Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067356002?gh_jid=8067356002","lyft","Seattle","No",1,"Full time","2025-07-21T02:25:17.573532Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254663,"Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067356002?gh_jid=8067356002","lyft","Seattle","No",1,"Full time","2025-07-23T02:20:36.000195Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, Legal, and Public Policy to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -1304,7 +1574,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Seattle area is $99,360 - $124,200. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3254662,"Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067204002?gh_jid=8067204002","lyft","San Francisco","No",1,"Full time","2025-07-21T02:25:17.573547Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3254662,"Actuarial Analyst","https://app.careerpuck.com/job-board/lyft/job/8067204002?gh_jid=8067204002","lyft","San Francisco","No",1,"Full time","2025-07-23T02:20:36.000209Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 At Lyft, actuaries are more than risk modelers, they are trusted business advisors, with a key voice in our most important decisions. We partner with many groups across the organization to work on core products. Get ready to deploy your actuarial skills in innovative ways and team up with Engineering, Data Science, Operations, Finance, Legal, and Public Policy to solve complex pricing challenges. Our insurance solutions are evolving and the team is growing. We cant wait to meet you!
 Responsibilities:
 
@@ -1347,7 +1617,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $108,000 - $135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3247201,"Software Engineer, Growth Products","https://app.careerpuck.com/job-board/lyft/job/8070798002?gh_jid=8070798002","lyft","Toronto","No",3,"Full time","2025-07-21T02:25:17.573561Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
+3247201,"Software Engineer, Growth Products","https://app.careerpuck.com/job-board/lyft/job/8070798002?gh_jid=8070798002","lyft","Toronto","No",3,"Full time","2025-07-23T02:20:36.000221Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. 
 The Growth Team at Lyft focuses on acquiring and resurrecting riders and drivers efficiently to grow the business and balance the marketplace. We handle critical infrastructure to execute, manage, and optimize growth campaigns for the entire company and move quickly to test and develop new products. 
 As a Software Engineer on the Growth Team, you will be developing our core systems for managing growth initiatives, including rider and driver incentives, marketing automation, and budget allocation. You will collaborate cross-functionally with product, data science, analytics, and marketing on code that empowers us to iterate quickly while also delivering an excellent experience to our passengers and drivers.
 Responsibilities:
@@ -1386,7 +1656,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3244137,"Senior Director, Rideshare Marketplace FP&A","https://app.careerpuck.com/job-board/lyft/job/8067834002?gh_jid=8067834002","lyft","San Francisco","No",12,"Full time","2025-07-21T02:25:17.573574Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+3244137,"Senior Director, Rideshare Marketplace FP&A","https://app.careerpuck.com/job-board/lyft/job/8067834002?gh_jid=8067834002","lyft","San Francisco","No",12,"Full time","2025-07-23T02:20:36.000238Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 We are seeking an exceptional Head of Marketplace FP&amp;A at the Senior Director level to join our leadership team, reporting to the VP, Head of FP&amp;A. This executive will drive strategic financial decision-making across our marketplace business through advanced analytics, consumer tech expertise, and proven ROI frameworks.
 This role demands a finance leader with deep consumer technology experience who can translate complex marketplace dynamics into actionable business insights and drive measurable improvements in unit economics and business performance.
 Responsibilities:
@@ -1447,7 +1717,7 @@ Lyft is an equal opportunity employer committed to an inclusive and diverse work
 This role will be in-office on a hybrid schedule  Team Members will be expected to work in the Lyft San Francisco office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco Bay area is $232,000 - $290,000. In addition to the base pay, this role is eligible for competitive equity awards, bonuses, and benefits. You can read more about Lyfts employee benefits here.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3012737,"Driver Program Lead, Quality","https://app.careerpuck.com/job-board/lyft/job/8012729002?gh_jid=8012729002","lyft","Nashville","No",2,"Full time","2025-07-21T02:25:17.573588Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3012737,"Driver Program Lead, Quality","https://app.careerpuck.com/job-board/lyft/job/8012729002?gh_jid=8012729002","lyft","Nashville","No",2,"Full time","2025-07-23T02:20:36.000251Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft is seeking a Program Lead of Driver Support Quality to join our Customer Care team. 
 As the Program Lead for Driver Operations, you will play a key role in overseeing and enhancing driver related processes and initiatives within the customer support function. Reporting to the Quality Manager, youll ensure that agents have the tools, resources, and training necessary to handle driver cases with precision and empathy. Your role is critical in maintaining the highest standards of accuracy in agent performance, safeguarding the experience of drivers. You will also drive a culture of excellence by leading coaching sessions, conducting root cause analyses, and collaborating with cross-functional teams to implement data-driven improvements that enhance safety operations and outcomes.
 If you're eager to make a significant impact on customer experiences with data, coaching and strategic collaboration, we'd love to talk to you.
@@ -1497,7 +1767,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Nashville  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Nashville area is $72,160 - $90,200. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3239455,"Senior Payroll Specialist","https://app.careerpuck.com/job-board/lyft/job/8058781002?gh_jid=8058781002","lyft","Nashville","No",5,"Full time","2025-07-21T02:25:17.573602Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3239455,"Senior Payroll Specialist","https://app.careerpuck.com/job-board/lyft/job/8058781002?gh_jid=8058781002","lyft","Nashville","No",5,"Full time","2025-07-23T02:20:36.000265Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft is looking for a highly motivated individual to join our Accounting team as a Senior Payroll Specialist. The role within the Payroll team will assist in the processing of all taxes associated with our bi-weekly payrolls, maintaining related reconciliations, and developing and documenting various Payroll Tax policies and procedures.  This candidate must be able to demonstrate the ability to work and thrive in a fast paced, dynamic and rapidly changing environment. This candidate must be a team player who can work independently.
 Responsibilities:
 
@@ -1537,7 +1807,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Nashville  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Nashville is $72,160 - $90,200. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3239454,"Paralegal, Litigation","https://app.careerpuck.com/job-board/lyft/job/8069654002?gh_jid=8069654002","lyft","San Francisco","No",3,"Full time","2025-07-21T02:25:17.573615Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3239454,"Paralegal, Litigation","https://app.careerpuck.com/job-board/lyft/job/8069654002?gh_jid=8069654002","lyft","San Francisco","No",3,"Full time","2025-07-23T02:20:36.000279Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft is looking for a Litigation Paralegal to join our Legal team. Working closely with Lyfts in-house litigation team, you will be responsible for conducting investigations, working with cross-functional partners, and helping keep Lyfts legal operations efficient and organized. You should be a self-starter with a positive attitude who takes ownership of projects and works collaboratively with others. 
 Responsibilities:
 
@@ -1583,7 +1853,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $72,000 - $90,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3231298,"Support Ops Analyst, Overnight","https://app.careerpuck.com/job-board/lyft/job/8065906002?gh_jid=8065906002","lyft","Mexico City","No",3,"Full time","2025-07-21T02:25:17.573629Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3231298,"Support Ops Analyst, Overnight","https://app.careerpuck.com/job-board/lyft/job/8065906002?gh_jid=8065906002","lyft","Mexico City","No",3,"Full time","2025-07-23T02:20:36.000292Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft knows that transportation isnt just about cars, its about enjoying the ride no matter the method. Thats why in 2018, Lyft leaned in to bikeshare in order to provide mobility solutions that people love and cities need.
 Our Montreal office developed the first automated bikeshare system in America, a system that has since deployed in multiple cities around the world (London, Montreal, New York, San Francisco to name a few). These are also some of the biggest bike-share systems in the world!
 Montreal Lyft is looking for a Bikeshare Analyst on its Support Operations team. This team provides support on a wide range of technical topics and acts as a bridge to engineering for our customers. Our customers include our operators, International clients (including Bixi), marketing teams, rider support agents, product, policy teams as well as other internal customers. In this role, youll triage and investigate issues, then solve via direct action by you to keep our business running smoothly. 
@@ -1614,7 +1884,7 @@ Capable of writing thorough, scalable, and clear documentation
 Must be fluent in spoken and written English and Spanish
 
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture.  This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Mexico City  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #HybridPlease submit your resume in English."
-2150768,"Staff Product Designer, Fleets","https://app.careerpuck.com/job-board/lyft/job/7797252002?gh_jid=7797252002","lyft","San Francisco","No",8,"Full time","2025-07-21T02:25:17.573642Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
+2150768,"Staff Product Designer, Fleets","https://app.careerpuck.com/job-board/lyft/job/7797252002?gh_jid=7797252002","lyft","San Francisco","No",8,"Full time","2025-07-23T02:20:36.000306Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
 The Fleets team works on some of the fastest growing areas at Lyft, including:
 
 Autonomous Vehicles: Enabling riders to book AV rides via our partner network.
@@ -1657,7 +1927,7 @@ Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits 
 Lyft is an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
 This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $176,000 - $210,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3223688,"Senior Accountant, Financial Reporting","https://app.careerpuck.com/job-board/lyft/job/8065936002?gh_jid=8065936002","lyft","San Francisco","No",4,"Full time","2025-07-21T02:25:17.573655Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3223688,"Senior Accountant, Financial Reporting","https://app.careerpuck.com/job-board/lyft/job/8065936002?gh_jid=8065936002","lyft","San Francisco","No",4,"Full time","2025-07-23T02:20:36.000320Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft is looking to hire a qualified and experienced Senior Accountant, Financial Reporting, to its Accounting team. This is a crucial role that will assist in overseeing financial reporting in a fast paced, public company environment. This role will support the Senior Manager, Financial Reporting, and  will work with stakeholders across the organization, to deliver timely internal and external reporting in accordance with US GAAP and SEC regulations. 
 Responsibilities:
 
@@ -1699,7 +1969,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $88,000-$110,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3217782,"Software Engineer, Pricing - Rider Engagement","https://app.careerpuck.com/job-board/lyft/job/8056516002?gh_jid=8056516002","lyft","Toronto","No",2,"Full time","2025-07-21T02:25:17.573669Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3217782,"Software Engineer, Pricing - Rider Engagement","https://app.careerpuck.com/job-board/lyft/job/8056516002?gh_jid=8056516002","lyft","Toronto","No",2,"Full time","2025-07-23T02:20:36.000341Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Marketplace teams are at the heart of our products and decision-making, owning everything from rider pricing to driver earnings, incentives, and efficient matching. Were looking for passionate, driven engineers to build systems that empower our riders and drivers to have the best transportation experience possible through prediction, adaptivity, and personalization. Were looking for someone who is excited about working in a fast-paced, innovative, and impactful environment to create reliable solutions to distributed computing, ML, and data problems.
 The Pricing team is a centerpiece of Lyfts Marketplace org, determining prices for all rideshare products and supporting new initiatives. Rider Engagement develops rider-facing engagement levers and optimizes user pricing experience to drive both short term and long term business outcomes. We work with Product &amp; Science to solve and implement complex pricing requirements, balancing the needs of riders, drivers, and the business goals. As an owner of one of the most critical flows in the company, you will work on a wide array of challenges such as latency-sensitive concurrency problems, large scale distributed systems, and experimentation. If youre interested in playing a large part in demand / supply management and improving the Lyft customer experience, this could be a great fit for you.
 Responsibilities:
@@ -1736,37 +2006,7 @@ Subsidized commuter benefits
 Lyft is committed to creating an inclusive workforce that fosters belonging. Lyft believes that every person has a right to equal employment opportunities without discrimination because of race, ancestry, place of origin, colour, ethnic origin, citizenship, creed, sex, sexual orientation, gender identity, gender expression, age, marital status, family status, disability, pardoned record of offences, or any other basis protected by applicable law or by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind.  Accommodation for persons with disabilities will be provided upon request in accordance with applicable law during the application and hiring process. Please contact your recruiter if you wish to make such a request.
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office at least 3 days per week, including on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the Toronto area is CAD $108,000 - CAD $135,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3209749,"Associate, Support Escalations (Customer Experience)","https://app.careerpuck.com/job-board/lyft/job/8058338002?gh_jid=8058338002","lyft","Mexico City","Yes",1,"Full time","2025-07-21T02:25:17.573682Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-Since 2020, Lyft Mexico has been building its team and in May 2022, we opened an office in the heart of Mexico City. We have grown to more than 200 team members across key business areas in the country, and we are looking to continue growing by providing team members with the best work experience
-The ideal candidate is someone who is passionate about customer experience and knows what it means to go above and beyond as an advocate for the Lyft community. You must be calm in the face of a storm, caring and compassionate, and able to have a strong sense of empathy in difficult situations. Our team consists of Customer Experience Associates supporting customers across chat, email and phone.
-Responsibilities:
-
-Create a personalized, positive and effortless experience for the Lyft community
-Provide friendly, timely support to Lyft drivers via chat, email and phone
-Troubleshoot user problems with the Lyft app
-Document all support contacts in a CRM system
-Make recommendations based on feature requests and bugs reported by users
-Be a community advocate for Lyft
-
-Experience:
-
-1+ years experience in customer service, required.
-1+ years experience in call center a plus, but not mandatory
-Computer proficiency required
-Friendly and enthusiastic, social personality
-Dependable and punctual with time management skills
-Strong writing skills and impeccable attention to detail
-Demonstrates empathy and the ability to take initiative on doing the right thing for the customer
-Advanced problem-solving skills with the ability to think creatively to resolve difficult situations
-Ability to quickly learn web-based user support applications
-Comfortable in a fast-paced environment, subject to rapid change and uncertainty
-Keen ability to work independently and in a team
-High level of comfort and familiarity with smartphone applications (iPhone and Android)
-Willingness to work a range of hours, weekends and holidays
-
-This role is fully remote in Mexico City, candidates for this role must be based in the Mexico City metro area.
-Please submit your resume in English."
-3202468,"Digital Account Manager - West","https://app.careerpuck.com/job-board/lyft/job/8059341002?gh_jid=8059341002","lyft","Los Angeles","Yes",3,"Full time","2025-07-21T02:25:17.573695Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3202468,"Digital Account Manager - West","https://app.careerpuck.com/job-board/lyft/job/8059341002?gh_jid=8059341002","lyft","Los Angeles","Yes",3,"Full time","2025-07-23T02:20:36.000355Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft Medias vision is to build the largest transportation media network. We leverage media to elevate the transportation experience for our users while building an exciting and sustainable advertising business. Our assets include Lyft in-app sponsorship opportunities, the largest bikeshare network in the country, and in-car entertainment screens. Our work is fun, challenging, and rewarding and we are looking for a customer-focused team member passionate about solving problems, delighting our agency partners, and winning new business.
 As a Digital Account Manager at Lyft Media you will play a critical role in partnering with our internal sales team to achieve its goals. You will be a true team player providing cross-functional support for pre &amp;  post-sales activities and management and optimization of advertisement campaigns. You will develop, evaluate, and improve processes and tools in order to improve day-to-day operations and efficiencies for our sales team. We are looking for individuals who love solving interesting problems, are highly adaptable, and care deeply about customer satisfaction.
 Responsibilities:
@@ -1812,7 +2052,7 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 This role is fully remote in the Los Angeles area, candidates for this role must be based in the Los Angeles metro area. #Remote
 The expected base pay range for this position in the Los Angeles area is $77,000 - $97,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3202466,"Digital Account Manager - West","https://app.careerpuck.com/job-board/lyft/job/8058330002?gh_jid=8058330002","lyft","San Francisco","No",3,"Full time","2025-07-21T02:25:17.573709Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
+3202466,"Digital Account Manager - West","https://app.careerpuck.com/job-board/lyft/job/8058330002?gh_jid=8058330002","lyft","San Francisco","No",3,"Full time","2025-07-23T02:20:36.000369Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
 Lyft Medias vision is to build the largest transportation media network. We leverage media to elevate the transportation experience for our users while building an exciting and sustainable advertising business. Our assets include Lyft in-app sponsorship opportunities, the largest bikeshare network in the country, and in-car entertainment screens. Our work is fun, challenging, and rewarding and we are looking for a customer-focused team member passionate about solving problems, delighting our agency partners, and winning new business.
 As a Digital Account Manager at Lyft Media you will play a critical role in partnering with our internal sales team to achieve its goals. You will be a true team player providing cross-functional support for pre &amp;  post-sales activities and management and optimization of advertisement campaigns. You will develop, evaluate, and improve processes and tools in order to improve day-to-day operations and efficiencies for our sales team. We are looking for individuals who love solving interesting problems, are highly adaptable, and care deeply about customer satisfaction.
 Responsibilities:
@@ -1858,186 +2098,3 @@ Lyft is an equal opportunity employer committed to an inclusive workplace that f
 Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
 The expected base pay range for this position in the San Francisco area is $77,000 - $97,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
 Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3195473,"Senior Director, Autonomous Business Development","https://app.careerpuck.com/job-board/lyft/job/8059155002?gh_jid=8059155002","lyft","San Francisco","No",10,"Full time","2025-07-21T02:25:17.573722Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-The autonomous transition is a transformational opportunity for Lyft. Our strategy focuses on becoming the preferred marketplace, fleet, and operational partner for the worlds best AV providers. Lyft will leverage our platform advantages and scale to enable the success of AV partners across the value chain, from AV technology providers to OEMs to fleet providers. This role will help shape the future of Lyftand mobility, more broadlyby crafting durable autonomous vehicle partnerships and industry-leading transportation solutions. You will work in a highly collaborative, fast-paced environment.
-Key Responsibilities:
-
-Lead negotiations with AV technology companies, OEMs, and fleet operators to deploy autonomous vehicles on Lyft's platform
-Scale go-to-market strategies for AV deployment across Lyft's network
-Identify, creatively structure, negotiate, and execute complex commercial agreements across marketplace and fleet operations
-Build relationships with C-suite executives at current and prospective AV partners
-Collaborate cross-functionally across Lyft (Marketplace, Supply, Legal, Regulatory, Safety, Rider) to support AV commercialization across the value chain. 
-Represent partners and our team internally and Lyft externally with partners management teams, at industry events, and with regulatory bodies
-
-Experience:
-
-Proven track record building and closing highly complex and strategic partnerships
-Deep experience in mobility, automotive, or autonomous technology sectors
-International business development experience
-Strong analytical capabilities
-Deep network in the automotive and autonomous industries
-Established network within AV ecosystem
-10+ years business development experience with 5+ years in leadership roles
-Background in strategy consulting or corporate development preferred
-Demonstrated excellence in hiring, coaching and retaining a high-performing team
-Ability to make thoughtful, actionable recommendations under minimal structure, and quickly build alignment with executive level internal and external stakeholders
-
-Benefits:
-
-Great medical, dental, and vision insurance options with additional programs available when enrolled
-Mental health benefits
-Family building benefits
-Child care and pet benefits
-401(k) plan to help save for your future
-In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
-18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
-Subsidized commuter benefits
-Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
-
- 
-Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
-Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-The expected base pay range for this position in the San Francisco area is $232,000 - $290,000. In addition to the base pay, this role is eligible for competitive equity awards, bonuses, and benefits. You can read more about Lyfts employee benefits here.
-Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3195471,"Principal Data Scientist (Algorithms, ML), Rider","https://app.careerpuck.com/job-board/lyft/job/8058918002?gh_jid=8058918002","lyft","New York, NY; San Francisco, CA","No",10,"Full time","2025-07-21T02:25:17.573735Z","At Lyft, our purpose is to serve and connect. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
-Data Science is central to Lyft's products and decision-making. As a Data Scientist on the cross-functional team, you will work in a dynamic environment, tackling a variety of problems from shaping critical business decisions to building algorithms that power our products. We seek passionate, driven Data Scientists to address some of the most interesting and impactful problems in ridesharing.
-As a Data Scientist specializing in Algorithms, you will develop mathematical models for the platform's core services, addressing diverse problems in machine learning, optimization, prediction, and inference. On the Rider Data Science team, you'll work alongside diverse cross-functional partners to enhance machine learning algorithms powering content and ride recommendations, develop predictive models for long-term rider value that drive strategic decision-making across business units, and solve complex data challenges that improve experiences for millions of riders globally
-Responsibilities:
-
-Drive the Science and Machine Learning roadmap of the teams problem area; leverage data and analytic frameworks to direct creations and improvements of algorithms and models underpinning the teams systems and products
-Partner with Engineers, Product Managers, and Business Partners to frame problems, both mathematically and within the business context
-Construct and fit statistical, machine learning, or optimization models
-Write production modeling code; collaborate with Software Engineers to implement algorithms in production
-Design and implement both simulated and live traffic experiments
-Advise teams on best practices. Be a thought leader and go-to expert for stakeholders and dependency teams
-Operate effectively at both the strategic and tactical levels, including regular engagement with senior leadership
-
-Experience:
-
-M.S. or Ph.D. in Machine Learning, Statistics, Computer Science, Mathematics, or other quantitative fields
-10+ years professional experience in a technology company setting
-Proven experience with building and evaluating machine learning models
-Proficiency with Python and working in a production coding environment
-Past experience working as a Machine Learning Engineer is a preferred plus
-Passion for solving unstructured and non-standard mathematical problems
-End-to-end experience with data, including querying, aggregation, analysis, and visualization
-Strong oral and written communication skills, and ability to collaborate and communicate with others to solve a problem
-
-Benefits:
-
-Great medical, dental, and vision insurance options with additional programs available when enrolled
-Mental health benefits
-Family building benefits
-Child care and pet benefits
-401(k) plan to help save for your future
-In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
-18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
-Subsidized commuter benefits
-Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
-
-Lyft is an equal opportunity employer committed to an inclusive and diverse workplace. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
-This role will be in-office on a hybrid schedule  Team Members will be expected to work in either the SF or NYC office 3 days per week on Mondays, Wednesdays, and Thursdays. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-The expected base pay range for this position in the San Francisco and New York City areas is $236,000 - $295,000. In addition to the base pay, this role is eligible for competitive equity awards, bonuses, and benefits. You can read more about Lyfts employee benefits here.
-Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3195469,"Analytics Lead, Strategic Planning and P&L Management","https://app.careerpuck.com/job-board/lyft/job/8053189002?gh_jid=8053189002","lyft","Toronto","No",3,"Full time","2025-07-21T02:25:17.573748Z","At Lyft, our mission is to improve peoples lives with the worlds best transportation. To do this, we start with our own community by creating an open, inclusive, and diverse organization.
-Data and analytics are at the heart of Lyfts products and decision-making. As a member of the Central Market Management team, you will work in a dynamic environment, where we embrace moving quickly to build the worlds best transportation. Analyst leads take on a variety of problems ranging from shaping critical business decisions to deep dive analysis and identifying investment opportunities. Were looking for a passionate, driven Analytics Lead to take on some of the most interesting and impactful problems in ridesharing.
-We are looking for a junior analyst to join the Strategic Planning and P&amp;L management team within the Rideshare Central Management organization.This individual will work on key initiatives for Lyfts Rideshare business and work closely with Data Scientist and Analysts in the team to shape Lyfts future investment strategies.
-The P&amp;L management team sits within the Central Market Management organization and reports through the Head of Rideshare. Our team is heavily cross-functional as we are at the intersection between Product, Engineering, Finance, Data Science, and Operations. Youll own workstreams, analyses, modeling, strategy, and business metrics. We are looking for analytical talent to provide insights and actionable recommendations that will drive impact.
-Responsibilities:
-
-Leveraging analytics and data science to analyze business problems
-Working closely with investment lever teams to recommended strategies in quarter investments 
-Data manipulation and business metrics reporting
-Partner with Data Scientist and Engineers to improve models and processes
-Present findings, recommendations, and results to senior leadership and cross-functional stakeholders
-
-Experience:
-
-Experience in leading high visibility projects and influencing others in a cross-functional team environment
-Experience in communicating with and presenting to senior leaders and data storytelling
-3+ years experience in management consulting, investment firms, strategic data science/analytics roles in a technology company, or an equivalent analytical role in a high growth startup
-Experience in strategic investment, prioritizing against different projects, and leading teams in deep dive analysis, business metrics, and implementation
-
-Skills:
-
-Ability to independently break down large datasets and synthesize inputs from multiple sources
-Ability to craft a compelling story and concisely present recommendations across teams and levels including both technical and non-technical audiences
-Ability to influence, negotiate, and inspire others in a fast-moving environment
-Excellent organization, planning skills, and attention to detail
-Ability to use data visualization tools to provide actionable insights and reusable frameworks
-Strong financial knowledge and understanding of profit and loss
-Advanced analytical and problem solving skills
-Proficiency in Spreadsheet and SQL; Python a plus
-
-Benefits:
-
-Extended health and dental coverage options, along with life insurance and disability benefits
-Mental health benefits
-Family building benefits
-Child care and pet benefits
-Access to a Lyft funded Health Care Savings Account
-RRSP plan to help save for your future
-In addition to provincial observed holidays, salaried team members are covered under Lyft's flexible paid time off policy. The policy allows team members to take off as much time as they need (with manager approval). Hourly team members get 15 days paid time off, with an additional day for each year of service 
-Lyft is proud to support new parents with 18 weeks of paid time off, designed as a top-up plan to complement provincial programs. Biological, adoptive, and foster parents are all eligible.
-Subsidized commuter benefits
-
-Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
-Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-The expected base pay range for this position in the Toronto area is CAD $102,000 - CAD $127,500. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process.
-Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3188323,"Software iOS Engineer","https://app.careerpuck.com/job-board/lyft/job/8053207002?gh_jid=8053207002","lyft","San Francisco","No","Not specified","Full time","2025-07-21T02:25:17.573762Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-We build apps used by millions of people, and we take great pride in our work. This means excellent development practices, careful code architecture, and an organization built around rapid releases. Within the teams, backlog grooming, planning meetings, daily stand-ups, demos and retrospectives keep us agile, and accountable. Continuous integration with automated testing allows us to run a bi-weekly release train. Our beta release process gives us useful insight into user behavior and heavy use of analytics, A/B testing and feature flagging allows for rapid iteration. With a focus on delightful user experiences, we balance building new features, refactoring code, and tweaking existing features based on analytics data. Every line of code gets reviewed by other developers, every pixel inspected by designers, and every feature hammered on by manual and automated QA.
-Responsibilities:
-
-Work within our product teams to build exciting features
-Implement pixel perfect designs with advanced animations
-Extend and implement our APIs
-Implement unit and UI automation tests
-
-Experience:
-
-Experience using design and architecture patterns like MVVM
-Understand unit testing
-Good sense of usability and product
-In-depth knowledge of Swift, experience with object-oriented programming
-Bonus Points: contributions to open source projects, experience with declarative UI frameworks like SwiftUI, experience with unidirectional and reactive programming
-
-Benefits:
-
-Great medical, dental, and vision insurance options with additional programs available when enrolled
-Mental health benefits
-Family building benefits
-Child care and pet benefits
-401(k) plan to help save for your future
-In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off
-18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
-Subsidized commuter benefits
-Lyft Pink - Lyft team members get an exclusive opportunity to test new benefits of our Ridership Program
-
- 
-Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
-Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Your recruiter can share more information about the various in-office perks Lyft offers. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-The expected base pay range for this position in the San Francisco area is $128,000-$160,000. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Range is not inclusive of potential equity offering, bonus or benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process."
-3180838,"Software Engineer, Application Security","https://app.careerpuck.com/job-board/lyft/job/8045321002?gh_jid=8045321002","lyft","Mexico City","No","Not specified","Full time","2025-07-21T02:25:17.573775Z","At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.
-Our drivers and passengers entrust Lyft with their personal information and travel details to get where they're going; they expect us to keep that data safe. Lyft's security team leads efforts across the company to ensure our systems are secure and worthy of our users' trust.
-The security team designs and builds Lyft's security architecture, consults with other teams as they build and launch new products and features, proactively plans for the unexpected, and responds to incidents that occur. Our work affects the entire company and takes place at all levels of the stack, from infrastructure to web application security, as well as mobile apps, IT, bikes, scooters, and autonomous vehicles. We try to approach security from a software engineering standpoint. We believe in scaling security through automation and tooling and we ship frequently. Check out our blog posts at https://eng.lyft.com/tagged/security to learn about some of the things weve built.
-The Security teams mission: Empower the company to ship secure products. Provide clear guidance on secure code and implement quality gates across our software delivery pipeline.
-Were looking for the right person to join our Application Security Team. We work closely with many teams across the company to fix security problems and enforce best practices. In order to be scalable, we need to understand root causes, identify similar issues across Lyft and directly remediate critical issues.
-Responsibilities:
-
-Develop, improve and expand scalable security platforms and tools to discover and resolve security issues in production environments.
-Embed with application teams to remediate security issues by writing, testing and rolling out fixes to services they own (primarily in go and python). You will need to quickly get up to speed in unfamiliar environments, ship fixes safely, and advance to the next area of need.
-Investigate new attack vectors that may affect Lyft, develop proposed solutions and advocate for them.
-
-Experience:
-Security professionals come from many backgrounds. We encourage you to apply even if you do not match this list perfectly.
-
-Development experience with AWS, microservices, containers, kubernetes, envoy and terraform.
-Experience with backend AI engineering and securing AI tools, e.g. MCP servers and third party services.
-Experience with security tools like semgrep, nuclei, burp.
-Ability to communicate complex information, concepts, or ideas in a confident and well-organized manner through verbal, written, and/or visual means
-Experience with (or a deep interest in) computer security, ideally in both attacking and defending services.
-Understanding that security work must be prioritized because all teams have finite resources. You have good judgment and a sense of when to compromise and when to hold your ground
-
-Lyft highly values having employees working in-office to foster a collaborative work environment and company culture.  This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Mexico City  Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid
-Please submit your resume in English."
