@@ -80,9 +80,9 @@ def upload_resume():
     if not all([user_email, fname, lname, birthdate, resume_file]):
         return jsonify({"error": "Missing required fields"}), 400
     
-    # Save or process the info + resume
+    
     result = process_resumes(user_email, resume_file)
-    # Save resume to disk
+    
     os.makedirs("resumes", exist_ok=True)
     filename = secure_filename(f"{user_email.replace('@', '_')}_resume.pdf")
     resume_path = os.path.join("resumes", filename)
