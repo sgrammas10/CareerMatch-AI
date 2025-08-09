@@ -1,7 +1,296 @@
 "ID","Title","Link","Company","Location","Remote","Experience","EmploymentType","DatePosted","RoleDescription"
-3390881,"Senior VFX Artist - League of Legends, Summoners Rift Environment","https://www.riotgames.com/en/work-with-us/job/7138437?gh_jid=7138437","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.068726Z","As part of the Real-Time VFX team, youll design and help implement the sleek, dynamic and dramatic special effects that add atmosphere and depth to gameplay. With your experience, youll create aesthetically astounding visual effects that communicate essential game information. Youll use your artistic and technical skills to breathe life into undead spells, channel primal emotions and capture the essence of hundreds of champions.
-As a Senior VFX Artist on League of Legends, you will drive the creation of visually striking and gameplay-clear real-time effects across a variety of in-game, around-game systems and environments. Your work will contribute to a constantly evolving long-standing game experience, blending atmospheric world-building with clarity-driven design. Youll collaborate closely with design, engineering, and product partners to ensure that visual effects support both gameplay functionality and a cohesive artistic vision. You will report to the VFX Art Lead and contribute as both an individual artist and a mentor. Youll help set artistic direction, push visual quality, and refine processes and pipelines for scalable content delivery.
+3406716,"Principal Data Engineer - GS.VAL, 2XKO, Analytics Team","https://www.riotgames.com/en/work-with-us/job/7126335?gh_jid=7126335","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888555Z","At Riot, Data Engineers play a critical role in transforming data into actionable insights that drive decisions across the company. Our engineers are deeply player-focused and collaborate across diverse teams to enhance the experiences of millions of players worldwide.
+As a Principal Data Engineer within 2XKO, you will be shaping the direction of the game by working with designers, product managers, analysts, and engineers using data to better serve and understand our game and our players. This role is designed for an engineer who thrives in ambiguous environments, takes initiative to solve real problems quickly, and enjoys wearing multiple hats. As the senior-most data leader on the game team, you will influence how data is managed across 2XKO.  You will join a multidisciplinary data team, mentoring more junior engineers and setting technical direction not only on the team but across the studio as well. This role is based in Los Angeles.
 Responsibilities
+
+Design and optimize scalable ETL pipelines for structured and semi-structured data to support Insights use cases, including independently coding and providing optimizations where applicable.
+Architect and implement robust, maintainable, and high-performance data solutions.
+Collaborate directly with multiple game teams from the early stages of game development to instrument games and ensure proper data collection.
+Own and manage data pipelines and infrastructure across 2XKO.
+Standardize best practices for instrumentation, telemetry, and metrics collection
+Ensure data quality, governance, and compliance with regulatory standards (e.g., GDPR, CCPA).
+Mentor data practitioners  across all levels, setting best practices and fostering technical growth.
+Automate workflows to reduce manual intervention and enhance data processing efficiency.
+Optimize query performance and resolve pipeline bottlenecks to improve data accessibility.
+Evaluate and adopt new tools, frameworks, and methodologies to advance data engineering capabilities.
+Support cost optimization by ensuring scalable and efficient data solutions.
+Be a leader within Riots Data Engineering discipline shaping infrastructure, craft standards, tooling, and organizational best practices.
+
+Required Qualifications
+
+Bachelor's or Masters degree in Computer Science, Information Systems, Engineering, or a related field.
+8+ years experience in data engineering or a related field.
+Hands-on expertise in big-data technologies, particularly the Apache stack.
+2+ years experience working with DBT in a production environment
+Proficiency in cloud infrastructure (AWS or GCP) and Databricks.
+Expertise in designing efficient and scalable data models with large data sets across multiple teams and in collaboration with insights or data stakeholders.
+Demonstrated ability to work cross-functionally with engineering, analytics, and product teams.
+Experience mentoring and guiding other engineers.
+
+Desired Qualifications
+
+2+ years of experience in data engineering for major video game titles.
+Experience using analytics to drive gameplay and feature changes (ideally from game dev through launch)
+Experience working in close partnership with data analysts or product managers.
+Close personal relationship with games - enjoys gaming as a hobby, plays a variety of genres, and goes deep in several
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3403947,"Senior Software Engineer, Rendering 渲染工程师","https://www.riotgames.com/en/work-with-us/job/7154094?gh_jid=7154094","Games","Shanghai","No",8,"Full time","2025-08-09T02:05:46.888636Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work in a variety of broader domains. As a Software Engineer, youll be exposed to both new and current technology while building innovative solutions to overcome high-volume obstacles and deliver player value.
+As a Graphics Software Engineer on the R&amp;D team you are responsible for helping Riot build and deliver a brand new game! You will keep the players' experience in mind as you build rendering systems and features to support one of our new games. You will also work collaboratively with technical artists, artists, designers, and producers to deliver genre-defining experiences to our players.
+Responsibilities:
+
+Act as the teams subject-matter expert in graphics engineering
+Develop and maintain engine technologies powering one of Riots new games
+Collaborate closely with technical artists and art teams to realize the games visual and creative vision
+Monitor and optimize the performance of the game client across platforms
+Design, implement, and enhance tools for artists on multiple platforms
+Troubleshoot pipeline issues and proactively identify areas for improvement
+
+Required Qualifications
+
+6+ years of professional experience in Unreal Engine real-time rendering development; 8+ years preferred
+Deep experience with Unreal Engine 5 core rendering features such as Lumen and Nanite
+Familiarity with GPU-driven rendering, mesh shaders, ray tracing pipelines, and anti-aliasing techniques
+Expert proficiency in C++ and Unreal Engines rendering APIs
+Strong knowledge of modern graphics APIs such as Vulkan and DirectX 12, and experience with hardware architectures including consoles and mobile GPUs
+Expertise in low-level optimization techniques for both PC and mobile platforms
+Proficient in graphics profiling and diagnostics using tools like PIX, RenderDoc, and Nsight, with demonstrated experience in cross-platform performance tuning
+Experience developing rendering pipelines for both mobile and PC platforms
+Comfortable working in an agile development environment
+
+Desired Qualifications
+
+Familiarity with League of Legends IP and its visual style; knowledge of other Riot Games IP is a plus
+Demonstrated experience collaborating closely with artists to achieve creative goals
+Credited as a core rendering engineer on at least one shipped game title
+Fluent in both spoken and written English"
+3403946,"Manager, Software Engineering  (UI/UX)- LPC.HEX, Hextech Engine, Player Experience","https://www.riotgames.com/en/work-with-us/job/7088660?gh_jid=7088660","Games","Los Angeles","No",6,"Full time","2025-08-09T02:05:46.888656Z","Riot engineers bring deep knowledge of specific technical areas but also value the chance to work in many broader domains. As the Engineering Manager, you'll be tasked with building the long-term success for your organization by helping define the product vision, mentoring and growing talent, and being accountable for delivering results.
+As an Engineering Manager on the Player Experience team, you will oversee the staffing and guidance of the team's engineers to make the core suite of tools used in the UI/UX development of League of Legends the best they can be. For this role, you'll report to a Senior Engineering Manager. You will guide individual contributors on their long journey of career development while collaborating with other teams and disciplines to ensure that our work improves the quality of life and effectiveness of those partners while also. Our platform is written in C++ and makes heavy use of the QT ecosystem for UI/UX and we also leverage Python for several utility needs. This role is based in Los Angeles.
+Responsibilities:
+
+Staff, manage, mentor, lead, and cultivate a team of 5 to 10 software engineers
+Support your team by working collaboratively with product, delivery, technical, and quality leads
+Ensure what we are building is serving the long-term goals of many content developers
+Coordinate individuals and external partners across the world in multiple time zones
+Design your team makeup, and hire so that it has the skills needed for your goals
+
+Required Qualifications:
+
+Bachelors degree in Computer Science or a related field, or equivalent experience
+2+ years working in an engineering management position on a team shipping large-scale, modular desktop applications
+6+ years of software engineering experience
+Experience developing software desktop applications with a heavy emphasis on content pipelines
+Extensive experience in C/C++ development
+2+ years of experience in game development industry
+2+ years of experience working with UI/UX 
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3398989,"Staff Software Engineer, SRE Services - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7058302?gh_jid=7058302","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888674Z","Riot Engineers bring deep knowledge of specific technical areas but also value the chance to work in many broader domains. As a Staff Software Engineer, youll also dive into projects that focus on team cohesiveness and cross-team goals. Youll lead without authority and provide other engineers with a clear illustration of extraordinary engineering.
+As a Staff Software Engineer focused on backend services of an unpublished R&amp;D product, you will be responsible for reliability of the entire back-end serving the core gameplay experience. This includes defining interactions between client and server that are fundamental to every players experience (think: high load, high availability) and varying infrastructure and compliance requirements. This also includes ensuring we have monitoring and diagnostic capabilities to help us when things go wrong. You will ensure we have a solid technical foundation so when we launch at scale, everything goes smoothly.
+Responsibilities:
+
+Design and maintain tools necessary to solidify live operations for a new game
+Work with Riots central LiveOps teams to lead the charge and participate in processes for a healthy live service, such as on-call rotation, audits and incident reviews
+Help deliver internet scale backend services for a genre-defining game that will serve millions of people globally
+Collaborate with leadership on planning and long term vision for running a live service game
+Build features to improve server reliability and performance
+Implement server infrastructure in support of new gameplay features
+Work with cloud technologies and services such as AWS
+Mentor more junior engineers on the team
+Collaborate effectively with other disciplines within game development, and central infrastructure teams
+Review and identify risks and requirements for usage of shared technologies owned by other teams
+
+Required Qualifications:
+
+8+ years of experience building large scale backend systems or game services
+Experience developing large systems from scratch, including gathering requirements and designing scalable, production-ready architecture
+BS degree or equivalent experience
+Expertise with at least one modern language used for services (Java, Golang)
+Expertise with cloud computing and cloud technologies such as AWS
+Experience with CI/CD pipelines
+Experience with analytics and monitoring platforms such as DataDog and Databricks
+Experience with containerization technologies such as Docker
+Experience in Service Reliability Engineering (SRE) or roles in service engineering with live ops experience
+
+Desired Qualifications:
+
+Demonstrated experience working in container-based ecosystems and with a container scheduler (e.g. Marathon, Mesos, Kubernetes, GKE, Amazon ECS)
+Experience with distributed systems, specifically microservices
+Experience with Unreal Engine
+Experience with C++
+Experience with Golang
+Experience with relational and non-relational databases
+Experience working on both sides of client/service architectures
+Understand software performance and influence latency in online games
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+ 
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3398987,"Senior Software Engineer, Tools - Hextech Developer Experience","https://www.riotgames.com/en/work-with-us/job/7118629?gh_jid=7118629","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.888690Z","As Software Engineers at Riot, we bring deep knowledge of specific technical areas and also value the opportunity to work in a variety of broader domains. We work with both new and current technology, creating innovative solutions to overcome high-volume obstacles and to deliver player value.
+As a Senior Software Engineer (Tools) on the Hextech Developer Experience team, you will bring technical knowledge and skills to the tools domain to develop and improve solutions to complex and diverse game development challenges. You will report to an Engineering Manager who will support you by providing connection, alignment, and mentoring to achieve player, Riot, and personal growth goals.
+
+Responsibilities:
+
+Collaborate with and build game content tooling to support cross-disciplinary teams (including Game Designers, Artists, Animators, and Producers) 
+Define technical requirements, scope, and estimation of quarterly projects
+Build new features and tools in the Hextech Engine used by TFT and League of Legends
+Collaborate with engineering teammates and teams across the League studio
+Build features and offerings in a mature software environment with a focus on software quality and stability
+
+
+Required Qualifications:
+
+5+ yrs collective professional experience using C/C++
+2+ yrs collective professional experience using Python
+Familiarity with building game content, tools, or pipelines
+Bachelors degree in Computer Science or comparable field or equivalent experience
+
+
+Desired Qualifications:
+
+Familiarity with unit and integration testing of software
+Experience providing direct user support and troubleshooting
+Experience with game development
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about the experiences of players, this could be the role for you!
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3398986,"Senior Rendering Technical Artist - League of Legends","https://www.riotgames.com/en/work-with-us/job/7103432?gh_jid=7103432","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888705Z","Riots Technical Artists focus on supporting artists with industry-leading tools, systems, and techniques to enable them to realize their work in-game. You will work with artists across all departments from modeling to lighting to ensure all assets work within the scope of the technical pipeline requirements. Working closely with each artistic department, you will standardize and improve development processes for the production of in game assets, materials, shaders, and scalable development pipelines.
+The Senior Rendering Technical Artist on League of Legends is a subject matter expert that is accountable for driving progress in regards to lighting, shading, and materials used by the League Engine, in both the in-game and around-game space. You will collaborate with the rendering vision holder and art teams to set targets for this progress. You will be authoring shaders that push the boundaries of look development within League, and advocate for new rendering features on behalf of your team that would benefit from them. You will also be hands-on and directly support content and tools teams as a Shader expert.
+Responsibilities:
+
+Author industry-defining lighting, shaders, and materials to push the quality of Leagues broad catalogue of characters, VFX, and other artistic crafts
+Co-opt a future-facing plan for material and shader workflows, tools, and engine improvements to support creative goals from the Art and Product teams
+Work with art teams to evaluate current rendering technology and craft a plan to evolve existing systems
+Collaborate with tools and rendering teams on enhancements to our materials, shaders tools, and rendering workflows
+Be a bridge between Art and Engineering in the realm of materials and shaders to help both disciplines communicate effectively
+Create and consolidate documentation for using our materials and shader systems, and build discipline-wide habits to keep them up to date
+Promote performance optimization for art assets by creating clear standards and building a maintainable process for reviewing and optimizing game assets
+
+Required Qualifications: 
+
+8+ years of professional experience as a graphics or rendering technical artist in games or related industries
+Extensive experience in material development and shader writing using HLSL, CG, or other real-time shading languages
+A collaborative attitude towards bridging the gap between artistic goals and technical considerations with Art and Engineering
+A comprehensive understanding of modern lighting theory, including physically based rendering and other associated technologies and techniques used in modern consumer-grade game engines such as Unreal or Unity
+An ability to translate artistic requirements into functional and performant Materials and Shaders to be used at runtime
+Demonstrable experience authoring shaders and materials for 2D surfaces such as UI panels and motion graphics
+Experience profiling and optimizing performance of Shaders with tools such as RenderDoc or other industry standard systems
+
+Desired Qualifications:
+
+A thorough understanding of 3D math used in real-time rendering
+Experience with look dev, color theory, camera lenses, and lighting direction
+Expertise in content creation and tool development in DCC tools, especially Maya, Photoshop, 3DCoat, Marmoset, Substance Designer and Painter
+Knowledge of Python to write scripts and tools
+Experience in sculpting, modeling, rigging and animation and understanding of the related workflows
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+ 
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3398983,"Rendering Technical Artist II - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/6996860?gh_jid=6996860","Games","Los Angeles","No",3,"Full time","2025-08-09T02:05:46.888720Z","As a Technical Artist, you will focus on supporting artists with art asset prototypes so they can realize their work in-game. You will work with artists across all departments from modeling to lighting to ensure all assets work within the scope of the technical pipeline requirements. Working closely with each artistic department, you will standardize and improve development processes for the production of in game assets, materials, shaders, and scalable development pipelines.
+As a Technical Artist II on the R&amp;D Technical Art Team, you will focus on supporting artists with shaders, materials, and art asset prototypes so they can realize their work in-game. You will work with artists across all departments from modeling to VFX to ensure all assets work within the scope of the technical pipeline requirements. Working closely with each artistic department, you will standardize and improve development processes for the production of assets, materials, shaders, LODs, and interactions in the pipeline. 
+Responsibilities:
+
+Support artists with look development as it pertains to shaders and materials
+Provide technical support to artists and collect data to further improve the tools they use
+Collaborate with production to develop a long-term strategy to maintain and evolve the art workflows for your product
+Build close relationships with the artists and engineers you work alongside with to understand their needs and provide leadership on tool and pipeline development
+Maintain and extend core functionalities of existing shaders and shader libraries
+Work with artists in debugging lighting (realtime and baked) as needed
+
+Required Qualifications: 
+
+3+ years of professional experience as a technical artist in games or related industries
+Professional experience in Unity/Unreal workflows and best practices
+Professional experience in mobile and or AAA development
+Strong art skills and deep understanding of modeling, shaders, texturing, and lighting for games
+
+Desired Qualifications:
+
+Expertise in content creation and tool development in DCC tools, especially Maya, Photoshop, and Substance Designer/Painter
+Previous experience with stylized content pipelines and understanding of tradeoffs weve made historically
+Solid camera and lighting know-how (exposure, LUTs, Sunny16, lenses and misc. Camera techniques).
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+ 
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3390881,"Senior VFX Artist - League of Legends, Summoners Rift Environment","https://www.riotgames.com/en/work-with-us/job/7138437?gh_jid=7138437","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.888735Z","As part of the Real-Time VFX team, youll design and help implement the sleek, dynamic and dramatic special effects that add atmosphere and depth to gameplay. With your experience, youll create aesthetically astounding visual effects that communicate essential game information. Youll use your artistic and technical skills to breathe life into undead spells, channel primal emotions and capture the essence of hundreds of champions.
+As a Senior VFX Artist on League of Legends, you will drive the creation of visually striking and gameplay-clear real-time effects across a variety of in-game, around-game systems and environments. Your work will contribute to a constantly evolving long-standing game experience, blending atmospheric world-building with clarity-driven design. Youll collaborate closely with design, engineering, and product partners to ensure that visual effects support both gameplay functionality and a cohesive artistic vision. You will report to the VFX Art Lead and contribute as both an individual artist and a mentor. Youll help set artistic direction, push visual quality, and refine processes and pipelines for scalable content delivery.
+Responsibilities:
 
 Design and implement real-time VFX that bring the map, champions, and systemic gameplay elements to life
 Create immersive environmental effects for the map
@@ -12,7 +301,7 @@ Provide mentorship, feedback, and guidance to mid-level and junior artists on th
 Help define and uphold VFX standards and documentation for clarity, performance, and style across systems
 Contribute to building and evolving tools and workflows that empower the team to deliver quality quickly
 
-Required Qualifications
+Required Qualifications:
 
 5+ years of professional experience creating stylized, real-time VFX in games
 Deep understanding of VFX fundamentals: timing, motion, shape language, color theory, and impact readability
@@ -21,7 +310,7 @@ Experience optimizing VFX for performance and clarity in a competitive or system
 Ability to think both artistically and technically to solve complex visual communication challenges
 Strong collaboration and communication skills, especially in multi-disciplinary environments
 
-Desired Qualifications
+Desired Qualifications:
 
 Experience creating effects for maps, UI systems, or game clients
 Hands-on experience with shader pipelines in Unreal or Unity, including custom material creation and optimization
@@ -44,7 +333,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3390880,"Senior OneStream Application Engineer, Finance Technology","https://www.riotgames.com/en/work-with-us/job/7126070?gh_jid=7126070","Games","Los Angeles","No",8,"Full time","2025-08-07T02:23:53.068837Z","Riot's Enterprise Technology organization ensures Rioters have what they need to unlock their full potential by providing expertise on cybersecurity to protect the experience of millions of players, offering corporate solutions to increase productivity and guide teams on complex data privacy regulations. The Finance Tech team is focused on modernizing and integrating financial systems, optimizing workflows, and ensuring long-term sustainability for Riots Finance Technology ecosystem.Thats where you come in: You will partner closely with Finance, Game Ops teams, and external vendors to implement best-in-class solutions, and drive technology, process and data maturity for this domain.As the Senior OneStream Application Engineer (Finance Tech), you will be responsible for enhancing Riots OneStream platform: establishing best practices focusing on enhancements, architecture, performance, data management, and integrations. This role will ensure that OneStream is scalable, well-integrated, and aligned with business needs.The ideal candidate has a strong technical background and a proven track record of delivering business value through enterprise performance management (EPM) solutions. They developed scalable processes and led global EPM implementations and integrations across diverse financial systems.The role will report to the Manager, Application Engineering (Finance Tech).
+3390880,"Senior OneStream Application Engineer, Finance Technology","https://www.riotgames.com/en/work-with-us/job/7126070?gh_jid=7126070","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888750Z","Riot's Enterprise Technology organization ensures Rioters have what they need to unlock their full potential by providing expertise on cybersecurity to protect the experience of millions of players, offering corporate solutions to increase productivity and guide teams on complex data privacy regulations. The Finance Tech team is focused on modernizing and integrating financial systems, optimizing workflows, and ensuring long-term sustainability for Riots Finance Technology ecosystem.Thats where you come in: You will partner closely with Finance, Game Ops teams, and external vendors to implement best-in-class solutions, and drive technology, process and data maturity for this domain.As the Senior OneStream Application Engineer (Finance Tech), you will be responsible for enhancing Riots OneStream platform: establishing best practices focusing on enhancements, architecture, performance, data management, and integrations. This role will ensure that OneStream is scalable, well-integrated, and aligned with business needs.The ideal candidate has a strong technical background and a proven track record of delivering business value through enterprise performance management (EPM) solutions. They developed scalable processes and led global EPM implementations and integrations across diverse financial systems.The role will report to the Manager, Application Engineering (Finance Tech).
 Responsibilities:
 Solution Design &amp; Implementation
 
@@ -97,11 +386,11 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3390879,"Director of Publishing Content and Community Strategy - VALORANT","https://www.riotgames.com/en/work-with-us/job/7074943?gh_jid=7074943","Games","Los Angeles","No",10,"Full time","2025-08-07T02:23:53.068883Z","Were looking for a strategic storyteller and decisive comms leader, someone who thrives in fast-moving environments and understands how to listen to players and make them feel heard around a live service game. 
+3390879,"Director of Publishing Content and Community Strategy - VALORANT","https://www.riotgames.com/en/work-with-us/job/7074943?gh_jid=7074943","Games","Los Angeles","No",10,"Full time","2025-08-09T02:05:46.888764Z","Were looking for a strategic storyteller and decisive comms leader, someone who thrives in fast-moving environments and understands how to listen to players and make them feel heard around a live service game. 
 As Editor-in-Chief for VALORANT youll be architecting how we show up to players across the broader ecosystem, in our owned and unowned channels, shaping the stories we tell, how we tell them, and where. The modern Editor-in-Chiefs front page is everywhere our players are, and often, outside of Riot channels. We need to meet players where theyre at.
 This role is about setting the story for the game and the team, knowing what players care about before it hits critical mass, and steering both proactive messaging and reactive responses. You'll be responsible for communicating to players and building the long-term trust that keeps our community engaged and inspired; setting the narrative across the entire player experience, from proactive tentpole storytelling to reactive community engagement, spanning dev comms, content, influencers, social, and community.
 Youll lead a high-functioning, cross-disciplinary community and comms unit, one that champions our players internally and delivers comms that hit and build long-term trust.
-What youll do
+What youll do:
 Drive the Player Narrative
 
 Own the day-to-day narrative for VALORANT, both proactively and reactively. What should players believe about our game and team today, and what will they believe six months from now?
@@ -129,7 +418,7 @@ Develop a clear 2026 Community and Comms strategy that makes it easy for individ
 Be a coach and unblocker. Elevate your team beyond craft execution into player-first comms thinking and decisions.
 Foster a fast-moving, decisive, player-obsessed culture that values clarity, accountability, and results.
 
-What were looking for
+What were looking for:
 
 10+ years of experience in communications, editorial, community, content strategy, or related disciplines
 Proven track record of shaping comms for major titles or entertainment properties
@@ -140,13 +429,14 @@ Sharp, systems thinker with an eye for emerging risks, sentiment trends, and pla
 Experience managing teams and stakeholders through ambiguous, high-stakes moments
 Ability to prioritize ruthlessly, especially under pressure
 
-Bonus points for
+Bonus points for:
 
 Experience in competitive gaming or esports environments
 History of building strong relationships with dev teams, helping them communicate more authentically
 Comfortable representing the product to leadership, players, and partners alike
 
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role
+ 
 Our Perks:
 Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
@@ -160,7 +450,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3388376,"Senior Product Manager - VALORANT Mobile","https://www.riotgames.com/en/work-with-us/job/7104399?gh_jid=7104399","Games","Shanghai","No",5,"Full time","2025-08-07T02:23:53.068913Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2020, Riot released VALORANT globally and launched in CN in 2023. VALORANT has been expanding our foothold in different platforms (From PC to console), and we are heading into the mobile gaming market in 2025.
+3388376,"Senior Product Manager - VALORANT Mobile","https://www.riotgames.com/en/work-with-us/job/7104399?gh_jid=7104399","Games","Shanghai","No",5,"Full time","2025-08-09T02:05:46.888778Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2020, Riot released VALORANT globally and launched in CN in 2023. VALORANT has been expanding our foothold in different platforms (From PC to console), and we are heading into the mobile gaming market in 2025.
 Were looking for humble but ambitious, razor-sharp professionals who can teach us a thing or two. We promise to return the favor. Like us, you take play seriously; youre passionate about games. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints.
 That's where you come in.
 Valorant is Riots take on a character-based tactical shooter. As a Publishing Product Manager on VALM, you will join VAL China Publishing Team to ensure a cohesive player experience in-and-out of the game. The team will support VALM to make rightful product related decisions across both Engagement and Monetization, to not only ensure a satisfying game experience to players, but also a long-term sustainable business for Riot Games. You will work closely with our regional product, publishing, and global teams across many craft and functions. 
@@ -179,12 +469,9 @@ Fluent in Chinese and English, and can drive collaboration across language and c
 Experience fully owning a product or feature from ideation to launch
 Experience building trust and strong cross team communication skills
 Willingness to travel frequently"
-3388374,"Publishing Coordinator, FFGS (Contract)","https://www.riotgames.com/en/work-with-us/job/7137448?gh_jid=7137448","Games","Shanghai","No",3,"Contract","2025-08-07T02:23:53.068942Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
- 
+3388374,"Publishing Coordinator, FFGS (Contract)","https://www.riotgames.com/en/work-with-us/job/7137448?gh_jid=7137448","Games","Shanghai","No",3,"Contract","2025-08-09T02:05:46.888793Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
 As a Publishing Coordinator, Strategy Games you will be responsible for connecting our global resources to China's needs, ensuring our games are successfully published in the region. This includes a variety of operational tasks required content management, publishing calendar planning, coordinating assets and information between publisher Tencent, Riot China and Central teams. In addition, sometimes you will also be supporting brand managers on campaigns, leading specific work streams that harness Riot's creative energies to engage players with a deep understanding and appreciation of the Riot Games brand. You will design and implement marketing strategy, drive creative campaigns and initiatives that maximize trials and help establish new mobile game and Riot brands in China. 
- 
 Responsibilities:
- 
 
 Drive and design the publishing operations process for China between multiple teams across publisher Tencent, Riot central teams.
 Work closely with brand managers to execute with quality and efficiency.  
@@ -193,7 +480,6 @@ Execute the marketing campaign in coordination with various teams to achieve the
 Help and support all aspects of mobile game publishing, including channel management, KOL management, players communication, operation, and localization. 
 Establish and use KPIs to measure and consistently help to improve marketing performance.
 
- 
 Required Qualifications: 
 
 3+ years of experience in game publishing, campaign planning, brand management, and operation. Prefer mobile game publishing/operation experience in China.
@@ -201,7 +487,7 @@ Bilingual: You speak and write fluent English and Chinese while having an in-dep
 A Player-Focused Champion: You understand die hard fandom and can empathize with our most avid players; you know the importance of listening to player needs because you are a player too.
 Passion in Gaming: Youre a gamer with deep passion in one or more competitive genres and you use your gaming experience to connect with and represent players as a gamer yourself
 Passion in LOL Esports: You will be working on our brand new exciting new esport product and your passion for esports will provide more insights and perspective while preparing the launch for the product."
-3383271,"Principal Software Engineer, Rendering & Graphics - Teamfight Tactics","https://www.riotgames.com/en/work-with-us/job/7138089?gh_jid=7138089","Games","Los Angeles","No",8,"Full time","2025-08-07T02:23:53.068970Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work in a variety of broader domains. As Software Engineers, we work with both new and current technology, creating innovative solutions to overcome high-volume obstacles and to deliver player value.
+3383271,"Principal Software Engineer, Rendering & Graphics - Teamfight Tactics","https://www.riotgames.com/en/work-with-us/job/7138089?gh_jid=7138089","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888808Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work in a variety of broader domains. As Software Engineers, we work with both new and current technology, creating innovative solutions to overcome high-volume obstacles and to deliver player value.
 As a Principal Software Engineer (Core Tech) on Teamfight Tactics, you will provide technical leadership, technical designs and hands-on implementations for a wide area of technical areas including rendering and graphics in a game development environment.  You will report to a Senior Engineering Manager on the Teamfight Tactics team.
 Responsibilities:
 
@@ -250,7 +536,51 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-2977768,"Senior Software Engineer - Payments","https://www.riotgames.com/en/work-with-us/job/6842442?gh_jid=6842442","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.068999Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work across a wide range of domains. As a Senior Software Engineer, you'll dive into cross-functional projects that contribute to team cohesion and advance broader product goals. You'll lead by example, providing other engineers with a strong model of technical excellence, thoughtful collaboration, and continuous improvement.
+3045718,"Senior Software Engineer - Player Platform, Revenue Protection","https://www.riotgames.com/en/work-with-us/job/6899146?gh_jid=6899146","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.888823Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work across a wide range of domains. As a Senior Software Engineer, you'll dive into cross-functional projects that contribute to team cohesion and advance broader product goals. You'll lead by example, providing other engineers with a strong model of technical excellence, thoughtful collaboration, and continuous improvement.
+Revenue Protection ingests payment data from multiple global partners, reconciles every transaction end-to-end, and emits real-time fraud signals that safeguard player trust and Riots bottom line. We lean on CloverDX for ETL and Java/Kotlin microservices for business logic, and were expanding into Kafka streaming and machine-learning-driven trust-list and velocity-check models. Your architecture and coding skills will be central to making those capabilities real and multiplying our fraud-prevention impact.  You will report to the team Software Engineering Manager.
+Responsibilities:
+
+Design &amp; evolve CloverDX pipelines that ingest, transform and validate high-volume payment data.
+Build Java/Kotlin microservices (Spring Boot, REST/async messaging) that power real-time reconciliation and fraud decisions.
+Help bring ML-driven fraud-detection models to production
+Automate deployment &amp; observabilityCI/CD for Clover graphs, Docker/K8s releases, Datadog alerts, runbooks and SLOs.
+Champion operational excellence: on-call rotation, incident triage, cert rotation, IAM/ACL hygiene for PCI-scope systems.
+Mentor teammates &amp; unblock analysts in SQL, Python and CloverDX best practices
+
+Required Qualifications: 
+
+5+ years of professional software-engineering experience 
+Proficiency in Java or Kotlin and designing distributed, fault-tolerant services.
+Hands-on expertise with ETL/ELT platformsCloverDX strongly preferred.
+Strong SQL and data-modelling skills for financial reporting.
+Demonstrated ownership of live services: SLOs, on-call, RCAs.
+
+Desired Qualifications:
+
+Experience working on data- or finance-critical systems.
+Experience building or integrating machine-learning models for classification, risk scoring or anomaly detection.
+Bachelors degree in Computer Science or related field.
+Working knowledge of payment-processing flows (auth, capture, chargeback) and fraud-risk concepts (velocity checks, trusted-buyer lists).
+Expertise with Kafka or other streaming platforms.
+Familiarity with observability stacks (Datadog, Prometheus).
+Python scripting for data-quality checks, CI test harnesses and ops automation (e.g., self-healing ETL).
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!
+ 
+Our Perks:
+Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
+At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+2977768,"Senior Software Engineer - Payments","https://www.riotgames.com/en/work-with-us/job/6842442?gh_jid=6842442","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.888839Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work across a wide range of domains. As a Senior Software Engineer, you'll dive into cross-functional projects that contribute to team cohesion and advance broader product goals. You'll lead by example, providing other engineers with a strong model of technical excellence, thoughtful collaboration, and continuous improvement.
 As a Senior Software Engineer in Payments, you will design and build secure, reliable, and scalable payment experiences that span both the front-end and back-end. Youll work closely with the Technical Lead and cross-functional partners to define and implement the technical direction of our global payments platformhelping us serve more players in more regions. Youll set a high bar for architecture, code quality, and performance, while mentoring fellow engineers and contributing to a healthy team culture. Youll report directly to the teams Senior Software Engineering Manager.
 Responsibilities:
 
@@ -296,51 +626,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3045718,"Senior Software Engineer - Player Platform, Revenue Protection","https://www.riotgames.com/en/work-with-us/job/6899146?gh_jid=6899146","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069039Z","Riot engineers bring deep knowledge of specific technical areas but also value the opportunity to work across a wide range of domains. As a Senior Software Engineer, you'll dive into cross-functional projects that contribute to team cohesion and advance broader product goals. You'll lead by example, providing other engineers with a strong model of technical excellence, thoughtful collaboration, and continuous improvement.
-Revenue Protection ingests payment data from multiple global partners, reconciles every transaction end-to-end, and emits real-time fraud signals that safeguard player trust and Riots bottom line. We lean on CloverDX for ETL and Java/Kotlin microservices for business logic, and were expanding into Kafka streaming and machine-learning-driven trust-list and velocity-check models. Your architecture and coding skills will be central to making those capabilities real and multiplying our fraud-prevention impact.  You will report to the team Software Engineering Manager.
-Responsibilities:
-
-Design &amp; evolve CloverDX pipelines that ingest, transform and validate high-volume payment data.
-Build Java/Kotlin microservices (Spring Boot, REST/async messaging) that power real-time reconciliation and fraud decisions.
-Help bring ML-driven fraud-detection models to production
-Automate deployment &amp; observabilityCI/CD for Clover graphs, Docker/K8s releases, Datadog alerts, runbooks and SLOs.
-Champion operational excellence: on-call rotation, incident triage, cert rotation, IAM/ACL hygiene for PCI-scope systems.
-Mentor teammates &amp; unblock analysts in SQL, Python and CloverDX best practices
-
-Required Qualifications: 
-
-5+ years of professional software-engineering experience 
-Proficiency in Java or Kotlin and designing distributed, fault-tolerant services.
-Hands-on expertise with ETL/ELT platformsCloverDX strongly preferred.
-Strong SQL and data-modelling skills for financial reporting.
-Demonstrated ownership of live services: SLOs, on-call, RCAs.
-
-Desired Qualifications:
-
-Experience working on data- or finance-critical systems.
-Experience building or integrating machine-learning models for classification, risk scoring or anomaly detection.
-Bachelors degree in Computer Science or related field.
-Working knowledge of payment-processing flows (auth, capture, chargeback) and fraud-risk concepts (velocity checks, trusted-buyer lists).
-Expertise with Kafka or other streaming platforms.
-Familiarity with observability stacks (Datadog, Prometheus).
-Python scripting for data-quality checks, CI test harnesses and ops automation (e.g., self-healing ETL).
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!
- 
-Our Perks:
-Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3380490,"Senior Narrative Editor","https://www.riotgames.com/en/work-with-us/job/7134094?gh_jid=7134094","Games","Shanghai","No",5,"Full time","2025-08-07T02:23:53.069068Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
+3380490,"Senior Narrative Editor","https://www.riotgames.com/en/work-with-us/job/7134094?gh_jid=7134094","Games","Shanghai","No",5,"Full time","2025-08-09T02:05:46.888854Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
 Were looking for humble but ambitious, razor-sharp professionals who can teach us a thing or two. We promise to return the favor. Like us, you take play seriously; youre passionate about games. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints.
 That's where you come in.
 As a Senior Narrative Editor, TCG Game at Riot, youll work directly with the TCG design and narrative teams to create consistent, high-quality content for our players. Youll be responsible for your deliverables, both in terms of direction/alignment and scheduling, and also ensuring that they meet the overall discipline quality bar and specific product needs. Youll lean on years of experience to help build world-class rules documents, card templating, flavor text, and names. Youll use your craft expertise to enrich the players experience of the gameplay and lore of the League of Legends TCG.
@@ -410,12 +696,12 @@ IP
 :
 ,
 ,,,,,!"
-3380488,"Senior Financial Accountant - 13 months contract","https://www.riotgames.com/en/work-with-us/job/7134098?gh_jid=7134098","Games","Dublin","No",5,"Contract","2025-08-07T02:23:53.069096Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. Since then, Riot has released multiple titles and has become a leader in global esports. Players form the foundation of our community and its for them that we continue to evolve and improve the player experience. 
+3380488,"Senior Financial Accountant - 13 months contract","https://www.riotgames.com/en/work-with-us/job/7134098?gh_jid=7134098","Games","Dublin","No",5,"Contract","2025-08-09T02:05:46.888869Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. Since then, Riot has released multiple titles and has become a leader in global esports. Players form the foundation of our community and its for them that we continue to evolve and improve the player experience. 
 We are building a tech-savvy International Accounting team that is passionate about Riots mission and values and committed to working directly with cross functional teams to advise and collaboratively solve some of our most challenging business issues, allowing teams to make good decisions, solving key operational issues and helping them act in the best interest of Riot.
 As a Senior Accountant, you will play a key role in the general accounting operations of the EMEA region at Riot Games, reporting directly to the Accounting Director. Your solid accounting experience and strong grasp of accounting principles will help ensure the integrity of Riots general ledger and financial foundation.
 In this role, you will be instrumental in maintaining accurate financial records, supporting the accounting team in meeting evolving compliance requirements, and identifying and recording unusual transactions. Most importantly, you'll embody Riots mission and values, bringing a solutions-oriented mindset to help teams creatively address business challenges.
 This is a 13 month contract role that will cover maternity leave within our Dublin office, it will be based on site in our Dublin team. 
-Responsibilities
+Responsibilities:
 
 Lead external audits, including local statutory and group requirements.
 Prepare the journal entries such as accruals, prepaids, fixed assets and various general accounting within our established month-end reporting schedule
@@ -426,7 +712,7 @@ Ensure compliance with local and international accounting standards (US GAAP &am
 Assist and support with Accounts Payable (AP) team activities including payment runs, ad hoc payment approvals, credit card management and invoice approvals.
 Support corporate credit card program administration, including transaction monitoring and issue resolution.
 
-Qualifications
+Qualifications:
 
 5+ years of post qualification experience preferably in a Multinational or Big 4  environment.
 ACA or equivalent qualification
@@ -441,7 +727,7 @@ Fluency in English, both written and verbal.
 For this role, you'll find success through craft expertise, collaborative spirit and choices that focus on your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!
 We offer medical and dental plans that cover you, your spouse/domestic partner, and children. Balance between work and personal life is encouraged with open paid time off, and a play fund so you can broaden and deepen your personal relationship with games.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application."
-3380486,"Director, Marketing Creative Direction - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7126180?gh_jid=7126180","Games","Los Angeles","No",10,"Full time","2025-08-07T02:23:53.069125Z","As a Marketing Creative Director, you will report to the VP of Marketing and sit on a newly formed R&amp;D Publishing Leadership Team. You will set a clear, bold vision and actively work to define how our Game and IP comes to life for players. You will do this by establishing the creative direction for a new brand and shepherding player-centric ideas across a myriad of tactic types. A master of collaboration, you will use your skills to work across Publishing, Product, and Studio partners and stakeholders  ensuring your work delivers a strong vision while upholding the central spirit of co-creation that makes our R&amp;D title more than a game.
+3380486,"Director, Marketing Creative Direction - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7126180?gh_jid=7126180","Games","Los Angeles","No",10,"Full time","2025-08-09T02:05:46.888884Z","As a Marketing Creative Director, you will report to the VP of Marketing and sit on a newly formed R&amp;D Publishing Leadership Team. You will set a clear, bold vision and actively work to define how our Game and IP comes to life for players. You will do this by establishing the creative direction for a new brand and shepherding player-centric ideas across a myriad of tactic types. A master of collaboration, you will use your skills to work across Publishing, Product, and Studio partners and stakeholders  ensuring your work delivers a strong vision while upholding the central spirit of co-creation that makes our R&amp;D title more than a game.
 Responsibilities:
 
 Define and consistently execute the gold standard for R&amp;Ds Publishing creative work
@@ -465,14 +751,11 @@ Knowledge of, and respect for, our product and players
 
 Desired Qualifications: 
 
-
-
 Bachelor's Degree or demonstrated equivalent
 Deep direct, hands on experience with video craft, feedback, and direction
 
-
-
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role
+ 
 Our Perks:
 Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
@@ -486,7 +769,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-2231668,"Manager, Software Engineering - Payments ","https://www.riotgames.com/en/work-with-us/job/6466496?gh_jid=6466496","Games","Los Angeles","No",6,"Full time","2025-08-07T02:23:53.069162Z","Riot engineers bring deep knowledge of specific technical areas but also value the chance to work in many broader domains. As a Manager, Software Engineering, youll predominantly offer creative solutions to organizational design. Youll also serve as a mentor for a team of engineers, overseeing performance management, growth opportunities, and accountability. 
+2231668,"Manager, Software Engineering - Payments ","https://www.riotgames.com/en/work-with-us/job/6466496?gh_jid=6466496","Games","Los Angeles","No",6,"Full time","2025-08-09T02:05:46.888899Z","Riot engineers bring deep knowledge of specific technical areas but also value the chance to work in many broader domains. As a Manager, Software Engineering, youll predominantly offer creative solutions to organizational design. Youll also serve as a mentor for a team of engineers, overseeing performance management, growth opportunities, and accountability. 
 As a Manager, Software Engineering on the Checkouts team within Payments, you will lead a talented group of engineers dedicated to optimizing the checkout experience for our players. Your leadership will guide the development of secure, seamless, and engaging payment solutions that power in-game purchases, subscriptions, and other monetization channels across our games. You will report to the Senior Manager, Software Engineering of Payments.
 Responsibilities:
 
@@ -528,10 +811,9 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3375516,"Director, Brand Management - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7126233?gh_jid=7126233","Games","Los Angeles","No",10,"Full time","2025-08-07T02:23:53.069194Z","Were looking for an experienced and deeply passionate marketing leader to join a new publishing leadership team for one of Riots upcoming R&amp;D titles. As the Director, Brand Management you will play a key role in establishing a new brand, developing a successful GTM, and directing marketing for a live-service global game. You and the other members of the publishing leadership team will also take on the task of designing and building the team itself. You will report directly to the games Publishing Leada member of the games leadership teamoffering you opportunities to deeply collaborate in the development process.
+3375516,"Director, Brand Management - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7126233?gh_jid=7126233","Games","Los Angeles","No",10,"Full time","2025-08-09T02:05:46.888914Z","Were looking for an experienced and deeply passionate marketing leader to join a new publishing leadership team for one of Riots upcoming R&amp;D titles. As the Director, Brand Management you will play a key role in establishing a new brand, developing a successful GTM, and directing marketing for a live-service global game. You and the other members of the publishing leadership team will also take on the task of designing and building the team itself. You will report directly to the games Publishing Leada member of the games leadership teamoffering you opportunities to deeply collaborate in the development process.
 Youll develop and contribute to strategies at the highest altitudes while also employing curiosity and insights to better understand players and continuously optimize how the team works. Youre nimble, solutions oriented and highly skilled at navigating ambiguity. You must be an effective communicator and relationship building as you will be asked to work with agencies, console partners, brand partners, and central partner teams within Riot.
 As the games brand and marketing lead will be responsible for both global marketing strategy and global marketing outcomes, it will be critical that you connect the dots between delivering amazing player outcomes and what must be true within your scope to make those real. Taking on an owner operator mentality as you flex between doing and leading will be critical in delivering this game to market. 
- 
 Responsibilities: 
 
 Lead the GTM efforts for the launch and live service of an upcoming game
@@ -561,6 +843,7 @@ Intimate knowledge of the fast-moving global games marketing landscape, current 
 Must be excited about getting into deep engagements with our players and being able to both set expectations with them and respond in empathetic ways to the changing demands of those that spend hours of their time with their friends in our universe.
 
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role
+ 
 Our Perks:
 Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
@@ -574,7 +857,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-2441582,"Principal Esports Business Development Manager","https://www.riotgames.com/en/work-with-us/job/6628252?gh_jid=6628252","Games","Los Angeles","No",8,"Full time","2025-08-07T02:23:53.069224Z","For every global product and event produced by Riot Games, premiere partners help us bring amazing experiences to our fans and live audiences. These invaluable partners provide the resources and expertise that allow us to level up the experience for millions of fans across the world. From weekly content pieces to flying a fan to the World Finals to meet their heroes, our sponsors do it all. But they cant do it alonethats where our Global Esports Business Development and Partnerships Team comes in. The team attracts, services, and retains our partners, acting as brand ambassadors of Riot Games to external parties and as emissaries of our partners to our fans, pro players, and teams.
+2441582,"Principal Esports Business Development Manager","https://www.riotgames.com/en/work-with-us/job/6628252?gh_jid=6628252","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888929Z","For every global product and event produced by Riot Games, premiere partners help us bring amazing experiences to our fans and live audiences. These invaluable partners provide the resources and expertise that allow us to level up the experience for millions of fans across the world. From weekly content pieces to flying a fan to the World Finals to meet their heroes, our sponsors do it all. But they cant do it alonethats where our Global Esports Business Development and Partnerships Team comes in. The team attracts, services, and retains our partners, acting as brand ambassadors of Riot Games to external parties and as emissaries of our partners to our fans, pro players, and teams.
 As a Principal Esports Business Development Manager, reporting to the Sr. Manager, Esports Business Development for Global and Americas, you will play a strategic role in contributing to the commercialization strategy behind Riot's biggest annual events and competitive ecosystems. You will act as a key subject matter expert and contributor in securing high-impact, long-term partnerships that strengthen our esports business and bring innovative, industry-defining collaborations to life. Beyond securing deals, you will help shape Riots global sponsorship strategy in partnership with the Sr. Manager leading Global and Americas. You will leverage deep industry knowledge and relationships to identify and execute strategic opportunities that enhance the value of our esports portfolio. You will also serve as a mentor and leader within the team, helping to develop junior business development professionals and ensuring best-in-class deal execution.
 Responsibilities:
 
@@ -615,7 +898,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3366067,"Sr. HR Business Partner (Rotational Coverage)","https://www.riotgames.com/en/work-with-us/job/7118614?gh_jid=7118614","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069242Z","Riots People team exists to help Riot make the best decisions about its talent. We bring our expertise to all areas of Human Resources including hiring, onboarding, learning and development, diversity and inclusion, performance management, benefits, perks, compensation, employee relations and off-boarding so that all Rioters can flourish.
+3366067,"Sr. HR Business Partner (Rotational Coverage)","https://www.riotgames.com/en/work-with-us/job/7118614?gh_jid=7118614","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.888944Z","Riots People team exists to help Riot make the best decisions about its talent. We bring our expertise to all areas of Human Resources including hiring, onboarding, learning and development, diversity and inclusion, performance management, benefits, perks, compensation, employee relations and off-boarding so that all Rioters can flourish.
 We view ourselves as trusted consultants and advisers with a specific expertise in all things HR. Working in People at Riot enables you to redefine what effective HR practices are. As HR Business Partners, we are not a compliance function. Instead, we carefully listen to the problem spaces and work with Rioters to get to an optimal outcome. We re-imagine the employee experience so it resonates with our workforce and our leaders and enables them to flourish
 Were seeking a dynamic and adaptable Senior HR Business Partner. In this unique role, youll provide temporary HR support across a variety of client groups and business units, stepping in to deliver seamless HR partnership during high-volume periods (e.g., performance reviews, talent planning, engagement initiatives) or while HR team members are out on extended leave. 
 This is a high-impact position ideal for someone who thrives in fast-paced environments, enjoys variety in their work, and can quickly build relationships and trust across multiple teams and orgs.
@@ -667,7 +950,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3366066,"Senior Manager, Physical Security and Safety","https://www.riotgames.com/en/work-with-us/job/6667353?gh_jid=6667353","Games","Los Angeles","No",8,"Full time","2025-08-07T02:23:53.069257Z","The Riot Games Senior Manager, Physical Security and Safety is our Global Leader in strategizing and delivering a physical security and safety program for Rioters across the world. In this role, you will enable the business to thrive through development and implementation of industry-leading safety and security policies, procedures and programs which meet or exceed regulatory and compliance standards and reduce risks to Rioters, facilities and assets while promoting an innovative approach that puts players at the center of everything we do.
+3366066,"Senior Manager, Physical Security and Safety","https://www.riotgames.com/en/work-with-us/job/6667353?gh_jid=6667353","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888959Z","The Riot Games Senior Manager, Physical Security and Safety is our Global Leader in strategizing and delivering a physical security and safety program for Rioters across the world. In this role, you will enable the business to thrive through development and implementation of industry-leading safety and security policies, procedures and programs which meet or exceed regulatory and compliance standards and reduce risks to Rioters, facilities and assets while promoting an innovative approach that puts players at the center of everything we do.
 As the Senior Manager, Physical Security &amp; Safety, you develop and scale best-in class safety, security and crisis management programs in a fast-paced and dynamic environment. You conceptualize, build and lead a diverse team with a focus on risk-based global programs and solutions to address evolving business needs. You exemplify our Riot Values, and are passionate about driving our company goals and vision; all while maintaining the highest standards of quality and service. You will report to the Global Head of Workplace Experience.
 Responsibilities:
 Oversee the Global Physical Security &amp; Safety to include the 24x7 Global Security Operations Center, on-site and off-site event security services, crisis management, workplace and travel safety, executive protection, and workplace investigations for all physical locations and remote workforce across the globe.
@@ -698,11 +981,21 @@ CPP or PSP certification
 Masters degree or MBA is a plus
 
 For this role, you'll find success through craft expertise, a collaborative spirit, and choices that focus on your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!
+ 
 Our Perks:
 Riot has a focus on work/life balance, shown by our open paid time off policy, in addition to other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner and children and a 401k with company match. Check out our benefits pages for more information.
 Riot Games fosters a player and workplace experience that values teamwork embodied by the Summoner's Code and Community Code. Our culture embraces differences as a strength, and our values are the guiding principles for how we approach work. We are committed to putting diversity and inclusion (D&amp;I) at the center of everything we do, and promoting a fair and collaborative culture where Rioters treat one another with dignity and respect. We encourage you to read more about our value of thriving together and our ongoing work to build the most inclusive company in gaming
-It's our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance relating to an applicant's criminal history (LAMC 189.00)."
-3344838,"Senior Manager, Insights - League of Legends","https://www.riotgames.com/en/work-with-us/job/7116877?gh_jid=7116877","Games","Los Angeles","No",6,"Full time","2025-08-07T02:23:53.069273Z","The Insights discipline helps empower Rioters' decision-making to be more data-informed and put player experience at the forefront. We're an interdisciplinary group of scientists, consultants, and strategists from all sorts of backgrounds who join together to represent and advocate for players around the world. We believe that illuminating the globally diverse experiences, behaviors, and needs of players is critical to Riot living up to our player-focused mission. We're a group united by our love of games, science, and helping others succeed.
+ 
+Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
+Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
+
+Safeguarding confidential and sensitive Company data 
+Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
+Accessing Company assets, secure digital systems, and networks
+Ensuring a safe interactive environment for players and other Rioters
+
+These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
+3344838,"Senior Manager, Insights - League of Legends","https://www.riotgames.com/en/work-with-us/job/7116877?gh_jid=7116877","Games","Los Angeles","No",6,"Full time","2025-08-09T02:05:46.888974Z","The Insights discipline helps empower Rioters' decision-making to be more data-informed and put player experience at the forefront. We're an interdisciplinary group of scientists, consultants, and strategists from all sorts of backgrounds who join together to represent and advocate for players around the world. We believe that illuminating the globally diverse experiences, behaviors, and needs of players is critical to Riot living up to our player-focused mission. We're a group united by our love of games, science, and helping others succeed.
 As a Senior Manager of the League Insights team, youll lead efforts to deliver critical validation of League of Legends at Riot. Your team will conduct studies, playtesting, and analyses to inform design and player experience of League as a live game and as we look to the future. You will be responsible for ensuring the overall quality of insights delivered, as well as making sure the team runs efficiently. 
 You will report to the Sr. Director of Insights for League alongside an analytics team who will help to scale and validate your research findings to build a holistic picture of the game, publishing, and Esports ecosystem. Your scientific skill set, strong communication skills, organizational rigor, and leadership capabilities will ensure that we have a high-functioning research team that can help ensure our designers, product managers, and game leadership team have the information they need about our players to make League the best it has ever been.
 Responsibilities:
@@ -757,7 +1050,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3363614,"Principal Game Producer – League of Legends","https://www.riotgames.com/en/work-with-us/job/6913465?gh_jid=6913465","Games","Los Angeles","No",8,"Full time","2025-08-07T02:23:53.069289Z","As a Producer, youll lead passionate cross-functional teams in crafting creative content and incredible experiences for players around the world. By encouraging teams to collaborate, youll drive development, smashing through obstacles and driving products into players hands. Youll exceed expectations by helping concept, deliver, improve, and influence creative projects at every stage of production.
+3363614,"Principal Game Producer – League of Legends","https://www.riotgames.com/en/work-with-us/job/6913465?gh_jid=6913465","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.888990Z","As a Producer, youll lead passionate cross-functional teams in crafting creative content and incredible experiences for players around the world. By encouraging teams to collaborate, youll drive development, smashing through obstacles and driving products into players hands. Youll exceed expectations by helping concept, deliver, improve, and influence creative projects at every stage of production.
 As a Principal Producer on League of Legends, youll lead passionate, cross-functional teams focused on delivering high-impact features and systems that shape the player experience across the games front-end. Youll help evolve and maintain the foundational technology and user-facing interfaces that power League, ensuring they remain performant, cohesive, and player-focused.
 This role is deeply embedded in the core of Leagues long-term health and evolution. Youll work closely with engineers, UX and UI designers, and product leads to improve tools, improve the client experience, and support new features on top of Leagues proprietary engine and tech stack. Youll report to the Director of Production for League of Legends.
 Responsibilities:
@@ -788,9 +1081,11 @@ Familiarity with production tools like JIRA, Confluence, and internally built pi
 Strong communication and alignment skills across product, tech, and UX disciplines.
 
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
+ 
 Our Perks:
 Riot has a focus on work/life balance, shown by our open paid time off policy, in addition to other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner and children, and a 401k with company match. Check out our benefits pages for more information.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
+ 
 Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
 Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
 
@@ -800,7 +1095,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3358112,"Technical Game Designer III - AI Foundations (Contract)","https://www.riotgames.com/en/work-with-us/job/7079595?gh_jid=7079595","Games","Los Angeles","No",4,"Contract","2025-08-07T02:23:53.069304Z","Engineers at Riot master their craft by building, launching, and operating games that delight players all over the world. As a Technical Game Designer, you will dive into projects that focus on leveraging team cohesiveness and cross-team goals to deliver amazing player experiences. You'll lead development efforts, steer design processes, and exemplify the teams culture.
+3358112,"Technical Game Designer III - AI Foundations (Contract)","https://www.riotgames.com/en/work-with-us/job/7079595?gh_jid=7079595","Games","Los Angeles","No",4,"Contract","2025-08-09T02:05:46.889005Z","Engineers at Riot master their craft by building, launching, and operating games that delight players all over the world. As a Technical Game Designer, you will dive into projects that focus on leveraging team cohesiveness and cross-team goals to deliver amazing player experiences. You'll lead development efforts, steer design processes, and exemplify the teams culture.
 As a Technical Game Designer on the AI Foundations team, you will contribute to both the engineering and design efforts to deliver robust and reliable ML/AI systems to help accelerate titles throughout the Game AI development lifecycle. You will use your design expertise in game mechanics, games systems architecture, and understanding of AI/ML data systems, to help us deliver unmatched player impact. You will be collaborating closely with other engineers, researchers and designers across multiple teams, upleveling/mentoring them. You will report to one of our Technical Product Managers on Riots AI Foundations team.
 This is a 12-month contract position.
 Responsibilities:
@@ -862,7 +1157,7 @@ These duties are directly related to essential operations, safety, trust, and co
 
 
 (Los Angeles Only) Hourly range between $85.51/hr - $124.45/hr USD [Contract Role]"
-1551895,"Insights Analyst Coordinator, FFGS(金铲铲之战)(Contract) ","https://www.riotgames.com/en/work-with-us/job/6202178?gh_jid=6202178","Games","Shanghai","No",2,"Contract","2025-08-07T02:23:53.069339Z","As an Insights Analyst Coordinator on Fight For the Golden Spatula () team, you will make use of data sets to report on game health and product performance,helping game developers understand the opportunity and audience for their game. You will use your expertise in bridging data analysis with product strategy to share key takeaways to guide product improvement. You will report to the Manager of Game Production. 
+1551895,"Insights Analyst Coordinator, FFGS(金铲铲之战)(Contract) ","https://www.riotgames.com/en/work-with-us/job/6202178?gh_jid=6202178","Games","Shanghai","No",2,"Contract","2025-08-09T02:05:46.889021Z","As an Insights Analyst Coordinator on Fight For the Golden Spatula () team, you will make use of data sets to report on game health and product performance,helping game developers understand the opportunity and audience for their game. You will use your expertise in bridging data analysis with product strategy to share key takeaways to guide product improvement. You will report to the Manager of Game Production. 
 Responsibilities:
 
 Supporting Insight Lead in game health assessment, including but not limited to analyzing engagement,revenue,retention, and monetization metrics.
@@ -891,7 +1186,7 @@ Proficiency with Tableau and SQL, Python or similar language
 
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!
 Employment Type: employment contract with FESCO Adecco, a professional personnel company in China."
-3355706,"Senior Manager, Art Management - Wild Rift","https://www.riotgames.com/en/work-with-us/job/7103618?gh_jid=7103618","Games","Shanghai","No",10,"Full time","2025-08-07T02:23:53.069370Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
+3355706,"Senior Manager, Art Management - Wild Rift","https://www.riotgames.com/en/work-with-us/job/7103618?gh_jid=7103618","Games","Shanghai","No",10,"Full time","2025-08-09T02:05:46.889036Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
 Were looking for humble but ambitious, razor-sharp professionals who can teach us a thing or two. We promise to return the favor. Like us, you take play seriously; youre passionate about games. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints.
 That's where you come in.
 As a Senior Art Manager on Wild Rift, you will lead and grow a Shanghai-based team focused on lead the art direction for Wild Rift's live-service cosmetic content, in-game art, champions, and thematic live operations, encompassing champions, skins, maps, patch themes, and new events. Manage an internal team of artists in concept, 3D, VFX, animation, and UI, and collaborate with Tencent partners to deliver high-quality, high-velocity content that players love.
@@ -925,7 +1220,7 @@ Proficiency in both English and Mandarin is a strong plus.
 
 For this role, youll find success through craft awareness, cultural empathy, and decision-making that puts Wild Rift players first. If you care about live games, team health, and visual excellence, this could be the role for you.
 Dont forget to include a resume and cover letter. We receive a lot of applications, but well notice a fun, well-written intro that shows us you take play seriously."
-3355705,"Game Producer (Contract)","https://www.riotgames.com/en/work-with-us/job/7116711?gh_jid=7116711","Games","Shanghai","No",2,"Contract","2025-08-07T02:23:53.069404Z","Game Producer (Contract)
+3355705,"Game Producer (Contract)","https://www.riotgames.com/en/work-with-us/job/7116711?gh_jid=7116711","Games","Shanghai","No",2,"Contract","2025-08-09T02:05:46.889051Z","Game Producer (Contract)
 As a Game Producer on our R&amp;D team, youll do more than manage tasksyoull drive clarity in chaos, connect global teams, and make it easier for developers to do their best work. Youll work closely with local devs, global partners, and our publishing teams to bring experiments to life, make them playable, and get them in front of players.
 This is an R&amp;D role, so speed and iteration matterbut so does communication. Youll also be the teams bilingual bridge, coordinating English  Chinese translations for key dev materials and player-facing content, and helping ensure that what we build resonates across languages and cultures.
 The role is based in Guangzhou.
@@ -957,7 +1252,7 @@ Prior experience with Unity, Unreal, or rapid game dev pipelines.
 Knowledge of Riot IPs, player communities, or esports.
 
 Dont forget to include a resume and cover letter. We receive a lot of applications, but well notice a fun, well-written intro that shows us you take play seriously."
-3351686,"Game Designer II - League of Legends, Modes","https://www.riotgames.com/en/work-with-us/job/7118655?gh_jid=7118655","Games","Los Angeles","No",3,"Full time","2025-08-07T02:23:53.069433Z","Game Designers at Riot craft the systems, mechanics, and content that make up a resonant player experience. We explore how to best push the boundaries of that experience to build new and engaging moments for players.
+3351686,"Game Designer II - League of Legends, Modes","https://www.riotgames.com/en/work-with-us/job/7118655?gh_jid=7118655","Games","Los Angeles","No",3,"Full time","2025-08-09T02:05:46.889094Z","Game Designers at Riot craft the systems, mechanics, and content that make up a resonant player experience. We explore how to best push the boundaries of that experience to build new and engaging moments for players.
 As a Game Designer II on the League of Legends Modes team, you will design and deliver world-class game modes and experiences that surprise and delight players. You will design systems and content that serve the core and prospective League of Legends players. You will understand how to develop satisfying modes that let players experience League of Legends in new, compelling ways. We are looking for Designers who understand League of Legends and are passionate about building upon it to create novel and innovative play experiences. 
 Key Responsibilities:
 
@@ -1002,7 +1297,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3351685,"1st Party Platform Partnerships Strategist III","https://www.riotgames.com/en/work-with-us/job/7104443?gh_jid=7104443","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069462Z","As the 1st Party Platform Partnerships Strategist III, you will manage and grow Riots relationships with key platform partners across the console and mobile ecosystemincluding PlayStation, Xbox, Nintendo, Apple, Google, Samsung, and Epic. Your primary focus will be to identify strategic opportunities that drive distribution, engagement, and business impact for Riots titles on these platforms.
+3351685,"1st Party Platform Partnerships Strategist III","https://www.riotgames.com/en/work-with-us/job/7104443?gh_jid=7104443","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.889113Z","As the 1st Party Platform Partnerships Strategist III, you will manage and grow Riots relationships with key platform partners across the console and mobile ecosystemincluding PlayStation, Xbox, Nintendo, Apple, Google, Samsung, and Epic. Your primary focus will be to identify strategic opportunities that drive distribution, engagement, and business impact for Riots titles on these platforms.
 This role is grounded in business development, account strategy, and partner execution, but also requires strong cross-functional coordination to align internal product, publishing, and operational teams around joint goals. You will play a critical role in shaping how Riot shows up across console and mobile platforms globally, ensuring our priorities are understood, our products are supported, and our potential is fully realized.
 Reporting to the Global Head of Platform Partnerships, this role demands a strategic mindset, strong external partner management, and comfort working across technical, operational, and commercial workstreams.
 Responsibilities:
@@ -1068,7 +1363,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3348675,"Animation Artist (Contract)","https://www.riotgames.com/en/work-with-us/job/7116699?gh_jid=7116699","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069491Z","Animation Artist (Contract) 
+3348675,"Animation Artist (Contract)","https://www.riotgames.com/en/work-with-us/job/7116699?gh_jid=7116699","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889129Z","Animation Artist (Contract) 
 ,,,,,,
 ,,,Riot,,
 :
@@ -1104,54 +1399,7 @@ IP
 
 ,(),
 ,,!"
-3239605,"Researcher III - Central Product Insights","https://www.riotgames.com/en/work-with-us/job/6991947?gh_jid=6991947","Games","Los Angeles","No",4,"Full time","2025-08-07T02:23:53.069519Z","The Insights discipline helps empower Rioters' decision-making to be more data-informed. We're an interdisciplinary group of scientists, consultants, and strategists from all sorts of backgrounds who join together to represent and advocate for gamers around the world. We believe that illuminating the globally diverse experiences, behaviors, and needs of gamers is critical to Riot living up to our player-focused mission. We're a group united by our love of games, science, and helping others succeed.
-As a Senior Researcher on the Central Product Insights Team, youll be responsible for helping Riot deepen our understanding of our live games performance, our foundational portfolio and product strategy, growth opportunities for our games, and the state of the global games landscape. You'll conduct a wide range of studies and analyses often in partnership with researchers on game teams - including qualitative interviews and global market surveys - to inform our holistic understanding of the global gamer audience, the state of our current live games, and the strategy for games across our portfolio. Youll be part of an interdisciplinary team working closely with a diverse group of specialists to turn the findings of your research into recommendations and action. Your research background coupled with your deep understanding of the games industry and Riots games will ensure that youre an effective advocate for players and can provide strategic guidance about their wants, needs, and behaviors.
-Responsibilities:
-
-Work as part of a central team to improve Riots understanding of our games, our portfolio and product strategies, and key competitors 
-Construct, organize, and execute studies and surveys across a variety of methods designed to answer business and product strategy questions, in complex ambiguous problem spaces
-Manage and improve the state of central research tools, resources, and data sources aimed to provide scaled services to the games insights organization
-Partner with analysts, researchers, and designers to generate insights and frameworks thatll inform the strategic direction of various games
-Be an effective advocate for players and provide strategic guidance about their wants, needs, and behaviors
-Share your results with other Rioters in clear presentations, documented processes and guides, as well as Tableau dashboards
-Mentor other researchers, helping them learn from your own experiences
-
-Required Qualifications: 
-
-Bachelor's degree in Psychology, Anthropology, Human-Computer Interaction, or a related discipline plus 4 years of relevant research experience (an advanced degree can account for 1 to 2 years of experience depending on Masters or PhD)
-Broad experience in quantitative and qualitative research methods including conducting interviews, focus groups, and online community studies, as well as performing survey research with deep expertise in at least one of these areas
-Experience conducting research to answer product or portfolio strategy questions
-Experience synthesizing &amp; socializing research results and distilling results into impactful recommendations for product leadership
-Trusted to operate independently regardless of structure, owns complex problems/projects/workstreams
-
-Desired Qualifications:
-
-2+ years doing research specifically in the games industry
-Familiarity with basic statistical methods for data analysis (regressions, correlations, factor analyses)
-Experience working directly with senior executives and/or senior stakeholders
-Experience working with game teams, including PMs, designers, engineers, artists
-Experience managing vendors
-Experience coordinating and collaborating with analysts on joint projects to better understand products or users
-Experience utilizing and synthesizing syndicated / external datasets on competitors
-Experience with desktop research on competitors and industry trends
-Personal experience (as a developer or player) across a variety of game genres, including the ones that Riot has games in
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
- 
-Our Perks:
-Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3344837,"Principal Insights Analyst  - League of Legends","https://www.riotgames.com/en/work-with-us/job/7117233?gh_jid=7117233","Games","Los Angeles","No",9,"Full time","2025-08-07T02:23:53.069548Z","The Insights discipline helps empower Rioters' decision-making to be more data-informed and put player experience at the forefront. We're an interdisciplinary group of scientists, consultants, and strategists from all sorts of backgrounds who join together to represent and advocate for players around the world. We believe that illuminating the globally diverse experiences, behaviors, and needs of players is critical to Riot living up to our player-focused mission. We're a group united by our love of games, science, and helping others succeed.
+3344837,"Principal Insights Analyst  - League of Legends","https://www.riotgames.com/en/work-with-us/job/7117233?gh_jid=7117233","Games","Los Angeles","No",9,"Full time","2025-08-09T02:05:46.889144Z","The Insights discipline helps empower Rioters' decision-making to be more data-informed and put player experience at the forefront. We're an interdisciplinary group of scientists, consultants, and strategists from all sorts of backgrounds who join together to represent and advocate for players around the world. We believe that illuminating the globally diverse experiences, behaviors, and needs of players is critical to Riot living up to our player-focused mission. We're a group united by our love of games, science, and helping others succeed.
 As a Principal Insights Analyst on League of Legends, youll join the Insights discipline  the group of researchers, analysts, data scientists, and strategists responsible for solving problems and executing analyses that enable Rioters to make difficult decisions with confidence. Youll be tasked with tackling problems that affect League today and where its headed in the future, advising senior leaders on key decisions. Your background in data analysis, research, and strategic decision-making will ensure that youre an effective advocate for players and can provide mentorship to grow those around you. 
 This role focuses on answering some of our hardest questions on League as well as playing an integral part in mentoring and growing the next generation of analysts through your craft expertise. We strive to understand League as a full ecosystem, joining game, publishing, and Esports learnings into one holistic product perspective. Finally, youll be partnered with people across different work functions, so relationship management is a key part of your craft.
 Responsibilities:
@@ -1197,7 +1445,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3335705,"Senior Concept Artist (Characters) - League of Legends","https://www.riotgames.com/en/work-with-us/job/7103434?gh_jid=7103434","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069578Z","As a Senior Character Concept Artist at Riot you will bring characters and effects to life. Drawing inspiration from as little as a napkin sketch or as much as a full-blown narrative concept, you will produce ideas and craft designs that are resonant, compelling and iconic. As a Senior Character Concept Artist on League of Legends, first and foremost, you will help come up with visual solutions for a wide range of stylized content.
+3335705,"Senior Concept Artist (Characters) - League of Legends","https://www.riotgames.com/en/work-with-us/job/7103434?gh_jid=7103434","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.889160Z","As a Senior Character Concept Artist at Riot you will bring characters and effects to life. Drawing inspiration from as little as a napkin sketch or as much as a full-blown narrative concept, you will produce ideas and craft designs that are resonant, compelling and iconic. As a Senior Character Concept Artist on League of Legends, first and foremost, you will help come up with visual solutions for a wide range of stylized content.
 As a member of the team, you will report to the Concept Craft Lead. Youll partner with the Art Director as you work across disciplines to help build foundational ideas and character concepts. You will participate in craft review sessions and give/receive feedback on the work. You will also work collaboratively with designers, writers, and producers to bring the League Universe to life.
 Responsibilities:
 
@@ -1239,7 +1487,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-2966962,"Program Manager III - Quantitative Research Operations","https://www.riotgames.com/en/work-with-us/job/6879172?gh_jid=6879172","Games","Los Angeles","No",6,"Full time","2025-08-07T02:23:53.069606Z","Riots mission is to put players at the center of everything we do. As we continue to evolve and deliver new experiences, the research discipline plays a critical role in informing decisions and connecting us to our players. 
+2966962,"Program Manager III - Quantitative Research Operations","https://www.riotgames.com/en/work-with-us/job/6879172?gh_jid=6879172","Games","Los Angeles","No",6,"Full time","2025-08-09T02:05:46.889175Z","Riots mission is to put players at the center of everything we do. As we continue to evolve and deliver new experiences, the research discipline plays a critical role in informing decisions and connecting us to our players. 
 Global Research Operations (GRO) exists to make that work more scalable, more secure, and more impactful. As a Program Manager III for Quantitative Research Operations, you will be the first dedicated owner of our quant infrastructure program  responsible for building foundational systems that support the entire research discipline. This is a strategic individual contributor (IC) role focused on infrastructure, governance, tooling, and data quality across quant research at Riot. Your work will involve defining best practices and standards, collaborating with craft and tech partners, and establishing long-term systems that enable consistent, reliable, scalable, and representative quant research. You will lay the groundwork for what this capability looks like at Riot and help shape how it grows. You will report to the Senior Manager of Global Research Operations.
 Responsibilities:
 
@@ -1286,7 +1534,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3328230,"Senior Technical Producer (Release Management) - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7058299?gh_jid=7058299","Games","Los Angeles","No",6,"Full time","2025-08-07T02:23:53.069636Z","Technical Producers guide teams in creating player value through agile work systems and practices. While driving internal alignment and accountability for teams and development organizations, we focus on continuous improvement. We're interlaced on teams throughout the entire company, coordinating across different products and regions as we share goals, insights, and standard methodologies. It is through this communal learning, and sharing of information that we can help lead teams across Riot to delivery excellence.
+3328230,"Senior Technical Producer (Release Management) - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7058299?gh_jid=7058299","Games","Los Angeles","No",6,"Full time","2025-08-09T02:05:46.889190Z","Technical Producers guide teams in creating player value through agile work systems and practices. While driving internal alignment and accountability for teams and development organizations, we focus on continuous improvement. We're interlaced on teams throughout the entire company, coordinating across different products and regions as we share goals, insights, and standard methodologies. It is through this communal learning, and sharing of information that we can help lead teams across Riot to delivery excellence.
 As a Senior Technical Producer, Release Management (TRM) on the R&amp;D team, you will be a part of the leadership bench overseeing engineering efforts on the releases studio, specifically focusing on defining and developing systems in the production stage. You'll work with producers and technical leaders across multiple products and central technology teams. You will be accountable for ensuring that the product teams follow the best practices of the stage. You will also be accountable for supporting them on their journey to launch. You will help launch new world-class products to players. Given the technical nature of the groups work, a successful candidate combines a technical background with a broad production methodology toolkit. You will report to the Operations Lead of the Emerging Studios.
 Responsibilities:
 
@@ -1330,7 +1578,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3328229,"Principal Data Engineer - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7091915?gh_jid=7091915","Games","Los Angeles","No",8,"Full time","2025-08-07T02:23:53.069665Z","At Riot, Data Engineers play a critical role in transforming data into actionable insights that drive decisions across the company. Our engineers are deeply player-focused and collaborate across diverse teams to enhance the experiences of millions of players worldwide.
+3328229,"Principal Data Engineer - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7091915?gh_jid=7091915","Games","Los Angeles","No",8,"Full time","2025-08-09T02:05:46.889206Z","At Riot, Data Engineers play a critical role in transforming data into actionable insights that drive decisions across the company. Our engineers are deeply player-focused and collaborate across diverse teams to enhance the experiences of millions of players worldwide.
 As a Principal Data Engineer within Riot Discovery Studio, youll work directly with game teams at the ground floor, building and shaping data systems from day one. This role is designed for an engineer who thrives in ambiguous environments, takes initiative to solve real problems quickly, and enjoys wearing multiple hats. Youll play a pivotal role in laying the technical foundation for how we collect, manage, and leverage data across the Riot Discovery Studio game portfolio. Youll also lead and mentor junior data engineers, providing technical guidance and context. With visibility across all early lifecycle games, this role offers a unique opportunity to drive impact across multiple projects while setting up systems that will scale as games move into production and live operations.
 Responsibilities:
 
@@ -1379,7 +1627,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3326222,"VFX Artist (Contract)","https://www.riotgames.com/en/work-with-us/job/7102256?gh_jid=7102256","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069694Z","Senior VFX Artist (Contract) 
+3326222,"VFX Artist (Contract)","https://www.riotgames.com/en/work-with-us/job/7102256?gh_jid=7102256","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889221Z","Senior VFX Artist (Contract) 
 ,,,,,,,,
 ,,,,,
 :
@@ -1411,7 +1659,7 @@ UE
 
  
 Dont forget to include a resume and cover letter. We receive a lot of applications, but well notice a fun, well-written intro that shows us you take play seriously."
-3326221,"Technical Artist, Tools & Rigging (Contract)","https://www.riotgames.com/en/work-with-us/job/7102229?gh_jid=7102229","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069722Z","Technical Artist (Tools &amp; Rigging) (Contract)
+3326221,"Technical Artist, Tools & Rigging (Contract)","https://www.riotgames.com/en/work-with-us/job/7102229?gh_jid=7102229","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889237Z","Technical Artist (Tools &amp; Rigging) (Contract)
 &amp;,,,,
 ,,, DCC(),,,,,
 :
@@ -1438,7 +1686,7 @@ Maya,
 
 ,Demo Reel,
 ,,!"
-3326220,"Technical Artist, Rendering (Contract)","https://www.riotgames.com/en/work-with-us/job/7102244?gh_jid=7102244","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069751Z","Senior Technical Artist (Rendering) (Contract)
+3326220,"Technical Artist, Rendering (Contract)","https://www.riotgames.com/en/work-with-us/job/7102244?gh_jid=7102244","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889251Z","Senior Technical Artist (Rendering) (Contract)
 ,,,,,,,
 ,,,,,,,
 :
@@ -1466,7 +1714,7 @@ Maya,
 
 ,Demo Reel,
 ,,!"
-3326219,"Senior Concept Artist, Environment (Contract)","https://www.riotgames.com/en/work-with-us/job/7102219?gh_jid=7102219","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069784Z","Senior Environment Concept Artist (Contract) 
+3326219,"Senior Concept Artist, Environment (Contract)","https://www.riotgames.com/en/work-with-us/job/7102219?gh_jid=7102219","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889267Z","Senior Environment Concept Artist (Contract) 
 ,,,,,,,
 ,,IP,,,
 :
@@ -1507,7 +1755,7 @@ UE
 
 ,(),
 ,,!"
-3326218,"Senior 3D Environment Artist (Contract)","https://www.riotgames.com/en/work-with-us/job/7102224?gh_jid=7102224","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069817Z","Senior 3D Environment Artist (Contract) 
+3326218,"Senior 3D Environment Artist (Contract)","https://www.riotgames.com/en/work-with-us/job/7102224?gh_jid=7102224","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889282Z","Senior 3D Environment Artist (Contract) 
 3D,3D,
 ,,,,,,,
 ,,
@@ -1547,7 +1795,7 @@ IP
 
 ,(),
 ,,!"
-3326217,"Game Designer, Combat (Contract)","https://www.riotgames.com/en/work-with-us/job/7102266?gh_jid=7102266","Games","Shanghai","No","Not specified","Contract","2025-08-07T02:23:53.069846Z","Game Designer, Combat (Contractor)
+3326217,"Game Designer, Combat (Contract)","https://www.riotgames.com/en/work-with-us/job/7102266?gh_jid=7102266","Games","Shanghai","No","Not specified","Contract","2025-08-09T02:05:46.889307Z","Game Designer, Combat (Contractor)
 ,,,,
 (R&amp;D),, Riot ,,,,/,
 :
@@ -1573,7 +1821,7 @@ IP
 
 
 ,,,!"
-3323393,"Sr. HR Business Partner","https://www.riotgames.com/en/work-with-us/job/7097384?gh_jid=7097384","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069875Z","Riots People team exists to help Rioters make better decisions around its talent. We bring our expertise to all of those typical HR activities such as hiring, on-boarding, training and development, diversity and inclusion, performance management, benefits, perks, compensation, big events, labor relations, off-boarding so that all Rioters can flourish.
+3323393,"Sr. HR Business Partner","https://www.riotgames.com/en/work-with-us/job/7097384?gh_jid=7097384","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.889323Z","Riots People team exists to help Rioters make better decisions around its talent. We bring our expertise to all of those typical HR activities such as hiring, on-boarding, training and development, diversity and inclusion, performance management, benefits, perks, compensation, big events, labor relations, off-boarding so that all Rioters can flourish.
 As HR Business Partners, we are not a compliance function and we dont make decisions from an ivory tower. Instead, we focus on our needs, carefully listening to the problem spaces and working with Rioters to get to an optimal outcome. We view ourselves as trusted consultants and advisers with a specific expertise in all things HR. Working in HR at Riot enables you to redefine what positive human resource practices are. We re-imagine events, onboarding, perks, and communications so they resonate with our workforce.
 As an HR Business Partner reporting to the Sr. Manager, HR Business Partner, you bring broad skills to the teams and programs youre embedded on. You are the go-to resource for all things related to talent, ranging from performance management to total rewards. You are a culture promoter and a deployer of tools and programs that turn Rioter potential into performance and results. Youre undaunted by titles and can partner with anyone at any level to help with decisions and you know how to achieve results that make an impact. You listen to others and are sensitive to any communication style, and that makes it easy for anyone to talk to you; others trust you and feel comfortable coming to you with all the info, so any rising problems can be tackled proactively.
 Your Impact
@@ -1615,7 +1863,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3323391,"Project Manager  - League of Legends (6 Month Contract)","https://www.riotgames.com/en/work-with-us/job/7102586?gh_jid=7102586","Games","Dublin","No",4,"Contract","2025-08-07T02:23:53.069904Z","As a Project Manager internally known as Game Producer on the League of Legends Seasons Around Game and Experiences team, you will help Riot deliver satisfying premium content to our players. You will keep the players' experience in mind as you track progress, deliver content/features, and organize priorities and goals. You will also work with artists, designers, and engineers to provide genre-defining experiences to our players. You will report to the Manager, Game Production for League Dublin teams.
+3323391,"Project Manager  - League of Legends (6 Month Contract)","https://www.riotgames.com/en/work-with-us/job/7102586?gh_jid=7102586","Games","Dublin","No",4,"Contract","2025-08-09T02:05:46.889339Z","As a Project Manager internally known as Game Producer on the League of Legends Seasons Around Game and Experiences team, you will help Riot deliver satisfying premium content to our players. You will keep the players' experience in mind as you track progress, deliver content/features, and organize priorities and goals. You will also work with artists, designers, and engineers to provide genre-defining experiences to our players. You will report to the Manager, Game Production for League Dublin teams.
 Please note this is a 6 month maternity cover contract and will be based onsite in our Dublin office.
 Responsibilities
 
@@ -1646,7 +1894,7 @@ For this role, you'll find success through craft expertise, a collaborative spir
 Our Perks:
 We offer medical and dental plans that cover you, your spouse/domestic partner, and children. Balance between work and personal life is encouraged with open paid time off, and a play fund so you can broaden and deepen your personal relationship with games.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application."
-3323390,"Game Producer III, Characters and Agents - VALORANT","https://www.riotgames.com/en/work-with-us/job/7095177?gh_jid=7095177","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069933Z","Game Producers lead teams, initiatives and products from conception through launch and operation inside of the gaming space. They create and align teams to product vision, have a deep understanding of player needs, competitors and market conditions, and are able to balance scope, quality and time to predictably deliver at a high quality bar for players.
+3323390,"Game Producer III, Characters and Agents - VALORANT","https://www.riotgames.com/en/work-with-us/job/7095177?gh_jid=7095177","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.889355Z","Game Producers lead teams, initiatives and products from conception through launch and operation inside of the gaming space. They create and align teams to product vision, have a deep understanding of player needs, competitors and market conditions, and are able to balance scope, quality and time to predictably deliver at a high quality bar for players.
 As a Game Producer III on VALORANT, youll help with the production efforts of the VALORANT Character team to successfully shepherd production of and launch new characters. Youll help manage delivery schedules on the day to day, and facilitate efficient team organization that leads to high team morale and output. Youll work with the character leads and liaise with other teams to ensure character production runs smoothly and produces world class content.
 Responsibilities:
 Drive and improve team work systems
@@ -1749,7 +1997,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3319499,"Sr. Manager, Game Product Manager (Gameplay)-Wild Rift","https://www.riotgames.com/en/work-with-us/job/7093485?gh_jid=7093485","Games","Shanghai","No","Not specified","Full time","2025-08-07T02:23:53.069962Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
+3319499,"Sr. Manager, Game Product Manager (Gameplay)-Wild Rift","https://www.riotgames.com/en/work-with-us/job/7093485?gh_jid=7093485","Games","Shanghai","No","Not specified","Full time","2025-08-09T02:05:46.889370Z","Riot Games was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. As the most played video game in the world, over 100 million play every month. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience.
 Were looking for humble but ambitious, razor-sharp professionals who can teach us a thing or two. We promise to return the favor. Like us, you take play seriously; youre passionate about games. We embrace those who see things differently, arent afraid to experiment, and who have a healthy disregard for constraints.
 That's where you come in.
 As a Sr. Manager, Games Product Management at Riot, you will combine deep knowledge of players and systems with product leadership capabilities to drive player, product and business impact. As the Games PM for Wild Rift, you will work with internal development teams and external partners to deliver high quality features to enhance player's experience in Wild Rift. Working with cross-functional teams, you will craft the best-in-class experience of players from prototype to post-ship validation. You will build and maintain workflows, articulate the why,align with stakeholders, and manage multifarious communication channels across multiple organizations to bring your visions to life. 
@@ -1785,7 +2033,7 @@ Dont forget to include a resume and cover letter. We receive a lot of applicatio
 Our Perks:
 Riot has a focus on work/life balance, shown by our open paid time off policy, in addition to other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner and children, and a 401k with company match. Check out our benefits pages for more information.
 At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application."
-3311957,"Senior Software Engineer, Production AI ","https://www.riotgames.com/en/work-with-us/job/7088662?gh_jid=7088662","Games","Los Angeles","No",5,"Full time","2025-08-07T02:23:53.069991Z","Riot Engineers bring deep knowledge of specific technical areas but also value the chance to work in many broader domains. As a Senior Software Engineer, youll also dive into projects that focus on team cohesiveness and cross-team objectives. Youll lead without authority and provide other engineers with a clear illustration of extraordinary engineering.
+3311957,"Senior Software Engineer, Production AI ","https://www.riotgames.com/en/work-with-us/job/7088662?gh_jid=7088662","Games","Los Angeles","No",5,"Full time","2025-08-09T02:05:46.889386Z","Riot Engineers bring deep knowledge of specific technical areas but also value the chance to work in many broader domains. As a Senior Software Engineer, youll also dive into projects that focus on team cohesiveness and cross-team objectives. Youll lead without authority and provide other engineers with a clear illustration of extraordinary engineering.
 As a Senior Software Engineer on the Production AI team, you will design, build, and maintain AI-powered systems that impact multiple teams and product areas, while defining policy and guiding technology selection. You will collaborate with leadership and individual contributors across disciplinesranging from game development to business servicesto drive production-ready AI solutions and shape best practices throughout Riot. This role requires a blend of advanced software engineering expertise, proven problem-solving skills, and a strong understanding of AI/ML tools and frameworks.
 Responsibilities:
 
@@ -1826,7 +2074,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3306403,"Tax Analyst - International","https://www.riotgames.com/en/work-with-us/job/7060542?gh_jid=7060542","Games","Los Angeles","No",2,"Full time","2025-08-07T02:23:53.070019Z","Riot Games was established in 2006 by avid gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience, and beyond!
+3306403,"Tax Analyst - International","https://www.riotgames.com/en/work-with-us/job/7060542?gh_jid=7060542","Games","Los Angeles","No",2,"Full time","2025-08-09T02:05:46.889402Z","Riot Games was established in 2006 by avid gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. Players form the foundation of our community and its for them that we continue to evolve and improve the League of Legends experience, and beyond!
 Were looking for passionate professionals who can teach us a thing or two. We promise to return the favor. We embrace those who see things differently and arent afraid to experiment. Thats where you come in.
 The Tax team at Riot is dedicated to helping Riot best serve its Players around the world by unlocking our Rioters and maintaining good corporate citizenship in all things tax. - Expanding and making games available globally by making sure we meet domestic and international tax requirements. Our team contains experts from a variety of tax backgrounds with a shared goal of providing Riot leaders with perspective on what makes a good tax decision. Tax can be strategic at Riot, but avoids bureaucratic barriers. The team strives to assist innovation by clearing the path, with integrity, so new experiences can reach our Players. The Tax team sits in 3 regions and each team member brings unique skills to Riot.
 Riot Games is looking for a dynamic Tax Professional to join our expanding Tax team. As an International Tax Analyst, reporting to the International Tax Manager,  you will be instrumental in overseeing tax compliance matters, as well as driving automation within the tax team. You will be hands-on, understand tax operations, and collaborate cross-functionally.
@@ -1871,7 +2119,7 @@ Accessing Company assets, secure digital systems, and networks
 Ensuring a safe interactive environment for players and other Rioters
 
 These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3306401,"Principal Concept Artist (Character) - VALORANT","https://www.riotgames.com/en/work-with-us/job/6908903?gh_jid=6908903","Games","Los Angeles","No",10,"Full time","2025-08-07T02:23:53.070048Z","As a Character Concept Artist at Riot, you will bring characters and creatures to life. Drawing inspiration from as little as a napkin sketch or as much as a full-blown narrative concept, you will generate ideas and craft designs that are resonant, compelling, and iconic. As a problem solver, first and foremost, you will help come up with visual solutions for game concepts.
+3306401,"Principal Concept Artist (Character) - VALORANT","https://www.riotgames.com/en/work-with-us/job/6908903?gh_jid=6908903","Games","Los Angeles","No",10,"Full time","2025-08-09T02:05:46.889417Z","As a Character Concept Artist at Riot, you will bring characters and creatures to life. Drawing inspiration from as little as a napkin sketch or as much as a full-blown narrative concept, you will generate ideas and craft designs that are resonant, compelling, and iconic. As a problem solver, first and foremost, you will help come up with visual solutions for game concepts.
 As a Principal Character Concept Artist on the VALORANT team, youll be responsible for designing characters that fit the thematics and tone of the game, while helping to define a unique interpretation of the IP that fits within our genre and gameplay needs. Youll partner with the Art Director and character art leaders as you work across disciplines to shape the visual identity of new characters. You will also collaborate closely with designers, writers, and producers to bring these characters to life through strong, story-driven design.
 Responsibilities:
 
@@ -1895,262 +2143,6 @@ Experience working as a Concept Artist on an FPS title
 
 For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
 When submitting your application, please provide a portfolio of your high-quality concept art - including stylized artwork.
- 
-Our Perks:
-Riot has a focus on work/life balance, shown by our open paid time off policy, in addition to other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3306400,"Interactive Music Designer III - League Studios, Creative eXpressions","https://www.riotgames.com/en/work-with-us/job/7088632?gh_jid=7088632","Games","Los Angeles","No",7,"Full time","2025-08-07T02:23:53.070081Z","Creative eXpressions at Riot strives to deliver lasting sonic experiences for players. As an Interactive Music Designer, you will combine your passion for music with cutting-edge interactive technology to create dynamic and immersive musical experiences that elevate gameplay to new heights. Joining efforts with a multidisciplinary team, youll help drive game projects from their inception. As a member of the audio discipline, youll strive to find ways to teach and level up those around you while continuing to challenge and grow yourself.
-As an Interactive Music Designer on Creative eXpressions, you will have the opportunity to craft interactive music experiences that resonate with players, enhancing their immersion in the world of League of Legends and TFT. Your creative contributions will play a pivotal role in shaping the soundscape of our games, enriching the overall player experience. Through collaboration with cross-functional teams, you will ensure that every note harmonizes seamlessly with the interactive elements of the game.
-You will merge elements of music composition and interactive technology to create immersive and dynamic musical experiences. This will involve working with Audio Leads and Game Designers to identify opportunities to heighten the game experience, collaborating with engineering in the implementation of world class systems that will adapt the music in real-time to different events and player actions within the game.
-Please note that this role is not primarily focused on music composition. While some composition work may be involved, the core responsibilities center around the design and implementation of music systems.
-Responsibilities:
-
-Work along-side game engineers, game designers and sound designers to develop the framework of music playback systems based on Product teams creative vision and gameplay needs
-Execute on direction coming from the Music Lead
-Define and apply best practices of interactive music workflows and systems to support project needs
-Act as a liaison to advocate for music to the engineering staff, and partner with team members across disciplines to find solutions that best support the gameplay experience
-Create and implement AAA-quality in-game music assets via Wwise and proprietary software
-Optimize and refine music pipelines across League Studio games
-Identify, create, grow and troubleshoot music features and functionality
-Develop, document and prototype efficient pipelines or workflows for interactive music
-Setup new pipelines within Perforce and Wwise project
-Manage Wwise project organization, structures, gameplay parameter setups and optimizations
-Mix music in game using middleware and engine feature sets
-Work with external vendors to ensure they deliver high-quality work
-Collaborate with Audio Leads and Product Stakeholders to define appropriate processes and pipelines for effective music content delivery
-Collaborate with central teams to ensure thematic consistency across in-game and out-of-game features
-
-Required Qualifications: 
-
-7+ years of experience in Music in the games industry with at least 3 years of hands-on experience with interactive music systems design
-Exceptional Wwise or Fmod implementation skills
-Proficient with Perforce and with modern day audio software tools (Nuendo, Pro-Tools, Reaper, Plugins)
-Strong communication &amp; collaboration skills (Individual, Team)
-Ability to own the total quality and value of the experiences we deliver to our audience
-Ability to navigate stakeholder, senior leadership, discipline and team feedback effectively
-Ability to lead and own higher-scope discipline,initiative and product team efforts such as :
-
-Ex. Team, initiative, and product knowledge shares/classes/presentations
-Ex. Driving on creation and adoption of style-guides, and standards
-
-
-Desired Qualifications:
-
-Understanding the technical constraints regarding music implementation of PC and Mobile to accurately predict task duration and understand dependencies
-Understanding the nuances between single player experiences and multi player experiences
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about the experiences of players, this could be the role for you!
- 
-Our Perks:
-Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3306398,"Animation Artist II - Teamfight Tactics, Gameplay","https://www.riotgames.com/en/work-with-us/job/6991955?gh_jid=6991955","Games","Los Angeles","No",3,"Full time","2025-08-07T02:23:53.070115Z","As a member of the Teamfight Tactics Gameplay team, you will bring characters, environments, and in-game sequences to life through classic animation principles. Work will vary from character and environment animation, adapting existing animations for new gameplay mechanics, updating classic content, to working on innovative explorations for future Teamfight Tactics features. 
-As an Animation Artist on TFT you will begin by working directly with our art, engineering, and technical art teams to help adapt and integrate legacy and new animations into gameplay-ready assets while supporting new technical workflows. You will craft animations tailored to gameplay needs and rework existing assets to fit evolving mechanics.
-A great reel will showcase a diverse selection of game-related animation, a strong foundation in the principles of animation, and a solid knowledge of animation tools, pipelines, and processes.
-Responsibilities:
-
-Create high quality animations for TFT characters and environments
-Refine and repurpose classic animations for modern gameplay systems
-Collaborate with technical artists and engineers to optimize animations for performance and seamless integration
-Troubleshoot technical challenges in animation pipelines and workflows in partnership with developers
-
-Required Qualifications:
-
-3+ years of game development Experience
-Excellent knowledge of Maya and modern game engines 
-Development experience of Animation Systems (Sequencers, Blueprints, State Machines, in-engine animation and rigging tools, etc)
-Understand animation principles, and body mechanics, acting, posing, and storytelling techniques
-Demonstrated excellence in collaboration and communication within cross-disciplinary teams
-
-Desired Qualifications:
-
-Familiarity with Teamfight Tactics, League of Legends, and Runeterra IP
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about the experiences of players, this could be the role for you!
- 
-Our Perks:
-Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3291858,"Talent Acquisition Coordinator EMEA (6-month contract)","https://www.riotgames.com/en/work-with-us/job/7077938?gh_jid=7077938","Games","Dublin","No","Not specified","Contract","2025-08-07T02:23:53.070146Z","The Talent Acquisition Coordinator is responsible for Coordination and Talent Acquisition Operations aimed to deliver a best in class recruitment experience. You will work hand-in-hand with the recruitment team to ensure a smooth process for all candidates, scheduling and coordinating interviews across multiple pillars, sites, and recruiters to deliver a high-touch, positive candidate journey. Your day-to-day responsibilities will also include supporting the TA team with ad hoc projects, preparing reports on Talent Acquisition coordination and operations, and promptly handling incoming recruiting-related communications.
-This is a 6-month contract position. 
-Job Responsibilities:
-
-Work closely with the recruitment team to support a smooth process for candidates
-Schedule and coordinate interviews across multiple pillars, sites and recruiters, ensuring a high touch, positive candidate experience
-Support the Talent Acquisition team with ad hoc projects as needed
-Be a strong business partner and deliver a remarkable candidate experience: review candidates survey and work with the Head of EMEA TA to identify trends and improve the candidates experience
-Direct incoming recruiting related communications in a timely manner
-Prepare ad hoc reports on TA Coordination and Ops
-Overlay all activity with diversity considerations
-
-Required Qualifications: 
-
-Proven experience supporting recruiting or talent acquisition teams in a fast-paced environment
-Advanced Excel skills and strong data analytics experience
-Exceptional calendar management and organizational skills; adept at coordinating complex interview schedules
-Highly organized, efficient, and responsive, with excellent interpersonal and communication skills
-Discreet and professional; committed to confidentiality and candidate care
-Experience supporting onboarding activities and contributing to process innovation
-Proficient in Applicant Tracking Systems (ATS) and related recruitment technologies
-
-Preferred Qualifications:
-
-Multilingualproficiency in more than one language is highly valued
-Some hands-on experience as a recruiter or in a direct recruiting role
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes your fellow Rioters, who are the customers of your work. Being a dedicated fan of games is not necessary for this position!"
-1864036,"Senior Integration Specialist, Enterprise","https://www.riotgames.com/en/work-with-us/job/6357129?gh_jid=6357129","Games","Los Angeles","No",6,"Full time","2025-08-07T02:23:53.070175Z","Riot Games enterprise functions enable us to keep making awesome games by supporting critical business operations and anticipating how we must succeed in a world where its great to be a player. Working with enterprise systems requires knowledge of how corporate capabilities (financial, people, workplace experience etc) depend on business applications, data and integrations to enable critical business processes to serve Rioters. The role of Application Engineer III (Integration Specialist) at Riot brings deep knowledge of enterprise platforms and integrations to streamline and automate processes in finance, human resources, legal and enterprise technology. They care about our players, and are driven to help Rioters focus on delivering value to players.As an Application Engineer III, Enterprise Application Integration (EAI), you will report to a Senior Manager, Software Engineering. You will join a technical team automating and integrating Information Technology and Business platforms at Riot Games.
-Responsibilities:
-
-Partner with business stakeholders and associated operations teams in the discovery and articulation of bodies of work and subsequently manage realization.
-Model and implement data structures and integrations that demonstrate efficiency and adherence to business process needs.
-Continuously monitor and address optimization opportunities toward simplification and efficacy.
-Align product delivery teams to implement cross organizational workflows and processes.
-Collaborate with external platform vendors to ensure that product roadmaps realize internal need.
-Create/validate appropriate processes, support documentation and runbooks for sustainability.
-Inform company strategies around integration platforms and methodologies.
-
-Required Qualifications: 
-
-6+ years of experience focusing on iPaaS or other integration technologies including some or all: Workato, ServiceNow Integration Hub, Mulesoft, Boomi, Zapier, Kafka, etc
-6+years of integration architecture experience in PubSub, SOA, Event Bus, and other methodologies.
-6+ years of experience integrating enterprise applications in the areas of Finance, HR, IT, Facilities, Legal, etc.
-6+ years of information architecture, modeling, and implementation experience (Metadata, Crosswalks, Mapping, etc).
-3-8+ years of software engineering experience with SQL, Javascript, Go, Python, and other programming languages relevant to the space.
-Specific experience with Scrum, Kanban, SAFe, Lean, and/or Disciplined Agile delivery frameworks/methodologies.
-Masters or Bachelor's degree in Computer Science, Computer Engineering, Information Technology, or a related study, or equivalent experience.
-Excellent communication skills - comfort interacting with large audiences and writing in-depth application how-tos, documenting standard operating procedures, and producing user-facing documentation
-
-Desired Qualifications:
-
-Strong expertise in Coupa, Concur, OneStream, and ERP solutions (Oracle preferred)
-5+ years of experience in API implementation and management.
-Reasonable perspectives regarding standards, practices, architecture, and products.
-Sits on or participates in standards bodies for vertical domains.
-Strong perspective and motivation towards continuous improvement 
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes your fellow Rioters, who are the customers of your work.  Being a dedicated fan of games is not necessary for this position!
- 
-Our Perks:
-Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3286687,"Principal Insights Analyst - Unpublished R&D Product","https://www.riotgames.com/en/work-with-us/job/7005449?gh_jid=7005449","Games","Los Angeles","No",7,"Full time","2025-08-07T02:23:53.070205Z","Riots mission is to put players at the center of everything we do.  We do this by continuing to evolve and deliver new experiences to players with games like Teamfight Tactics, Legends of Runeterra, VALORANT, and League of Legends: Wild Rift. Riot is also expanding into the world of music/multimedia with the release of our animated series Arcane and music from KDA and True Damage.  In short - its an exciting time to be a Rioter.
-As Principal Insights Analyst, you lead Insights efforts on an exciting new game at Riot. As a thought leader, you help the team deeply understand our audience and opportunities, and ensure we have the insights necessary to exceed our players needs across both game &amp; marketing. You help shape strategy, and collaborate with the leadership and development teams to ensure the insights work supports refining that strategy and improving decision making . You own our product and business validation strategies, help define key product performance targets, and monitor performance against those targets. You report to the Game Director of the project.
-Responsibilities:
-
-Maintain a deep understanding of our audience and their needs, unmet needs, and pain points.
-Ensure our product strategy is oriented towards meeting that audiences needs. 
-Ensure the game team has actionable and high quality insights (across research, analytics, and data) critical to evaluating the team and product's success.
-Drive team philosophy on the integration of insights into the development of strategy and game product, effectively translating insights into impact on the game team.
-Identify and advise towards product choices that create competitive advantages and adapt to changing market dynamics (eg: competitive, legal, etc.)
-Help to connect product strategy with broader organizational and company strategy.
-Help the team set targets for and monitor performance against development plans, goals, finances, &amp; product KPIs.
-Formally manage, lead, mentor, elevate performance of, and support career growth for Insights Rioters within the BU (Revenue Strategy, Insights, and Finance)
-Workforce planning, staffing, and hiring for Insights positions on the BU
-
-Required Qualifications: 
-
-Bachelor's degree in Business, Psychology, Economics, Mathematics or a related discipline plus 7 years of relevant experience (an advanced degree can account for up to 2 years of experience) 
-Familiarity with both analytics and research and 6+ years experience in one or both of those crafts.
-7+ years experience working directly in game development
-Experience participating in strategy development for a product or business in a leadership capacity and helping to operationalize that strategy via ownership or advisory
-Excellent teamwork, team leadership, communication, collaboration and stakeholder management
-Experience building and leading cross-functional teams
-Leading Insights (or related) teams for R&amp;D game titles
-
-Desired Qualifications:
-
-Experience advising teams on product and game design problems by applying a combination of a broad &amp; deep gaming background, game design craft, and product strategy thinking
-Experience leading complex efforts with multiple collaborators
-Experience working on a AAA game with global reach through development and launch
-Experience working on live-service titles
-
-For this role, you'll find success through craft expertise and a collaborative spirit that prioritizes the delight of players. We will look at your past studies and experience, but for this role, we also look for dedicated people with a personal relationship with games. If you embody player empathy and care about players' experiences, this is the role for you!
- 
-Our Perks:
-Riot focuses on work/life balance, shown by our open paid time off policy and other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner, and children, and a 401k with company match. Check out our benefits pages for more information.
-At Riot Games, we put players first. That mission drives every decision in our quest to create games and experiences that make it better to be a player. Whether youre working directly on a new player-facing experience or youre supporting the company as a whole, everyone at Riot is part of our mission. And just like in our games, were better when we work together. Our goal is to create collaborative teams where you are empowered to bring your unique perspective everyday. If that sounds like the kind of place you want to work, were looking forward to your application.
- 
-Its our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law. We consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with applicable federal, state and local law, including the California Fair Chance Act, the City of Los Angeles Fair Chance Initiative for Hiring Ordinance, the Los Angeles County Fair Chance Ordinance for Employers, the San Francisco Fair Chance Ordinance, and the Washington Fair Chance Act.
-Per the Los Angeles County Fair Chance Ordinance, the following core duties may create a basis for disqualifying candidates with relevant criminal histories:
-
-Safeguarding confidential and sensitive Company data 
-Communication with others, including Rioters and third parties such as vendors, and/or players, including minors
-Accessing Company assets, secure digital systems, and networks
-Ensuring a safe interactive environment for players and other Rioters
-
-These duties are directly related to essential operations, safety, trust, and compliance obligations within our organization. Please note that job duties may evolve based on business needs and additional responsibilities may be assigned as necessary to maintain operational efficiency and security."
-3282900,"Principal QA Engineer, Gameplay - TFT","https://www.riotgames.com/en/work-with-us/job/6908931?gh_jid=6908931","Games","Los Angeles","Yes",12,"Full time","2025-08-07T02:23:53.070234Z","As a Principal Quality Assurance Engineer you will own the QA process for your teams or products. You will work with software engineers, content developers, artists, producers, project managers, and product leadership to create value for Players around the world. You will be guided by Riot's Test Policy to develop quality activities for every stage of the software development life cycle. Additionally, you will partner with your teams and other craft leaders to arrive at more efficient solutions to everyday problems and improve delivery. You will also be tasked to work with other QA professionals, often remotely to get your work completed.
-As the Principal QA Engineer and QA Product Craft Lead for TeamFight Tactics, you will serve as the senior-most QA craft expert responsible for shaping how quality is defined, built, and validated across the product. You'll operationalize the product-wide quality strategy in partnership with the Product Quality Lead, translating strategic goals into actionable practices and systems. You'll collaborate with leaders across operations, delivery, tech, creative, and design to assess quality risks and drive targeted improvements.
-You will lead Initiative Quality Leads, ensuring consistency and evolution of QA practices across the product. Youll develop scalable quality standards and guidelines that are measurable, adaptable, and integrated across teams. You feel equally comfortable discussing design intent or evaluating delivery velocity and tooling. Youll work cross-functionally to embed quality into every phase of development. Youll also partner with central QA teams to align on global standards, tools, and frameworks, adapting them to meet product-specific needs.
-Responsibilities: 
-
-Making decisions that impact actions or projects at the business unit and/or department level. This work may have global reach; and you are considered an integral part of an organization's leadership team.
-Solving significant and unique problems that require an ability to evaluate, scope and execute on solutions that may be a team or initiative wide effort.
-Direct individual contributors or even small teams on specific work projects. You can be held accountable for the success of others.
-Direct others &amp; independently determines methods and procedures for key initiatives
-
-Required Qualifications:
-
-12+ years of Software Quality Assurance Experience, with multiple proven product successes.
-8 years of Experience defining and implementing test approaches as part of an overall test strategy.
-5 years of Experience coaching QA team members on test design, planning and execution.
-5 years of Experience driving continuous improvement processes within a team.
-5 years of Experience tasking remote teams and providing feedback on effectiveness.
-
-Desired Qualifications:
-
-Development experience across several platforms; mobile, console, and PC.
-Preferred Licenses/certifications:
-
-ISTQB Foundation Level
-ISTQB Agile Tester or ICAgile Agile Testing (ICP-TST)
-ISTQB Expert Level
-ISTQB Advanced Test Manager
-ICAgile Test Expert (ICE-AT)
-
-
-For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about players' experiences, this could be your role!
  
 Our Perks:
 Riot has a focus on work/life balance, shown by our open paid time off policy, in addition to other perks such as flexible work schedules. We offer medical, dental, and life insurance, parental leave for you, your spouse/domestic partner and children, and a 401k with company match. Check out our benefits pages for more information.
